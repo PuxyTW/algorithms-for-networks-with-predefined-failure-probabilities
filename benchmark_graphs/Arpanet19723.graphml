@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="ILLINOIS"/>
+<node id="MITRE"/>
+<node id="CARNEGIE"/>
+<node id="CASE"/>
+<node id="ETAC"/>
+<node id="AFGWC"/>
+<node id="BBN"/>
+<node id="NBS"/>
+<node id="Tinker"/>
+<node id="AMES"/>
+<node id="RADC"/>
+<node id="McClellan"/>
+<node id="RAND"/>
+<node id="AMES"/>
+<node id="SDC"/>
+<node id="BBN"/>
+<node id="HARVARD"/>
+<node id="SRI"/>
+<node id="UCSB"/>
+<node id="UCLA"/>
+<node id="Stanford"/>
+<node id="USC"/>
+<node id="UTAH"/>
+<node id="Lincoln"/>
+<node id="MIT"/>
+<edge id="e1" source="ILLINOIS" target="MIT">
+<data key="key_weight">1577.9</data>
+</edge>
+<edge id="e2" source="ILLINOIS" target="UTAH">
+<data key="key_weight">1885.69</data>
+</edge>
+<edge id="e3" source="MITRE" target="CARNEGIE">
+<data key="key_weight">767.0</data>
+</edge>
+<edge id="e4" source="MITRE" target="ETAC">
+<data key="key_weight">600.76</data>
+</edge>
+<edge id="e5" source="CARNEGIE" target="CASE">
+<data key="key_weight">182.44</data>
+</edge>
+<edge id="e6" source="CASE" target="RADC">
+<data key="key_weight">539.17</data>
+</edge>
+<edge id="e7" source="CASE" target="AFGWC">
+<data key="key_weight">775.88</data>
+</edge>
+<edge id="e8" source="ETAC" target="NBS">
+<data key="key_weight">31.08</data>
+</edge>
+<edge id="e9" source="BBN" target="MIT">
+<data key="key_weight">2.07</data>
+</edge>
+<edge id="e10" source="BBN" target="BBN">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e11" source="NBS" target="HARVARD">
+<data key="key_weight">626.05</data>
+</edge>
+<edge id="e12" source="Tinker" target="USC">
+<data key="key_weight">1908.95</data>
+</edge>
+<edge id="e13" source="Tinker" target="BBN">
+<data key="key_weight">2391.73</data>
+</edge>
+<edge id="e14" source="AMES" target="SRI">
+<data key="key_weight">11.5</data>
+</edge>
+<edge id="e15" source="AMES" target="AMES">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e16" source="RADC" target="Lincoln">
+<data key="key_weight">355.45</data>
+</edge>
+<edge id="e17" source="McClellan" target="SRI">
+<data key="key_weight">154.29</data>
+</edge>
+<edge id="e18" source="McClellan" target="UTAH">
+<data key="key_weight">842.8</data>
+</edge>
+<edge id="e19" source="RAND" target="UCLA">
+<data key="key_weight">23.1</data>
+</edge>
+<edge id="e20" source="RAND" target="Stanford">
+<data key="key_weight">503.52</data>
+</edge>
+<edge id="e21" source="RAND" target="SDC">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e22" source="AMES" target="Stanford">
+<data key="key_weight">8.12</data>
+</edge>
+<edge id="e23" source="SDC" target="USC">
+<data key="key_weight">23.1</data>
+</edge>
+<edge id="e24" source="BBN" target="HARVARD">
+<data key="key_weight">0.96</data>
+</edge>
+<edge id="e25" source="SRI" target="UCSB">
+<data key="key_weight">404.74</data>
+</edge>
+<edge id="e26" source="UCSB" target="UCLA">
+<data key="key_weight">139.89</data>
+</edge>
+<edge id="e27" source="USC" target="UTAH">
+<data key="key_weight">933.1</data>
+</edge>
+<edge id="e28" source="Lincoln" target="MIT">
+<data key="key_weight">14.64</data>
+</edge>
+</graph></graphml>

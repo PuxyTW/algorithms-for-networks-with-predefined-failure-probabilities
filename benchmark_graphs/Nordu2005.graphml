@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Stockholm"/>
+<node id="Helsinki"/>
+<node id="Copenhagen"/>
+<node id="Reykjavik"/>
+<node id="St Petersburg"/>
+<node id="Oslo"/>
+<edge id="e1" source="Stockholm" target="Helsinki">
+<data key="key_weight">395.86</data>
+</edge>
+<edge id="e2" source="Stockholm" target="Copenhagen">
+<data key="key_weight">522.53</data>
+</edge>
+<edge id="e3" source="Stockholm" target="St Petersburg">
+<data key="key_weight">688.2</data>
+</edge>
+<edge id="e4" source="Stockholm" target="Oslo">
+<data key="key_weight">416.46</data>
+</edge>
+<edge id="e5" source="Copenhagen" target="Oslo">
+<data key="key_weight">483.38</data>
+</edge>
+<edge id="e6" source="Copenhagen" target="Reykjavik">
+<data key="key_weight">2104.79</data>
+</edge>
+</graph></graphml>

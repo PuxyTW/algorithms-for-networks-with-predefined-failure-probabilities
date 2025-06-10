@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="NY54"/>
+<node id="CMBR"/>
+<node id="CHCG"/>
+<node id="CLEV"/>
+<node id="RLGH"/>
+<node id="ATLN"/>
+<node id="PHLA"/>
+<node id="WASH"/>
+<node id="NSVL"/>
+<node id="STLS"/>
+<node id="NWOR"/>
+<node id="HSTN"/>
+<node id="SNAN"/>
+<node id="DLLS"/>
+<node id="ORLD"/>
+<node id="DNVR"/>
+<node id="KSCY"/>
+<node id="SNFN"/>
+<node id="SCRM"/>
+<node id="PTLD"/>
+<node id="STTL"/>
+<node id="SLKC"/>
+<node id="LA03"/>
+<node id="SNDG"/>
+<node id="PHNX"/>
+<edge id="e1" source="NY54" target="CMBR">
+<data key="key_weight">303.97</data>
+</edge>
+<edge id="e2" source="NY54" target="CHCG">
+<data key="key_weight">1146.16</data>
+</edge>
+<edge id="e3" source="NY54" target="PHLA">
+<data key="key_weight">129.69</data>
+</edge>
+<edge id="e4" source="NY54" target="WASH">
+<data key="key_weight">328.58</data>
+</edge>
+<edge id="e5" source="CMBR" target="PHLA">
+<data key="key_weight">433.6</data>
+</edge>
+<edge id="e6" source="CHCG" target="CLEV">
+<data key="key_weight">496.14</data>
+</edge>
+<edge id="e7" source="CHCG" target="PHLA">
+<data key="key_weight">1069.69</data>
+</edge>
+<edge id="e8" source="CHCG" target="STLS">
+<data key="key_weight">418.62</data>
+</edge>
+<edge id="e9" source="CHCG" target="DNVR">
+<data key="key_weight">1475.8</data>
+</edge>
+<edge id="e10" source="CHCG" target="KSCY">
+<data key="key_weight">663.81</data>
+</edge>
+<edge id="e11" source="CHCG" target="SNFN">
+<data key="key_weight">2984.23</data>
+</edge>
+<edge id="e12" source="CHCG" target="STTL">
+<data key="key_weight">2789.45</data>
+</edge>
+<edge id="e13" source="CHCG" target="SLKC">
+<data key="key_weight">2022.31</data>
+</edge>
+<edge id="e14" source="CLEV" target="NSVL">
+<data key="key_weight">738.84</data>
+</edge>
+<edge id="e15" source="CLEV" target="STLS">
+<data key="key_weight">790.68</data>
+</edge>
+<edge id="e16" source="CLEV" target="PHLA">
+<data key="key_weight">576.66</data>
+</edge>
+<edge id="e17" source="RLGH" target="ATLN">
+<data key="key_weight">571.4</data>
+</edge>
+<edge id="e18" source="RLGH" target="WASH">
+<data key="key_weight">375.13</data>
+</edge>
+<edge id="e19" source="ATLN" target="WASH">
+<data key="key_weight">872.17</data>
+</edge>
+<edge id="e20" source="ATLN" target="NSVL">
+<data key="key_weight">346.37</data>
+</edge>
+<edge id="e21" source="ATLN" target="STLS">
+<data key="key_weight">752.27</data>
+</edge>
+<edge id="e22" source="ATLN" target="DLLS">
+<data key="key_weight">1159.21</data>
+</edge>
+<edge id="e23" source="ATLN" target="ORLD">
+<data key="key_weight">646.38</data>
+</edge>
+<edge id="e24" source="PHLA" target="WASH">
+<data key="key_weight">199.27</data>
+</edge>
+<edge id="e25" source="NSVL" target="STLS">
+<data key="key_weight">407.28</data>
+</edge>
+<edge id="e26" source="NSVL" target="DLLS">
+<data key="key_weight">992.36</data>
+</edge>
+<edge id="e27" source="STLS" target="DLLS">
+<data key="key_weight">881.99</data>
+</edge>
+<edge id="e28" source="STLS" target="KSCY">
+<data key="key_weight">387.35</data>
+</edge>
+<edge id="e29" source="STLS" target="LA03">
+<data key="key_weight">2553.28</data>
+</edge>
+<edge id="e30" source="NWOR" target="HSTN">
+<data key="key_weight">510.51</data>
+</edge>
+<edge id="e31" source="NWOR" target="DLLS">
+<data key="key_weight">712.29</data>
+</edge>
+<edge id="e32" source="NWOR" target="ORLD">
+<data key="key_weight">858.26</data>
+</edge>
+<edge id="e33" source="HSTN" target="SNAN">
+<data key="key_weight">305.09</data>
+</edge>
+<edge id="e34" source="HSTN" target="DLLS">
+<data key="key_weight">362.81</data>
+</edge>
+<edge id="e35" source="HSTN" target="ORLD">
+<data key="key_weight">1364.35</data>
+</edge>
+<edge id="e36" source="SNAN" target="PHNX">
+<data key="key_weight">1363.0</data>
+</edge>
+<edge id="e37" source="SNAN" target="DLLS">
+<data key="key_weight">406.66</data>
+</edge>
+<edge id="e38" source="DLLS" target="DNVR">
+<data key="key_weight">1065.13</data>
+</edge>
+<edge id="e39" source="DLLS" target="KSCY">
+<data key="key_weight">730.94</data>
+</edge>
+<edge id="e40" source="DLLS" target="SNFN">
+<data key="key_weight">2382.83</data>
+</edge>
+<edge id="e41" source="DLLS" target="LA03">
+<data key="key_weight">1991.54</data>
+</edge>
+<edge id="e42" source="DNVR" target="KSCY">
+<data key="key_weight">892.06</data>
+</edge>
+<edge id="e43" source="DNVR" target="SNFN">
+<data key="key_weight">1525.41</data>
+</edge>
+<edge id="e44" source="DNVR" target="SLKC">
+<data key="key_weight">597.03</data>
+</edge>
+<edge id="e45" source="KSCY" target="SNFN">
+<data key="key_weight">2416.2</data>
+</edge>
+<edge id="e46" source="SNFN" target="SCRM">
+<data key="key_weight">120.79</data>
+</edge>
+<edge id="e47" source="SNFN" target="PTLD">
+<data key="key_weight">862.1</data>
+</edge>
+<edge id="e48" source="SNFN" target="STTL">
+<data key="key_weight">1093.52</data>
+</edge>
+<edge id="e49" source="SNFN" target="SLKC">
+<data key="key_weight">964.75</data>
+</edge>
+<edge id="e50" source="SNFN" target="LA03">
+<data key="key_weight">559.28</data>
+</edge>
+<edge id="e51" source="SCRM" target="SLKC">
+<data key="key_weight">856.64</data>
+</edge>
+<edge id="e52" source="PTLD" target="STTL">
+<data key="key_weight">233.15</data>
+</edge>
+<edge id="e53" source="SLKC" target="LA03">
+<data key="key_weight">933.1</data>
+</edge>
+<edge id="e54" source="LA03" target="SNDG">
+<data key="key_weight">179.7</data>
+</edge>
+<edge id="e55" source="LA03" target="PHNX">
+<data key="key_weight">574.42</data>
+</edge>
+<edge id="e56" source="SNDG" target="PHNX">
+<data key="key_weight">480.65</data>
+</edge>
+</graph></graphml>

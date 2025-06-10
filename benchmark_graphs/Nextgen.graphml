@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Dubbo"/>
+<node id="Moree"/>
+<node id="Parkes"/>
+<node id="Albury"/>
+<node id="Newcastle"/>
+<node id="Coff's Harbour"/>
+<node id="Geelong"/>
+<node id="Shepparton"/>
+<node id="Perth"/>
+<node id="Adelaide"/>
+<node id="Melbourne"/>
+<node id="Sydney"/>
+<node id="Canberra"/>
+<node id="Brisbane"/>
+<node id="Kalgoorlie"/>
+<node id="Port Augusta"/>
+<edge id="e1" source="Dubbo" target="Moree">
+<data key="key_weight">331.21</data>
+</edge>
+<edge id="e2" source="Dubbo" target="Parkes">
+<data key="key_weight">106.29</data>
+</edge>
+<edge id="e3" source="Moree" target="Brisbane">
+<data key="key_weight">382.05</data>
+</edge>
+<edge id="e4" source="Albury" target="Melbourne">
+<data key="key_weight">259.22</data>
+</edge>
+<edge id="e5" source="Albury" target="Canberra">
+<data key="key_weight">218.69</data>
+</edge>
+<edge id="e6" source="Newcastle" target="Sydney">
+<data key="key_weight">117.22</data>
+</edge>
+<edge id="e7" source="Newcastle" target="Coff's Harbour">
+<data key="key_weight">319.21</data>
+</edge>
+<edge id="e8" source="Coff's Harbour" target="Brisbane">
+<data key="key_weight">315.17</data>
+</edge>
+<edge id="e9" source="Geelong" target="Adelaide">
+<data key="key_weight">626.52</data>
+</edge>
+<edge id="e10" source="Geelong" target="Melbourne">
+<data key="key_weight">64.53</data>
+</edge>
+<edge id="e11" source="Shepparton" target="Melbourne">
+<data key="key_weight">163.78</data>
+</edge>
+<edge id="e12" source="Perth" target="Adelaide">
+<data key="key_weight">2134.65</data>
+</edge>
+<edge id="e13" source="Perth" target="Kalgoorlie">
+<data key="key_weight">551.02</data>
+</edge>
+<edge id="e14" source="Adelaide" target="Port Augusta">
+<data key="key_weight">281.41</data>
+</edge>
+<edge id="e15" source="Sydney" target="Canberra">
+<data key="key_weight">247.07</data>
+</edge>
+<edge id="e16" source="Kalgoorlie" target="Port Augusta">
+<data key="key_weight">1554.42</data>
+</edge>
+</graph></graphml>

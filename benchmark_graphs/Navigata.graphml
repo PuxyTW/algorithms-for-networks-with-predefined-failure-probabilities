@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="New York"/>
+<node id="Montreal"/>
+<node id="Halifax"/>
+<node id="Los Angeles"/>
+<node id="Toronto"/>
+<node id="Vancouver"/>
+<node id="Victoria"/>
+<node id="Seattle"/>
+<node id="Calgary"/>
+<node id="Edmonton"/>
+<node id="Saskatoon"/>
+<node id="Regina"/>
+<node id="Winnipeg"/>
+<edge id="e1" source="New York" target="Toronto">
+<data key="key_weight">74.2</data>
+</edge>
+<edge id="e2" source="Montreal" target="Toronto">
+<data key="key_weight">503.34</data>
+</edge>
+<edge id="e3" source="Halifax" target="Toronto">
+<data key="key_weight">1266.25</data>
+</edge>
+<edge id="e4" source="Los Angeles" target="Vancouver">
+<data key="key_weight">1829.32</data>
+</edge>
+<edge id="e5" source="Toronto" target="Regina">
+<data key="key_weight">2038.99</data>
+</edge>
+<edge id="e6" source="Toronto" target="Saskatoon">
+<data key="key_weight">2217.43</data>
+</edge>
+<edge id="e7" source="Vancouver" target="Victoria">
+<data key="key_weight">92.67</data>
+</edge>
+<edge id="e8" source="Vancouver" target="Seattle">
+<data key="key_weight">1579.95</data>
+</edge>
+<edge id="e9" source="Vancouver" target="Calgary">
+<data key="key_weight">673.79</data>
+</edge>
+<edge id="e10" source="Vancouver" target="Edmonton">
+<data key="key_weight">821.84</data>
+</edge>
+<edge id="e11" source="Vancouver" target="Saskatoon">
+<data key="key_weight">1201.76</data>
+</edge>
+<edge id="e12" source="Vancouver" target="Regina">
+<data key="key_weight">1330.1</data>
+</edge>
+<edge id="e13" source="Calgary" target="Edmonton">
+<data key="key_weight">281.21</data>
+</edge>
+<edge id="e14" source="Calgary" target="Saskatoon">
+<data key="key_weight">528.18</data>
+</edge>
+<edge id="e15" source="Calgary" target="Regina">
+<data key="key_weight">669.12</data>
+</edge>
+<edge id="e16" source="Saskatoon" target="Winnipeg">
+<data key="key_weight">708.34</data>
+</edge>
+<edge id="e17" source="Regina" target="Winnipeg">
+<data key="key_weight">535.73</data>
+</edge>
+</graph></graphml>

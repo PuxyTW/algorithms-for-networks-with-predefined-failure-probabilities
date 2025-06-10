@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Minneapolis"/>
+<node id="Seattle"/>
+<node id="San Jose"/>
+<node id="Phoenix"/>
+<node id="Dallas"/>
+<node id="Atlanta"/>
+<node id="Vienna"/>
+<node id="Whippany"/>
+<node id="Chicago"/>
+<edge id="e1" source="Minneapolis" target="Seattle">
+<data key="key_weight">2239.65</data>
+</edge>
+<edge id="e2" source="Minneapolis" target="San Jose">
+<data key="key_weight">2527.87</data>
+</edge>
+<edge id="e3" source="Minneapolis" target="Phoenix">
+<data key="key_weight">2058.3</data>
+</edge>
+<edge id="e4" source="Minneapolis" target="Dallas">
+<data key="key_weight">1390.48</data>
+</edge>
+<edge id="e5" source="Minneapolis" target="Atlanta">
+<data key="key_weight">1461.81</data>
+</edge>
+<edge id="e6" source="Minneapolis" target="Vienna">
+<data key="key_weight">1482.7</data>
+</edge>
+<edge id="e7" source="Minneapolis" target="Whippany">
+<data key="key_weight">1599.34</data>
+</edge>
+<edge id="e8" source="Minneapolis" target="Chicago">
+<data key="key_weight">571.53</data>
+</edge>
+<edge id="e9" source="Seattle" target="San Jose">
+<data key="key_weight">1142.5</data>
+</edge>
+<edge id="e10" source="Seattle" target="Phoenix">
+<data key="key_weight">1794.09</data>
+</edge>
+<edge id="e11" source="Seattle" target="Dallas">
+<data key="key_weight">2702.95</data>
+</edge>
+<edge id="e12" source="Seattle" target="Atlanta">
+<data key="key_weight">3506.67</data>
+</edge>
+<edge id="e13" source="Seattle" target="Vienna">
+<data key="key_weight">3720.53</data>
+</edge>
+<edge id="e14" source="Seattle" target="Whippany">
+<data key="key_weight">3830.19</data>
+</edge>
+<edge id="e15" source="Seattle" target="Chicago">
+<data key="key_weight">2789.45</data>
+</edge>
+<edge id="e16" source="San Jose" target="Phoenix">
+<data key="key_weight">989.35</data>
+</edge>
+<edge id="e17" source="San Jose" target="Dallas">
+<data key="key_weight">2332.25</data>
+</edge>
+<edge id="e18" source="San Jose" target="Atlanta">
+<data key="key_weight">3395.54</data>
+</edge>
+<edge id="e19" source="San Jose" target="Vienna">
+<data key="key_weight">3869.85</data>
+</edge>
+<edge id="e20" source="San Jose" target="Whippany">
+<data key="key_weight">4067.36</data>
+</edge>
+<edge id="e21" source="San Jose" target="Chicago">
+<data key="key_weight">2957.5</data>
+</edge>
+<edge id="e22" source="Phoenix" target="Dallas">
+<data key="key_weight">1422.95</data>
+</edge>
+<edge id="e23" source="Phoenix" target="Atlanta">
+<data key="key_weight">2557.4</data>
+</edge>
+<edge id="e24" source="Phoenix" target="Vienna">
+<data key="key_weight">3163.73</data>
+</edge>
+<edge id="e25" source="Phoenix" target="Whippany">
+<data key="key_weight">3410.36</data>
+</edge>
+<edge id="e26" source="Phoenix" target="Chicago">
+<data key="key_weight">2334.55</data>
+</edge>
+<edge id="e27" source="Dallas" target="Atlanta">
+<data key="key_weight">1159.21</data>
+</edge>
+<edge id="e28" source="Dallas" target="Vienna">
+<data key="key_weight">1884.01</data>
+</edge>
+<edge id="e29" source="Dallas" target="Whippany">
+<data key="key_weight">2177.17</data>
+</edge>
+<edge id="e30" source="Dallas" target="Chicago">
+<data key="key_weight">1291.83</data>
+</edge>
+<edge id="e31" source="Atlanta" target="Vienna">
+<data key="key_weight">857.26</data>
+</edge>
+<edge id="e32" source="Atlanta" target="Whippany">
+<data key="key_weight">1180.87</data>
+</edge>
+<edge id="e33" source="Atlanta" target="Chicago">
+<data key="key_weight">945.35</data>
+</edge>
+<edge id="e34" source="Vienna" target="Whippany">
+<data key="key_weight">323.83</data>
+</edge>
+<edge id="e35" source="Vienna" target="Chicago">
+<data key="key_weight">938.32</data>
+</edge>
+<edge id="e36" source="Whippany" target="Chicago">
+<data key="key_weight">1109.87</data>
+</edge>
+</graph></graphml>

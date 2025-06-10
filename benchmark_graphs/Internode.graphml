@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="mel4"/>
+<node id="syd6"/>
+<node id="mel6"/>
+<node id="bne1"/>
+<node id="hba1"/>
+<node id="syd7"/>
+<node id="bne4"/>
+<node id="cbr1"/>
+<node id="sin1"/>
+<node id="hkg1"/>
+<node id="sjc2"/>
+<node id="nrt1"/>
+<node id="akl1"/>
+<node id="iad1"/>
+<node id="lon1"/>
+<node id="lax1"/>
+<node id="per2"/>
+<node id="per1"/>
+<node id="adl6"/>
+<node id="adl2"/>
+<edge id="e1" source="mel4" target="mel6">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e2" source="mel4" target="syd7">
+<data key="key_weight">713.57</data>
+</edge>
+<edge id="e3" source="syd6" target="mel6">
+<data key="key_weight">713.57</data>
+</edge>
+<edge id="e4" source="syd6" target="syd7">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e5" source="syd6" target="bne4">
+<data key="key_weight">732.8</data>
+</edge>
+<edge id="e6" source="syd6" target="lax1">
+<data key="key_weight">12077.03</data>
+</edge>
+<edge id="e7" source="syd6" target="hkg1">
+<data key="key_weight">7374.91</data>
+</edge>
+<edge id="e8" source="syd6" target="sjc2">
+<data key="key_weight">11967.37</data>
+</edge>
+<edge id="e9" source="syd6" target="nrt1">
+<data key="key_weight">7822.29</data>
+</edge>
+<edge id="e10" source="syd6" target="akl1">
+<data key="key_weight">2157.08</data>
+</edge>
+<edge id="e11" source="syd6" target="adl2">
+<data key="key_weight">1162.29</data>
+</edge>
+<edge id="e12" source="mel6" target="hba1">
+<data key="key_weight">597.97</data>
+</edge>
+<edge id="e13" source="mel6" target="cbr1">
+<data key="key_weight">466.5</data>
+</edge>
+<edge id="e14" source="mel6" target="adl2">
+<data key="key_weight">653.54</data>
+</edge>
+<edge id="e15" source="bne1" target="bne4">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e16" source="bne1" target="syd7">
+<data key="key_weight">732.8</data>
+</edge>
+<edge id="e17" source="syd7" target="cbr1">
+<data key="key_weight">247.07</data>
+</edge>
+<edge id="e18" source="syd7" target="adl6">
+<data key="key_weight">1162.29</data>
+</edge>
+<edge id="e19" source="sin1" target="hkg1">
+<data key="key_weight">2587.86</data>
+</edge>
+<edge id="e20" source="sin1" target="per1">
+<data key="key_weight">3905.09</data>
+</edge>
+<edge id="e21" source="sin1" target="lon1">
+<data key="key_weight">10858.3</data>
+</edge>
+<edge id="e22" source="sjc2" target="lax1">
+<data key="key_weight">492.31</data>
+</edge>
+<edge id="e23" source="sjc2" target="nrt1">
+<data key="key_weight">8351.3</data>
+</edge>
+<edge id="e24" source="sjc2" target="lon1">
+<data key="key_weight">8634.65</data>
+</edge>
+<edge id="e25" source="iad1" target="lon1">
+<data key="key_weight">5919.04</data>
+</edge>
+<edge id="e26" source="iad1" target="lax1">
+<data key="key_weight">3653.03</data>
+</edge>
+<edge id="e27" source="lon1" target="lax1">
+<data key="key_weight">8758.09</data>
+</edge>
+<edge id="e28" source="per2" target="per1">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e29" source="per2" target="adl2">
+<data key="key_weight">2134.65</data>
+</edge>
+<edge id="e30" source="per1" target="adl6">
+<data key="key_weight">2134.65</data>
+</edge>
+<edge id="e31" source="adl6" target="adl2">
+<data key="key_weight">0.0</data>
+</edge>
+</graph></graphml>

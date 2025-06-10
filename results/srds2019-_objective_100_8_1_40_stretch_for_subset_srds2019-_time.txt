@@ -1,0 +1,6 @@
+#n= 100, connectivity= 8, repetitions= 100
+#n, time to compute arborescence, time for swapping in seconds
+#n= 100, connectivity= 8, repetitions= 100
+#n, time to compute arborescence, time for swapping in seconds
+#n= 100, connectivity= 8, repetitions= 100
+#n, time to compute arborescence, time for swapping in seconds

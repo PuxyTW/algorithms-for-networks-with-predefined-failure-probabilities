@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Houston"/>
+<node id="Pompano Beach"/>
+<node id="Austell"/>
+<node id="Dallas"/>
+<node id="Charlton"/>
+<node id="New York"/>
+<node id="Los Angeles"/>
+<node id="Rialto"/>
+<node id="West Orange"/>
+<node id="Washington, DC"/>
+<node id="Greensboro"/>
+<node id="Seattle"/>
+<node id="San Francisco"/>
+<node id="Sacramento"/>
+<node id="Denver"/>
+<node id="Independence"/>
+<node id="Willow Springs"/>
+<node id="Downers Grove"/>
+<node id="North Royalton"/>
+<edge id="e1" source="Houston" target="Pompano Beach">
+<data key="key_weight">1545.67</data>
+</edge>
+<edge id="e2" source="Houston" target="Dallas">
+<data key="key_weight">362.81</data>
+</edge>
+<edge id="e3" source="Pompano Beach" target="Austell">
+<data key="key_weight">947.55</data>
+</edge>
+<edge id="e4" source="Austell" target="Rialto">
+<data key="key_weight">3007.12</data>
+</edge>
+<edge id="e5" source="Austell" target="Greensboro">
+<data key="key_weight">507.95</data>
+</edge>
+<edge id="e6" source="Austell" target="Dallas">
+<data key="key_weight">1136.71</data>
+</edge>
+<edge id="e7" source="Austell" target="Washington, DC">
+<data key="key_weight">884.18</data>
+</edge>
+<edge id="e8" source="Dallas" target="Willow Springs">
+<data key="key_weight">643.17</data>
+</edge>
+<edge id="e9" source="Dallas" target="Rialto">
+<data key="key_weight">1910.94</data>
+</edge>
+<edge id="e10" source="Dallas" target="Independence">
+<data key="key_weight">733.84</data>
+</edge>
+<edge id="e11" source="Charlton" target="West Orange">
+<data key="key_weight">240.56</data>
+</edge>
+<edge id="e12" source="Charlton" target="Washington, DC">
+<data key="key_weight">559.67</data>
+</edge>
+<edge id="e13" source="Charlton" target="New York">
+<data key="key_weight">231.99</data>
+</edge>
+<edge id="e14" source="Charlton" target="Willow Springs">
+<data key="key_weight">1802.76</data>
+</edge>
+<edge id="e15" source="New York" target="West Orange">
+<data key="key_weight">21.77</data>
+</edge>
+<edge id="e16" source="Los Angeles" target="San Francisco">
+<data key="key_weight">559.28</data>
+</edge>
+<edge id="e17" source="Los Angeles" target="Rialto">
+<data key="key_weight">80.68</data>
+</edge>
+<edge id="e18" source="Rialto" target="San Francisco">
+<data key="key_weight">610.74</data>
+</edge>
+<edge id="e19" source="West Orange" target="Washington, DC">
+<data key="key_weight">319.17</data>
+</edge>
+<edge id="e20" source="West Orange" target="Denver">
+<data key="key_weight">2598.59</data>
+</edge>
+<edge id="e21" source="West Orange" target="Willow Springs">
+<data key="key_weight">1589.07</data>
+</edge>
+<edge id="e22" source="West Orange" target="North Royalton">
+<data key="key_weight">630.23</data>
+</edge>
+<edge id="e23" source="Washington, DC" target="Willow Springs">
+<data key="key_weight">1325.32</data>
+</edge>
+<edge id="e24" source="Washington, DC" target="Greensboro">
+<data key="key_weight">397.08</data>
+</edge>
+<edge id="e25" source="Seattle" target="San Francisco">
+<data key="key_weight">1093.52</data>
+</edge>
+<edge id="e26" source="Seattle" target="Denver">
+<data key="key_weight">1641.58</data>
+</edge>
+<edge id="e27" source="San Francisco" target="Sacramento">
+<data key="key_weight">120.79</data>
+</edge>
+<edge id="e28" source="San Francisco" target="Denver">
+<data key="key_weight">1525.41</data>
+</edge>
+<edge id="e29" source="Denver" target="Willow Springs">
+<data key="key_weight">1174.2</data>
+</edge>
+<edge id="e30" source="Denver" target="Independence">
+<data key="key_weight">910.53</data>
+</edge>
+<edge id="e31" source="Independence" target="Willow Springs">
+<data key="key_weight">316.82</data>
+</edge>
+<edge id="e32" source="Willow Springs" target="Downers Grove">
+<data key="key_weight">634.47</data>
+</edge>
+<edge id="e33" source="Downers Grove" target="North Royalton">
+<data key="key_weight">525.97</data>
+</edge>
+</graph></graphml>

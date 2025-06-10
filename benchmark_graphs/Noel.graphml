@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Spokane"/>
+<node id="Coeur d'Alene"/>
+<node id="Wenatchee"/>
+<node id="Othello"/>
+<node id="Walla Walla"/>
+<node id="Pasco"/>
+<node id="Pullman"/>
+<node id="Lewiston"/>
+<node id="Kennewick"/>
+<node id="Yakima"/>
+<node id="Ellensburg"/>
+<node id="Vancouver"/>
+<node id="Bellingham"/>
+<node id="Mt Vernon"/>
+<node id="Everett"/>
+<node id="Westin - Seattle"/>
+<node id="Tacoma"/>
+<node id="Olympia"/>
+<node id="Portland"/>
+<edge id="e1" source="Spokane" target="Coeur d'Alene">
+<data key="key_weight">48.4</data>
+</edge>
+<edge id="e2" source="Spokane" target="Wenatchee">
+<data key="key_weight">218.13</data>
+</edge>
+<edge id="e3" source="Spokane" target="Othello">
+<data key="key_weight">161.32</data>
+</edge>
+<edge id="e4" source="Spokane" target="Pullman">
+<data key="key_weight">104.83</data>
+</edge>
+<edge id="e5" source="Wenatchee" target="Ellensburg">
+<data key="key_weight">50.77</data>
+</edge>
+<edge id="e6" source="Wenatchee" target="Westin - Seattle">
+<data key="key_weight">153.74</data>
+</edge>
+<edge id="e7" source="Othello" target="Yakima">
+<data key="key_weight">104.48</data>
+</edge>
+<edge id="e8" source="Walla Walla" target="Kennewick">
+<data key="key_weight">63.35</data>
+</edge>
+<edge id="e9" source="Walla Walla" target="Pasco">
+<data key="key_weight">61.53</data>
+</edge>
+<edge id="e10" source="Pasco" target="Kennewick">
+<data key="key_weight">4.23</data>
+</edge>
+<edge id="e11" source="Pasco" target="Yakima">
+<data key="key_weight">115.05</data>
+</edge>
+<edge id="e12" source="Pullman" target="Lewiston">
+<data key="key_weight">37.13</data>
+</edge>
+<edge id="e13" source="Kennewick" target="Yakima">
+<data key="key_weight">113.61</data>
+</edge>
+<edge id="e14" source="Kennewick" target="Portland">
+<data key="key_weight">284.54</data>
+</edge>
+<edge id="e15" source="Yakima" target="Ellensburg">
+<data key="key_weight">43.99</data>
+</edge>
+<edge id="e16" source="Yakima" target="Westin - Seattle">
+<data key="key_weight">178.52</data>
+</edge>
+<edge id="e17" source="Vancouver" target="Bellingham">
+<data key="key_weight">71.36</data>
+</edge>
+<edge id="e18" source="Vancouver" target="Westin - Seattle">
+<data key="key_weight">190.97</data>
+</edge>
+<edge id="e19" source="Bellingham" target="Mt Vernon">
+<data key="key_weight">39.3</data>
+</edge>
+<edge id="e20" source="Mt Vernon" target="Everett">
+<data key="key_weight">50.15</data>
+</edge>
+<edge id="e21" source="Everett" target="Westin - Seattle">
+<data key="key_weight">41.96</data>
+</edge>
+<edge id="e22" source="Westin - Seattle" target="Tacoma">
+<data key="key_weight">40.84</data>
+</edge>
+<edge id="e23" source="Westin - Seattle" target="Portland">
+<data key="key_weight">233.84</data>
+</edge>
+<edge id="e24" source="Tacoma" target="Olympia">
+<data key="key_weight">42.0</data>
+</edge>
+<edge id="e25" source="Olympia" target="Portland">
+<data key="key_weight">169.32</data>
+</edge>
+</graph></graphml>

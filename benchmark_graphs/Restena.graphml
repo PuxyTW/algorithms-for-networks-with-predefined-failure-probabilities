@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Walferdange"/>
+<node id="CCRN"/>
+<node id="Ettelbruck"/>
+<node id="Diekirch"/>
+<node id="RESTENA"/>
+<node id="BCE"/>
+<node id="UNI.iu"/>
+<node id="Rollingergrund"/>
+<node id="Campus Geesseknaeppchen"/>
+<node id="Esch-sur-Alzette"/>
+<node id="Bettembourg"/>
+<node id="Luxembourg"/>
+<node id="Limpertsberg"/>
+<edge id="e1" source="Walferdange" target="RESTENA">
+<data key="key_weight">3.93</data>
+</edge>
+<edge id="e2" source="CCRN" target="RESTENA">
+<data key="key_weight">1.95</data>
+</edge>
+<edge id="e3" source="Ettelbruck" target="BCE">
+<data key="key_weight">25.08</data>
+</edge>
+<edge id="e4" source="Ettelbruck" target="Diekirch">
+<data key="key_weight">4.34</data>
+</edge>
+<edge id="e5" source="Diekirch" target="RESTENA">
+<data key="key_weight">27.13</data>
+</edge>
+<edge id="e6" source="RESTENA" target="BCE">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e7" source="RESTENA" target="Bettembourg">
+<data key="key_weight">12.18</data>
+</edge>
+<edge id="e8" source="RESTENA" target="Luxembourg">
+<data key="key_weight">1.95</data>
+</edge>
+<edge id="e9" source="BCE" target="Limpertsberg">
+<data key="key_weight">2.03</data>
+</edge>
+<edge id="e10" source="UNI.iu" target="Limpertsberg">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e11" source="UNI.iu" target="Campus Geesseknaeppchen">
+<data key="key_weight">2.05</data>
+</edge>
+<edge id="e12" source="Rollingergrund" target="Campus Geesseknaeppchen">
+<data key="key_weight">2.55</data>
+</edge>
+<edge id="e13" source="Campus Geesseknaeppchen" target="Luxembourg">
+<data key="key_weight">1.1</data>
+</edge>
+<edge id="e14" source="Campus Geesseknaeppchen" target="Esch-sur-Alzette">
+<data key="key_weight">15.75</data>
+</edge>
+<edge id="e15" source="Esch-sur-Alzette" target="Bettembourg">
+<data key="key_weight">9.18</data>
+</edge>
+</graph></graphml>

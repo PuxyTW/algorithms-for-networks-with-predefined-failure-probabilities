@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Kouvola"/>
+<node id="Lahti"/>
+<node id="Mikkeli"/>
+<node id="Jyvaskyla"/>
+<node id="Seinajoki"/>
+<node id="Pori"/>
+<node id="Tampere"/>
+<node id="Hameenlinna"/>
+<node id="Rauma"/>
+<node id="Turku"/>
+<node id="Kotka"/>
+<node id="Helsinki"/>
+<node id="Espoo"/>
+<node id="Salo"/>
+<node id="Joensuu"/>
+<node id="Lappeenranta"/>
+<node id="Oulu"/>
+<node id="Haukipudas"/>
+<node id="Rovaniemi"/>
+<node id="Sodankyla"/>
+<node id="Ristijavi"/>
+<node id="Kokkola"/>
+<node id="Vaasa"/>
+<node id="Koupio"/>
+<edge id="e1" source="Kouvola" target="Lahti">
+<data key="key_weight">57.59</data>
+</edge>
+<edge id="e2" source="Kouvola" target="Kotka">
+<data key="key_weight">46.03</data>
+</edge>
+<edge id="e3" source="Kouvola" target="Mikkeli">
+<data key="key_weight">96.4</data>
+</edge>
+<edge id="e4" source="Kouvola" target="Lappeenranta">
+<data key="key_weight">83.16</data>
+</edge>
+<edge id="e5" source="Lahti" target="Helsinki">
+<data key="key_weight">98.76</data>
+</edge>
+<edge id="e6" source="Mikkeli" target="Koupio">
+<data key="key_weight">135.52</data>
+</edge>
+<edge id="e7" source="Mikkeli" target="Jyvaskyla">
+<data key="key_weight">100.72</data>
+</edge>
+<edge id="e8" source="Jyvaskyla" target="Tampere">
+<data key="key_weight">130.71</data>
+</edge>
+<edge id="e9" source="Seinajoki" target="Vaasa">
+<data key="key_weight">69.84</data>
+</edge>
+<edge id="e10" source="Seinajoki" target="Pori">
+<data key="key_weight">156.28</data>
+</edge>
+<edge id="e11" source="Pori" target="Rauma">
+<data key="key_weight">42.19</data>
+</edge>
+<edge id="e12" source="Tampere" target="Hameenlinna">
+<data key="key_weight">66.67</data>
+</edge>
+<edge id="e13" source="Hameenlinna" target="Espoo">
+<data key="key_weight">88.55</data>
+</edge>
+<edge id="e14" source="Rauma" target="Turku">
+<data key="key_weight">85.67</data>
+</edge>
+<edge id="e15" source="Turku" target="Salo">
+<data key="key_weight">48.08</data>
+</edge>
+<edge id="e16" source="Helsinki" target="Espoo">
+<data key="key_weight">16.16</data>
+</edge>
+<edge id="e17" source="Espoo" target="Salo">
+<data key="key_weight">86.03</data>
+</edge>
+<edge id="e18" source="Joensuu" target="Lappeenranta">
+<data key="key_weight">190.39</data>
+</edge>
+<edge id="e19" source="Joensuu" target="Koupio">
+<data key="key_weight">111.29</data>
+</edge>
+<edge id="e20" source="Oulu" target="Haukipudas">
+<data key="key_weight">19.05</data>
+</edge>
+<edge id="e21" source="Oulu" target="Ristijavi">
+<data key="key_weight">142.27</data>
+</edge>
+<edge id="e22" source="Oulu" target="Kokkola">
+<data key="key_weight">172.15</data>
+</edge>
+<edge id="e23" source="Haukipudas" target="Rovaniemi">
+<data key="key_weight">148.13</data>
+</edge>
+<edge id="e24" source="Rovaniemi" target="Sodankyla">
+<data key="key_weight">108.97</data>
+</edge>
+<edge id="e25" source="Rovaniemi" target="Ristijavi">
+<data key="key_weight">250.52</data>
+</edge>
+<edge id="e26" source="Ristijavi" target="Koupio">
+<data key="key_weight">180.78</data>
+</edge>
+<edge id="e27" source="Kokkola" target="Vaasa">
+<data key="key_weight">111.73</data>
+</edge>
+</graph></graphml>

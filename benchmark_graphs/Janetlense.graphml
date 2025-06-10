@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Southampton Aggregation"/>
+<node id="Southampton"/>
+<node id="Winchester"/>
+<node id="Portsmouth"/>
+<node id="Bournemouth"/>
+<node id="Bere Regis Colocation"/>
+<node id="Solent"/>
+<node id="Bournemouth Aggregation"/>
+<node id="Isle of Wight Colocation"/>
+<node id="Hampton Park Colocation"/>
+<node id="Wymering"/>
+<node id="Chichester"/>
+<node id="Southampton Core"/>
+<node id="Aldershot Core"/>
+<node id="Brighton Aggregation"/>
+<node id="Brighton"/>
+<node id="Sussex"/>
+<node id="Surrey"/>
+<node id="Aldershot Aggregation"/>
+<edge id="e1" source="Southampton Aggregation" target="Southampton Core">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e2" source="Southampton Aggregation" target="Aldershot Core">
+<data key="key_weight">58.94</data>
+</edge>
+<edge id="e3" source="Southampton" target="Southampton Core">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e4" source="Southampton" target="Aldershot Core">
+<data key="key_weight">58.94</data>
+</edge>
+<edge id="e5" source="Winchester" target="Southampton Core">
+<data key="key_weight">19.23</data>
+</edge>
+<edge id="e6" source="Winchester" target="Aldershot Core">
+<data key="key_weight">43.65</data>
+</edge>
+<edge id="e7" source="Portsmouth" target="Southampton Core">
+<data key="key_weight">25.19</data>
+</edge>
+<edge id="e8" source="Portsmouth" target="Aldershot Core">
+<data key="key_weight">53.47</data>
+</edge>
+<edge id="e9" source="Bournemouth" target="Southampton Core">
+<data key="key_weight">39.62</data>
+</edge>
+<edge id="e10" source="Bournemouth" target="Aldershot Core">
+<data key="key_weight">98.14</data>
+</edge>
+<edge id="e11" source="Bere Regis Colocation" target="Bournemouth Aggregation">
+<data key="key_weight">16.85</data>
+</edge>
+<edge id="e12" source="Solent" target="Southampton Core">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e13" source="Solent" target="Aldershot Core">
+<data key="key_weight">58.94</data>
+</edge>
+<edge id="e14" source="Bournemouth Aggregation" target="Aldershot Core">
+<data key="key_weight">98.14</data>
+</edge>
+<edge id="e15" source="Bournemouth Aggregation" target="Southampton Core">
+<data key="key_weight">39.62</data>
+</edge>
+<edge id="e16" source="Isle of Wight Colocation" target="Wymering">
+<data key="key_weight">27.5</data>
+</edge>
+<edge id="e17" source="Hampton Park Colocation" target="Brighton Aggregation">
+<data key="key_weight">30.54</data>
+</edge>
+<edge id="e18" source="Wymering" target="Southampton Core">
+<data key="key_weight">23.5</data>
+</edge>
+<edge id="e19" source="Wymering" target="Aldershot Core">
+<data key="key_weight">49.25</data>
+</edge>
+<edge id="e20" source="Chichester" target="Southampton Core">
+<data key="key_weight">44.08</data>
+</edge>
+<edge id="e21" source="Chichester" target="Aldershot Core">
+<data key="key_weight">45.98</data>
+</edge>
+<edge id="e22" source="Southampton Core" target="Aldershot Core">
+<data key="key_weight">58.94</data>
+</edge>
+<edge id="e23" source="Southampton Core" target="Brighton Aggregation">
+<data key="key_weight">88.85</data>
+</edge>
+<edge id="e24" source="Southampton Core" target="Brighton">
+<data key="key_weight">88.85</data>
+</edge>
+<edge id="e25" source="Southampton Core" target="Sussex">
+<data key="key_weight">119.23</data>
+</edge>
+<edge id="e26" source="Southampton Core" target="Surrey">
+<data key="key_weight">74.98</data>
+</edge>
+<edge id="e27" source="Southampton Core" target="Aldershot Aggregation">
+<data key="key_weight">58.94</data>
+</edge>
+<edge id="e28" source="Aldershot Core" target="Brighton Aggregation">
+<data key="key_weight">64.21</data>
+</edge>
+<edge id="e29" source="Aldershot Core" target="Brighton">
+<data key="key_weight">64.21</data>
+</edge>
+<edge id="e30" source="Aldershot Core" target="Sussex">
+<data key="key_weight">90.98</data>
+</edge>
+<edge id="e31" source="Aldershot Core" target="Surrey">
+<data key="key_weight">16.36</data>
+</edge>
+<edge id="e32" source="Aldershot Core" target="Aldershot Aggregation">
+<data key="key_weight">0.0</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Pacific Wave Sunnyvale"/>
+<node id="Pacific Wave Seattle"/>
+<node id="Pacific Wave Los Angeles"/>
+<edge id="e1" source="Pacific Wave Sunnyvale" target="Pacific Wave Seattle">
+<data key="key_weight">1138.92</data>
+</edge>
+<edge id="e2" source="Pacific Wave Sunnyvale" target="Pacific Wave Los Angeles">
+<data key="key_weight">503.3</data>
+</edge>
+<edge id="e3" source="Pacific Wave Seattle" target="Pacific Wave Los Angeles">
+<data key="key_weight">1545.74</data>
+</edge>
+</graph></graphml>

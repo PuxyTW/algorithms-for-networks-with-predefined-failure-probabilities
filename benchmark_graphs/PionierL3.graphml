@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Warszawa"/>
+<node id="Radom"/>
+<node id="Bialystok"/>
+<node id="Lublin"/>
+<node id="Lodz"/>
+<node id="Pulawy"/>
+<node id="Rzeszow"/>
+<node id="Kielce"/>
+<node id="Elblag"/>
+<node id="Suwalki"/>
+<node id="Sochaczew"/>
+<node id="Gorzow Wlkp"/>
+<node id="Bielsko-Biala"/>
+<node id="Zamosc"/>
+<node id="Czechtochowa"/>
+<node id="Krakow"/>
+<node id="Wroclaw"/>
+<node id="Opole"/>
+<node id="Gliwice"/>
+<node id="Olsztyn"/>
+<node id="Gdansk"/>
+<node id="Koszalin"/>
+<node id="Szczecin"/>
+<node id="Zielona gora"/>
+<node id="Poznan"/>
+<node id="Bydgoszcz"/>
+<node id="Torun"/>
+<edge id="e1" source="Warszawa" target="Radom">
+<data key="key_weight">92.48</data>
+</edge>
+<edge id="e2" source="Warszawa" target="Poznan">
+<data key="key_weight">275.74</data>
+</edge>
+<edge id="e3" source="Warszawa" target="Bialystok">
+<data key="key_weight">175.74</data>
+</edge>
+<edge id="e4" source="Warszawa" target="Lodz">
+<data key="key_weight">118.52</data>
+</edge>
+<edge id="e5" source="Radom" target="Kielce">
+<data key="key_weight">69.42</data>
+</edge>
+<edge id="e6" source="Radom" target="Pulawy">
+<data key="key_weight">57.07</data>
+</edge>
+<edge id="e7" source="Bialystok" target="Suwalki">
+<data key="key_weight">109.78</data>
+</edge>
+<edge id="e8" source="Lublin" target="Zamosc">
+<data key="key_weight">75.74</data>
+</edge>
+<edge id="e9" source="Lublin" target="Pulawy">
+<data key="key_weight">45.45</data>
+</edge>
+<edge id="e10" source="Lodz" target="Sochaczew">
+<data key="key_weight">75.08</data>
+</edge>
+<edge id="e11" source="Lodz" target="Poznan">
+<data key="key_weight">186.26</data>
+</edge>
+<edge id="e12" source="Lodz" target="Czechtochowa">
+<data key="key_weight">108.7</data>
+</edge>
+<edge id="e13" source="Rzeszow" target="Zamosc">
+<data key="key_weight">116.82</data>
+</edge>
+<edge id="e14" source="Rzeszow" target="Krakow">
+<data key="key_weight">148.75</data>
+</edge>
+<edge id="e15" source="Kielce" target="Krakow">
+<data key="key_weight">100.96</data>
+</edge>
+<edge id="e16" source="Elblag" target="Olsztyn">
+<data key="key_weight">81.4</data>
+</edge>
+<edge id="e17" source="Elblag" target="Gdansk">
+<data key="key_weight">54.3</data>
+</edge>
+<edge id="e18" source="Suwalki" target="Olsztyn">
+<data key="key_weight">164.32</data>
+</edge>
+<edge id="e19" source="Sochaczew" target="Poznan">
+<data key="key_weight">223.37</data>
+</edge>
+<edge id="e20" source="Gorzow Wlkp" target="Szczecin">
+<data key="key_weight">89.25</data>
+</edge>
+<edge id="e21" source="Gorzow Wlkp" target="Poznan">
+<data key="key_weight">122.74</data>
+</edge>
+<edge id="e22" source="Bielsko-Biala" target="Gliwice">
+<data key="key_weight">58.01</data>
+</edge>
+<edge id="e23" source="Bielsko-Biala" target="Krakow">
+<data key="key_weight">68.68</data>
+</edge>
+<edge id="e24" source="Czechtochowa" target="Gliwice">
+<data key="key_weight">65.6</data>
+</edge>
+<edge id="e25" source="Wroclaw" target="Zielona gora">
+<data key="key_weight">140.72</data>
+</edge>
+<edge id="e26" source="Wroclaw" target="Opole">
+<data key="key_weight">80.38</data>
+</edge>
+<edge id="e27" source="Opole" target="Gliwice">
+<data key="key_weight">66.27</data>
+</edge>
+<edge id="e28" source="Gdansk" target="Torun">
+<data key="key_weight">148.89</data>
+</edge>
+<edge id="e29" source="Gdansk" target="Koszalin">
+<data key="key_weight">161.64</data>
+</edge>
+<edge id="e30" source="Koszalin" target="Szczecin">
+<data key="key_weight">136.21</data>
+</edge>
+<edge id="e31" source="Poznan" target="Bydgoszcz">
+<data key="key_weight">105.3</data>
+</edge>
+<edge id="e32" source="Bydgoszcz" target="Torun">
+<data key="key_weight">41.31</data>
+</edge>
+</graph></graphml>

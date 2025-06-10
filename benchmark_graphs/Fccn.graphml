@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Portalegre"/>
+<node id="Evora"/>
+<node id="Guarda"/>
+<node id="Castelo Branco"/>
+<node id="Tomar"/>
+<node id="Leiria"/>
+<node id="Lisboa"/>
+<node id="Samtarem"/>
+<node id="Setubal"/>
+<node id="Ponta Delgada"/>
+<node id="Beja"/>
+<node id="Faro"/>
+<node id="Funchal"/>
+<node id="Viseu"/>
+<node id="Covilha"/>
+<node id="Viana de Castelo"/>
+<node id="Barcelos"/>
+<node id="Braga"/>
+<node id="Villa Real"/>
+<node id="Bragancia"/>
+<node id="Porto"/>
+<node id="Aveiro"/>
+<node id="Coimbra"/>
+<edge id="e1" source="Portalegre" target="Lisboa">
+<data key="key_weight">160.51</data>
+</edge>
+<edge id="e2" source="Evora" target="Lisboa">
+<data key="key_weight">108.44</data>
+</edge>
+<edge id="e3" source="Guarda" target="Porto">
+<data key="key_weight">132.69</data>
+</edge>
+<edge id="e4" source="Castelo Branco" target="Lisboa">
+<data key="key_weight">186.41</data>
+</edge>
+<edge id="e5" source="Tomar" target="Lisboa">
+<data key="key_weight">116.07</data>
+</edge>
+<edge id="e6" source="Leiria" target="Coimbra">
+<data key="key_weight">60.7</data>
+</edge>
+<edge id="e7" source="Leiria" target="Lisboa">
+<data key="key_weight">117.63</data>
+</edge>
+<edge id="e8" source="Lisboa" target="Samtarem">
+<data key="key_weight">69.4</data>
+</edge>
+<edge id="e9" source="Lisboa" target="Setubal">
+<data key="key_weight">30.18</data>
+</edge>
+<edge id="e10" source="Lisboa" target="Ponta Delgada">
+<data key="key_weight">1446.81</data>
+</edge>
+<edge id="e11" source="Lisboa" target="Funchal">
+<data key="key_weight">974.08</data>
+</edge>
+<edge id="e12" source="Lisboa" target="Viseu">
+<data key="key_weight">238.92</data>
+</edge>
+<edge id="e13" source="Lisboa" target="Coimbra">
+<data key="key_weight">176.09</data>
+</edge>
+<edge id="e14" source="Samtarem" target="Coimbra">
+<data key="key_weight">109.91</data>
+</edge>
+<edge id="e15" source="Setubal" target="Beja">
+<data key="key_weight">105.58</data>
+</edge>
+<edge id="e16" source="Setubal" target="Faro">
+<data key="key_weight">187.54</data>
+</edge>
+<edge id="e17" source="Covilha" target="Porto">
+<data key="key_weight">134.74</data>
+</edge>
+<edge id="e18" source="Viana de Castelo" target="Porto">
+<data key="key_weight">79.22</data>
+</edge>
+<edge id="e19" source="Barcelos" target="Porto">
+<data key="key_weight">42.64</data>
+</edge>
+<edge id="e20" source="Braga" target="Porto">
+<data key="key_weight">47.05</data>
+</edge>
+<edge id="e21" source="Villa Real" target="Porto">
+<data key="key_weight">74.4</data>
+</edge>
+<edge id="e22" source="Bragancia" target="Porto">
+<data key="key_weight">172.31</data>
+</edge>
+<edge id="e23" source="Porto" target="Aveiro">
+<data key="key_weight">57.54</data>
+</edge>
+<edge id="e24" source="Porto" target="Coimbra">
+<data key="key_weight">107.0</data>
+</edge>
+<edge id="e25" source="Aveiro" target="Coimbra">
+<data key="key_weight">52.09</data>
+</edge>
+</graph></graphml>

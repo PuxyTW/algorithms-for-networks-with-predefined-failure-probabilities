@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="SEQSUINET, Rice University, Houston"/>
+<node id="Jon Von Neumann Center, Princeton, NJ"/>
+<node id="SURANET, Georgia Tech, Atlanta"/>
+<node id="Pittsburgh Supercomputer Center"/>
+<node id="Cornell Theory Center, Ithaca NY"/>
+<node id="NorthWestNet, Seattle"/>
+<node id="BARRnet, Palo Alto"/>
+<node id="San Diego Supercomputer Center"/>
+<node id="Westnet, Salt Lake City"/>
+<node id="NCAR, Boulder"/>
+<node id="MIDnet, Lincoln, NE"/>
+<node id="NCSA, University of Illinois, Champaign"/>
+<node id="Merit Univ of Michigan, Ann Arbor"/>
+<edge id="e1" source="SEQSUINET, Rice University, Houston" target="SURANET, Georgia Tech, Atlanta">
+<data key="key_weight">1127.88</data>
+</edge>
+<edge id="e2" source="SEQSUINET, Rice University, Houston" target="NCSA, University of Illinois, Champaign">
+<data key="key_weight">1320.78</data>
+</edge>
+<edge id="e3" source="SEQSUINET, Rice University, Houston" target="San Diego Supercomputer Center">
+<data key="key_weight">2094.61</data>
+</edge>
+<edge id="e4" source="Jon Von Neumann Center, Princeton, NJ" target="SURANET, Georgia Tech, Atlanta">
+<data key="key_weight">1132.2</data>
+</edge>
+<edge id="e5" source="Jon Von Neumann Center, Princeton, NJ" target="Cornell Theory Center, Ithaca NY">
+<data key="key_weight">278.63</data>
+</edge>
+<edge id="e6" source="Pittsburgh Supercomputer Center" target="Merit Univ of Michigan, Ann Arbor">
+<data key="key_weight">373.43</data>
+</edge>
+<edge id="e7" source="Cornell Theory Center, Ithaca NY" target="Merit Univ of Michigan, Ann Arbor">
+<data key="key_weight">595.5</data>
+</edge>
+<edge id="e8" source="NorthWestNet, Seattle" target="NCAR, Boulder">
+<data key="key_weight">1603.52</data>
+</edge>
+<edge id="e9" source="NorthWestNet, Seattle" target="BARRnet, Palo Alto">
+<data key="key_weight">1130.65</data>
+</edge>
+<edge id="e10" source="BARRnet, Palo Alto" target="Merit Univ of Michigan, Ann Arbor">
+<data key="key_weight">3294.08</data>
+</edge>
+<edge id="e11" source="BARRnet, Palo Alto" target="San Diego Supercomputer Center">
+<data key="key_weight">694.26</data>
+</edge>
+<edge id="e12" source="Westnet, Salt Lake City" target="NCAR, Boulder">
+<data key="key_weight">566.84</data>
+</edge>
+<edge id="e13" source="NCAR, Boulder" target="NCSA, University of Illinois, Champaign">
+<data key="key_weight">1447.21</data>
+</edge>
+<edge id="e14" source="MIDnet, Lincoln, NE" target="NCSA, University of Illinois, Champaign">
+<data key="key_weight">716.65</data>
+</edge>
+<edge id="e15" source="NCSA, University of Illinois, Champaign" target="Merit Univ of Michigan, Ann Arbor">
+<data key="key_weight">446.87</data>
+</edge>
+</graph></graphml>

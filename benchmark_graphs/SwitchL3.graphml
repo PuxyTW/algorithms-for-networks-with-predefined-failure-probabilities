@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Fribourg"/>
+<node id="Basel"/>
+<node id="Delemont"/>
+<node id="Bern"/>
+<node id="Kreuzlingen"/>
+<node id="St. Gallen"/>
+<node id="Villigen PSI"/>
+<node id="Zurich (ETH)"/>
+<node id="Buchs SG"/>
+<node id="Chur"/>
+<node id="Neuchatel"/>
+<node id="IXEurope Zurich"/>
+<node id="Brig"/>
+<node id="Martigny"/>
+<node id="Grenchen"/>
+<node id="Davos"/>
+<node id="Liechtenstein"/>
+<node id="Rapperswil"/>
+<node id="Manno"/>
+<node id="Zurich (University)"/>
+<node id="Horw"/>
+<node id="Brugg"/>
+<node id="CERN"/>
+<node id="Lausanne (University)"/>
+<node id="Geneva"/>
+<node id="Lausanne (EPFL)"/>
+<node id="Yverdon"/>
+<node id="Birmensdorf"/>
+<node id="Rueschlikon"/>
+<node id="Winterthur"/>
+<edge id="e1" source="Fribourg" target="Lausanne (University)">
+<data key="key_weight">50.8</data>
+</edge>
+<edge id="e2" source="Fribourg" target="Bern">
+<data key="key_weight">27.74</data>
+</edge>
+<edge id="e3" source="Basel" target="Brugg">
+<data key="key_weight">53.2</data>
+</edge>
+<edge id="e4" source="Basel" target="Delemont">
+<data key="key_weight">27.55</data>
+</edge>
+<edge id="e5" source="Basel" target="Bern">
+<data key="key_weight">68.54</data>
+</edge>
+<edge id="e6" source="Basel" target="Villigen PSI">
+<data key="key_weight">48.3</data>
+</edge>
+<edge id="e7" source="Basel" target="Zurich (ETH)">
+<data key="key_weight">76.48</data>
+</edge>
+<edge id="e8" source="Delemont" target="Neuchatel">
+<data key="key_weight">51.96</data>
+</edge>
+<edge id="e9" source="Bern" target="Lausanne (University)">
+<data key="key_weight">78.53</data>
+</edge>
+<edge id="e10" source="Bern" target="Manno">
+<data key="key_weight">151.71</data>
+</edge>
+<edge id="e11" source="Kreuzlingen" target="St. Gallen">
+<data key="key_weight">28.97</data>
+</edge>
+<edge id="e12" source="Kreuzlingen" target="Zurich (University)">
+<data key="key_weight">57.07</data>
+</edge>
+<edge id="e13" source="St. Gallen" target="Buchs SG">
+<data key="key_weight">98.02</data>
+</edge>
+<edge id="e14" source="St. Gallen" target="Liechtenstein">
+<data key="key_weight">31.01</data>
+</edge>
+<edge id="e15" source="St. Gallen" target="Winterthur">
+<data key="key_weight">47.74</data>
+</edge>
+<edge id="e16" source="Villigen PSI" target="Zurich (ETH)">
+<data key="key_weight">30.87</data>
+</edge>
+<edge id="e17" source="Zurich (ETH)" target="Horw">
+<data key="key_weight">42.94</data>
+</edge>
+<edge id="e18" source="Zurich (ETH)" target="Lausanne (University)">
+<data key="key_weight">173.63</data>
+</edge>
+<edge id="e19" source="Zurich (ETH)" target="Birmensdorf">
+<data key="key_weight">8.2</data>
+</edge>
+<edge id="e20" source="Zurich (ETH)" target="Winterthur">
+<data key="key_weight">21.13</data>
+</edge>
+<edge id="e21" source="Zurich (ETH)" target="IXEurope Zurich">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e22" source="Zurich (ETH)" target="Rapperswil">
+<data key="key_weight">25.85</data>
+</edge>
+<edge id="e23" source="Zurich (ETH)" target="Manno">
+<data key="key_weight">150.79</data>
+</edge>
+<edge id="e24" source="Buchs SG" target="Chur">
+<data key="key_weight">125.61</data>
+</edge>
+<edge id="e25" source="Buchs SG" target="Davos">
+<data key="key_weight">148.47</data>
+</edge>
+<edge id="e26" source="Buchs SG" target="Liechtenstein">
+<data key="key_weight">112.86</data>
+</edge>
+<edge id="e27" source="Chur" target="Davos">
+<data key="key_weight">23.71</data>
+</edge>
+<edge id="e28" source="Chur" target="Rapperswil">
+<data key="key_weight">68.17</data>
+</edge>
+<edge id="e29" source="Neuchatel" target="Lausanne (EPFL)">
+<data key="key_weight">57.59</data>
+</edge>
+<edge id="e30" source="Neuchatel" target="Grenchen">
+<data key="key_weight">41.66</data>
+</edge>
+<edge id="e31" source="Neuchatel" target="Yverdon">
+<data key="key_weight">32.38</data>
+</edge>
+<edge id="e32" source="Neuchatel" target="Zurich (University)">
+<data key="key_weight">129.3</data>
+</edge>
+<edge id="e33" source="IXEurope Zurich" target="Rueschlikon">
+<data key="key_weight">6.65</data>
+</edge>
+<edge id="e34" source="Brig" target="Martigny">
+<data key="key_weight">74.04</data>
+</edge>
+<edge id="e35" source="Brig" target="Manno">
+<data key="key_weight">78.58</data>
+</edge>
+<edge id="e36" source="Martigny" target="Lausanne (EPFL)">
+<data key="key_weight">57.04</data>
+</edge>
+<edge id="e37" source="Grenchen" target="Zurich (University)">
+<data key="key_weight">89.23</data>
+</edge>
+<edge id="e38" source="Liechtenstein" target="Rapperswil">
+<data key="key_weight">54.14</data>
+</edge>
+<edge id="e39" source="Rapperswil" target="Manno">
+<data key="key_weight">132.66</data>
+</edge>
+<edge id="e40" source="Manno" target="Horw">
+<data key="key_weight">118.78</data>
+</edge>
+<edge id="e41" source="Manno" target="Lausanne (EPFL)">
+<data key="key_weight">183.72</data>
+</edge>
+<edge id="e42" source="Zurich (University)" target="Brugg">
+<data key="key_weight">99.71</data>
+</edge>
+<edge id="e43" source="Zurich (University)" target="CERN">
+<data key="key_weight">224.27</data>
+</edge>
+<edge id="e44" source="Zurich (University)" target="Lausanne (EPFL)">
+<data key="key_weight">173.63</data>
+</edge>
+<edge id="e45" source="CERN" target="Lausanne (University)">
+<data key="key_weight">51.15</data>
+</edge>
+<edge id="e46" source="CERN" target="Geneva">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e47" source="CERN" target="Lausanne (EPFL)">
+<data key="key_weight">51.15</data>
+</edge>
+<edge id="e48" source="Lausanne (University)" target="Lausanne (EPFL)">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e49" source="Geneva" target="Lausanne (EPFL)">
+<data key="key_weight">51.15</data>
+</edge>
+<edge id="e50" source="Lausanne (EPFL)" target="Yverdon">
+<data key="key_weight">29.21</data>
+</edge>
+<edge id="e51" source="Birmensdorf" target="Rueschlikon">
+<data key="key_weight">9.8</data>
+</edge>
+</graph></graphml>

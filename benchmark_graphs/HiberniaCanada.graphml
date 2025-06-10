@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="New York"/>
+<node id="Moncton"/>
+<node id="Edmundston"/>
+<node id="Quebec"/>
+<node id="Montreal"/>
+<node id="Toronto"/>
+<node id="Buffalo"/>
+<node id="Albany"/>
+<node id="Boston"/>
+<node id="Halifax"/>
+<edge id="e1" source="New York" target="Albany">
+<data key="key_weight">1267.79</data>
+</edge>
+<edge id="e2" source="New York" target="Boston">
+<data key="key_weight">3285.8</data>
+</edge>
+<edge id="e3" source="Moncton" target="Halifax">
+<data key="key_weight">189.58</data>
+</edge>
+<edge id="e4" source="Moncton" target="Edmundston">
+<data key="key_weight">302.75</data>
+</edge>
+<edge id="e5" source="Edmundston" target="Quebec">
+<data key="key_weight">227.52</data>
+</edge>
+<edge id="e6" source="Quebec" target="Montreal">
+<data key="key_weight">233.32</data>
+</edge>
+<edge id="e7" source="Montreal" target="Toronto">
+<data key="key_weight">503.34</data>
+</edge>
+<edge id="e8" source="Montreal" target="Albany">
+<data key="key_weight">773.67</data>
+</edge>
+<edge id="e9" source="Toronto" target="Buffalo">
+<data key="key_weight">2458.93</data>
+</edge>
+<edge id="e10" source="Buffalo" target="Albany">
+<data key="key_weight">3243.54</data>
+</edge>
+</graph></graphml>

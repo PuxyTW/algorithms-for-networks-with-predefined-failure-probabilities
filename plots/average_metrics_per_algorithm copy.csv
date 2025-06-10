@@ -1,0 +1,5 @@
+algorithm,runtime,success_rate,avg_stretch,avg_depth
+Beacon Nodes,7.7897,0.866,0.1716,0.55
+Global Controller,8.1785,0.826,0.0827,0.55
+PrioList,7.6863,0.892,0.1223,0.55
+Super Trees,8.2123,0.773,0.1515,0.62

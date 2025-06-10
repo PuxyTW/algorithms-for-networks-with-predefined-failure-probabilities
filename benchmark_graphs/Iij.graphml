@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Tokyo DC1"/>
+<node id="Tokyo DC2"/>
+<node id="Sendai DC"/>
+<node id="Saitama DC"/>
+<node id="Nerima DC"/>
+<node id="Yokohama DC1"/>
+<node id="Shibuya DC"/>
+<node id="Ikebukuro DC"/>
+<node id="Yokohama DC2"/>
+<node id="Nagoya DC"/>
+<node id="Newyork DC"/>
+<node id="Fukuoka DC"/>
+<node id="Shinsaibashi DC"/>
+<node id="Kyoto DC"/>
+<node id="Ashburn DC"/>
+<node id="LA DC"/>
+<node id="San Jose DC"/>
+<node id="PaloAlto DC"/>
+<node id="Okinawa"/>
+<node id="Sappora DC"/>
+<node id="Chiba"/>
+<node id="Tokyo"/>
+<node id="Toyama"/>
+<node id="Kanazawa"/>
+<node id="Hamamatsu"/>
+<node id="Osaka"/>
+<node id="Okayama"/>
+<node id="Hiroshima"/>
+<edge id="e1" source="Tokyo DC1" target="Shibuya DC">
+<data key="key_weight">12.14</data>
+</edge>
+<edge id="e2" source="Tokyo DC1" target="Tokyo">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e3" source="Tokyo DC2" target="Shibuya DC">
+<data key="key_weight">12.14</data>
+</edge>
+<edge id="e4" source="Tokyo DC2" target="Tokyo">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e5" source="Sendai DC" target="Shibuya DC">
+<data key="key_weight">968.54</data>
+</edge>
+<edge id="e6" source="Sendai DC" target="Tokyo">
+<data key="key_weight">956.4</data>
+</edge>
+<edge id="e7" source="Saitama DC" target="Shibuya DC">
+<data key="key_weight">28.2</data>
+</edge>
+<edge id="e8" source="Saitama DC" target="Tokyo">
+<data key="key_weight">33.31</data>
+</edge>
+<edge id="e9" source="Nerima DC" target="Shibuya DC">
+<data key="key_weight">9.78</data>
+</edge>
+<edge id="e10" source="Yokohama DC1" target="Shibuya DC">
+<data key="key_weight">24.01</data>
+</edge>
+<edge id="e11" source="Yokohama DC1" target="Tokyo">
+<data key="key_weight">19.39</data>
+</edge>
+<edge id="e12" source="Shibuya DC" target="Ikebukuro DC">
+<data key="key_weight">8.1</data>
+</edge>
+<edge id="e13" source="Shibuya DC" target="Yokohama DC2">
+<data key="key_weight">24.01</data>
+</edge>
+<edge id="e14" source="Shibuya DC" target="Nagoya DC">
+<data key="key_weight">259.12</data>
+</edge>
+<edge id="e15" source="Shibuya DC" target="Osaka">
+<data key="key_weight">396.81</data>
+</edge>
+<edge id="e16" source="Shibuya DC" target="Shinsaibashi DC">
+<data key="key_weight">397.58</data>
+</edge>
+<edge id="e17" source="Shibuya DC" target="LA DC">
+<data key="key_weight">10948.67</data>
+</edge>
+<edge id="e18" source="Shibuya DC" target="Sappora DC">
+<data key="key_weight">835.77</data>
+</edge>
+<edge id="e19" source="Shibuya DC" target="Chiba">
+<data key="key_weight">38.28</data>
+</edge>
+<edge id="e20" source="Shibuya DC" target="Tokyo">
+<data key="key_weight">12.14</data>
+</edge>
+<edge id="e21" source="Ikebukuro DC" target="Osaka">
+<data key="key_weight">399.48</data>
+</edge>
+<edge id="e22" source="Ikebukuro DC" target="Tokyo">
+<data key="key_weight">17.41</data>
+</edge>
+<edge id="e23" source="Yokohama DC2" target="Tokyo">
+<data key="key_weight">19.39</data>
+</edge>
+<edge id="e24" source="Nagoya DC" target="Hamamatsu">
+<data key="key_weight">92.48</data>
+</edge>
+<edge id="e25" source="Nagoya DC" target="Osaka">
+<data key="key_weight">139.05</data>
+</edge>
+<edge id="e26" source="Nagoya DC" target="Tokyo">
+<data key="key_weight">247.26</data>
+</edge>
+<edge id="e27" source="Newyork DC" target="LA DC">
+<data key="key_weight">1920.16</data>
+</edge>
+<edge id="e28" source="Newyork DC" target="San Jose DC">
+<data key="key_weight">4103.66</data>
+</edge>
+<edge id="e29" source="Newyork DC" target="Ashburn DC">
+<data key="key_weight">350.43</data>
+</edge>
+<edge id="e30" source="Fukuoka DC" target="Osaka">
+<data key="key_weight">483.29</data>
+</edge>
+<edge id="e31" source="Fukuoka DC" target="Okinawa">
+<data key="key_weight">846.97</data>
+</edge>
+<edge id="e32" source="Fukuoka DC" target="Shinsaibashi DC">
+<data key="key_weight">482.66</data>
+</edge>
+<edge id="e33" source="Shinsaibashi DC" target="Kanazawa">
+<data key="key_weight">236.47</data>
+</edge>
+<edge id="e34" source="Shinsaibashi DC" target="Osaka">
+<data key="key_weight">2.08</data>
+</edge>
+<edge id="e35" source="Shinsaibashi DC" target="Okayama">
+<data key="key_weight">143.2</data>
+</edge>
+<edge id="e36" source="Shinsaibashi DC" target="Hiroshima">
+<data key="key_weight">280.34</data>
+</edge>
+<edge id="e37" source="Shinsaibashi DC" target="Kyoto DC">
+<data key="key_weight">44.9</data>
+</edge>
+<edge id="e38" source="Shinsaibashi DC" target="Tokyo">
+<data key="key_weight">385.57</data>
+</edge>
+<edge id="e39" source="Kyoto DC" target="Osaka">
+<data key="key_weight">43.05</data>
+</edge>
+<edge id="e40" source="Ashburn DC" target="LA DC">
+<data key="key_weight">1569.73</data>
+</edge>
+<edge id="e41" source="Ashburn DC" target="San Jose DC">
+<data key="key_weight">3847.83</data>
+</edge>
+<edge id="e42" source="LA DC" target="Osaka">
+<data key="key_weight">11280.78</data>
+</edge>
+<edge id="e43" source="LA DC" target="San Jose DC">
+<data key="key_weight">2925.37</data>
+</edge>
+<edge id="e44" source="LA DC" target="PaloAlto DC">
+<data key="key_weight">2948.37</data>
+</edge>
+<edge id="e45" source="San Jose DC" target="PaloAlto DC">
+<data key="key_weight">24.71</data>
+</edge>
+<edge id="e46" source="San Jose DC" target="Tokyo">
+<data key="key_weight">8351.3</data>
+</edge>
+<edge id="e47" source="Sappora DC" target="Tokyo">
+<data key="key_weight">842.3</data>
+</edge>
+<edge id="e48" source="Chiba" target="Tokyo">
+<data key="key_weight">49.03</data>
+</edge>
+<edge id="e49" source="Tokyo" target="Osaka">
+<data key="key_weight">384.81</data>
+</edge>
+<edge id="e50" source="Tokyo" target="Hamamatsu">
+<data key="key_weight">196.45</data>
+</edge>
+<edge id="e51" source="Tokyo" target="Toyama">
+<data key="key_weight">244.4</data>
+</edge>
+<edge id="e52" source="Toyama" target="Kanazawa">
+<data key="key_weight">53.47</data>
+</edge>
+<edge id="e53" source="Osaka" target="Okayama">
+<data key="key_weight">143.39</data>
+</edge>
+<edge id="e54" source="Osaka" target="Hiroshima">
+<data key="key_weight">280.71</data>
+</edge>
+</graph></graphml>

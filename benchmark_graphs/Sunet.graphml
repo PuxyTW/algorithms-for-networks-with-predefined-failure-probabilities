@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Goteborg"/>
+<node id="Skovde"/>
+<node id="Orebro"/>
+<node id="Karlstad"/>
+<node id="Halmstad"/>
+<node id="Linkoping"/>
+<node id="Boras"/>
+<node id="Trollhattan"/>
+<node id="Jonkoping"/>
+<node id="Vaxjo"/>
+<node id="Lund"/>
+<node id="Kristianstad"/>
+<node id="Ronneby"/>
+<node id="Kalmar"/>
+<node id="Visby"/>
+<node id="Malmo"/>
+<node id="Stockholm"/>
+<node id="Vasten"/>
+<node id="Kiruna"/>
+<node id="Lulea"/>
+<node id="Umea"/>
+<node id="Sundsvall"/>
+<node id="Gavle"/>
+<node id="Borlange"/>
+<node id="Uppsala"/>
+<edge id="e1" source="Goteborg" target="Halmstad">
+<data key="key_weight">126.77</data>
+</edge>
+<edge id="e2" source="Goteborg" target="Boras">
+<data key="key_weight">57.85</data>
+</edge>
+<edge id="e3" source="Goteborg" target="Trollhattan">
+<data key="key_weight">66.87</data>
+</edge>
+<edge id="e4" source="Skovde" target="Orebro">
+<data key="key_weight">125.64</data>
+</edge>
+<edge id="e5" source="Skovde" target="Boras">
+<data key="key_weight">91.61</data>
+</edge>
+<edge id="e6" source="Skovde" target="Trollhattan">
+<data key="key_weight">91.65</data>
+</edge>
+<edge id="e7" source="Orebro" target="Borlange">
+<data key="key_weight">135.38</data>
+</edge>
+<edge id="e8" source="Orebro" target="Karlstad">
+<data key="key_weight">97.33</data>
+</edge>
+<edge id="e9" source="Orebro" target="Vasten">
+<data key="key_weight">836.05</data>
+</edge>
+<edge id="e10" source="Karlstad" target="Trollhattan">
+<data key="key_weight">140.5</data>
+</edge>
+<edge id="e11" source="Halmstad" target="Lund">
+<data key="key_weight">109.73</data>
+</edge>
+<edge id="e12" source="Linkoping" target="Stockholm">
+<data key="key_weight">173.74</data>
+</edge>
+<edge id="e13" source="Linkoping" target="Jonkoping">
+<data key="key_weight">111.18</data>
+</edge>
+<edge id="e14" source="Jonkoping" target="Vaxjo">
+<data key="key_weight">109.2</data>
+</edge>
+<edge id="e15" source="Vaxjo" target="Lund">
+<data key="key_weight">163.44</data>
+</edge>
+<edge id="e16" source="Vaxjo" target="Kalmar">
+<data key="key_weight">96.9</data>
+</edge>
+<edge id="e17" source="Lund" target="Malmo">
+<data key="key_weight">16.42</data>
+</edge>
+<edge id="e18" source="Kristianstad" target="Ronneby">
+<data key="key_weight">72.45</data>
+</edge>
+<edge id="e19" source="Kristianstad" target="Malmo">
+<data key="key_weight">86.13</data>
+</edge>
+<edge id="e20" source="Ronneby" target="Kalmar">
+<data key="key_weight">83.54</data>
+</edge>
+<edge id="e21" source="Visby" target="Stockholm">
+<data key="key_weight">188.64</data>
+</edge>
+<edge id="e22" source="Stockholm" target="Vasten">
+<data key="key_weight">769.93</data>
+</edge>
+<edge id="e23" source="Stockholm" target="Uppsala">
+<data key="key_weight">63.08</data>
+</edge>
+<edge id="e24" source="Kiruna" target="Lulea">
+<data key="key_weight">266.48</data>
+</edge>
+<edge id="e25" source="Lulea" target="Umea">
+<data key="key_weight">215.02</data>
+</edge>
+<edge id="e26" source="Umea" target="Sundsvall">
+<data key="key_weight">218.19</data>
+</edge>
+<edge id="e27" source="Sundsvall" target="Gavle">
+<data key="key_weight">191.15</data>
+</edge>
+<edge id="e28" source="Gavle" target="Borlange">
+<data key="key_weight">95.46</data>
+</edge>
+<edge id="e29" source="Gavle" target="Uppsala">
+<data key="key_weight">94.92</data>
+</edge>
+</graph></graphml>

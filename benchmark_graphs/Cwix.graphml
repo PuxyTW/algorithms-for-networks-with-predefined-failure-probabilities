@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Philadelphia"/>
+<node id="Pittsburgh"/>
+<node id="Richmond"/>
+<node id="Baltimore"/>
+<node id="Boston"/>
+<node id="Dallas"/>
+<node id="New York"/>
+<node id="Hartford"/>
+<node id="Houston"/>
+<node id="Atlanta"/>
+<node id="Fort Lauderdale"/>
+<node id="Orlando"/>
+<node id="Jacksonville"/>
+<node id="Raleigh"/>
+<node id="Tampa"/>
+<node id="Miami"/>
+<node id="Akron"/>
+<node id="Pittsburgh"/>
+<node id="San Francisco"/>
+<node id="Los Angeles"/>
+<node id="Denver"/>
+<node id="Kansas City"/>
+<node id="Chicago"/>
+<node id="Cleveland"/>
+<edge id="e1" source="Philadelphia" target="Pittsburgh">
+<data key="key_weight">414.05</data>
+</edge>
+<edge id="e2" source="Philadelphia" target="Baltimore">
+<data key="key_weight">144.29</data>
+</edge>
+<edge id="e3" source="Pittsburgh" target="New York">
+<data key="key_weight">506.84</data>
+</edge>
+<edge id="e4" source="Richmond" target="Baltimore">
+<data key="key_weight">206.81</data>
+</edge>
+<edge id="e5" source="Richmond" target="Raleigh">
+<data key="key_weight">224.32</data>
+</edge>
+<edge id="e6" source="Baltimore" target="Atlanta">
+<data key="key_weight">928.29</data>
+</edge>
+<edge id="e7" source="Baltimore" target="Pittsburgh">
+<data key="key_weight">315.91</data>
+</edge>
+<edge id="e8" source="Boston" target="New York">
+<data key="key_weight">305.93</data>
+</edge>
+<edge id="e9" source="Boston" target="Hartford">
+<data key="key_weight">149.63</data>
+</edge>
+<edge id="e10" source="Dallas" target="Houston">
+<data key="key_weight">362.81</data>
+</edge>
+<edge id="e11" source="Dallas" target="Atlanta">
+<data key="key_weight">1159.21</data>
+</edge>
+<edge id="e12" source="Dallas" target="Kansas City">
+<data key="key_weight">730.94</data>
+</edge>
+<edge id="e13" source="Dallas" target="Los Angeles">
+<data key="key_weight">1991.54</data>
+</edge>
+<edge id="e14" source="New York" target="Chicago">
+<data key="key_weight">1146.16</data>
+</edge>
+<edge id="e15" source="New York" target="Hartford">
+<data key="key_weight">160.71</data>
+</edge>
+<edge id="e16" source="New York" target="San Francisco">
+<data key="key_weight">4130.22</data>
+</edge>
+<edge id="e17" source="Atlanta" target="Tampa">
+<data key="key_weight">671.02</data>
+</edge>
+<edge id="e18" source="Fort Lauderdale" target="Tampa">
+<data key="key_weight">306.28</data>
+</edge>
+<edge id="e19" source="Fort Lauderdale" target="Miami">
+<data key="key_weight">39.04</data>
+</edge>
+<edge id="e20" source="Fort Lauderdale" target="Orlando">
+<data key="key_weight">295.16</data>
+</edge>
+<edge id="e21" source="Orlando" target="Jacksonville">
+<data key="key_weight">201.31</data>
+</edge>
+<edge id="e22" source="Jacksonville" target="Raleigh">
+<data key="key_weight">667.14</data>
+</edge>
+<edge id="e23" source="Akron" target="Pittsburgh">
+<data key="key_weight">146.78</data>
+</edge>
+<edge id="e24" source="Akron" target="Chicago">
+<data key="key_weight">517.99</data>
+</edge>
+<edge id="e25" source="Akron" target="Cleveland">
+<data key="key_weight">48.78</data>
+</edge>
+<edge id="e26" source="San Francisco" target="Denver">
+<data key="key_weight">1525.41</data>
+</edge>
+<edge id="e27" source="San Francisco" target="Los Angeles">
+<data key="key_weight">559.28</data>
+</edge>
+<edge id="e28" source="Denver" target="Kansas City">
+<data key="key_weight">892.06</data>
+</edge>
+<edge id="e29" source="Kansas City" target="Chicago">
+<data key="key_weight">663.81</data>
+</edge>
+</graph></graphml>

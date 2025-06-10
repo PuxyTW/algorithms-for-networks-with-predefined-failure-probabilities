@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="New York"/>
+<node id="Chicago"/>
+<node id="Washington DC"/>
+<node id="Seattle"/>
+<node id="Sunnyvale"/>
+<node id="Los Angeles"/>
+<node id="Denver"/>
+<node id="Kansas City"/>
+<node id="Houston"/>
+<node id="Atlanta"/>
+<node id="Indianapolis"/>
+<edge id="e1" source="New York" target="Chicago">
+<data key="key_weight">1146.16</data>
+</edge>
+<edge id="e2" source="New York" target="Washington DC">
+<data key="key_weight">328.58</data>
+</edge>
+<edge id="e3" source="Chicago" target="Indianapolis">
+<data key="key_weight">263.4</data>
+</edge>
+<edge id="e4" source="Washington DC" target="Atlanta">
+<data key="key_weight">872.17</data>
+</edge>
+<edge id="e5" source="Seattle" target="Sunnyvale">
+<data key="key_weight">1138.92</data>
+</edge>
+<edge id="e6" source="Seattle" target="Denver">
+<data key="key_weight">1641.58</data>
+</edge>
+<edge id="e7" source="Sunnyvale" target="Los Angeles">
+<data key="key_weight">503.3</data>
+</edge>
+<edge id="e8" source="Sunnyvale" target="Denver">
+<data key="key_weight">1504.02</data>
+</edge>
+<edge id="e9" source="Los Angeles" target="Houston">
+<data key="key_weight">2207.38</data>
+</edge>
+<edge id="e10" source="Denver" target="Kansas City">
+<data key="key_weight">892.06</data>
+</edge>
+<edge id="e11" source="Kansas City" target="Houston">
+<data key="key_weight">1042.24</data>
+</edge>
+<edge id="e12" source="Kansas City" target="Indianapolis">
+<data key="key_weight">730.85</data>
+</edge>
+<edge id="e13" source="Houston" target="Atlanta">
+<data key="key_weight">1127.88</data>
+</edge>
+<edge id="e14" source="Atlanta" target="Indianapolis">
+<data key="key_weight">687.8</data>
+</edge>
+</graph></graphml>

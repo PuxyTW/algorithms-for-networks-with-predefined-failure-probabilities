@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Washington CDC"/>
+<node id="New York"/>
+<node id="Atlanta"/>
+<node id="Miami"/>
+<node id="Boston"/>
+<node id="London"/>
+<node id="Philadelphia"/>
+<node id="Baltimore"/>
+<node id="Amsterdam"/>
+<node id="Frankfurt"/>
+<node id="Houston"/>
+<node id="Paris"/>
+<node id="Dallas"/>
+<node id="Austin"/>
+<node id="Seattle"/>
+<node id="Portland"/>
+<node id="Tokyo"/>
+<node id="San Francisco"/>
+<node id="Los Angeles"/>
+<node id="Phoenix"/>
+<node id="Denver"/>
+<node id="Chicago"/>
+<edge id="e1" source="Washington CDC" target="Atlanta">
+<data key="key_weight">872.17</data>
+</edge>
+<edge id="e2" source="Washington CDC" target="Boston">
+<data key="key_weight">634.5</data>
+</edge>
+<edge id="e3" source="Washington CDC" target="London">
+<data key="key_weight">5900.22</data>
+</edge>
+<edge id="e4" source="Washington CDC" target="Baltimore">
+<data key="key_weight">57.22</data>
+</edge>
+<edge id="e5" source="New York" target="Amsterdam">
+<data key="key_weight">5863.59</data>
+</edge>
+<edge id="e6" source="New York" target="Philadelphia">
+<data key="key_weight">129.69</data>
+</edge>
+<edge id="e7" source="New York" target="Boston">
+<data key="key_weight">305.93</data>
+</edge>
+<edge id="e8" source="New York" target="London">
+<data key="key_weight">5571.79</data>
+</edge>
+<edge id="e9" source="New York" target="Chicago">
+<data key="key_weight">1146.16</data>
+</edge>
+<edge id="e10" source="Atlanta" target="Houston">
+<data key="key_weight">1127.88</data>
+</edge>
+<edge id="e11" source="Atlanta" target="Miami">
+<data key="key_weight">974.8</data>
+</edge>
+<edge id="e12" source="Miami" target="Houston">
+<data key="key_weight">1556.04</data>
+</edge>
+<edge id="e13" source="London" target="Paris">
+<data key="key_weight">343.87</data>
+</edge>
+<edge id="e14" source="London" target="Amsterdam">
+<data key="key_weight">357.03</data>
+</edge>
+<edge id="e15" source="Philadelphia" target="Baltimore">
+<data key="key_weight">144.29</data>
+</edge>
+<edge id="e16" source="Amsterdam" target="Frankfurt">
+<data key="key_weight">364.34</data>
+</edge>
+<edge id="e17" source="Frankfurt" target="Paris">
+<data key="key_weight">478.63</data>
+</edge>
+<edge id="e18" source="Houston" target="Phoenix">
+<data key="key_weight">1633.12</data>
+</edge>
+<edge id="e19" source="Houston" target="Dallas">
+<data key="key_weight">362.81</data>
+</edge>
+<edge id="e20" source="Houston" target="Austin">
+<data key="key_weight">235.94</data>
+</edge>
+<edge id="e21" source="Dallas" target="Austin">
+<data key="key_weight">293.58</data>
+</edge>
+<edge id="e22" source="Seattle" target="Portland">
+<data key="key_weight">233.15</data>
+</edge>
+<edge id="e23" source="Seattle" target="Chicago">
+<data key="key_weight">2789.45</data>
+</edge>
+<edge id="e24" source="Portland" target="San Francisco">
+<data key="key_weight">862.1</data>
+</edge>
+<edge id="e25" source="Tokyo" target="San Francisco">
+<data key="key_weight">8285.99</data>
+</edge>
+<edge id="e26" source="San Francisco" target="Los Angeles">
+<data key="key_weight">559.28</data>
+</edge>
+<edge id="e27" source="San Francisco" target="Denver">
+<data key="key_weight">1525.41</data>
+</edge>
+<edge id="e28" source="Los Angeles" target="Phoenix">
+<data key="key_weight">574.42</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Bratislava"/>
+<node id="Vienna"/>
+<node id="Praha"/>
+<node id="Rotterdam"/>
+<node id="Roma"/>
+<node id="Budapest"/>
+<node id="Ljubjana"/>
+<node id="Zagreb"/>
+<node id="Bucharest"/>
+<node id="Istanbul"/>
+<node id="Vaduz"/>
+<node id="Strasbourg"/>
+<node id="Luxembourg"/>
+<node id="Zurich"/>
+<node id="Brussels"/>
+<node id="Geneva"/>
+<node id="Milan"/>
+<node id="Athens"/>
+<node id="Sofia"/>
+<node id="Frankfurt"/>
+<node id="Amsterdam"/>
+<node id="London"/>
+<node id="Paris"/>
+<node id="Stockholm"/>
+<node id="Warsaw"/>
+<node id="Kiev"/>
+<node id="Dublin"/>
+<node id="Lisbon"/>
+<node id="Madrid"/>
+<node id="Barcelona"/>
+<node id="Marseille"/>
+<node id="Lyon"/>
+<node id="Basel"/>
+<edge id="e1" source="Bratislava" target="Vienna">
+<data key="key_weight">54.9</data>
+</edge>
+<edge id="e2" source="Bratislava" target="Praha">
+<data key="key_weight">291.15</data>
+</edge>
+<edge id="e3" source="Bratislava" target="Budapest">
+<data key="key_weight">161.46</data>
+</edge>
+<edge id="e4" source="Vienna" target="Milan">
+<data key="key_weight">625.6</data>
+</edge>
+<edge id="e5" source="Vienna" target="Frankfurt">
+<data key="key_weight">597.8</data>
+</edge>
+<edge id="e6" source="Praha" target="Warsaw">
+<data key="key_weight">517.55</data>
+</edge>
+<edge id="e7" source="Praha" target="Frankfurt">
+<data key="key_weight">409.23</data>
+</edge>
+<edge id="e8" source="Rotterdam" target="Amsterdam">
+<data key="key_weight">57.51</data>
+</edge>
+<edge id="e9" source="Rotterdam" target="Brussels">
+<data key="key_weight">119.58</data>
+</edge>
+<edge id="e10" source="Roma" target="Milan">
+<data key="key_weight">477.24</data>
+</edge>
+<edge id="e11" source="Roma" target="Zurich">
+<data key="key_weight">683.43</data>
+</edge>
+<edge id="e12" source="Budapest" target="Bucharest">
+<data key="key_weight">643.62</data>
+</edge>
+<edge id="e13" source="Budapest" target="Sofia">
+<data key="key_weight">630.83</data>
+</edge>
+<edge id="e14" source="Budapest" target="Zagreb">
+<data key="key_weight">299.47</data>
+</edge>
+<edge id="e15" source="Ljubjana" target="Zagreb">
+<data key="key_weight">116.94</data>
+</edge>
+<edge id="e16" source="Bucharest" target="Kiev">
+<data key="key_weight">747.42</data>
+</edge>
+<edge id="e17" source="Bucharest" target="Istanbul">
+<data key="key_weight">445.52</data>
+</edge>
+<edge id="e18" source="Istanbul" target="Athens">
+<data key="key_weight">561.67</data>
+</edge>
+<edge id="e19" source="Vaduz" target="Zurich">
+<data key="key_weight">77.5</data>
+</edge>
+<edge id="e20" source="Strasbourg" target="Basel">
+<data key="key_weight">113.63</data>
+</edge>
+<edge id="e21" source="Strasbourg" target="Frankfurt">
+<data key="key_weight">183.46</data>
+</edge>
+<edge id="e22" source="Strasbourg" target="Luxembourg">
+<data key="key_weight">164.32</data>
+</edge>
+<edge id="e23" source="Luxembourg" target="Brussels">
+<data key="key_weight">187.2</data>
+</edge>
+<edge id="e24" source="Zurich" target="Milan">
+<data key="key_weight">217.2</data>
+</edge>
+<edge id="e25" source="Zurich" target="Frankfurt">
+<data key="key_weight">306.03</data>
+</edge>
+<edge id="e26" source="Zurich" target="Geneva">
+<data key="key_weight">224.27</data>
+</edge>
+<edge id="e27" source="Brussels" target="Frankfurt">
+<data key="key_weight">317.39</data>
+</edge>
+<edge id="e28" source="Brussels" target="Amsterdam">
+<data key="key_weight">173.53</data>
+</edge>
+<edge id="e29" source="Brussels" target="London">
+<data key="key_weight">320.4</data>
+</edge>
+<edge id="e30" source="Brussels" target="Paris">
+<data key="key_weight">264.38</data>
+</edge>
+<edge id="e31" source="Geneva" target="Basel">
+<data key="key_weight">187.75</data>
+</edge>
+<edge id="e32" source="Geneva" target="Paris">
+<data key="key_weight">410.11</data>
+</edge>
+<edge id="e33" source="Geneva" target="Lyon">
+<data key="key_weight">112.07</data>
+</edge>
+<edge id="e34" source="Milan" target="Marseille">
+<data key="key_weight">386.92</data>
+</edge>
+<edge id="e35" source="Athens" target="Sofia">
+<data key="key_weight">525.82</data>
+</edge>
+<edge id="e36" source="Frankfurt" target="Amsterdam">
+<data key="key_weight">364.34</data>
+</edge>
+<edge id="e37" source="Frankfurt" target="Stockholm">
+<data key="key_weight">1186.53</data>
+</edge>
+<edge id="e38" source="Frankfurt" target="Warsaw">
+<data key="key_weight">890.04</data>
+</edge>
+<edge id="e39" source="Amsterdam" target="London">
+<data key="key_weight">357.03</data>
+</edge>
+<edge id="e40" source="London" target="Dublin">
+<data key="key_weight">463.67</data>
+</edge>
+<edge id="e41" source="London" target="Lisbon">
+<data key="key_weight">1585.99</data>
+</edge>
+<edge id="e42" source="London" target="Paris">
+<data key="key_weight">343.87</data>
+</edge>
+<edge id="e43" source="Paris" target="Madrid">
+<data key="key_weight">1052.74</data>
+</edge>
+<edge id="e44" source="Paris" target="Lyon">
+<data key="key_weight">393.32</data>
+</edge>
+<edge id="e45" source="Warsaw" target="Kiev">
+<data key="key_weight">689.16</data>
+</edge>
+<edge id="e46" source="Madrid" target="Barcelona">
+<data key="key_weight">504.38</data>
+</edge>
+<edge id="e47" source="Barcelona" target="Marseille">
+<data key="key_weight">339.38</data>
+</edge>
+<edge id="e48" source="Marseille" target="Lyon">
+<data key="key_weight">276.07</data>
+</edge>
+</graph></graphml>

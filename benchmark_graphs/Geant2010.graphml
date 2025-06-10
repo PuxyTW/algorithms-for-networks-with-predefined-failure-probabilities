@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="NL"/>
+<node id="BE"/>
+<node id="DK"/>
+<node id="PL"/>
+<node id="DE"/>
+<node id="CZ"/>
+<node id="LU"/>
+<node id="FR"/>
+<node id="CH"/>
+<node id="IT"/>
+<node id="BG"/>
+<node id="RO"/>
+<node id="TR"/>
+<node id="GR"/>
+<node id="CY"/>
+<node id="IL"/>
+<node id="MT"/>
+<node id="MK"/>
+<node id="ME"/>
+<node id="HU"/>
+<node id="SK"/>
+<node id="PT"/>
+<node id="ES"/>
+<node id="RS"/>
+<node id="HR"/>
+<node id="SL"/>
+<node id="AT"/>
+<node id="LT"/>
+<node id="RU"/>
+<node id="IS"/>
+<node id="IE"/>
+<node id="UK"/>
+<node id="NO"/>
+<node id="SE"/>
+<node id="FI"/>
+<node id="EE"/>
+<node id="LV"/>
+<edge id="e1" source="NL" target="BE">
+<data key="key_weight">173.53</data>
+</edge>
+<edge id="e2" source="NL" target="DK">
+<data key="key_weight">621.04</data>
+</edge>
+<edge id="e3" source="NL" target="DE">
+<data key="key_weight">364.34</data>
+</edge>
+<edge id="e4" source="BE" target="UK">
+<data key="key_weight">320.4</data>
+</edge>
+<edge id="e5" source="DK" target="SE">
+<data key="key_weight">522.53</data>
+</edge>
+<edge id="e6" source="DK" target="EE">
+<data key="key_weight">837.18</data>
+</edge>
+<edge id="e7" source="DK" target="DE">
+<data key="key_weight">670.71</data>
+</edge>
+<edge id="e8" source="DK" target="NO">
+<data key="key_weight">718.59</data>
+</edge>
+<edge id="e9" source="DK" target="RU">
+<data key="key_weight">1560.99</data>
+</edge>
+<edge id="e10" source="DK" target="IS">
+<data key="key_weight">2104.79</data>
+</edge>
+<edge id="e11" source="PL" target="LT">
+<data key="key_weight">533.63</data>
+</edge>
+<edge id="e12" source="PL" target="DE">
+<data key="key_weight">630.2</data>
+</edge>
+<edge id="e13" source="PL" target="CZ">
+<data key="key_weight">313.8</data>
+</edge>
+<edge id="e14" source="DE" target="CZ">
+<data key="key_weight">409.23</data>
+</edge>
+<edge id="e15" source="DE" target="LU">
+<data key="key_weight">191.48</data>
+</edge>
+<edge id="e16" source="DE" target="CH">
+<data key="key_weight">363.98</data>
+</edge>
+<edge id="e17" source="DE" target="IL">
+<data key="key_weight">2988.24</data>
+</edge>
+<edge id="e18" source="DE" target="AT">
+<data key="key_weight">597.8</data>
+</edge>
+<edge id="e19" source="DE" target="RU">
+<data key="key_weight">2021.13</data>
+</edge>
+<edge id="e20" source="CZ" target="SK">
+<data key="key_weight">291.15</data>
+</edge>
+<edge id="e21" source="LU" target="FR">
+<data key="key_weight">287.25</data>
+</edge>
+<edge id="e22" source="FR" target="CH">
+<data key="key_weight">435.14</data>
+</edge>
+<edge id="e23" source="FR" target="ES">
+<data key="key_weight">1052.74</data>
+</edge>
+<edge id="e24" source="FR" target="UK">
+<data key="key_weight">343.87</data>
+</edge>
+<edge id="e25" source="CH" target="IT">
+<data key="key_weight">212.64</data>
+</edge>
+<edge id="e26" source="CH" target="ES">
+<data key="key_weight">1152.25</data>
+</edge>
+<edge id="e27" source="IT" target="GR">
+<data key="key_weight">1461.84</data>
+</edge>
+<edge id="e28" source="IT" target="CY">
+<data key="key_weight">2335.39</data>
+</edge>
+<edge id="e29" source="IT" target="MT">
+<data key="key_weight">1150.22</data>
+</edge>
+<edge id="e30" source="IT" target="ES">
+<data key="key_weight">1188.46</data>
+</edge>
+<edge id="e31" source="IT" target="AT">
+<data key="key_weight">625.6</data>
+</edge>
+<edge id="e32" source="BG" target="RO">
+<data key="key_weight">295.78</data>
+</edge>
+<edge id="e33" source="BG" target="MK">
+<data key="key_weight">173.71</data>
+</edge>
+<edge id="e34" source="BG" target="HU">
+<data key="key_weight">630.83</data>
+</edge>
+<edge id="e35" source="BG" target="TR">
+<data key="key_weight">1054.03</data>
+</edge>
+<edge id="e36" source="BG" target="GR">
+<data key="key_weight">525.82</data>
+</edge>
+<edge id="e37" source="RO" target="HU">
+<data key="key_weight">643.62</data>
+</edge>
+<edge id="e38" source="RO" target="TR">
+<data key="key_weight">943.05</data>
+</edge>
+<edge id="e39" source="GR" target="AT">
+<data key="key_weight">1283.2</data>
+</edge>
+<edge id="e40" source="GR" target="CY">
+<data key="key_weight">916.49</data>
+</edge>
+<edge id="e41" source="IL" target="UK">
+<data key="key_weight">3603.73</data>
+</edge>
+<edge id="e42" source="ME" target="HR">
+<data key="key_weight">457.71</data>
+</edge>
+<edge id="e43" source="HU" target="HR">
+<data key="key_weight">299.47</data>
+</edge>
+<edge id="e44" source="HU" target="SK">
+<data key="key_weight">161.46</data>
+</edge>
+<edge id="e45" source="HU" target="RS">
+<data key="key_weight">319.12</data>
+</edge>
+<edge id="e46" source="SK" target="AT">
+<data key="key_weight">54.9</data>
+</edge>
+<edge id="e47" source="PT" target="ES">
+<data key="key_weight">502.45</data>
+</edge>
+<edge id="e48" source="PT" target="UK">
+<data key="key_weight">1585.99</data>
+</edge>
+<edge id="e49" source="HR" target="SL">
+<data key="key_weight">116.94</data>
+</edge>
+<edge id="e50" source="SL" target="AT">
+<data key="key_weight">278.44</data>
+</edge>
+<edge id="e51" source="LT" target="LV">
+<data key="key_weight">227.93</data>
+</edge>
+<edge id="e52" source="IS" target="UK">
+<data key="key_weight">1887.68</data>
+</edge>
+<edge id="e53" source="IE" target="UK">
+<data key="key_weight">463.67</data>
+</edge>
+<edge id="e54" source="NO" target="SE">
+<data key="key_weight">529.65</data>
+</edge>
+<edge id="e55" source="SE" target="FI">
+<data key="key_weight">265.45</data>
+</edge>
+<edge id="e56" source="EE" target="LV">
+<data key="key_weight">279.65</data>
+</edge>
+</graph></graphml>

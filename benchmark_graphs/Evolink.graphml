@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Shumen"/>
+<node id="Silistra"/>
+<node id="Razgrad"/>
+<node id="Turgovishte"/>
+<node id="Yambol"/>
+<node id="Sliven"/>
+<node id="Dobrich"/>
+<node id="Burgas"/>
+<node id="St Zagora"/>
+<node id="Gabrovo"/>
+<node id="Kurjiali"/>
+<node id="Varna"/>
+<node id="Plovdiv"/>
+<node id="Sofia"/>
+<node id="Kap Andreevo"/>
+<node id="Haskovo"/>
+<node id="Karlovo"/>
+<node id="Kiustendil"/>
+<node id="Pennik"/>
+<node id="Sevlievo"/>
+<node id="V Turnovo"/>
+<node id="Pazardjik"/>
+<node id="Smolian"/>
+<node id="Petrich"/>
+<node id="Blagoevgrad"/>
+<node id="Ruse"/>
+<node id="Vidin"/>
+<node id="Kozloduj"/>
+<node id="Montana"/>
+<node id="Vraca"/>
+<node id="Pleven"/>
+<node id="Lovech"/>
+<edge id="e1" source="Shumen" target="Turgovishte">
+<data key="key_weight">27.06</data>
+</edge>
+<edge id="e2" source="Shumen" target="Dobrich">
+<data key="key_weight">80.59</data>
+</edge>
+<edge id="e3" source="Silistra" target="Dobrich">
+<data key="key_weight">76.22</data>
+</edge>
+<edge id="e4" source="Razgrad" target="Turgovishte">
+<data key="key_weight">31.05</data>
+</edge>
+<edge id="e5" source="Razgrad" target="Ruse">
+<data key="key_weight">56.73</data>
+</edge>
+<edge id="e6" source="Yambol" target="Sliven">
+<data key="key_weight">26.51</data>
+</edge>
+<edge id="e7" source="Yambol" target="Burgas">
+<data key="key_weight">79.41</data>
+</edge>
+<edge id="e8" source="Sliven" target="St Zagora">
+<data key="key_weight">62.95</data>
+</edge>
+<edge id="e9" source="Dobrich" target="Varna">
+<data key="key_weight">39.51</data>
+</edge>
+<edge id="e10" source="Burgas" target="Varna">
+<data key="key_weight">87.1</data>
+</edge>
+<edge id="e11" source="Burgas" target="Sofia">
+<data key="key_weight">339.88</data>
+</edge>
+<edge id="e12" source="St Zagora" target="Haskovo">
+<data key="key_weight">55.1</data>
+</edge>
+<edge id="e13" source="St Zagora" target="Plovdiv">
+<data key="key_weight">79.84</data>
+</edge>
+<edge id="e14" source="St Zagora" target="Sofia">
+<data key="key_weight">192.13</data>
+</edge>
+<edge id="e15" source="St Zagora" target="Gabrovo">
+<data key="key_weight">55.23</data>
+</edge>
+<edge id="e16" source="Kurjiali" target="Haskovo">
+<data key="key_weight">36.4</data>
+</edge>
+<edge id="e17" source="Varna" target="Sofia">
+<data key="key_weight">378.23</data>
+</edge>
+<edge id="e18" source="Plovdiv" target="Sofia">
+<data key="key_weight">131.96</data>
+</edge>
+<edge id="e19" source="Plovdiv" target="Kap Andreevo">
+<data key="key_weight">138.3</data>
+</edge>
+<edge id="e20" source="Plovdiv" target="Haskovo">
+<data key="key_weight">71.59</data>
+</edge>
+<edge id="e21" source="Plovdiv" target="Pazardjik">
+<data key="key_weight">34.79</data>
+</edge>
+<edge id="e22" source="Plovdiv" target="Smolian">
+<data key="key_weight">63.0</data>
+</edge>
+<edge id="e23" source="Sofia" target="Vraca">
+<data key="key_weight">60.21</data>
+</edge>
+<edge id="e24" source="Sofia" target="Karlovo">
+<data key="key_weight">120.92</data>
+</edge>
+<edge id="e25" source="Sofia" target="Kiustendil">
+<data key="key_weight">69.37</data>
+</edge>
+<edge id="e26" source="Sofia" target="Pennik">
+<data key="key_weight">26.15</data>
+</edge>
+<edge id="e27" source="Sofia" target="Sevlievo">
+<data key="key_weight">150.39</data>
+</edge>
+<edge id="e28" source="Sofia" target="Pazardjik">
+<data key="key_weight">99.61</data>
+</edge>
+<edge id="e29" source="Sofia" target="Blagoevgrad">
+<data key="key_weight">77.94</data>
+</edge>
+<edge id="e30" source="V Turnovo" target="Lovech">
+<data key="key_weight">74.31</data>
+</edge>
+<edge id="e31" source="V Turnovo" target="Ruse">
+<data key="key_weight">90.52</data>
+</edge>
+<edge id="e32" source="Petrich" target="Blagoevgrad">
+<data key="key_weight">69.27</data>
+</edge>
+<edge id="e33" source="Vidin" target="Montana">
+<data key="key_weight">70.21</data>
+</edge>
+<edge id="e34" source="Kozloduj" target="Montana">
+<data key="key_weight">58.12</data>
+</edge>
+<edge id="e35" source="Montana" target="Vraca">
+<data key="key_weight">35.4</data>
+</edge>
+<edge id="e36" source="Montana" target="Pleven">
+<data key="key_weight">112.44</data>
+</edge>
+<edge id="e37" source="Pleven" target="Lovech">
+<data key="key_weight">32.54</data>
+</edge>
+</graph></graphml>

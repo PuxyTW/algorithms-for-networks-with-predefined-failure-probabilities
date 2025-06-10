@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Portsmouth"/>
+<node id="Dover"/>
+<node id="Biddeford"/>
+<node id="Sanford"/>
+<node id="Boston"/>
+<node id="Framingham"/>
+<node id="Manchester"/>
+<node id="Keene"/>
+<node id="Worcester"/>
+<node id="Springfield"/>
+<node id="Bangor"/>
+<node id="Portland"/>
+<node id="Turner"/>
+<node id="Bethel"/>
+<node id="Norway"/>
+<node id="Standish"/>
+<node id="Buckfield"/>
+<node id="Augusta"/>
+<node id="Lewiston"/>
+<node id="Augusta"/>
+<edge id="e1" source="Portsmouth" target="Portland">
+<data key="key_weight">77.36</data>
+</edge>
+<edge id="e2" source="Portsmouth" target="Sanford">
+<data key="key_weight">40.89</data>
+</edge>
+<edge id="e3" source="Portsmouth" target="Manchester">
+<data key="key_weight">56.91</data>
+</edge>
+<edge id="e4" source="Dover" target="Portland">
+<data key="key_weight">71.79</data>
+</edge>
+<edge id="e5" source="Dover" target="Keene">
+<data key="key_weight">117.85</data>
+</edge>
+<edge id="e6" source="Biddeford" target="Portland">
+<data key="key_weight">24.65</data>
+</edge>
+<edge id="e7" source="Biddeford" target="Sanford">
+<data key="key_weight">26.57</data>
+</edge>
+<edge id="e8" source="Boston" target="Framingham">
+<data key="key_weight">30.61</data>
+</edge>
+<edge id="e9" source="Boston" target="Manchester">
+<data key="key_weight">77.89</data>
+</edge>
+<edge id="e10" source="Framingham" target="Worcester">
+<data key="key_weight">31.83</data>
+</edge>
+<edge id="e11" source="Keene" target="Springfield">
+<data key="key_weight">96.03</data>
+</edge>
+<edge id="e12" source="Worcester" target="Springfield">
+<data key="key_weight">67.34</data>
+</edge>
+<edge id="e13" source="Bangor" target="Lewiston">
+<data key="key_weight">138.18</data>
+</edge>
+<edge id="e14" source="Bangor" target="Augusta">
+<data key="key_weight">96.33</data>
+</edge>
+<edge id="e15" source="Portland" target="Lewiston">
+<data key="key_weight">48.92</data>
+</edge>
+<edge id="e16" source="Portland" target="Standish">
+<data key="key_weight">25.25</data>
+</edge>
+<edge id="e17" source="Turner" target="Augusta">
+<data key="key_weight">38.43</data>
+</edge>
+<edge id="e18" source="Turner" target="Bethel">
+<data key="key_weight">45.59</data>
+</edge>
+<edge id="e19" source="Bethel" target="Norway">
+<data key="key_weight">28.82</data>
+</edge>
+<edge id="e20" source="Norway" target="Buckfield">
+<data key="key_weight">16.58</data>
+</edge>
+<edge id="e21" source="Norway" target="Standish">
+<data key="key_weight">53.17</data>
+</edge>
+<edge id="e22" source="Standish" target="Buckfield">
+<data key="key_weight">63.36</data>
+</edge>
+<edge id="e23" source="Buckfield" target="Augusta">
+<data key="key_weight">46.69</data>
+</edge>
+<edge id="e24" source="Augusta" target="Lewiston">
+<data key="key_weight">41.85</data>
+</edge>
+<edge id="e25" source="Augusta" target="Augusta">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e26" source="Lewiston" target="Augusta">
+<data key="key_weight">41.85</data>
+</edge>
+</graph></graphml>

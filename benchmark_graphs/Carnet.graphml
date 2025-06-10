@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Stara Gradnifska"/>
+<node id="Kutina"/>
+<node id="Slavonski"/>
+<node id="Pozega"/>
+<node id="Gorica"/>
+<node id="Karlovac"/>
+<node id="Sisak"/>
+<node id="Petrinja"/>
+<node id="Jastrebarsko"/>
+<node id="Hvar"/>
+<node id="Dubrovnik"/>
+<node id="Rovinj"/>
+<node id="Visnjan"/>
+<node id="Opatija"/>
+<node id="Porec"/>
+<node id="Buje"/>
+<node id="Zadar"/>
+<node id="Zenumik D"/>
+<node id="Knin"/>
+<node id="Trogic"/>
+<node id="Pucisca"/>
+<node id="Solin"/>
+<node id="Sibenik"/>
+<node id="Pula"/>
+<node id="M. Losinj"/>
+<node id="Rijeka"/>
+<node id="Split"/>
+<node id="Cakovec"/>
+<node id="Gospic"/>
+<node id="Otocac"/>
+<node id="Vinkovci"/>
+<node id="Vukovar"/>
+<node id="Dakovo"/>
+<node id="Zagreb"/>
+<node id="Zabresic"/>
+<node id="Samobor"/>
+<node id="Varazdin"/>
+<node id="Krizevci"/>
+<node id="Bjelovar"/>
+<node id="Virovitica"/>
+<node id="Osijek"/>
+<edge id="e1" source="Stara Gradnifska" target="Zagreb">
+<data key="key_weight">123.58</data>
+</edge>
+<edge id="e2" source="Kutina" target="Zagreb">
+<data key="key_weight">73.03</data>
+</edge>
+<edge id="e3" source="Slavonski" target="Osijek">
+<data key="key_weight">68.56</data>
+</edge>
+<edge id="e4" source="Pozega" target="Osijek">
+<data key="key_weight">82.13</data>
+</edge>
+<edge id="e5" source="Gorica" target="Zagreb">
+<data key="key_weight">13.63</data>
+</edge>
+<edge id="e6" source="Karlovac" target="Zagreb">
+<data key="key_weight">49.43</data>
+</edge>
+<edge id="e7" source="Sisak" target="Zagreb">
+<data key="key_weight">49.7</data>
+</edge>
+<edge id="e8" source="Sisak" target="Petrinja">
+<data key="key_weight">7.59</data>
+</edge>
+<edge id="e9" source="Jastrebarsko" target="Zagreb">
+<data key="key_weight">30.29</data>
+</edge>
+<edge id="e10" source="Hvar" target="Split">
+<data key="key_weight">37.42</data>
+</edge>
+<edge id="e11" source="Dubrovnik" target="Split">
+<data key="key_weight">164.93</data>
+</edge>
+<edge id="e12" source="Rovinj" target="Pula">
+<data key="key_weight">28.68</data>
+</edge>
+<edge id="e13" source="Visnjan" target="Rijeka">
+<data key="key_weight">54.35</data>
+</edge>
+<edge id="e14" source="Opatija" target="Rijeka">
+<data key="key_weight">7.9</data>
+</edge>
+<edge id="e15" source="Porec" target="Rijeka">
+<data key="key_weight">65.12</data>
+</edge>
+<edge id="e16" source="Buje" target="Rijeka">
+<data key="key_weight">58.85</data>
+</edge>
+<edge id="e17" source="Zadar" target="Zenumik D">
+<data key="key_weight">11.14</data>
+</edge>
+<edge id="e18" source="Zadar" target="Split">
+<data key="key_weight">117.66</data>
+</edge>
+<edge id="e19" source="Knin" target="Split">
+<data key="key_weight">62.53</data>
+</edge>
+<edge id="e20" source="Trogic" target="Split">
+<data key="key_weight">15.13</data>
+</edge>
+<edge id="e21" source="Pucisca" target="Split">
+<data key="key_weight">29.8</data>
+</edge>
+<edge id="e22" source="Solin" target="Split">
+<data key="key_weight">6.71</data>
+</edge>
+<edge id="e23" source="Sibenik" target="Split">
+<data key="key_weight">49.33</data>
+</edge>
+<edge id="e24" source="Pula" target="Rijeka">
+<data key="key_weight">68.76</data>
+</edge>
+<edge id="e25" source="M. Losinj" target="Rijeka">
+<data key="key_weight">90.49</data>
+</edge>
+<edge id="e26" source="Rijeka" target="Zagreb">
+<data key="key_weight">132.91</data>
+</edge>
+<edge id="e27" source="Rijeka" target="Gospic">
+<data key="key_weight">116.77</data>
+</edge>
+<edge id="e28" source="Rijeka" target="Otocac">
+<data key="key_weight">83.69</data>
+</edge>
+<edge id="e29" source="Split" target="Zagreb">
+<data key="key_weight">259.02</data>
+</edge>
+<edge id="e30" source="Cakovec" target="Varazdin">
+<data key="key_weight">11.56</data>
+</edge>
+<edge id="e31" source="Vinkovci" target="Vukovar">
+<data key="key_weight">16.43</data>
+</edge>
+<edge id="e32" source="Vukovar" target="Osijek">
+<data key="key_weight">33.22</data>
+</edge>
+<edge id="e33" source="Dakovo" target="Osijek">
+<data key="key_weight">34.9</data>
+</edge>
+<edge id="e34" source="Zagreb" target="Virovitica">
+<data key="key_weight">108.99</data>
+</edge>
+<edge id="e35" source="Zagreb" target="Osijek">
+<data key="key_weight">213.05</data>
+</edge>
+<edge id="e36" source="Zagreb" target="Krizevci">
+<data key="key_weight">49.4</data>
+</edge>
+<edge id="e37" source="Zagreb" target="Bjelovar">
+<data key="key_weight">68.11</data>
+</edge>
+<edge id="e38" source="Zagreb" target="Varazdin">
+<data key="key_weight">61.17</data>
+</edge>
+<edge id="e39" source="Zagreb" target="Samobor">
+<data key="key_weight">20.19</data>
+</edge>
+<edge id="e40" source="Zagreb" target="Zabresic">
+<data key="key_weight">13.99</data>
+</edge>
+</graph></graphml>

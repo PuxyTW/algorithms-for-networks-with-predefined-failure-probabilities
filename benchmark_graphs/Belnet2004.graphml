@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Geel"/>
+<node id="Antwerpen"/>
+<node id="Leuven"/>
+<node id="Hasselt"/>
+<node id="Brussel II B"/>
+<node id="Brussel I B"/>
+<node id="Brussel II A"/>
+<node id="Liege"/>
+<node id="Brussel I A"/>
+<node id="Brugge"/>
+<node id="Gent"/>
+<node id="Korthijk"/>
+<node id="Mons"/>
+<node id="Charleroi"/>
+<node id="Louvain-la-Neuve"/>
+<node id="Namur"/>
+<node id="Arlon"/>
+<edge id="e1" source="Geel" target="Brussel II B">
+<data key="key_weight">57.57</data>
+</edge>
+<edge id="e2" source="Geel" target="Brussel I B">
+<data key="key_weight">57.57</data>
+</edge>
+<edge id="e3" source="Antwerpen" target="Brussel II B">
+<data key="key_weight">41.01</data>
+</edge>
+<edge id="e4" source="Antwerpen" target="Brussel I B">
+<data key="key_weight">41.01</data>
+</edge>
+<edge id="e5" source="Leuven" target="Brussel II B">
+<data key="key_weight">24.93</data>
+</edge>
+<edge id="e6" source="Leuven" target="Brussel I B">
+<data key="key_weight">24.93</data>
+</edge>
+<edge id="e7" source="Hasselt" target="Brussel II B">
+<data key="key_weight">69.69</data>
+</edge>
+<edge id="e8" source="Hasselt" target="Brussel I B">
+<data key="key_weight">69.69</data>
+</edge>
+<edge id="e9" source="Brussel II B" target="Brussel I B">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e10" source="Brussel II B" target="Brussel II A">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e11" source="Brussel II B" target="Liege">
+<data key="key_weight">89.16</data>
+</edge>
+<edge id="e12" source="Brussel II B" target="Brussel I A">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e13" source="Brussel II B" target="Brugge">
+<data key="key_weight">88.19</data>
+</edge>
+<edge id="e14" source="Brussel II B" target="Gent">
+<data key="key_weight">49.54</data>
+</edge>
+<edge id="e15" source="Brussel II B" target="Korthijk">
+<data key="key_weight">76.17</data>
+</edge>
+<edge id="e16" source="Brussel II B" target="Mons">
+<data key="key_weight">52.2</data>
+</edge>
+<edge id="e17" source="Brussel II B" target="Charleroi">
+<data key="key_weight">48.62</data>
+</edge>
+<edge id="e18" source="Brussel II B" target="Louvain-la-Neuve">
+<data key="key_weight">27.57</data>
+</edge>
+<edge id="e19" source="Brussel II B" target="Namur">
+<data key="key_weight">54.06</data>
+</edge>
+<edge id="e20" source="Brussel II B" target="Arlon">
+<data key="key_weight">166.56</data>
+</edge>
+<edge id="e21" source="Brussel I B" target="Brussel II A">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e22" source="Brussel I B" target="Liege">
+<data key="key_weight">89.16</data>
+</edge>
+<edge id="e23" source="Brussel I B" target="Brussel I A">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e24" source="Brussel I B" target="Brugge">
+<data key="key_weight">88.19</data>
+</edge>
+<edge id="e25" source="Brussel I B" target="Gent">
+<data key="key_weight">49.54</data>
+</edge>
+<edge id="e26" source="Brussel I B" target="Korthijk">
+<data key="key_weight">76.17</data>
+</edge>
+<edge id="e27" source="Brussel I B" target="Mons">
+<data key="key_weight">52.2</data>
+</edge>
+<edge id="e28" source="Brussel I B" target="Charleroi">
+<data key="key_weight">48.62</data>
+</edge>
+<edge id="e29" source="Brussel I B" target="Louvain-la-Neuve">
+<data key="key_weight">27.57</data>
+</edge>
+<edge id="e30" source="Brussel I B" target="Namur">
+<data key="key_weight">54.06</data>
+</edge>
+<edge id="e31" source="Brussel I B" target="Arlon">
+<data key="key_weight">166.56</data>
+</edge>
+<edge id="e32" source="Brussel II A" target="Brussel I A">
+<data key="key_weight">0.0</data>
+</edge>
+</graph></graphml>

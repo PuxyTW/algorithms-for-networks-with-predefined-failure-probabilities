@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Trbovlje"/>
+<node id="Krsko"/>
+<node id="Celje"/>
+<node id="Lasko"/>
+<node id="Kranj"/>
+<node id="Bled"/>
+<node id="Novo Mesto"/>
+<node id="Ljubljana"/>
+<node id="Tolmin"/>
+<node id="Nova Gorica"/>
+<node id="Portoroz"/>
+<node id="Gornja Radgona"/>
+<node id="Radenci"/>
+<node id="Rogasja Slatina"/>
+<node id="Senozece"/>
+<node id="Jesenice"/>
+<node id="Sezana"/>
+<node id="Divaca"/>
+<node id="Postojna"/>
+<node id="Ajdovscina"/>
+<node id="Kovevje"/>
+<node id="Kamnik"/>
+<node id="Izola"/>
+<node id="Koper"/>
+<node id="Slovenj Gradec"/>
+<node id="Velenje"/>
+<node id="Murska Sobota"/>
+<node id="Ljutomer"/>
+<node id="Ormoz"/>
+<node id="Ptuj"/>
+<node id="Maribor"/>
+<node id="Slovenska Bistrica"/>
+<node id="Dravograd"/>
+<node id="Ravne na Koroskem"/>
+<edge id="e1" source="Trbovlje" target="Lasko">
+<data key="key_weight">14.04</data>
+</edge>
+<edge id="e2" source="Trbovlje" target="Ljubljana">
+<data key="key_weight">43.83</data>
+</edge>
+<edge id="e3" source="Krsko" target="Rogasja Slatina">
+<data key="key_weight">33.0</data>
+</edge>
+<edge id="e4" source="Krsko" target="Novo Mesto">
+<data key="key_weight">30.38</data>
+</edge>
+<edge id="e5" source="Celje" target="Velenje">
+<data key="key_weight">18.35</data>
+</edge>
+<edge id="e6" source="Celje" target="Lasko">
+<data key="key_weight">8.7</data>
+</edge>
+<edge id="e7" source="Celje" target="Kamnik">
+<data key="key_weight">49.89</data>
+</edge>
+<edge id="e8" source="Celje" target="Slovenska Bistrica">
+<data key="key_weight">30.1</data>
+</edge>
+<edge id="e9" source="Lasko" target="Maribor">
+<data key="key_weight">54.56</data>
+</edge>
+<edge id="e10" source="Lasko" target="Ljubljana">
+<data key="key_weight">57.5</data>
+</edge>
+<edge id="e11" source="Kranj" target="Ljubljana">
+<data key="key_weight">23.85</data>
+</edge>
+<edge id="e12" source="Kranj" target="Koper">
+<data key="key_weight">90.95</data>
+</edge>
+<edge id="e13" source="Kranj" target="Bled">
+<data key="key_weight">23.58</data>
+</edge>
+<edge id="e14" source="Kranj" target="Jesenice">
+<data key="key_weight">30.76</data>
+</edge>
+<edge id="e15" source="Bled" target="Tolmin">
+<data key="key_weight">35.83</data>
+</edge>
+<edge id="e16" source="Novo Mesto" target="Kovevje">
+<data key="key_weight">29.7</data>
+</edge>
+<edge id="e17" source="Ljubljana" target="Nova Gorica">
+<data key="key_weight">67.03</data>
+</edge>
+<edge id="e18" source="Ljubljana" target="Postojna">
+<data key="key_weight">37.79</data>
+</edge>
+<edge id="e19" source="Ljubljana" target="Kovevje">
+<data key="key_weight">53.17</data>
+</edge>
+<edge id="e20" source="Ljubljana" target="Kamnik">
+<data key="key_weight">21.12</data>
+</edge>
+<edge id="e21" source="Ljubljana" target="Koper">
+<data key="key_weight">82.23</data>
+</edge>
+<edge id="e22" source="Ljubljana" target="Maribor">
+<data key="key_weight">104.08</data>
+</edge>
+<edge id="e23" source="Tolmin" target="Nova Gorica">
+<data key="key_weight">26.08</data>
+</edge>
+<edge id="e24" source="Nova Gorica" target="Ajdovscina">
+<data key="key_weight">21.65</data>
+</edge>
+<edge id="e25" source="Portoroz" target="Divaca">
+<data key="key_weight">35.01</data>
+</edge>
+<edge id="e26" source="Portoroz" target="Izola">
+<data key="key_weight">6.0</data>
+</edge>
+<edge id="e27" source="Gornja Radgona" target="Radenci">
+<data key="key_weight">4.92</data>
+</edge>
+<edge id="e28" source="Gornja Radgona" target="Maribor">
+<data key="key_weight">29.51</data>
+</edge>
+<edge id="e29" source="Radenci" target="Murska Sobota">
+<data key="key_weight">10.08</data>
+</edge>
+<edge id="e30" source="Rogasja Slatina" target="Ptuj">
+<data key="key_weight">26.94</data>
+</edge>
+<edge id="e31" source="Senozece" target="Sezana">
+<data key="key_weight">13.1</data>
+</edge>
+<edge id="e32" source="Senozece" target="Divaca">
+<data key="key_weight">6.83</data>
+</edge>
+<edge id="e33" source="Senozece" target="Postojna">
+<data key="key_weight">14.97</data>
+</edge>
+<edge id="e34" source="Divaca" target="Ajdovscina">
+<data key="key_weight">22.88</data>
+</edge>
+<edge id="e35" source="Divaca" target="Koper">
+<data key="key_weight">24.21</data>
+</edge>
+<edge id="e36" source="Izola" target="Koper">
+<data key="key_weight">5.37</data>
+</edge>
+<edge id="e37" source="Slovenj Gradec" target="Dravograd">
+<data key="key_weight">9.84</data>
+</edge>
+<edge id="e38" source="Slovenj Gradec" target="Velenje">
+<data key="key_weight">16.96</data>
+</edge>
+<edge id="e39" source="Velenje" target="Dravograd">
+<data key="key_weight">26.4</data>
+</edge>
+<edge id="e40" source="Murska Sobota" target="Ljutomer">
+<data key="key_weight">15.94</data>
+</edge>
+<edge id="e41" source="Ljutomer" target="Ormoz">
+<data key="key_weight">12.61</data>
+</edge>
+<edge id="e42" source="Ormoz" target="Ptuj">
+<data key="key_weight">21.82</data>
+</edge>
+<edge id="e43" source="Ptuj" target="Maribor">
+<data key="key_weight">22.75</data>
+</edge>
+<edge id="e44" source="Maribor" target="Dravograd">
+<data key="key_weight">48.12</data>
+</edge>
+<edge id="e45" source="Maribor" target="Slovenska Bistrica">
+<data key="key_weight">18.84</data>
+</edge>
+<edge id="e46" source="Dravograd" target="Ravne na Koroskem">
+<data key="key_weight">6.3</data>
+</edge>
+</graph></graphml>

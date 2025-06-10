@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Denizli"/>
+<node id="Usak"/>
+<node id="Aydin"/>
+<node id="Mugla"/>
+<node id="Burdur"/>
+<node id="Antalya"/>
+<node id="Afyonkarahisar"/>
+<node id="Isparta"/>
+<node id="Batman"/>
+<node id="Siirt"/>
+<node id="Yalova"/>
+<node id="Amasya"/>
+<node id="Tokat"/>
+<node id="Nigde"/>
+<node id="Hatay"/>
+<node id="Adiyaman"/>
+<node id="Erzurum"/>
+<node id="Bartin"/>
+<node id="Karabuk"/>
+<node id="Mersin"/>
+<node id="Karaman"/>
+<node id="Aksaray"/>
+<node id="Konya"/>
+<node id="Sinop"/>
+<node id="Samsun"/>
+<node id="Adana"/>
+<node id="Bilecik"/>
+<node id="Giresun"/>
+<node id="Hakkari"/>
+<node id="Elazig"/>
+<node id="Ardahan"/>
+<node id="Artvin"/>
+<node id="Corum"/>
+<node id="Bingol"/>
+<node id="Van"/>
+<node id="Osmaniye"/>
+<node id="Agri"/>
+<node id="Ordu"/>
+<node id="Mardin"/>
+<node id="Malatya"/>
+<node id="Sirnak"/>
+<node id="Diyarbakir"/>
+<node id="Yozgat"/>
+<node id="Kayseri"/>
+<node id="Kars"/>
+<node id="Nevsehir"/>
+<node id="Gaziantep"/>
+<node id="Kirikkale"/>
+<node id="Kilis"/>
+<node id="Kirsehir"/>
+<node id="Cankiri"/>
+<node id="Kastamonu"/>
+<node id="Mus"/>
+<node id="Eskisehir"/>
+<node id="Kocaeli"/>
+<node id="Sakarya"/>
+<node id="Bitlis"/>
+<node id="Bursa"/>
+<node id="Bolu"/>
+<node id="Duzce"/>
+<node id="Zonguldak"/>
+<node id="Rize"/>
+<node id="Trabzon"/>
+<node id="Igdir"/>
+<node id="Manisa"/>
+<node id="Kutahya"/>
+<node id="Erzincan"/>
+<node id="Sivas"/>
+<node id="Istanbul"/>
+<node id="iZMiR"/>
+<node id="Ankara"/>
+<node id="Kirklareli"/>
+<node id="Tekirdag"/>
+<node id="Edirne"/>
+<node id="Canakkale"/>
+<node id="Balikesin"/>
+<edge id="e1" source="Denizli" target="iZMiR">
+<data key="key_weight">184.81</data>
+</edge>
+<edge id="e2" source="Usak" target="iZMiR">
+<data key="key_weight">199.37</data>
+</edge>
+<edge id="e3" source="Aydin" target="iZMiR">
+<data key="key_weight">88.04</data>
+</edge>
+<edge id="e4" source="Mugla" target="iZMiR">
+<data key="key_weight">171.17</data>
+</edge>
+<edge id="e5" source="Burdur" target="Ankara">
+<data key="key_weight">330.43</data>
+</edge>
+<edge id="e6" source="Antalya" target="Ankara">
+<data key="key_weight">383.99</data>
+</edge>
+<edge id="e7" source="Afyonkarahisar" target="iZMiR">
+<data key="key_weight">298.48</data>
+</edge>
+<edge id="e8" source="Isparta" target="Ankara">
+<data key="key_weight">311.82</data>
+</edge>
+<edge id="e9" source="Batman" target="Ankara">
+<data key="key_weight">750.99</data>
+</edge>
+<edge id="e10" source="Siirt" target="Ankara">
+<data key="key_weight">816.26</data>
+</edge>
+<edge id="e11" source="Yalova" target="Istanbul">
+<data key="key_weight">48.49</data>
+</edge>
+<edge id="e12" source="Amasya" target="Ankara">
+<data key="key_weight">265.56</data>
+</edge>
+<edge id="e13" source="Tokat" target="Ankara">
+<data key="key_weight">317.74</data>
+</edge>
+<edge id="e14" source="Nigde" target="Ankara">
+<data key="key_weight">268.62</data>
+</edge>
+<edge id="e15" source="Hatay" target="Ankara">
+<data key="key_weight">504.14</data>
+</edge>
+<edge id="e16" source="Adiyaman" target="Ankara">
+<data key="key_weight">527.23</data>
+</edge>
+<edge id="e17" source="Erzurum" target="Ankara">
+<data key="key_weight">718.28</data>
+</edge>
+<edge id="e18" source="Bartin" target="Ankara">
+<data key="key_weight">195.76</data>
+</edge>
+<edge id="e19" source="Karabuk" target="Ankara">
+<data key="key_weight">144.2</data>
+</edge>
+<edge id="e20" source="Mersin" target="Ankara">
+<data key="key_weight">380.04</data>
+</edge>
+<edge id="e21" source="Karaman" target="Ankara">
+<data key="key_weight">306.23</data>
+</edge>
+<edge id="e22" source="Aksaray" target="Ankara">
+<data key="key_weight">199.56</data>
+</edge>
+<edge id="e23" source="Konya" target="Ankara">
+<data key="key_weight">230.75</data>
+</edge>
+<edge id="e24" source="Sinop" target="Ankara">
+<data key="key_weight">304.91</data>
+</edge>
+<edge id="e25" source="Samsun" target="Ankara">
+<data key="key_weight">330.51</data>
+</edge>
+<edge id="e26" source="Adana" target="Ankara">
+<data key="key_weight">389.58</data>
+</edge>
+<edge id="e27" source="Bilecik" target="Istanbul">
+<data key="key_weight">130.27</data>
+</edge>
+<edge id="e28" source="Giresun" target="Ankara">
+<data key="key_weight">481.4</data>
+</edge>
+<edge id="e29" source="Hakkari" target="Ankara">
+<data key="key_weight">979.02</data>
+</edge>
+<edge id="e30" source="Elazig" target="Ankara">
+<data key="key_weight">565.3</data>
+</edge>
+<edge id="e31" source="Ardahan" target="Ankara">
+<data key="key_weight">842.69</data>
+</edge>
+<edge id="e32" source="Artvin" target="Ankara">
+<data key="key_weight">770.2</data>
+</edge>
+<edge id="e33" source="Corum" target="Ankara">
+<data key="key_weight">191.47</data>
+</edge>
+<edge id="e34" source="Corum" target="Ordu">
+<data key="key_weight">251.16</data>
+</edge>
+<edge id="e35" source="Bingol" target="Ankara">
+<data key="key_weight">666.39</data>
+</edge>
+<edge id="e36" source="Van" target="Ankara">
+<data key="key_weight">920.66</data>
+</edge>
+<edge id="e37" source="Osmaniye" target="Kirikkale">
+<data key="key_weight">389.83</data>
+</edge>
+<edge id="e38" source="Agri" target="Erzincan">
+<data key="key_weight">304.38</data>
+</edge>
+<edge id="e39" source="Mardin" target="Yozgat">
+<data key="key_weight">586.78</data>
+</edge>
+<edge id="e40" source="Malatya" target="Ankara">
+<data key="key_weight">502.46</data>
+</edge>
+<edge id="e41" source="Sirnak" target="Ankara">
+<data key="key_weight">874.59</data>
+</edge>
+<edge id="e42" source="Diyarbakir" target="Ankara">
+<data key="key_weight">674.93</data>
+</edge>
+<edge id="e43" source="Yozgat" target="Ankara">
+<data key="key_weight">166.85</data>
+</edge>
+<edge id="e44" source="Kayseri" target="Ankara">
+<data key="key_weight">262.08</data>
+</edge>
+<edge id="e45" source="Kars" target="Ankara">
+<data key="key_weight">872.01</data>
+</edge>
+<edge id="e46" source="Nevsehir" target="Ankara">
+<data key="key_weight">215.25</data>
+</edge>
+<edge id="e47" source="Gaziantep" target="Ankara">
+<data key="key_weight">506.47</data>
+</edge>
+<edge id="e48" source="Kirikkale" target="Ankara">
+<data key="key_weight">56.27</data>
+</edge>
+<edge id="e49" source="Kilis" target="Ankara">
+<data key="key_weight">514.88</data>
+</edge>
+<edge id="e50" source="Kirsehir" target="Ankara">
+<data key="key_weight">141.54</data>
+</edge>
+<edge id="e51" source="Cankiri" target="Ankara">
+<data key="key_weight">99.47</data>
+</edge>
+<edge id="e52" source="Kastamonu" target="Ankara">
+<data key="key_weight">179.85</data>
+</edge>
+<edge id="e53" source="Mus" target="Ankara">
+<data key="key_weight">755.46</data>
+</edge>
+<edge id="e54" source="Eskisehir" target="Ankara">
+<data key="key_weight">199.91</data>
+</edge>
+<edge id="e55" source="Kocaeli" target="Istanbul">
+<data key="key_weight">85.84</data>
+</edge>
+<edge id="e56" source="Sakarya" target="Istanbul">
+<data key="key_weight">124.94</data>
+</edge>
+<edge id="e57" source="Bitlis" target="Ankara">
+<data key="key_weight">815.33</data>
+</edge>
+<edge id="e58" source="Bursa" target="Istanbul">
+<data key="key_weight">91.93</data>
+</edge>
+<edge id="e59" source="Bolu" target="Ankara">
+<data key="key_weight">139.42</data>
+</edge>
+<edge id="e60" source="Duzce" target="Ankara">
+<data key="key_weight">175.95</data>
+</edge>
+<edge id="e61" source="Zonguldak" target="Ankara">
+<data key="key_weight">192.42</data>
+</edge>
+<edge id="e62" source="Rize" target="Ankara">
+<data key="key_weight">660.02</data>
+</edge>
+<edge id="e63" source="Trabzon" target="Ankara">
+<data key="key_weight">593.82</data>
+</edge>
+<edge id="e64" source="Igdir" target="Ankara">
+<data key="key_weight">953.96</data>
+</edge>
+<edge id="e65" source="Manisa" target="iZMiR">
+<data key="key_weight">33.47</data>
+</edge>
+<edge id="e66" source="Kutahya" target="iZMiR">
+<data key="key_weight">270.67</data>
+</edge>
+<edge id="e67" source="Erzincan" target="Ankara">
+<data key="key_weight">567.16</data>
+</edge>
+<edge id="e68" source="Sivas" target="Ankara">
+<data key="key_weight">355.95</data>
+</edge>
+<edge id="e69" source="Istanbul" target="Ankara">
+<data key="key_weight">352.06</data>
+</edge>
+<edge id="e70" source="Istanbul" target="Kirklareli">
+<data key="key_weight">164.77</data>
+</edge>
+<edge id="e71" source="Istanbul" target="Tekirdag">
+<data key="key_weight">121.05</data>
+</edge>
+<edge id="e72" source="Istanbul" target="Edirne">
+<data key="key_weight">213.05</data>
+</edge>
+<edge id="e73" source="Istanbul" target="Canakkale">
+<data key="key_weight">235.54</data>
+</edge>
+<edge id="e74" source="Istanbul" target="iZMiR">
+<data key="key_weight">328.18</data>
+</edge>
+<edge id="e75" source="iZMiR" target="Ankara">
+<data key="key_weight">520.52</data>
+</edge>
+<edge id="e76" source="iZMiR" target="Balikesin">
+<data key="key_weight">151.94</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Ruzombernk"/>
+<node id="Svit"/>
+<node id="Liptovdky Mikulas"/>
+<node id="Detva"/>
+<node id="Zvolen"/>
+<node id="Zilina"/>
+<node id="Namestovo"/>
+<node id="Rimavska Sobota"/>
+<node id="Lucenec"/>
+<node id="Komarno"/>
+<node id="Nove Zamky"/>
+<node id="Nitra"/>
+<node id="Trencin"/>
+<node id="Topolcany"/>
+<node id="Novaky"/>
+<node id="Prievidza"/>
+<node id="Piestany"/>
+<node id="Nove Mest nad Vahom"/>
+<node id="Spisska"/>
+<node id="Poprad"/>
+<node id="Banska Bystrica"/>
+<node id="Bratislava"/>
+<node id="Kosice"/>
+<node id="Presov"/>
+<node id="Bardejov"/>
+<node id="Svidnik"/>
+<node id="Humenne"/>
+<node id="Michalovce"/>
+<edge id="e1" source="Ruzombernk" target="Banska Bystrica">
+<data key="key_weight">40.79</data>
+</edge>
+<edge id="e2" source="Svit" target="Kosice">
+<data key="key_weight">85.31</data>
+</edge>
+<edge id="e3" source="Liptovdky Mikulas" target="Banska Bystrica">
+<data key="key_weight">51.8</data>
+</edge>
+<edge id="e4" source="Detva" target="Rimavska Sobota">
+<data key="key_weight">49.83</data>
+</edge>
+<edge id="e5" source="Detva" target="Banska Bystrica">
+<data key="key_weight">26.97</data>
+</edge>
+<edge id="e6" source="Zvolen" target="Banska Bystrica">
+<data key="key_weight">16.73</data>
+</edge>
+<edge id="e7" source="Zilina" target="Trencin">
+<data key="key_weight">62.47</data>
+</edge>
+<edge id="e8" source="Zilina" target="Poprad">
+<data key="key_weight">115.18</data>
+</edge>
+<edge id="e9" source="Zilina" target="Banska Bystrica">
+<data key="key_weight">62.18</data>
+</edge>
+<edge id="e10" source="Namestovo" target="Banska Bystrica">
+<data key="key_weight">78.41</data>
+</edge>
+<edge id="e11" source="Lucenec" target="Banska Bystrica">
+<data key="key_weight">58.54</data>
+</edge>
+<edge id="e12" source="Komarno" target="Bratislava">
+<data key="key_weight">86.93</data>
+</edge>
+<edge id="e13" source="Nove Zamky" target="Bratislava">
+<data key="key_weight">80.49</data>
+</edge>
+<edge id="e14" source="Nitra" target="Bratislava">
+<data key="key_weight">74.59</data>
+</edge>
+<edge id="e15" source="Trencin" target="Bratislava">
+<data key="key_weight">107.99</data>
+</edge>
+<edge id="e16" source="Topolcany" target="Bratislava">
+<data key="key_weight">92.18</data>
+</edge>
+<edge id="e17" source="Novaky" target="Banska Bystrica">
+<data key="key_weight">44.06</data>
+</edge>
+<edge id="e18" source="Prievidza" target="Banska Bystrica">
+<data key="key_weight">38.07</data>
+</edge>
+<edge id="e19" source="Piestany" target="Bratislava">
+<data key="key_weight">73.54</data>
+</edge>
+<edge id="e20" source="Nove Mest nad Vahom" target="Bratislava">
+<data key="key_weight">86.31</data>
+</edge>
+<edge id="e21" source="Spisska" target="Poprad">
+<data key="key_weight">22.41</data>
+</edge>
+<edge id="e22" source="Spisska" target="Kosice">
+<data key="key_weight">56.36</data>
+</edge>
+<edge id="e23" source="Poprad" target="Presov">
+<data key="key_weight">69.51</data>
+</edge>
+<edge id="e24" source="Banska Bystrica" target="Bratislava">
+<data key="key_weight">164.21</data>
+</edge>
+<edge id="e25" source="Bratislava" target="Kosice">
+<data key="key_weight">312.2</data>
+</edge>
+<edge id="e26" source="Kosice" target="Svidnik">
+<data key="key_weight">68.87</data>
+</edge>
+<edge id="e27" source="Kosice" target="Humenne">
+<data key="key_weight">54.44</data>
+</edge>
+<edge id="e28" source="Kosice" target="Michalovce">
+<data key="key_weight">50.27</data>
+</edge>
+<edge id="e29" source="Kosice" target="Presov">
+<data key="key_weight">31.51</data>
+</edge>
+<edge id="e30" source="Presov" target="Bardejov">
+<data key="key_weight">31.61</data>
+</edge>
+</graph></graphml>

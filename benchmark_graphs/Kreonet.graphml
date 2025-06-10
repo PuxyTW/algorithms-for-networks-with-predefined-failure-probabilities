@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Jeonju"/>
+<node id="Jeju"/>
+<node id="Kwangju"/>
+<node id="Busan"/>
+<node id="Changwon"/>
+<node id="Seoul"/>
+<node id="Incheon"/>
+<node id="Suwon"/>
+<node id="Cheonan"/>
+<node id="Ochang"/>
+<node id="Daejeon"/>
+<node id="Pohang"/>
+<node id="Daegu"/>
+<edge id="e1" source="Jeonju" target="Daejeon">
+<data key="key_weight">60.65</data>
+</edge>
+<edge id="e2" source="Jeju" target="Kwangju">
+<data key="key_weight">186.5</data>
+</edge>
+<edge id="e3" source="Kwangju" target="Daejeon">
+<data key="key_weight">137.52</data>
+</edge>
+<edge id="e4" source="Busan" target="Daejeon">
+<data key="key_weight">199.47</data>
+</edge>
+<edge id="e5" source="Changwon" target="Daejeon">
+<data key="key_weight">166.57</data>
+</edge>
+<edge id="e6" source="Seoul" target="Daejeon">
+<data key="key_weight">144.14</data>
+</edge>
+<edge id="e7" source="Seoul" target="Incheon">
+<data key="key_weight">25.19</data>
+</edge>
+<edge id="e8" source="Seoul" target="Suwon">
+<data key="key_weight">30.95</data>
+</edge>
+<edge id="e9" source="Cheonan" target="Daejeon">
+<data key="key_weight">59.01</data>
+</edge>
+<edge id="e10" source="Ochang" target="Daejeon">
+<data key="key_weight">85.71</data>
+</edge>
+<edge id="e11" source="Daejeon" target="Pohang">
+<data key="key_weight">177.58</data>
+</edge>
+<edge id="e12" source="Daejeon" target="Daegu">
+<data key="key_weight">116.62</data>
+</edge>
+</graph></graphml>

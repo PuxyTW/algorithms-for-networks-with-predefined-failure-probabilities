@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Washington, DC"/>
+<node id="Boston"/>
+<node id="New York"/>
+<node id="Seattle"/>
+<node id="San Francisco"/>
+<node id="Los Angeles"/>
+<node id="Dallas"/>
+<node id="Houston"/>
+<node id="Atlanta"/>
+<node id="Columbus"/>
+<node id="Chicago"/>
+<edge id="e1" source="Washington, DC" target="Atlanta">
+<data key="key_weight">872.17</data>
+</edge>
+<edge id="e2" source="Washington, DC" target="Columbus">
+<data key="key_weight">525.69</data>
+</edge>
+<edge id="e3" source="Washington, DC" target="New York">
+<data key="key_weight">328.58</data>
+</edge>
+<edge id="e4" source="Boston" target="New York">
+<data key="key_weight">305.93</data>
+</edge>
+<edge id="e5" source="Boston" target="Chicago">
+<data key="key_weight">1368.05</data>
+</edge>
+<edge id="e6" source="Seattle" target="Chicago">
+<data key="key_weight">2789.45</data>
+</edge>
+<edge id="e7" source="Seattle" target="San Francisco">
+<data key="key_weight">1093.52</data>
+</edge>
+<edge id="e8" source="San Francisco" target="Los Angeles">
+<data key="key_weight">559.28</data>
+</edge>
+<edge id="e9" source="San Francisco" target="Columbus">
+<data key="key_weight">3394.71</data>
+</edge>
+<edge id="e10" source="Los Angeles" target="Dallas">
+<data key="key_weight">1991.54</data>
+</edge>
+<edge id="e11" source="Dallas" target="Houston">
+<data key="key_weight">362.81</data>
+</edge>
+<edge id="e12" source="Dallas" target="Columbus">
+<data key="key_weight">1469.27</data>
+</edge>
+<edge id="e13" source="Houston" target="Atlanta">
+<data key="key_weight">1127.88</data>
+</edge>
+<edge id="e14" source="Columbus" target="Chicago">
+<data key="key_weight">443.78</data>
+</edge>
+</graph></graphml>

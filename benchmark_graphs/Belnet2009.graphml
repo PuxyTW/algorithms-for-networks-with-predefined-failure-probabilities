@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Louvain-la-Neuve"/>
+<node id="Charleroi"/>
+<node id="Arlon"/>
+<node id="Namur"/>
+<node id="Antwerpen 2"/>
+<node id="Antwerpen1"/>
+<node id="Mons"/>
+<node id="Korthijk"/>
+<node id="Gent2"/>
+<node id="Gent1"/>
+<node id="Liege 1 "/>
+<node id="Liege 2"/>
+<node id="Brugge"/>
+<node id="Geel"/>
+<node id="Hasselt"/>
+<node id="Leuven2"/>
+<node id="Leuven1"/>
+<node id="Vilvoorde"/>
+<node id="Evere"/>
+<node id="Brussels Science"/>
+<node id="Brussels Campus"/>
+<edge id="e1" source="Louvain-la-Neuve" target="Charleroi">
+<data key="key_weight">30.78</data>
+</edge>
+<edge id="e2" source="Louvain-la-Neuve" target="Namur">
+<data key="key_weight">26.64</data>
+</edge>
+<edge id="e3" source="Charleroi" target="Mons">
+<data key="key_weight">34.33</data>
+</edge>
+<edge id="e4" source="Arlon" target="Namur">
+<data key="key_weight">112.5</data>
+</edge>
+<edge id="e5" source="Arlon" target="Liege 2">
+<data key="key_weight">107.96</data>
+</edge>
+<edge id="e6" source="Antwerpen 2" target="Evere">
+<data key="key_weight">38.95</data>
+</edge>
+<edge id="e7" source="Antwerpen 2" target="Antwerpen1">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e8" source="Antwerpen1" target="Gent2">
+<data key="key_weight">52.26</data>
+</edge>
+<edge id="e9" source="Mons" target="Vilvoorde">
+<data key="key_weight">60.77</data>
+</edge>
+<edge id="e10" source="Korthijk" target="Vilvoorde">
+<data key="key_weight">80.81</data>
+</edge>
+<edge id="e11" source="Korthijk" target="Brugge">
+<data key="key_weight">42.46</data>
+</edge>
+<edge id="e12" source="Gent2" target="Gent1">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e13" source="Gent1" target="Brugge">
+<data key="key_weight">38.65</data>
+</edge>
+<edge id="e14" source="Liege 1 " target="Evere">
+<data key="key_weight">71.99</data>
+</edge>
+<edge id="e15" source="Liege 1 " target="Liege 2">
+<data key="key_weight">23.93</data>
+</edge>
+<edge id="e16" source="Geel" target="Vilvoorde">
+<data key="key_weight">49.82</data>
+</edge>
+<edge id="e17" source="Geel" target="Hasselt">
+<data key="key_weight">34.88</data>
+</edge>
+<edge id="e18" source="Hasselt" target="Leuven2">
+<data key="key_weight">44.76</data>
+</edge>
+<edge id="e19" source="Leuven2" target="Leuven1">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e20" source="Leuven1" target="Evere">
+<data key="key_weight">21.17</data>
+</edge>
+<edge id="e21" source="Vilvoorde" target="Evere">
+<data key="key_weight">5.76</data>
+</edge>
+<edge id="e22" source="Vilvoorde" target="Brussels Campus">
+<data key="key_weight">8.59</data>
+</edge>
+<edge id="e23" source="Evere" target="Brussels Science">
+<data key="key_weight">4.02</data>
+</edge>
+<edge id="e24" source="Brussels Science" target="Brussels Campus">
+<data key="key_weight">0.0</data>
+</edge>
+</graph></graphml>

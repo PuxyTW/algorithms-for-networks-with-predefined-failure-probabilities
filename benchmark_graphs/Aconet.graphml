@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Eisenstadt"/>
+<node id="St. Polten"/>
+<node id="Graz2"/>
+<node id="Leoben"/>
+<node id="Vienna2"/>
+<node id="Krems"/>
+<node id="Vienna1"/>
+<node id="Klagenfurt2"/>
+<node id="Graz1"/>
+<node id="Linz1"/>
+<node id="Linz2"/>
+<node id="Salzburg1"/>
+<node id="Salzburg2"/>
+<node id="Innsbruck1"/>
+<node id="Innsbruck2"/>
+<node id="Dornbirn"/>
+<node id="Klagenfurt1"/>
+<edge id="e1" source="Eisenstadt" target="Vienna2">
+<data key="key_weight">41.3</data>
+</edge>
+<edge id="e2" source="Eisenstadt" target="Vienna1">
+<data key="key_weight">41.3</data>
+</edge>
+<edge id="e3" source="St. Polten" target="Krems">
+<data key="key_weight">23.31</data>
+</edge>
+<edge id="e4" source="St. Polten" target="Vienna1">
+<data key="key_weight">54.77</data>
+</edge>
+<edge id="e5" source="Graz2" target="Leoben">
+<data key="key_weight">44.04</data>
+</edge>
+<edge id="e6" source="Graz2" target="Graz1">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e7" source="Graz2" target="Vienna1">
+<data key="key_weight">144.58</data>
+</edge>
+<edge id="e8" source="Leoben" target="Graz1">
+<data key="key_weight">44.04</data>
+</edge>
+<edge id="e9" source="Vienna2" target="Krems">
+<data key="key_weight">60.35</data>
+</edge>
+<edge id="e10" source="Vienna2" target="Klagenfurt2">
+<data key="key_weight">234.99</data>
+</edge>
+<edge id="e11" source="Vienna2" target="Graz1">
+<data key="key_weight">144.58</data>
+</edge>
+<edge id="e12" source="Vienna2" target="Linz1">
+<data key="key_weight">154.85</data>
+</edge>
+<edge id="e13" source="Vienna2" target="Salzburg2">
+<data key="key_weight">251.8</data>
+</edge>
+<edge id="e14" source="Vienna2" target="Innsbruck1">
+<data key="key_weight">386.84</data>
+</edge>
+<edge id="e15" source="Vienna1" target="Linz2">
+<data key="key_weight">154.85</data>
+</edge>
+<edge id="e16" source="Vienna1" target="Salzburg1">
+<data key="key_weight">251.8</data>
+</edge>
+<edge id="e17" source="Vienna1" target="Innsbruck2">
+<data key="key_weight">386.84</data>
+</edge>
+<edge id="e18" source="Vienna1" target="Klagenfurt1">
+<data key="key_weight">234.99</data>
+</edge>
+<edge id="e19" source="Klagenfurt2" target="Klagenfurt1">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e20" source="Linz1" target="Linz2">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e21" source="Salzburg1" target="Salzburg2">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e22" source="Innsbruck1" target="Innsbruck2">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e23" source="Innsbruck1" target="Dornbirn">
+<data key="key_weight">126.39</data>
+</edge>
+<edge id="e24" source="Innsbruck2" target="Dornbirn">
+<data key="key_weight">126.39</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Tel Aviv GigaPoP"/>
+<node id="Petach Tikva GigaPoP"/>
+<node id="Open University"/>
+<node id="Haifa University"/>
+<node id="Technion"/>
+<node id="Bar Ilan University"/>
+<node id="Hebrew University"/>
+<node id="Ben Gurion University"/>
+<node id="Weizmann Institute"/>
+<node id="Tel Aviv University"/>
+<edge id="e1" source="Tel Aviv GigaPoP" target="Haifa University">
+<data key="key_weight">85.87</data>
+</edge>
+<edge id="e2" source="Tel Aviv GigaPoP" target="Technion">
+<data key="key_weight">85.87</data>
+</edge>
+<edge id="e3" source="Tel Aviv GigaPoP" target="Bar Ilan University">
+<data key="key_weight">4.74</data>
+</edge>
+<edge id="e4" source="Tel Aviv GigaPoP" target="Hebrew University">
+<data key="key_weight">53.84</data>
+</edge>
+<edge id="e5" source="Tel Aviv GigaPoP" target="Ben Gurion University">
+<data key="key_weight">279.24</data>
+</edge>
+<edge id="e6" source="Tel Aviv GigaPoP" target="Weizmann Institute">
+<data key="key_weight">19.5</data>
+</edge>
+<edge id="e7" source="Tel Aviv GigaPoP" target="Tel Aviv University">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e8" source="Petach Tikva GigaPoP" target="Open University">
+<data key="key_weight">10.33</data>
+</edge>
+<edge id="e9" source="Petach Tikva GigaPoP" target="Haifa University">
+<data key="key_weight">81.1</data>
+</edge>
+<edge id="e10" source="Petach Tikva GigaPoP" target="Bar Ilan University">
+<data key="key_weight">6.79</data>
+</edge>
+<edge id="e11" source="Petach Tikva GigaPoP" target="Tel Aviv University">
+<data key="key_weight">11.5</data>
+</edge>
+</graph></graphml>

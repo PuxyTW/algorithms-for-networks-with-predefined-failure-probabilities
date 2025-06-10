@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Warsaw"/>
+<node id="Bialystok"/>
+<node id="Wlocawek"/>
+<node id="Plock"/>
+<node id="Opole"/>
+<node id="Wroclaw"/>
+<node id="Lublin"/>
+<node id="Rzeszow"/>
+<node id="Kalisz"/>
+<node id="Lodz"/>
+<node id="Krakow"/>
+<node id="Zielona Gora"/>
+<node id="Gdansk"/>
+<node id="Olszlyn"/>
+<node id="Tarnow"/>
+<node id="Kalowice"/>
+<node id="Kielce"/>
+<node id="Radom"/>
+<node id="Bydgoszcz"/>
+<node id="Torun"/>
+<node id="Slupsk"/>
+<node id="Koszalin"/>
+<node id="Kolobrzeg"/>
+<node id="Szczecin"/>
+<node id="Poznan"/>
+<node id="Pila"/>
+<edge id="e1" source="Warsaw" target="Bialystok">
+<data key="key_weight">175.74</data>
+</edge>
+<edge id="e2" source="Warsaw" target="Plock">
+<data key="key_weight">95.37</data>
+</edge>
+<edge id="e3" source="Warsaw" target="Lublin">
+<data key="key_weight">152.78</data>
+</edge>
+<edge id="e4" source="Warsaw" target="Lodz">
+<data key="key_weight">118.52</data>
+</edge>
+<edge id="e5" source="Warsaw" target="Radom">
+<data key="key_weight">92.48</data>
+</edge>
+<edge id="e6" source="Bialystok" target="Olszlyn">
+<data key="key_weight">190.81</data>
+</edge>
+<edge id="e7" source="Wlocawek" target="Torun">
+<data key="key_weight">51.47</data>
+</edge>
+<edge id="e8" source="Wlocawek" target="Plock">
+<data key="key_weight">44.59</data>
+</edge>
+<edge id="e9" source="Opole" target="Kalowice">
+<data key="key_weight">87.65</data>
+</edge>
+<edge id="e10" source="Opole" target="Wroclaw">
+<data key="key_weight">80.38</data>
+</edge>
+<edge id="e11" source="Wroclaw" target="Kalisz">
+<data key="key_weight">103.86</data>
+</edge>
+<edge id="e12" source="Lublin" target="Rzeszow">
+<data key="key_weight">140.27</data>
+</edge>
+<edge id="e13" source="Rzeszow" target="Krakow">
+<data key="key_weight">148.75</data>
+</edge>
+<edge id="e14" source="Kalisz" target="Lodz">
+<data key="key_weight">94.72</data>
+</edge>
+<edge id="e15" source="Kalisz" target="Poznan">
+<data key="key_weight">105.93</data>
+</edge>
+<edge id="e16" source="Krakow" target="Kielce">
+<data key="key_weight">100.96</data>
+</edge>
+<edge id="e17" source="Krakow" target="Tarnow">
+<data key="key_weight">76.83</data>
+</edge>
+<edge id="e18" source="Zielona Gora" target="Poznan">
+<data key="key_weight">113.07</data>
+</edge>
+<edge id="e19" source="Gdansk" target="Olszlyn">
+<data key="key_weight">135.56</data>
+</edge>
+<edge id="e20" source="Gdansk" target="Bydgoszcz">
+<data key="key_weight">142.96</data>
+</edge>
+<edge id="e21" source="Kielce" target="Radom">
+<data key="key_weight">69.42</data>
+</edge>
+<edge id="e22" source="Bydgoszcz" target="Torun">
+<data key="key_weight">41.31</data>
+</edge>
+<edge id="e23" source="Bydgoszcz" target="Pila">
+<data key="key_weight">84.78</data>
+</edge>
+<edge id="e24" source="Slupsk" target="Koszalin">
+<data key="key_weight">63.13</data>
+</edge>
+<edge id="e25" source="Koszalin" target="Kolobrzeg">
+<data key="key_weight">38.38</data>
+</edge>
+<edge id="e26" source="Kolobrzeg" target="Szczecin">
+<data key="key_weight">107.14</data>
+</edge>
+<edge id="e27" source="Szczecin" target="Pila">
+<data key="key_weight">148.5</data>
+</edge>
+<edge id="e28" source="Poznan" target="Pila">
+<data key="key_weight">83.16</data>
+</edge>
+</graph></graphml>

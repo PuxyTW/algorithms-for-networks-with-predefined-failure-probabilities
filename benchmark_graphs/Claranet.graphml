@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Faro"/>
+<node id="Madrid"/>
+<node id="Porto"/>
+<node id="Lisbon"/>
+<node id="Barcelona"/>
+<node id="Manchester"/>
+<node id="New York"/>
+<node id="Amsterdam"/>
+<node id="Eindhoven"/>
+<node id="Berlin"/>
+<node id="Frankfurt"/>
+<node id="Munich"/>
+<node id="Paris"/>
+<node id="Rennes"/>
+<node id="London"/>
+<edge id="e1" source="Faro" target="Lisbon">
+<data key="key_weight">216.46</data>
+</edge>
+<edge id="e2" source="Madrid" target="Lisbon">
+<data key="key_weight">502.45</data>
+</edge>
+<edge id="e3" source="Madrid" target="Barcelona">
+<data key="key_weight">504.38</data>
+</edge>
+<edge id="e4" source="Porto" target="Lisbon">
+<data key="key_weight">274.21</data>
+</edge>
+<edge id="e5" source="Lisbon" target="London">
+<data key="key_weight">1585.99</data>
+</edge>
+<edge id="e6" source="Barcelona" target="Paris">
+<data key="key_weight">830.4</data>
+</edge>
+<edge id="e7" source="Manchester" target="London">
+<data key="key_weight">261.85</data>
+</edge>
+<edge id="e8" source="New York" target="London">
+<data key="key_weight">174.68</data>
+</edge>
+<edge id="e9" source="Amsterdam" target="Eindhoven">
+<data key="key_weight">111.36</data>
+</edge>
+<edge id="e10" source="Amsterdam" target="Frankfurt">
+<data key="key_weight">364.34</data>
+</edge>
+<edge id="e11" source="Amsterdam" target="London">
+<data key="key_weight">357.03</data>
+</edge>
+<edge id="e12" source="Berlin" target="Frankfurt">
+<data key="key_weight">423.75</data>
+</edge>
+<edge id="e13" source="Berlin" target="Munich">
+<data key="key_weight">504.99</data>
+</edge>
+<edge id="e14" source="Frankfurt" target="Munich">
+<data key="key_weight">304.55</data>
+</edge>
+<edge id="e15" source="Frankfurt" target="Paris">
+<data key="key_weight">478.63</data>
+</edge>
+<edge id="e16" source="Frankfurt" target="London">
+<data key="key_weight">637.72</data>
+</edge>
+<edge id="e17" source="Paris" target="Rennes">
+<data key="key_weight">309.4</data>
+</edge>
+<edge id="e18" source="Paris" target="London">
+<data key="key_weight">343.87</data>
+</edge>
+</graph></graphml>

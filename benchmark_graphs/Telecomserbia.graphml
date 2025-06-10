@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Novi Sad"/>
+<node id="Belgrade"/>
+<node id="Kragujevac"/>
+<node id="Nis"/>
+<node id="Krusevac"/>
+<node id="Podgorica"/>
+<edge id="e1" source="Novi Sad" target="Belgrade">
+<data key="key_weight">70.13</data>
+</edge>
+<edge id="e2" source="Novi Sad" target="Podgorica">
+<data key="key_weight">315.97</data>
+</edge>
+<edge id="e3" source="Belgrade" target="Kragujevac">
+<data key="key_weight">94.64</data>
+</edge>
+<edge id="e4" source="Kragujevac" target="Nis">
+<data key="key_weight">110.56</data>
+</edge>
+<edge id="e5" source="Nis" target="Krusevac">
+<data key="key_weight">54.04</data>
+</edge>
+<edge id="e6" source="Krusevac" target="Podgorica">
+<data key="key_weight">210.7</data>
+</edge>
+</graph></graphml>

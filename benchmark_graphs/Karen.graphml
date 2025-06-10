@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="WLG"/>
+<node id="DUD"/>
+<node id="AVL"/>
+<node id="PNR"/>
+<node id="LCN"/>
+<node id="CHC"/>
+<node id="IVM"/>
+<node id="INV"/>
+<node id="TPO"/>
+<node id="NLS"/>
+<node id="MTA"/>
+<node id="NPL"/>
+<node id="WAG"/>
+<node id="MUP"/>
+<node id="NSH"/>
+<node id="WRK"/>
+<node id="TAU"/>
+<node id="GIS"/>
+<node id="POR"/>
+<node id="NAP"/>
+<node id="ROT"/>
+<node id="HLT"/>
+<node id="AKL"/>
+<edge id="e1" source="WLG" target="DUD">
+<data key="key_weight">615.28</data>
+</edge>
+<edge id="e2" source="WLG" target="AVL">
+<data key="key_weight">15.59</data>
+</edge>
+<edge id="e3" source="WLG" target="PNR">
+<data key="key_weight">125.96</data>
+</edge>
+<edge id="e4" source="WLG" target="CHC">
+<data key="key_weight">305.58</data>
+</edge>
+<edge id="e5" source="WLG" target="NLS">
+<data key="key_weight">124.72</data>
+</edge>
+<edge id="e6" source="DUD" target="LCN">
+<data key="key_weight">292.63</data>
+</edge>
+<edge id="e7" source="DUD" target="IVM">
+<data key="key_weight">9.99</data>
+</edge>
+<edge id="e8" source="DUD" target="INV">
+<data key="key_weight">175.98</data>
+</edge>
+<edge id="e9" source="AVL" target="POR">
+<data key="key_weight">9.31</data>
+</edge>
+<edge id="e10" source="AVL" target="MUP">
+<data key="key_weight">111.1</data>
+</edge>
+<edge id="e11" source="PNR" target="AKL">
+<data key="key_weight">394.41</data>
+</edge>
+<edge id="e12" source="PNR" target="NPL">
+<data key="key_weight">193.87</data>
+</edge>
+<edge id="e13" source="PNR" target="WAG">
+<data key="key_weight">66.85</data>
+</edge>
+<edge id="e14" source="PNR" target="MUP">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e15" source="LCN" target="CHC">
+<data key="key_weight">17.73</data>
+</edge>
+<edge id="e16" source="CHC" target="TPO">
+<data key="key_weight">179.56</data>
+</edge>
+<edge id="e17" source="CHC" target="NLS">
+<data key="key_weight">255.89</data>
+</edge>
+<edge id="e18" source="MTA" target="AKL">
+<data key="key_weight">4.33</data>
+</edge>
+<edge id="e19" source="MUP" target="NAP">
+<data key="key_weight">146.94</data>
+</edge>
+<edge id="e20" source="NSH" target="WRK">
+<data key="key_weight">45.11</data>
+</edge>
+<edge id="e21" source="NSH" target="AKL">
+<data key="key_weight">7.56</data>
+</edge>
+<edge id="e22" source="TAU" target="ROT">
+<data key="key_weight">50.81</data>
+</edge>
+<edge id="e23" source="GIS" target="NAP">
+<data key="key_weight">131.69</data>
+</edge>
+<edge id="e24" source="NAP" target="ROT">
+<data key="key_weight">160.48</data>
+</edge>
+<edge id="e25" source="ROT" target="HLT">
+<data key="key_weight">93.15</data>
+</edge>
+<edge id="e26" source="HLT" target="AKL">
+<data key="key_weight">111.73</data>
+</edge>
+</graph></graphml>

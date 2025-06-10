@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="SRI"/>
+<node id="USCB"/>
+<node id="UCLA"/>
+<node id="UTAH"/>
+<edge id="e1" source="SRI" target="USCB">
+<data key="key_weight">404.74</data>
+</edge>
+<edge id="e2" source="SRI" target="UCLA">
+<data key="key_weight">519.06</data>
+</edge>
+<edge id="e3" source="SRI" target="UTAH">
+<data key="key_weight">960.57</data>
+</edge>
+<edge id="e4" source="USCB" target="UCLA">
+<data key="key_weight">139.89</data>
+</edge>
+</graph></graphml>

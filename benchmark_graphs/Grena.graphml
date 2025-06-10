@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Cisco 3640 Samtredia"/>
+<node id="Cisco 2621 Batumi"/>
+<node id="Cisco 2511 Kutaisi"/>
+<node id="Cisco 3640 Kutaisi C04"/>
+<node id="Cisco 3640 Poti"/>
+<node id="Cisco 3640 Zugididi"/>
+<node id="Cisco 3640 Khashuri"/>
+<node id="Tbilisi GRENA Network"/>
+<node id="Rustavi CO14"/>
+<node id="Cisco 3640 Telavi"/>
+<node id="Rustavi CO15"/>
+<node id="Cisco 3640 Gori"/>
+<node id="Cisco 3640 Kutaisi C07"/>
+<edge id="e1" source="Cisco 3640 Samtredia" target="Cisco 3640 Poti">
+<data key="key_weight">54.7</data>
+</edge>
+<edge id="e2" source="Cisco 3640 Samtredia" target="Cisco 3640 Kutaisi C07">
+<data key="key_weight">31.88</data>
+</edge>
+<edge id="e3" source="Cisco 2621 Batumi" target="Cisco 3640 Poti">
+<data key="key_weight">56.2</data>
+</edge>
+<edge id="e4" source="Cisco 2511 Kutaisi" target="Cisco 3640 Kutaisi C04">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e5" source="Cisco 3640 Kutaisi C04" target="Cisco 3640 Kutaisi C07">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e6" source="Cisco 3640 Poti" target="Cisco 3640 Zugididi">
+<data key="key_weight">43.53</data>
+</edge>
+<edge id="e7" source="Cisco 3640 Khashuri" target="Cisco 3640 Gori">
+<data key="key_weight">42.66</data>
+</edge>
+<edge id="e8" source="Cisco 3640 Khashuri" target="Cisco 3640 Kutaisi C07">
+<data key="key_weight">79.52</data>
+</edge>
+<edge id="e9" source="Tbilisi GRENA Network" target="Cisco 3640 Telavi">
+<data key="key_weight">58.66</data>
+</edge>
+<edge id="e10" source="Tbilisi GRENA Network" target="Rustavi CO15">
+<data key="key_weight">20.85</data>
+</edge>
+<edge id="e11" source="Tbilisi GRENA Network" target="Cisco 3640 Gori">
+<data key="key_weight">67.68</data>
+</edge>
+<edge id="e12" source="Rustavi CO14" target="Rustavi CO15">
+<data key="key_weight">0.0</data>
+</edge>
+</graph></graphml>

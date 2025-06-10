@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Milwaukee"/>
+<node id="Rockford"/>
+<node id="Janesville"/>
+<node id="Waukesha"/>
+<node id="Chicago"/>
+<node id="Madison"/>
+<node id="Camp Douglas"/>
+<node id="Minneaopolis"/>
+<node id="Eau Claire"/>
+<node id="Wausau"/>
+<node id="Green Bay"/>
+<node id="Appleton"/>
+<node id="Oshkosh"/>
+<node id="Fon Du Lac"/>
+<node id="Beaver Dam"/>
+<edge id="e1" source="Milwaukee" target="Waukesha">
+<data key="key_weight">26.6</data>
+</edge>
+<edge id="e2" source="Milwaukee" target="Chicago">
+<data key="key_weight">50.8</data>
+</edge>
+<edge id="e3" source="Rockford" target="Janesville">
+<data key="key_weight">46.2</data>
+</edge>
+<edge id="e4" source="Rockford" target="Chicago">
+<data key="key_weight">109.93</data>
+</edge>
+<edge id="e5" source="Janesville" target="Madison">
+<data key="key_weight">53.44</data>
+</edge>
+<edge id="e6" source="Waukesha" target="Madison">
+<data key="key_weight">95.33</data>
+</edge>
+<edge id="e7" source="Madison" target="Camp Douglas">
+<data key="key_weight">117.71</data>
+</edge>
+<edge id="e8" source="Madison" target="Beaver Dam">
+<data key="key_weight">62.59</data>
+</edge>
+<edge id="e9" source="Camp Douglas" target="Eau Claire">
+<data key="key_weight">138.89</data>
+</edge>
+<edge id="e10" source="Minneaopolis" target="Eau Claire">
+<data key="key_weight">140.35</data>
+</edge>
+<edge id="e11" source="Minneaopolis" target="Wausau">
+<data key="key_weight">285.93</data>
+</edge>
+<edge id="e12" source="Wausau" target="Green Bay">
+<data key="key_weight">136.31</data>
+</edge>
+<edge id="e13" source="Green Bay" target="Appleton">
+<data key="key_weight">42.51</data>
+</edge>
+<edge id="e14" source="Appleton" target="Oshkosh">
+<data key="key_weight">28.27</data>
+</edge>
+<edge id="e15" source="Oshkosh" target="Fon Du Lac">
+<data key="key_weight">28.99</data>
+</edge>
+<edge id="e16" source="Fon Du Lac" target="Beaver Dam">
+<data key="key_weight">47.69</data>
+</edge>
+</graph></graphml>

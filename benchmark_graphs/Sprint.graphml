@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Cheyenne"/>
+<node id="Atlanta"/>
+<node id="Boulder"/>
+<node id="Seattle"/>
+<node id="Stockton"/>
+<node id="Anaheim"/>
+<node id="Fort Worth"/>
+<node id="Kansas City"/>
+<node id="Chicago"/>
+<node id="New York (Pennsauken)"/>
+<node id="Washington, DC"/>
+<edge id="e1" source="Cheyenne" target="Boulder">
+<data key="key_weight">130.78</data>
+</edge>
+<edge id="e2" source="Cheyenne" target="Stockton">
+<data key="key_weight">1453.8</data>
+</edge>
+<edge id="e3" source="Cheyenne" target="Kansas City">
+<data key="key_weight">895.06</data>
+</edge>
+<edge id="e4" source="Atlanta" target="Washington, DC">
+<data key="key_weight">872.17</data>
+</edge>
+<edge id="e5" source="Atlanta" target="Fort Worth">
+<data key="key_weight">1207.73</data>
+</edge>
+<edge id="e6" source="Seattle" target="Chicago">
+<data key="key_weight">2789.45</data>
+</edge>
+<edge id="e7" source="Seattle" target="Stockton">
+<data key="key_weight">1076.5</data>
+</edge>
+<edge id="e8" source="Stockton" target="Anaheim">
+<data key="key_weight">550.16</data>
+</edge>
+<edge id="e9" source="Stockton" target="Chicago">
+<data key="key_weight">2884.04</data>
+</edge>
+<edge id="e10" source="Stockton" target="New York (Pennsauken)">
+<data key="key_weight">4030.1</data>
+</edge>
+<edge id="e11" source="Stockton" target="Washington, DC">
+<data key="key_weight">3819.12</data>
+</edge>
+<edge id="e12" source="Anaheim" target="Fort Worth">
+<data key="key_weight">1915.68</data>
+</edge>
+<edge id="e13" source="Fort Worth" target="Washington, DC">
+<data key="key_weight">1948.9</data>
+</edge>
+<edge id="e14" source="Fort Worth" target="Kansas City">
+<data key="key_weight">750.76</data>
+</edge>
+<edge id="e15" source="Kansas City" target="Chicago">
+<data key="key_weight">663.81</data>
+</edge>
+<edge id="e16" source="Kansas City" target="Washington, DC">
+<data key="key_weight">1518.27</data>
+</edge>
+<edge id="e17" source="Chicago" target="New York (Pennsauken)">
+<data key="key_weight">1146.16</data>
+</edge>
+<edge id="e18" source="New York (Pennsauken)" target="Washington, DC">
+<data key="key_weight">328.58</data>
+</edge>
+</graph></graphml>

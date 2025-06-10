@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Kherson"/>
+<node id="Mykolaiv"/>
+<node id="Sevastopol"/>
+<node id="Simferopol"/>
+<node id="Vinnitsa"/>
+<node id="Khmelnitsky"/>
+<node id="Odessa"/>
+<node id="Kamianets-Podilsky"/>
+<node id="Cherkassy"/>
+<node id="Zaporizhia"/>
+<node id="Dnipropetrovsk"/>
+<node id="Lviv"/>
+<node id="Lutsk"/>
+<node id="Zhitomir"/>
+<node id="Kiev"/>
+<node id="Pereyaslav"/>
+<node id="Poltava"/>
+<node id="Kharkiv"/>
+<node id="Donetsk"/>
+<edge id="e1" source="Kherson" target="Mykolaiv">
+<data key="key_weight">58.84</data>
+</edge>
+<edge id="e2" source="Kherson" target="Simferopol">
+<data key="key_weight">219.85</data>
+</edge>
+<edge id="e3" source="Mykolaiv" target="Cherkassy">
+<data key="key_weight">274.4</data>
+</edge>
+<edge id="e4" source="Mykolaiv" target="Odessa">
+<data key="key_weight">110.9</data>
+</edge>
+<edge id="e5" source="Sevastopol" target="Simferopol">
+<data key="key_weight">61.73</data>
+</edge>
+<edge id="e6" source="Vinnitsa" target="Kiev">
+<data key="key_weight">199.67</data>
+</edge>
+<edge id="e7" source="Vinnitsa" target="Khmelnitsky">
+<data key="key_weight">109.45</data>
+</edge>
+<edge id="e8" source="Khmelnitsky" target="Lviv">
+<data key="key_weight">219.52</data>
+</edge>
+<edge id="e9" source="Kamianets-Podilsky" target="Kiev">
+<data key="key_weight">347.85</data>
+</edge>
+<edge id="e10" source="Cherkassy" target="Kiev">
+<data key="key_weight">158.43</data>
+</edge>
+<edge id="e11" source="Zaporizhia" target="Dnipropetrovsk">
+<data key="key_weight">71.99</data>
+</edge>
+<edge id="e12" source="Dnipropetrovsk" target="Poltava">
+<data key="key_weight">129.67</data>
+</edge>
+<edge id="e13" source="Dnipropetrovsk" target="Donetsk">
+<data key="key_weight">214.62</data>
+</edge>
+<edge id="e14" source="Lviv" target="Kiev">
+<data key="key_weight">468.23</data>
+</edge>
+<edge id="e15" source="Lutsk" target="Zhitomir">
+<data key="key_weight">242.27</data>
+</edge>
+<edge id="e16" source="Zhitomir" target="Kiev">
+<data key="key_weight">133.75</data>
+</edge>
+<edge id="e17" source="Kiev" target="Pereyaslav">
+<data key="key_weight">78.73</data>
+</edge>
+<edge id="e18" source="Kiev" target="Poltava">
+<data key="key_weight">304.7</data>
+</edge>
+<edge id="e19" source="Poltava" target="Kharkiv">
+<data key="key_weight">129.45</data>
+</edge>
+</graph></graphml>

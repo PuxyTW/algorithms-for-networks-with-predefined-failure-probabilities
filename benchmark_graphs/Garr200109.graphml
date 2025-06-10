@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="MI"/>
+<node id="TO"/>
+<node id="TS"/>
+<node id="PD"/>
+<node id="BO"/>
+<node id="BO"/>
+<node id="GE"/>
+<node id="FI"/>
+<node id="NA"/>
+<node id="RM"/>
+<node id="CT"/>
+<node id="MI"/>
+<node id="NA"/>
+<node id="PA"/>
+<node id="PI"/>
+<node id="CA"/>
+<node id="RM"/>
+<node id="AQ"/>
+<node id="FRA"/>
+<node id="BA"/>
+<edge id="e1" source="MI" target="TO">
+<data key="key_weight">125.52</data>
+</edge>
+<edge id="e2" source="MI" target="TS">
+<data key="key_weight">358.05</data>
+</edge>
+<edge id="e3" source="MI" target="PD">
+<data key="key_weight">210.18</data>
+</edge>
+<edge id="e4" source="MI" target="BO">
+<data key="key_weight">200.6</data>
+</edge>
+<edge id="e5" source="MI" target="GE">
+<data key="key_weight">119.38</data>
+</edge>
+<edge id="e6" source="MI" target="MI">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e7" source="MI" target="NA">
+<data key="key_weight">658.45</data>
+</edge>
+<edge id="e8" source="MI" target="RM">
+<data key="key_weight">477.24</data>
+</edge>
+<edge id="e9" source="BO" target="BO">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e10" source="BO" target="FI">
+<data key="key_weight">81.19</data>
+</edge>
+<edge id="e11" source="BO" target="NA">
+<data key="key_weight">471.58</data>
+</edge>
+<edge id="e12" source="BO" target="PI">
+<data key="key_weight">114.7</data>
+</edge>
+<edge id="e13" source="BO" target="RM">
+<data key="key_weight">303.62</data>
+</edge>
+<edge id="e14" source="NA" target="NA">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e15" source="RM" target="RM">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e16" source="CT" target="NA">
+<data key="key_weight">377.48</data>
+</edge>
+<edge id="e17" source="NA" target="PA">
+<data key="key_weight">311.77</data>
+</edge>
+<edge id="e18" source="NA" target="RM">
+<data key="key_weight">188.87</data>
+</edge>
+<edge id="e19" source="NA" target="BA">
+<data key="key_weight">220.7</data>
+</edge>
+<edge id="e20" source="CA" target="RM">
+<data key="key_weight">411.59</data>
+</edge>
+<edge id="e21" source="RM" target="AQ">
+<data key="key_weight">90.97</data>
+</edge>
+<edge id="e22" source="RM" target="FRA">
+<data key="key_weight">17.62</data>
+</edge>
+</graph></graphml>

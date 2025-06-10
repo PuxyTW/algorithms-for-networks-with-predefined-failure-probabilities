@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Gainesboro"/>
+<node id="Wartburg"/>
+<node id="Scottsville"/>
+<node id="Lafayette"/>
+<node id="Greenville"/>
+<node id="Johnson City"/>
+<node id="Knoxville"/>
+<node id="Morristown"/>
+<node id="Scott County"/>
+<node id="Crossville"/>
+<node id="Memphis"/>
+<node id="Rainsville"/>
+<node id="Scottsboro"/>
+<node id="Chapel Hill"/>
+<node id="Chattanooga"/>
+<node id="Dunlap"/>
+<node id="Spencer"/>
+<node id="McMinnville"/>
+<node id="Ringgold"/>
+<node id="Chickamauga"/>
+<node id="Trenton"/>
+<node id="Brownsville"/>
+<node id="Millington"/>
+<node id="Huntsville"/>
+<node id="New Hope"/>
+<node id="Pulaski"/>
+<node id="Ardmore"/>
+<node id="Waynesboro"/>
+<node id="Loretto"/>
+<node id="Jackson"/>
+<node id="Henderson"/>
+<node id="Columbia"/>
+<node id="Yuma"/>
+<node id="Nashville"/>
+<node id="Smyrna"/>
+<node id="Mt Juliet"/>
+<node id="Smithville"/>
+<node id="Trenton"/>
+<node id="Bruceton"/>
+<node id="Camden"/>
+<node id="New Johnsonville"/>
+<node id="Bowling Green"/>
+<node id="Glasgow"/>
+<node id="Paducah"/>
+<node id="Mayfield"/>
+<node id="Union City"/>
+<node id="Martin"/>
+<node id="McKenzie"/>
+<node id="Paris"/>
+<node id="Murray"/>
+<node id="Franklin"/>
+<edge id="e1" source="Gainesboro" target="Wartburg">
+<data key="key_weight">99.26</data>
+</edge>
+<edge id="e2" source="Gainesboro" target="Lafayette">
+<data key="key_weight">37.69</data>
+</edge>
+<edge id="e3" source="Gainesboro" target="Smithville">
+<data key="key_weight">46.09</data>
+</edge>
+<edge id="e4" source="Gainesboro" target="Nashville">
+<data key="key_weight">103.13</data>
+</edge>
+<edge id="e5" source="Gainesboro" target="Crossville">
+<data key="key_weight">72.57</data>
+</edge>
+<edge id="e6" source="Gainesboro" target="Mt Juliet">
+<data key="key_weight">79.01</data>
+</edge>
+<edge id="e7" source="Wartburg" target="Knoxville">
+<data key="key_weight">62.92</data>
+</edge>
+<edge id="e8" source="Scottsville" target="Bowling Green">
+<data key="key_weight">34.66</data>
+</edge>
+<edge id="e9" source="Scottsville" target="Glasgow">
+<data key="key_weight">36.63</data>
+</edge>
+<edge id="e10" source="Scottsville" target="Lafayette">
+<data key="key_weight">29.7</data>
+</edge>
+<edge id="e11" source="Scottsville" target="Franklin">
+<data key="key_weight">34.64</data>
+</edge>
+<edge id="e12" source="Greenville" target="Johnson City">
+<data key="key_weight">45.98</data>
+</edge>
+<edge id="e13" source="Greenville" target="Morristown">
+<data key="key_weight">42.03</data>
+</edge>
+<edge id="e14" source="Johnson City" target="Scott County">
+<data key="key_weight">41.43</data>
+</edge>
+<edge id="e15" source="Johnson City" target="Knoxville">
+<data key="key_weight">146.15</data>
+</edge>
+<edge id="e16" source="Knoxville" target="Chattanooga">
+<data key="key_weight">161.78</data>
+</edge>
+<edge id="e17" source="Knoxville" target="Morristown">
+<data key="key_weight">62.92</data>
+</edge>
+<edge id="e18" source="Crossville" target="McMinnville">
+<data key="key_weight">73.24</data>
+</edge>
+<edge id="e19" source="Memphis" target="Jackson">
+<data key="key_weight">123.36</data>
+</edge>
+<edge id="e20" source="Memphis" target="Millington">
+<data key="key_weight">25.41</data>
+</edge>
+<edge id="e21" source="Rainsville" target="Scottsboro">
+<data key="key_weight">26.15</data>
+</edge>
+<edge id="e22" source="Rainsville" target="Trenton">
+<data key="key_weight">52.2</data>
+</edge>
+<edge id="e23" source="Scottsboro" target="New Hope">
+<data key="key_weight">36.25</data>
+</edge>
+<edge id="e24" source="Chapel Hill" target="Spencer">
+<data key="key_weight">111.63</data>
+</edge>
+<edge id="e25" source="Chapel Hill" target="Nashville">
+<data key="key_weight">60.56</data>
+</edge>
+<edge id="e26" source="Chapel Hill" target="Smyrna">
+<data key="key_weight">42.66</data>
+</edge>
+<edge id="e27" source="Chapel Hill" target="Ardmore">
+<data key="key_weight">71.92</data>
+</edge>
+<edge id="e28" source="Chattanooga" target="Ringgold">
+<data key="key_weight">23.29</data>
+</edge>
+<edge id="e29" source="Chattanooga" target="Huntsville">
+<data key="key_weight">121.62</data>
+</edge>
+<edge id="e30" source="Chattanooga" target="Dunlap">
+<data key="key_weight">36.98</data>
+</edge>
+<edge id="e31" source="Dunlap" target="Spencer">
+<data key="key_weight">42.37</data>
+</edge>
+<edge id="e32" source="Spencer" target="McMinnville">
+<data key="key_weight">28.3</data>
+</edge>
+<edge id="e33" source="Spencer" target="Smithville">
+<data key="key_weight">39.3</data>
+</edge>
+<edge id="e34" source="Ringgold" target="Chickamauga">
+<data key="key_weight">17.3</data>
+</edge>
+<edge id="e35" source="Chickamauga" target="Trenton">
+<data key="key_weight">19.92</data>
+</edge>
+<edge id="e36" source="Brownsville" target="Millington">
+<data key="key_weight">64.01</data>
+</edge>
+<edge id="e37" source="Huntsville" target="New Hope">
+<data key="key_weight">27.75</data>
+</edge>
+<edge id="e38" source="Huntsville" target="Ardmore">
+<data key="key_weight">37.58</data>
+</edge>
+<edge id="e39" source="Huntsville" target="Loretto">
+<data key="key_weight">86.93</data>
+</edge>
+<edge id="e40" source="Huntsville" target="Columbia">
+<data key="key_weight">106.54</data>
+</edge>
+<edge id="e41" source="Pulaski" target="Ardmore">
+<data key="key_weight">28.55</data>
+</edge>
+<edge id="e42" source="Pulaski" target="Loretto">
+<data key="key_weight">39.59</data>
+</edge>
+<edge id="e43" source="Waynesboro" target="Loretto">
+<data key="key_weight">39.77</data>
+</edge>
+<edge id="e44" source="Waynesboro" target="Henderson">
+<data key="key_weight">80.84</data>
+</edge>
+<edge id="e45" source="Jackson" target="Yuma">
+<data key="key_weight">50.29</data>
+</edge>
+<edge id="e46" source="Jackson" target="Trenton">
+<data key="key_weight">42.31</data>
+</edge>
+<edge id="e47" source="Jackson" target="Henderson">
+<data key="key_weight">24.98</data>
+</edge>
+<edge id="e48" source="Columbia" target="Nashville">
+<data key="key_weight">65.3</data>
+</edge>
+<edge id="e49" source="Yuma" target="Nashville">
+<data key="key_weight">144.08</data>
+</edge>
+<edge id="e50" source="Yuma" target="Bruceton">
+<data key="key_weight">22.76</data>
+</edge>
+<edge id="e51" source="Yuma" target="McKenzie">
+<data key="key_weight">35.68</data>
+</edge>
+<edge id="e52" source="Smyrna" target="Mt Juliet">
+<data key="key_weight">24.16</data>
+</edge>
+<edge id="e53" source="Trenton" target="Union City">
+<data key="key_weight">50.42</data>
+</edge>
+<edge id="e54" source="Bruceton" target="Camden">
+<data key="key_weight">13.39</data>
+</edge>
+<edge id="e55" source="Camden" target="New Johnsonville">
+<data key="key_weight">12.5</data>
+</edge>
+<edge id="e56" source="Camden" target="Paris">
+<data key="key_weight">33.96</data>
+</edge>
+<edge id="e57" source="Bowling Green" target="Franklin">
+<data key="key_weight">32.1</data>
+</edge>
+<edge id="e58" source="Paducah" target="Murray">
+<data key="key_weight">58.42</data>
+</edge>
+<edge id="e59" source="Paducah" target="Mayfield">
+<data key="key_weight">38.14</data>
+</edge>
+<edge id="e60" source="Mayfield" target="Union City">
+<data key="key_weight">51.54</data>
+</edge>
+<edge id="e61" source="Union City" target="Martin">
+<data key="key_weight">20.57</data>
+</edge>
+<edge id="e62" source="Martin" target="McKenzie">
+<data key="key_weight">37.89</data>
+</edge>
+<edge id="e63" source="McKenzie" target="Paris">
+<data key="key_weight">25.53</data>
+</edge>
+<edge id="e64" source="Paris" target="Murray">
+<data key="key_weight">34.31</data>
+</edge>
+</graph></graphml>

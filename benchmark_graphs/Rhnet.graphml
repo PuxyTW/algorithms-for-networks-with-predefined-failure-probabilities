@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Solborg-Akureyri"/>
+<node id="Fjarski"/>
+<node id="FSA-Akureyri"/>
+<node id="DST-Akureyri"/>
+<node id="Hvanneyri"/>
+<node id="Grensas"/>
+<node id="Skulagata"/>
+<node id="Taeknigarour"/>
+<node id="Sturlugata"/>
+<node id="Hringbraut"/>
+<node id="Bustaoavegur"/>
+<node id="Ofanleiti"/>
+<node id="Keldhaholt"/>
+<edge id="e1" source="Solborg-Akureyri" target="FSA-Akureyri">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e2" source="Solborg-Akureyri" target="DST-Akureyri">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e3" source="Fjarski" target="Taeknigarour">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e4" source="Fjarski" target="DST-Akureyri">
+<data key="key_weight">248.72</data>
+</edge>
+<edge id="e5" source="FSA-Akureyri" target="DST-Akureyri">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e6" source="Hvanneyri" target="Keldhaholt">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e7" source="Grensas" target="Skulagata">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e8" source="Grensas" target="Keldhaholt">
+<data key="key_weight">264.17</data>
+</edge>
+<edge id="e9" source="Skulagata" target="Taeknigarour">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e10" source="Taeknigarour" target="Sturlugata">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e11" source="Sturlugata" target="Hringbraut">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e12" source="Hringbraut" target="Bustaoavegur">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e13" source="Bustaoavegur" target="Ofanleiti">
+<data key="key_weight">111.93</data>
+</edge>
+<edge id="e14" source="Ofanleiti" target="Keldhaholt">
+<data key="key_weight">310.86</data>
+</edge>
+</graph></graphml>

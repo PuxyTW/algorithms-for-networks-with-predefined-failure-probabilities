@@ -1,0 +1,951 @@
+graph,num_nodes,algorithm,runtime,total_run_runtime,success_rate,avg_depth,median_stretch
+Aarnet.graphml,19,Beacon Nodes,9.6533,121.9296,0.8312,6.625,0.0
+Aarnet.graphml,19,Global Controller,11.5203,122.1243,0.8175,6.625,0.0
+Aarnet.graphml,19,PrioList,10.5907,139.0992,0.8312,6.625,0.0
+Aarnet.graphml,19,Simple Decomposition,9.5853,118.2716,0.8453,6.625,0.0
+Aarnet.graphml,19,Super Trees,10.1103,93.7914,0.6306,6.5156,0.0
+Abilene.graphml,11,Beacon Nodes,6.3723,113.0326,0.9409,4.3594,1.0
+Abilene.graphml,11,Global Controller,6.6992,110.2665,0.9141,4.3594,1.0
+Abilene.graphml,11,PrioList,6.041,106.2136,0.9638,4.3594,0.0
+Abilene.graphml,11,Simple Decomposition,7.4269,108.4821,0.9669,4.3594,0.0
+Abilene.graphml,11,Super Trees,7.7638,82.3856,0.6678,4.6719,2.0
+Abvt.graphml,22,Beacon Nodes,17.8862,144.3612,0.835,9.8906,0.0
+Abvt.graphml,22,Global Controller,17.6393,142.4005,0.8097,9.8906,1.0
+Abvt.graphml,22,PrioList,15.9411,139.1602,0.8838,9.8906,1.0
+Abvt.graphml,22,Simple Decomposition,16.5801,141.0858,0.8875,9.8906,1.0
+Abvt.graphml,22,Super Trees,16.217,116.6558,0.7141,9.2031,1.0
+Aconet.graphml,17,Beacon Nodes,11.2575,138.0063,0.9644,3.5469,0.0
+Aconet.graphml,17,Global Controller,11.7387,137.694,0.9522,3.5469,0.0
+Aconet.graphml,17,PrioList,11.0097,138.3326,0.97,3.5469,0.0
+Aconet.graphml,17,Simple Decomposition,10.36,129.0881,0.9712,3.5469,0.0
+Aconet.graphml,17,Super Trees,12.6382,121.0262,0.8566,5.875,1.0
+Agis.graphml,25,Beacon Nodes,15.8872,145.7841,0.8534,6.6562,0.0
+Agis.graphml,25,Global Controller,17.641,153.8895,0.8497,6.6562,0.0
+Agis.graphml,25,PrioList,16.1518,140.0015,0.8759,6.6562,0.0
+Agis.graphml,25,Simple Decomposition,15.4841,140.7322,0.8853,6.6562,0.0
+Agis.graphml,25,Super Trees,16.7041,111.7033,0.6419,6.7812,1.0
+Airtel.graphml,9,Beacon Nodes,8.0882,126.0186,0.9806,2.6838,0.0
+Airtel.graphml,9,Global Controller,8.207,117.8548,0.9834,2.6838,0.0
+Airtel.graphml,9,PrioList,7.6338,124.0125,0.9847,2.6838,0.0
+Airtel.graphml,9,Simple Decomposition,7.7098,117.2226,0.98,2.6838,0.0
+Airtel.graphml,9,Super Trees,7.486,104.7148,0.9378,3.2713,1.0
+Amres.graphml,21,Beacon Nodes,3.1202,92.0253,0.6272,8.0312,0.0
+Amres.graphml,21,Global Controller,3.8952,93.484,0.6594,8.0312,0.0
+Amres.graphml,21,PrioList,2.7425,87.1262,0.6403,8.0312,0.0
+Amres.graphml,21,Simple Decomposition,2.838,90.2894,0.6434,8.0312,0.0
+Amres.graphml,21,Super Trees,4.0522,87.3287,0.6456,8.0312,0.0
+Ans.graphml,18,Beacon Nodes,17.5024,143.7189,0.9375,7.5,0.0
+Ans.graphml,18,Global Controller,16.5408,144.785,0.9206,7.5,1.0
+Ans.graphml,18,PrioList,16.1059,143.8968,0.9566,7.5,0.0
+Ans.graphml,18,Simple Decomposition,15.6181,140.7578,0.9519,7.5,0.0
+Ans.graphml,18,Super Trees,14.818,131.8093,0.8891,8.75,2.0
+Arn.graphml,28,Beacon Nodes,3.9829,110.1136,0.7459,3.625,0.0
+Arn.graphml,28,Global Controller,4.8518,117.05,0.7406,3.625,0.0
+Arn.graphml,28,PrioList,3.4067,109.3279,0.7531,3.625,0.0
+Arn.graphml,28,Simple Decomposition,3.3502,116.307,0.7466,3.625,0.0
+Arn.graphml,28,Super Trees,4.9549,113.0291,0.7462,3.625,0.0
+Arnes.graphml,34,Beacon Nodes,43.9826,217.3918,0.9044,9.8594,1.0
+Arnes.graphml,34,Global Controller,42.4244,210.4133,0.8581,9.8594,3.0
+Arnes.graphml,34,PrioList,42.3502,207.856,0.9125,9.8594,1.0
+Arnes.graphml,34,Simple Decomposition,40.8985,207.3979,0.9156,9.8594,1.0
+Arnes.graphml,34,Super Trees,41.2706,190.7031,0.7941,10.2031,3.0
+Arpanet196912.graphml,4,Beacon Nodes,1.5881,77.1059,0.9275,1.8281,1.0
+Arpanet196912.graphml,4,Global Controller,1.5354,77.1544,0.9259,1.8281,1.0
+Arpanet196912.graphml,4,PrioList,1.3269,73.1709,0.9156,1.8281,0.0
+Arpanet196912.graphml,4,Simple Decomposition,1.2901,73.3525,0.9209,1.8281,0.0
+Arpanet196912.graphml,4,Super Trees,1.485,73.4003,0.8719,1.9531,1.0
+Arpanet19706.graphml,9,Beacon Nodes,2.6957,84.2559,0.8328,2.875,0.0
+Arpanet19706.graphml,9,Global Controller,2.9778,82.4629,0.8278,2.875,0.0
+Arpanet19706.graphml,9,PrioList,2.6104,84.5668,0.8409,2.875,1.0
+Arpanet19706.graphml,9,Simple Decomposition,2.4453,81.0984,0.8353,2.875,0.0
+Arpanet19706.graphml,9,Super Trees,3.017,63.3457,0.6334,3.4531,1.0
+Arpanet19719.graphml,17,Beacon Nodes,11.1101,130.4064,0.8872,7.8438,1.0
+Arpanet19719.graphml,17,Global Controller,11.7798,126.3318,0.8538,7.8438,1.5
+Arpanet19719.graphml,17,PrioList,12.0629,125.5729,0.9306,7.8438,0.0
+Arpanet19719.graphml,17,Simple Decomposition,10.6257,131.1287,0.9269,7.8438,0.0
+Arpanet19719.graphml,17,Super Trees,11.2821,109.5,0.7934,8.625,0.0
+Arpanet19723.graphml,23,Beacon Nodes,17.0935,142.5163,0.8178,11.1562,0.0
+Arpanet19723.graphml,23,Global Controller,17.4217,136.6883,0.7528,11.1562,0.0
+Arpanet19723.graphml,23,PrioList,17.6893,144.1939,0.8769,11.1562,0.0
+Arpanet19723.graphml,23,Simple Decomposition,15.6464,142.7959,0.8656,11.1562,0.0
+Arpanet19723.graphml,23,Super Trees,16.413,130.6496,0.8084,11.9531,0.0
+Arpanet19728.graphml,27,Beacon Nodes,21.9723,155.1731,0.8431,12.4688,0.0
+Arpanet19728.graphml,27,Global Controller,24.6433,155.4342,0.7278,12.4688,0.0
+Arpanet19728.graphml,27,PrioList,20.9091,155.251,0.8788,12.4688,0.0
+Arpanet19728.graphml,27,Simple Decomposition,19.8551,155.5462,0.8856,12.4688,0.0
+Arpanet19728.graphml,27,Super Trees,20.7555,152.5303,0.8472,15.2969,0.0
+Atmnet.graphml,21,Beacon Nodes,12.5419,126.6834,0.7712,11.3025,0.0
+Atmnet.graphml,21,Global Controller,13.428,120.6748,0.7134,11.3025,0.0
+Atmnet.graphml,21,PrioList,12.4712,126.0254,0.8188,11.3025,0.0
+Atmnet.graphml,21,Simple Decomposition,12.884,125.4509,0.8112,11.3025,0.0
+Atmnet.graphml,21,Super Trees,13.6046,106.3756,0.6609,11.9688,5.0
+AttMpls.graphml,25,Beacon Nodes,49.2941,257.8983,0.995,8.3125,0.0
+AttMpls.graphml,25,Global Controller,52.9309,253.5113,0.995,8.3125,0.0
+AttMpls.graphml,25,PrioList,51.2208,247.1738,0.9953,8.3125,0.0
+AttMpls.graphml,25,Simple Decomposition,49.5421,251.2307,0.9953,8.3125,0.0
+AttMpls.graphml,25,Super Trees,46.287,224.7973,0.9903,7.9531,1.5
+Bbnplanet.graphml,27,Beacon Nodes,11.4428,130.4926,0.7581,6.1094,0.0
+Bbnplanet.graphml,27,Global Controller,13.1381,130.0653,0.7581,6.1094,0.0
+Bbnplanet.graphml,27,PrioList,11.4303,129.8868,0.7781,6.1094,0.0
+Bbnplanet.graphml,27,Simple Decomposition,11.1194,133.0312,0.7834,6.1094,0.0
+Bbnplanet.graphml,27,Super Trees,12.5082,117.7248,0.63,7.3438,1.0
+Bellcanada.graphml,48,Beacon Nodes,69.7496,295.2049,0.8691,12.6406,1.0
+Bellcanada.graphml,48,Global Controller,72.4704,282.2184,0.8178,12.6406,1.0
+Bellcanada.graphml,48,PrioList,63.6645,276.353,0.8738,12.6406,1.0
+Bellcanada.graphml,48,Simple Decomposition,63.1625,275.0137,0.8706,12.6406,1.0
+Bellcanada.graphml,48,Super Trees,64.2716,242.8933,0.7503,13.4688,2.0
+Bellsouth.graphml,49,Beacon Nodes,33.0829,220.4089,0.7722,5.375,0.0
+Bellsouth.graphml,49,Global Controller,34.7474,216.7999,0.7791,5.375,0.0
+Bellsouth.graphml,49,PrioList,30.5214,207.5202,0.7788,5.375,0.0
+Bellsouth.graphml,49,Simple Decomposition,30.4479,210.9119,0.7662,5.375,0.0
+Bellsouth.graphml,49,Super Trees,32.8824,175.1105,0.5953,5.9844,1.0
+Belnet2003.graphml,17,Beacon Nodes,15.861,163.9843,0.9778,2.0625,0.0
+Belnet2003.graphml,17,Global Controller,16.3632,170.3366,0.9762,2.0625,0.0
+Belnet2003.graphml,17,PrioList,15.8643,164.9349,0.9838,2.0625,0.0
+Belnet2003.graphml,17,Simple Decomposition,17.1737,157.4881,0.9822,2.0625,0.0
+Belnet2003.graphml,17,Super Trees,18.1787,161.1503,0.9778,3.6094,0.0
+Belnet2004.graphml,17,Beacon Nodes,17.0082,159.3521,0.9797,2.125,0.0
+Belnet2004.graphml,17,Global Controller,17.4265,167.6743,0.9766,2.125,0.0
+Belnet2004.graphml,17,PrioList,16.5008,163.3598,0.9819,2.125,0.0
+Belnet2004.graphml,17,Simple Decomposition,17.6802,160.1615,0.9791,2.125,0.0
+Belnet2004.graphml,17,Super Trees,17.7024,151.7841,0.9516,3.5156,1.0
+Belnet2005.graphml,17,Beacon Nodes,19.3921,169.6251,0.9741,2.125,0.0
+Belnet2005.graphml,17,Global Controller,21.4885,170.7978,0.9744,2.125,0.0
+Belnet2005.graphml,17,PrioList,18.2187,163.5616,0.9878,2.125,0.0
+Belnet2005.graphml,17,Simple Decomposition,19.9257,159.8321,0.9878,2.125,0.0
+Belnet2005.graphml,17,Super Trees,19.692,156.855,0.9456,3.1562,1.0
+Belnet2006.graphml,17,Beacon Nodes,17.193,169.196,0.9822,2.0625,0.0
+Belnet2006.graphml,17,Global Controller,17.3044,169.8139,0.9834,2.0625,0.0
+Belnet2006.graphml,17,PrioList,16.4347,161.8711,0.9834,2.0625,0.0
+Belnet2006.graphml,17,Simple Decomposition,17.7409,165.1415,0.9872,2.0625,0.0
+Belnet2006.graphml,17,Super Trees,16.6563,148.2794,0.9194,3.5,1.5
+Belnet2007.graphml,21,Beacon Nodes,14.7862,143.8227,0.8531,8.4894,0.0
+Belnet2007.graphml,21,Global Controller,17.1556,142.7881,0.8231,8.4894,0.0
+Belnet2007.graphml,21,PrioList,16.4687,144.982,0.9034,8.4894,0.0
+Belnet2007.graphml,21,Simple Decomposition,14.1336,141.5892,0.9012,8.4894,0.0
+Belnet2007.graphml,21,Super Trees,14.5516,136.4948,0.8569,10.2031,0.0
+Belnet2008.graphml,21,Beacon Nodes,14.3134,142.3511,0.8672,8.7759,0.0
+Belnet2008.graphml,21,Global Controller,16.1343,143.8163,0.815,8.7759,0.0
+Belnet2008.graphml,21,PrioList,15.866,141.9896,0.8944,8.7759,0.0
+Belnet2008.graphml,21,Simple Decomposition,14.1862,142.9819,0.8922,8.7759,0.0
+Belnet2008.graphml,21,Super Trees,14.4956,137.3238,0.8572,10.2188,0.0
+Belnet2009.graphml,21,Beacon Nodes,16.3971,150.4295,0.8634,8.5781,0.0
+Belnet2009.graphml,21,Global Controller,15.3851,141.2276,0.8197,8.5781,0.0
+Belnet2009.graphml,21,PrioList,14.2328,141.5618,0.8912,8.5781,0.0
+Belnet2009.graphml,21,Simple Decomposition,14.0359,139.1112,0.8922,8.5781,0.0
+Belnet2009.graphml,21,Super Trees,15.1919,126.3886,0.8025,9.8906,3.0
+Belnet2010.graphml,19,Beacon Nodes,7.1279,116.9903,0.7259,8.2603,0.0
+Belnet2010.graphml,19,Global Controller,7.6229,113.7496,0.7244,8.2603,0.0
+Belnet2010.graphml,19,PrioList,6.6619,111.9583,0.7481,8.2603,0.0
+Belnet2010.graphml,19,Simple Decomposition,6.889,117.7275,0.7509,8.2603,0.0
+Belnet2010.graphml,19,Super Trees,7.2461,102.9987,0.6906,9.0781,2.0
+BeyondTheNetwork.graphml,29,Beacon Nodes,35.5376,213.473,0.9694,12.5781,1.0
+BeyondTheNetwork.graphml,29,Global Controller,39.5992,219.9101,0.9309,12.5781,1.0
+BeyondTheNetwork.graphml,29,PrioList,38.2374,212.1393,0.9759,12.5781,1.0
+BeyondTheNetwork.graphml,29,Simple Decomposition,38.9131,215.9226,0.9725,12.5781,1.0
+BeyondTheNetwork.graphml,29,Super Trees,36.0429,196.4829,0.9069,11.4062,3.0
+Bics.graphml,33,Beacon Nodes,45.5447,234.0539,0.9072,9.5469,1.0
+Bics.graphml,33,Global Controller,48.2211,239.9242,0.9075,9.5469,1.0
+Bics.graphml,33,PrioList,45.2469,227.3336,0.9169,9.5469,1.0
+Bics.graphml,33,Simple Decomposition,47.2825,231.1482,0.9294,9.5469,0.0
+Bics.graphml,33,Super Trees,44.3708,204.385,0.8312,10.5,3.0
+Biznet.graphml,28,Beacon Nodes,21.7863,159.6571,0.7547,13.3125,0.0
+Biznet.graphml,28,Global Controller,24.8493,166.3077,0.7116,13.3125,0.0
+Biznet.graphml,28,PrioList,21.7534,161.7284,0.8219,13.3125,0.0
+Biznet.graphml,28,Simple Decomposition,22.1008,164.2429,0.8131,13.3125,0.0
+Biznet.graphml,28,Super Trees,21.4442,142.1917,0.7234,13.5312,0.0
+BsonetEurope.graphml,14,Beacon Nodes,9.3943,125.5243,0.8869,5.2188,0.0
+BsonetEurope.graphml,14,Global Controller,9.7819,126.6244,0.8753,5.2188,1.0
+BsonetEurope.graphml,14,PrioList,8.906,123.4108,0.8931,5.2188,0.0
+BsonetEurope.graphml,14,Simple Decomposition,9.238,128.4828,0.9006,5.2188,0.0
+BsonetEurope.graphml,14,Super Trees,9.3292,108.2414,0.7747,6.375,2.0
+BtAsiaPac.graphml,15,Beacon Nodes,9.391,128.4397,0.8747,4.2344,0.0
+BtAsiaPac.graphml,15,Global Controller,9.9804,130.7012,0.8553,4.2344,0.0
+BtAsiaPac.graphml,15,PrioList,9.199,124.738,0.8931,4.2344,0.0
+BtAsiaPac.graphml,15,Simple Decomposition,9.0295,122.2721,0.8931,4.2344,0.0
+BtAsiaPac.graphml,15,Super Trees,9.7233,105.8768,0.7494,4.875,1.0
+BtNorthAmerica.graphml,33,Beacon Nodes,75.778,309.1106,0.9866,8.6562,0.0
+BtNorthAmerica.graphml,33,Global Controller,75.8558,309.7443,0.9778,8.6562,0.0
+BtNorthAmerica.graphml,33,PrioList,75.5237,304.8052,0.9862,8.6562,0.0
+BtNorthAmerica.graphml,33,Simple Decomposition,79.3938,306.9599,0.9878,8.6562,0.0
+BtNorthAmerica.graphml,33,Super Trees,75.2568,294.8738,0.9744,8.3438,2.0
+Canerie.graphml,24,Beacon Nodes,24.5795,178.0446,0.8984,7.0938,1.0
+Canerie.graphml,24,Global Controller,21.0703,170.8798,0.8906,7.0938,1.0
+Canerie.graphml,24,PrioList,19.1981,163.8459,0.9066,7.0938,0.0
+Canerie.graphml,24,Simple Decomposition,21.4264,167.9806,0.9178,7.0938,0.0
+Canerie.graphml,24,Super Trees,20.8831,142.4449,0.7434,8.2656,2.5
+Carnet.graphml,41,Beacon Nodes,4.184,144.9932,0.7238,4.7812,0.0
+Carnet.graphml,41,Global Controller,6.656,151.8757,0.7222,4.7812,0.0
+Carnet.graphml,41,PrioList,4.005,143.6472,0.7184,4.7812,0.0
+Carnet.graphml,41,Simple Decomposition,3.8708,142.4052,0.7391,4.7812,0.0
+Carnet.graphml,41,Super Trees,6.0802,143.7426,0.7066,4.7812,0.0
+Cernet.graphml,36,Beacon Nodes,50.4444,247.5455,0.9319,6.6875,0.0
+Cernet.graphml,36,Global Controller,55.2849,253.2423,0.9269,6.6875,0.0
+Cernet.graphml,36,PrioList,53.068,249.6856,0.925,6.6875,0.0
+Cernet.graphml,36,Simple Decomposition,55.331,243.6539,0.9244,6.6875,0.0
+Cernet.graphml,36,Super Trees,47.4703,218.0425,0.8622,7.3438,2.0
+Cesnet1993.graphml,9,Beacon Nodes,1.5143,78.8913,0.7912,2.7812,0.0
+Cesnet1993.graphml,9,Global Controller,1.689,78.2047,0.8084,2.7812,0.0
+Cesnet1993.graphml,9,PrioList,1.4108,77.7375,0.8044,2.7812,0.0
+Cesnet1993.graphml,9,Simple Decomposition,1.5288,75.5283,0.8122,2.7812,0.0
+Cesnet1993.graphml,9,Super Trees,2.0459,83.0781,0.8053,2.7812,0.0
+Cesnet1999.graphml,11,Beacon Nodes,1.6513,88.0156,0.7988,2.9375,0.0
+Cesnet1999.graphml,11,Global Controller,1.8433,83.822,0.7909,2.9375,0.0
+Cesnet1999.graphml,11,PrioList,1.3996,80.4901,0.7884,2.9375,0.0
+Cesnet1999.graphml,11,Simple Decomposition,1.4756,82.0325,0.7922,2.9375,0.0
+Cesnet1999.graphml,11,Super Trees,2.0765,77.4464,0.7862,2.9375,0.0
+Cesnet2001.graphml,20,Beacon Nodes,4.9091,107.7382,0.7894,3.0625,0.0
+Cesnet2001.graphml,20,Global Controller,5.4401,105.7773,0.7797,3.0625,0.0
+Cesnet2001.graphml,20,PrioList,4.604,103.8646,0.7925,3.0625,0.0
+Cesnet2001.graphml,20,Simple Decomposition,4.6082,103.3497,0.7909,3.0625,0.0
+Cesnet2001.graphml,20,Super Trees,6.0102,89.0993,0.6666,3.7344,0.0
+Cesnet200304.graphml,26,Beacon Nodes,14.2476,138.0905,0.8234,5.5,1.0
+Cesnet200304.graphml,26,Global Controller,15.241,141.7697,0.8088,5.5,1.0
+Cesnet200304.graphml,26,PrioList,14.4822,135.6656,0.8166,5.5,1.0
+Cesnet200304.graphml,26,Simple Decomposition,12.4943,129.4359,0.8362,5.5,1.0
+Cesnet200304.graphml,26,Super Trees,14.974,122.9478,0.6994,5.6094,1.0
+Cesnet200511.graphml,34,Beacon Nodes,11.8802,144.4326,0.7462,5.5312,0.0
+Cesnet200511.graphml,34,Global Controller,13.8728,146.6609,0.755,5.5312,0.0
+Cesnet200511.graphml,34,PrioList,11.988,138.0762,0.76,5.5312,0.0
+Cesnet200511.graphml,34,Simple Decomposition,11.7598,139.7665,0.7647,5.5312,0.0
+Cesnet200511.graphml,34,Super Trees,13.2171,135.4861,0.6941,6.7447,2.0
+Cesnet200603.graphml,34,Beacon Nodes,13.3285,150.3288,0.7475,5.7656,0.0
+Cesnet200603.graphml,34,Global Controller,17.7882,159.7275,0.7659,5.7656,0.0
+Cesnet200603.graphml,34,PrioList,12.611,142.9863,0.7725,5.7656,0.0
+Cesnet200603.graphml,34,Simple Decomposition,12.5885,141.6508,0.7612,5.7656,0.0
+Cesnet200603.graphml,34,Super Trees,14.0631,127.8401,0.6644,6.4844,2.0
+Cesnet200706.graphml,38,Beacon Nodes,12.2241,150.8721,0.7481,5.1094,0.0
+Cesnet200706.graphml,38,Global Controller,14.8925,155.7541,0.7428,5.1094,0.0
+Cesnet200706.graphml,38,PrioList,11.7563,146.5429,0.7594,5.1094,0.0
+Cesnet200706.graphml,38,Simple Decomposition,11.9794,149.1158,0.7531,5.1094,0.0
+Cesnet200706.graphml,38,Super Trees,13.521,139.3961,0.6769,6.7812,2.0
+Cesnet201006.graphml,45,Beacon Nodes,34.9572,211.2494,0.8006,7.1875,0.0
+Cesnet201006.graphml,45,Global Controller,36.7797,207.6707,0.7988,7.1875,1.0
+Cesnet201006.graphml,45,PrioList,34.6086,200.7732,0.7981,7.1875,0.0
+Cesnet201006.graphml,45,Simple Decomposition,35.9528,202.0494,0.7906,7.1875,0.0
+Cesnet201006.graphml,45,Super Trees,34.2355,177.9071,0.6562,8.25,2.0
+Chinanet.graphml,38,Beacon Nodes,40.1418,212.9592,0.8447,3.9688,0.0
+Chinanet.graphml,38,Global Controller,43.5024,206.937,0.8369,3.9688,0.0
+Chinanet.graphml,38,PrioList,37.1237,200.8115,0.8544,3.9688,0.0
+Chinanet.graphml,38,Simple Decomposition,40.0082,201.068,0.8425,3.9688,0.0
+Chinanet.graphml,38,Super Trees,41.5775,194.3169,0.7706,6.1719,4.0
+Claranet.graphml,15,Beacon Nodes,7.683,110.5633,0.8294,3.75,1.0
+Claranet.graphml,15,Global Controller,7.6463,111.3644,0.8456,3.75,1.0
+Claranet.graphml,15,PrioList,7.1839,111.049,0.8584,3.75,1.0
+Claranet.graphml,15,Simple Decomposition,7.5531,110.6113,0.8556,3.75,1.0
+Claranet.graphml,15,Super Trees,8.6978,89.61,0.6884,4.9062,1.0
+Compuserve.graphml,11,Beacon Nodes,7.3176,116.8635,0.9619,6.3125,0.0
+Compuserve.graphml,11,Global Controller,7.58,112.5988,0.9491,6.3125,1.0
+Compuserve.graphml,11,PrioList,6.7166,110.0846,0.9722,6.3125,0.0
+Compuserve.graphml,11,Simple Decomposition,6.8072,112.7524,0.9669,6.3125,0.0
+Compuserve.graphml,11,Super Trees,7.0755,95.8335,0.8022,5.7656,0.0
+CrlNetworkServices.graphml,33,Beacon Nodes,29.2578,190.2934,0.8234,13.9375,0.0
+CrlNetworkServices.graphml,33,Global Controller,31.5052,172.8658,0.7347,13.9375,1.0
+CrlNetworkServices.graphml,33,PrioList,30.4878,182.3805,0.8566,13.9375,1.0
+CrlNetworkServices.graphml,33,Simple Decomposition,31.4891,179.6227,0.8559,13.9375,1.0
+CrlNetworkServices.graphml,33,Super Trees,30.0605,168.1554,0.8053,15.5625,1.0
+Cwix.graphml,23,Beacon Nodes,18.4793,152.6414,0.8678,7.7812,0.0
+Cwix.graphml,23,Global Controller,21.4828,147.8906,0.8319,7.7812,0.0
+Cwix.graphml,23,PrioList,18.6113,146.3385,0.8984,7.7812,0.0
+Cwix.graphml,23,Simple Decomposition,20.0668,146.0202,0.8956,7.7812,0.0
+Cwix.graphml,23,Super Trees,19.1676,137.3908,0.835,10.1719,1.0
+Darkstrand.graphml,28,Beacon Nodes,24.016,161.3589,0.8153,14.4062,0.0
+Darkstrand.graphml,28,Global Controller,27.0064,155.7289,0.7253,14.4062,0.0
+Darkstrand.graphml,28,PrioList,22.8522,153.4207,0.86,14.4062,0.0
+Darkstrand.graphml,28,Simple Decomposition,21.9689,148.4719,0.8547,14.4062,0.0
+Darkstrand.graphml,28,Super Trees,22.6089,151.4156,0.8322,15.5312,0.0
+Dataxchange.graphml,6,Beacon Nodes,3.6754,91.9736,0.9422,1.9484,0.0
+Dataxchange.graphml,6,Global Controller,5.0766,92.3509,0.9438,1.9484,0.0
+Dataxchange.graphml,6,PrioList,3.5148,88.4033,0.9453,1.9484,0.0
+Dataxchange.graphml,6,Simple Decomposition,4.5309,93.3928,0.9444,1.9484,0.0
+Dataxchange.graphml,6,Super Trees,3.4284,79.9368,0.8856,2.6147,1.0
+Dfn.graphml,51,Beacon Nodes,113.7162,373.9535,0.9756,12.9688,1.0
+Dfn.graphml,51,Global Controller,118.0787,383.9178,0.955,12.9688,1.0
+Dfn.graphml,51,PrioList,111.7951,368.5042,0.9791,12.9688,1.0
+Dfn.graphml,51,Simple Decomposition,109.6067,365.7591,0.9772,12.9688,1.0
+Dfn.graphml,51,Super Trees,111.5177,349.139,0.9669,13.2812,2.0
+Digex.graphml,31,Beacon Nodes,27.1944,166.8753,0.8,12.75,1.0
+Digex.graphml,31,Global Controller,29.519,163.3975,0.7084,12.75,1.0
+Digex.graphml,31,PrioList,27.5452,174.8181,0.8706,12.75,1.0
+Digex.graphml,31,Simple Decomposition,26.9693,168.75,0.8747,12.75,1.0
+Digex.graphml,31,Super Trees,30.0577,155.2516,0.7622,14.1094,1.0
+Eenet.graphml,12,Beacon Nodes,2.1858,79.169,0.7566,4.5,1.0
+Eenet.graphml,12,Global Controller,2.2936,80.6868,0.7753,4.5,1.0
+Eenet.graphml,12,PrioList,1.9637,81.8577,0.7847,4.5,0.0
+Eenet.graphml,12,Simple Decomposition,1.9556,76.4606,0.7712,4.5,0.0
+Eenet.graphml,12,Super Trees,2.4732,80.5489,0.7384,4.6875,1.0
+EliBackbone.graphml,20,Beacon Nodes,22.3192,172.7783,0.965,9.375,1.0
+EliBackbone.graphml,20,Global Controller,23.2113,166.7089,0.9512,9.375,1.0
+EliBackbone.graphml,20,PrioList,21.9333,168.8823,0.9806,9.375,1.0
+EliBackbone.graphml,20,Simple Decomposition,21.9224,165.9298,0.9803,9.375,1.0
+EliBackbone.graphml,20,Super Trees,22.8764,160.8342,0.9544,10.0678,2.0
+Epoch.graphml,6,Beacon Nodes,2.8606,88.0278,0.9594,2.8116,0.0
+Epoch.graphml,6,Global Controller,2.765,88.2608,0.9541,2.8116,0.0
+Epoch.graphml,6,PrioList,2.6132,89.8178,0.9644,2.8116,0.0
+Epoch.graphml,6,Simple Decomposition,3.251,91.8552,0.9734,2.8116,0.0
+Epoch.graphml,6,Super Trees,3.0783,79.1965,0.8325,2.9478,0.0
+Ernet.graphml,16,Beacon Nodes,5.1766,103.9238,0.8006,3.5056,1.0
+Ernet.graphml,16,Global Controller,5.6081,101.6264,0.7812,3.5056,0.0
+Ernet.graphml,16,PrioList,4.8356,97.0401,0.7991,3.5056,0.0
+Ernet.graphml,16,Simple Decomposition,4.839,99.5456,0.8116,3.5056,0.0
+Ernet.graphml,16,Super Trees,5.698,82.7426,0.6538,5.0469,1.0
+Evolink.graphml,32,Beacon Nodes,20.5598,157.4915,0.7734,9.6406,1.0
+Evolink.graphml,32,Global Controller,23.0485,157.0938,0.7634,9.6406,1.0
+Evolink.graphml,32,PrioList,19.2282,151.562,0.7697,9.6406,0.0
+Evolink.graphml,32,Simple Decomposition,19.7234,148.9566,0.7869,9.6406,0.0
+Evolink.graphml,32,Super Trees,20.5893,135.8729,0.6616,10.5312,4.0
+Fccn.graphml,23,Beacon Nodes,5.903,112.9361,0.7744,4.5,1.0
+Fccn.graphml,23,Global Controller,7.0912,110.6976,0.7725,4.5,1.0
+Fccn.graphml,23,PrioList,5.5184,107.0864,0.7694,4.5,1.0
+Fccn.graphml,23,Simple Decomposition,5.5063,111.2004,0.7762,4.5,1.0
+Fccn.graphml,23,Super Trees,7.5937,107.6394,0.7331,5.1875,1.5
+Forthnet.graphml,60,Beacon Nodes,8.8129,184.6999,0.7122,5.5625,0.0
+Forthnet.graphml,60,Global Controller,13.0562,185.5083,0.7225,5.5625,0.0
+Forthnet.graphml,60,PrioList,8.3917,179.4654,0.7281,5.5625,0.0
+Forthnet.graphml,60,Simple Decomposition,8.3783,173.6426,0.71,5.5625,0.0
+Forthnet.graphml,60,Super Trees,11.3927,176.2083,0.7294,5.5625,0.0
+Funet.graphml,24,Beacon Nodes,17.4902,141.8365,0.8128,12.7656,0.0
+Funet.graphml,24,Global Controller,18.1711,139.5294,0.7438,12.7656,0.0
+Funet.graphml,24,PrioList,16.2818,138.9357,0.8562,12.7656,0.0
+Funet.graphml,24,Simple Decomposition,15.9831,136.8235,0.8519,12.7656,0.0
+Funet.graphml,24,Super Trees,17.9315,132.3258,0.7681,14.0156,0.0
+Gambia.graphml,12,Beacon Nodes,3.2791,88.1839,0.8019,4.0781,0.0
+Gambia.graphml,12,Global Controller,3.6308,85.8431,0.7769,4.0781,0.0
+Gambia.graphml,12,PrioList,3.2267,84.652,0.8066,4.0781,0.0
+Gambia.graphml,12,Simple Decomposition,3.1382,87.6584,0.8159,4.0781,0.0
+Gambia.graphml,12,Super Trees,3.9708,70.2977,0.6562,5.25,0.0
+Garr199901.graphml,16,Beacon Nodes,4.6967,95.6573,0.8006,2.7812,0.0
+Garr199901.graphml,16,Global Controller,6.241,95.5489,0.8062,2.7812,0.0
+Garr199901.graphml,16,PrioList,4.3744,92.452,0.7906,2.7812,0.0
+Garr199901.graphml,16,Simple Decomposition,4.3384,93.0072,0.8128,2.7812,0.0
+Garr199901.graphml,16,Super Trees,5.2279,74.6232,0.6088,3.8281,1.0
+Garr199904.graphml,16,Beacon Nodes,5.5549,101.0045,0.8041,2.75,0.0
+Garr199904.graphml,16,Global Controller,5.5373,96.8121,0.8066,2.75,0.0
+Garr199904.graphml,16,PrioList,6.7989,96.1165,0.8028,2.75,0.0
+Garr199904.graphml,16,Simple Decomposition,4.786,92.6075,0.8016,2.75,0.0
+Garr199904.graphml,16,Super Trees,5.8063,88.0979,0.7325,3.6978,1.0
+Garr199905.graphml,16,Beacon Nodes,4.7675,96.6288,0.7928,2.7812,0.0
+Garr199905.graphml,16,Global Controller,5.4732,96.3097,0.8056,2.7812,0.0
+Garr199905.graphml,16,PrioList,4.7815,92.5161,0.805,2.7812,0.0
+Garr199905.graphml,16,Simple Decomposition,4.4125,91.9357,0.8003,2.7812,1.0
+Garr199905.graphml,16,Super Trees,5.2693,81.9088,0.6922,3.7916,1.0
+Garr200109.graphml,16,Beacon Nodes,4.7395,89.304,0.7956,2.8125,0.0
+Garr200109.graphml,16,Global Controller,5.0071,94.9104,0.7878,2.8125,0.0
+Garr200109.graphml,16,PrioList,4.2118,87.916,0.7909,2.8125,0.0
+Garr200109.graphml,16,Simple Decomposition,4.1959,92.5451,0.7959,2.8125,1.0
+Garr200109.graphml,16,Super Trees,5.0649,79.026,0.6734,4.0,1.0
+Garr200112.graphml,18,Beacon Nodes,7.6022,109.7594,0.8034,2.6562,0.0
+Garr200112.graphml,18,Global Controller,7.8997,110.59,0.8253,2.6562,0.0
+Garr200112.graphml,18,PrioList,6.8417,103.4774,0.8109,2.6562,0.0
+Garr200112.graphml,18,Simple Decomposition,8.7793,102.1294,0.8066,2.6562,1.0
+Garr200112.graphml,18,Super Trees,9.4052,90.9326,0.6609,3.6353,1.0
+Garr200212.graphml,18,Beacon Nodes,4.4632,103.831,0.7891,3.1406,0.0
+Garr200212.graphml,18,Global Controller,5.0286,99.9813,0.7869,3.1406,0.0
+Garr200212.graphml,18,PrioList,3.9893,92.1728,0.7734,3.1406,0.0
+Garr200212.graphml,18,Simple Decomposition,4.0601,97.3526,0.7884,3.1406,0.0
+Garr200212.graphml,18,Super Trees,5.045,86.3151,0.6856,3.8125,1.0
+Garr200404.graphml,16,Beacon Nodes,3.7539,93.8503,0.7894,2.875,0.0
+Garr200404.graphml,16,Global Controller,5.3507,97.6062,0.7847,2.875,0.0
+Garr200404.graphml,16,PrioList,3.4249,91.785,0.795,2.875,0.0
+Garr200404.graphml,16,Simple Decomposition,3.3992,92.5373,0.7869,2.875,0.0
+Garr200404.graphml,16,Super Trees,4.453,80.6807,0.6756,4.1666,1.0
+Garr200902.graphml,42,Beacon Nodes,17.4993,168.0086,0.7453,6.375,0.0
+Garr200902.graphml,42,Global Controller,21.9751,180.5014,0.7366,6.375,0.0
+Garr200902.graphml,42,PrioList,19.9323,170.9597,0.7375,6.375,0.0
+Garr200902.graphml,42,Simple Decomposition,17.0111,164.2482,0.7403,6.375,0.0
+Garr200902.graphml,42,Super Trees,18.9687,159.5571,0.6741,9.25,3.0
+Garr200908.graphml,42,Beacon Nodes,39.3911,215.3948,0.8053,6.5,1.0
+Garr200908.graphml,42,Global Controller,41.4885,211.7856,0.8112,6.5,1.0
+Garr200908.graphml,42,PrioList,36.5337,204.7591,0.8144,6.5,0.0
+Garr200908.graphml,42,Simple Decomposition,36.4858,205.4412,0.8181,6.5,0.0
+Garr200908.graphml,42,Super Trees,40.3646,195.6307,0.7534,9.0312,2.0
+Garr200909.graphml,42,Beacon Nodes,31.0159,195.5183,0.7897,7.0,0.0
+Garr200909.graphml,42,Global Controller,33.7372,195.3084,0.7841,7.0,0.0
+Garr200909.graphml,42,PrioList,30.5104,197.4325,0.8041,7.0,0.0
+Garr200909.graphml,42,Simple Decomposition,30.208,189.5113,0.7934,7.0,0.0
+Garr200909.graphml,42,Super Trees,33.0183,183.521,0.6962,8.7812,2.0
+Garr200912.graphml,42,Beacon Nodes,34.1584,199.5272,0.7847,6.9688,0.0
+Garr200912.graphml,42,Global Controller,38.1442,209.6272,0.7941,6.9688,0.0
+Garr200912.graphml,42,PrioList,35.4612,191.3729,0.8006,6.9688,0.0
+Garr200912.graphml,42,Simple Decomposition,33.6481,191.987,0.7859,6.9688,0.0
+Garr200912.graphml,42,Super Trees,34.52,171.9744,0.6769,9.1719,4.0
+Garr201001.graphml,42,Beacon Nodes,39.156,208.6286,0.79,6.8438,0.0
+Garr201001.graphml,42,Global Controller,42.2426,204.3902,0.7859,6.8438,0.0
+Garr201001.graphml,42,PrioList,36.3785,202.5872,0.8028,6.8438,0.0
+Garr201001.graphml,42,Simple Decomposition,40.1776,200.4558,0.7956,6.8438,0.0
+Garr201001.graphml,42,Super Trees,38.378,173.163,0.6481,8.2812,2.0
+Garr201003.graphml,42,Beacon Nodes,35.2694,203.5967,0.7694,6.0312,1.0
+Garr201003.graphml,42,Global Controller,35.6457,198.2588,0.7834,6.0312,1.0
+Garr201003.graphml,42,PrioList,33.5755,190.3139,0.7762,6.0312,0.0
+Garr201003.graphml,42,Simple Decomposition,33.5326,190.2508,0.7703,6.0312,0.0
+Garr201003.graphml,42,Super Trees,33.7908,167.8023,0.6566,8.8438,2.0
+Garr201004.graphml,42,Beacon Nodes,27.4131,190.4801,0.7619,6.2344,0.0
+Garr201004.graphml,42,Global Controller,31.3706,186.4801,0.7503,6.2344,0.0
+Garr201004.graphml,42,PrioList,28.3811,179.1529,0.7572,6.2344,0.0
+Garr201004.graphml,42,Simple Decomposition,26.688,173.0344,0.7575,6.2344,0.0
+Garr201004.graphml,42,Super Trees,30.0956,163.3915,0.6341,8.9531,5.0
+Garr201005.graphml,43,Beacon Nodes,40.9148,211.0028,0.8025,6.8281,1.0
+Garr201005.graphml,43,Global Controller,41.6313,214.1844,0.7944,6.8281,0.0
+Garr201005.graphml,43,PrioList,41.0358,205.1972,0.8269,6.8281,0.0
+Garr201005.graphml,43,Simple Decomposition,40.4105,204.1212,0.8234,6.8281,0.0
+Garr201005.graphml,43,Super Trees,40.1793,194.3778,0.7203,8.5312,3.0
+Garr201007.graphml,43,Beacon Nodes,38.7875,210.0206,0.8094,6.8125,1.0
+Garr201007.graphml,43,Global Controller,40.2593,213.6398,0.8047,6.8125,1.0
+Garr201007.graphml,43,PrioList,36.0267,197.854,0.8172,6.8125,0.0
+Garr201007.graphml,43,Simple Decomposition,34.18,202.604,0.8131,6.8125,0.0
+Garr201007.graphml,43,Super Trees,38.688,192.5676,0.7241,7.9531,3.0
+Garr201008.graphml,43,Beacon Nodes,41.4379,223.1456,0.8028,6.5625,0.0
+Garr201008.graphml,43,Global Controller,42.5071,216.6129,0.8022,6.5625,0.0
+Garr201008.graphml,43,PrioList,40.8815,205.5387,0.8147,6.5625,0.0
+Garr201008.graphml,43,Simple Decomposition,40.3004,205.3128,0.8256,6.5625,0.0
+Garr201008.graphml,43,Super Trees,41.6814,187.1827,0.6959,8.6875,2.5
+Garr201010.graphml,44,Beacon Nodes,53.0281,232.9832,0.8266,7.25,0.0
+Garr201010.graphml,44,Global Controller,53.463,234.1061,0.8244,7.25,0.0
+Garr201010.graphml,44,PrioList,50.8452,228.1815,0.8228,7.25,0.0
+Garr201010.graphml,44,Simple Decomposition,51.2028,227.8924,0.8284,7.25,0.0
+Garr201010.graphml,44,Super Trees,52.3707,189.414,0.6219,8.4375,5.0
+Garr201012.graphml,44,Beacon Nodes,50.5181,240.1049,0.8512,6.9062,0.0
+Garr201012.graphml,44,Global Controller,52.5001,234.873,0.8534,6.9062,0.0
+Garr201012.graphml,44,PrioList,51.0174,233.6023,0.8644,6.9062,0.0
+Garr201012.graphml,44,Simple Decomposition,51.4796,225.1095,0.8512,6.9062,0.0
+Garr201012.graphml,44,Super Trees,50.67,205.0006,0.7175,8.4219,3.0
+Garr201101.graphml,44,Beacon Nodes,42.4934,219.8516,0.8141,6.9531,0.0
+Garr201101.graphml,44,Global Controller,47.8212,225.9451,0.8019,6.9531,0.5
+Garr201101.graphml,44,PrioList,42.7853,217.5871,0.8131,6.9531,0.0
+Garr201101.graphml,44,Simple Decomposition,41.9766,216.7518,0.8131,6.9531,0.0
+Garr201101.graphml,44,Super Trees,46.5992,197.5725,0.6891,8.5625,3.0
+Garr201102.graphml,45,Beacon Nodes,44.0336,225.7742,0.7978,7.0625,0.0
+Garr201102.graphml,45,Global Controller,46.7975,230.0087,0.8044,7.0625,0.0
+Garr201102.graphml,45,PrioList,48.0079,221.5064,0.8116,7.0625,0.0
+Garr201102.graphml,45,Simple Decomposition,42.495,218.8181,0.8056,7.0625,0.0
+Garr201102.graphml,45,Super Trees,48.612,187.6428,0.6228,8.4375,3.0
+Garr201103.graphml,46,Beacon Nodes,47.1796,240.6236,0.8306,6.9688,0.0
+Garr201103.graphml,46,Global Controller,49.4871,238.7635,0.8178,6.9688,0.0
+Garr201103.graphml,46,PrioList,45.6623,226.9663,0.8253,6.9688,0.0
+Garr201103.graphml,46,Simple Decomposition,46.9431,229.8973,0.82,6.9688,0.0
+Garr201103.graphml,46,Super Trees,48.0327,206.4339,0.7206,8.5156,2.0
+Garr201104.graphml,47,Beacon Nodes,44.3745,231.5733,0.7903,7.1562,0.0
+Garr201104.graphml,47,Global Controller,44.6142,227.4951,0.7888,7.1562,0.0
+Garr201104.graphml,47,PrioList,44.4882,216.179,0.7834,7.1562,0.0
+Garr201104.graphml,47,Simple Decomposition,42.9324,218.0357,0.7822,7.1562,0.0
+Garr201104.graphml,47,Super Trees,47.3947,211.5589,0.675,9.0312,3.0
+Garr201105.graphml,47,Beacon Nodes,41.1169,234.1995,0.8053,7.0625,0.0
+Garr201105.graphml,47,Global Controller,45.2624,222.7777,0.7997,7.0625,0.0
+Garr201105.graphml,47,PrioList,43.8646,223.4576,0.8031,7.0625,0.0
+Garr201105.graphml,47,Simple Decomposition,42.2167,222.5465,0.8009,7.0625,0.0
+Garr201105.graphml,47,Super Trees,45.3166,204.9666,0.7062,8.9375,3.0
+Garr201107.graphml,47,Beacon Nodes,42.1089,230.7589,0.7972,6.7344,0.0
+Garr201107.graphml,47,Global Controller,46.3692,226.1501,0.7925,6.7344,0.0
+Garr201107.graphml,47,PrioList,40.8524,213.4606,0.8025,6.7344,0.0
+Garr201107.graphml,47,Simple Decomposition,41.1952,217.6744,0.7978,6.7344,0.0
+Garr201107.graphml,47,Super Trees,44.5483,197.0901,0.6716,9.1406,3.0
+Garr201108.graphml,47,Beacon Nodes,53.1016,251.0298,0.8291,7.2656,0.0
+Garr201108.graphml,47,Global Controller,58.7563,246.8402,0.8219,7.2656,1.0
+Garr201108.graphml,47,PrioList,53.2433,243.1466,0.8284,7.2656,0.0
+Garr201108.graphml,47,Simple Decomposition,55.7949,241.8191,0.8353,7.2656,0.0
+Garr201108.graphml,47,Super Trees,55.56,214.48,0.7169,9.0469,2.0
+Garr201109.graphml,47,Beacon Nodes,43.303,222.7409,0.7887,7.2344,0.0
+Garr201109.graphml,47,Global Controller,44.3831,223.797,0.7897,7.2344,0.5
+Garr201109.graphml,47,PrioList,40.9896,215.2878,0.7866,7.2344,0.0
+Garr201109.graphml,47,Simple Decomposition,43.2783,219.7661,0.7825,7.2344,0.0
+Garr201109.graphml,47,Super Trees,39.9388,190.1245,0.6531,8.4688,2.0
+Garr201110.graphml,47,Beacon Nodes,44.0421,231.2379,0.8025,7.0625,0.0
+Garr201110.graphml,47,Global Controller,49.2495,239.0277,0.8147,7.0625,0.0
+Garr201110.graphml,47,PrioList,45.9118,222.6828,0.8275,7.0625,0.0
+Garr201110.graphml,47,Simple Decomposition,44.2426,224.3146,0.8203,7.0625,0.0
+Garr201110.graphml,47,Super Trees,46.3945,203.217,0.6972,8.4844,2.0
+Garr201111.graphml,47,Beacon Nodes,36.7268,219.3896,0.7644,7.0469,0.0
+Garr201111.graphml,47,Global Controller,39.1214,214.9967,0.7459,7.0469,1.0
+Garr201111.graphml,47,PrioList,36.4008,203.732,0.7725,7.0469,0.0
+Garr201111.graphml,47,Simple Decomposition,34.8329,200.1975,0.7653,7.0469,0.0
+Garr201111.graphml,47,Super Trees,37.7528,183.1019,0.6309,8.7031,3.0
+Garr201112.graphml,48,Beacon Nodes,46.7834,231.3234,0.8009,7.7656,0.0
+Garr201112.graphml,48,Global Controller,48.3696,238.2333,0.7891,7.7656,0.0
+Garr201112.graphml,48,PrioList,47.9471,227.9604,0.8,7.7656,0.0
+Garr201112.graphml,48,Simple Decomposition,43.7634,221.9873,0.8069,7.7656,0.0
+Garr201112.graphml,48,Super Trees,46.2659,212.487,0.7128,9.1875,2.0
+Garr201201.graphml,48,Beacon Nodes,32.3421,205.0629,0.7606,6.9219,0.0
+Garr201201.graphml,48,Global Controller,34.4965,209.3875,0.7588,6.9219,0.0
+Garr201201.graphml,48,PrioList,30.0124,198.3902,0.7706,6.9219,0.0
+Garr201201.graphml,48,Simple Decomposition,33.581,201.4931,0.755,6.9219,0.0
+Garr201201.graphml,48,Super Trees,33.7809,195.7311,0.6853,8.75,2.0
+Geant2001.graphml,27,Beacon Nodes,23.9317,172.6245,0.8538,7.0156,1.0
+Geant2001.graphml,27,Global Controller,24.5433,169.2275,0.8622,7.0156,1.0
+Geant2001.graphml,27,PrioList,24.8186,166.5611,0.8628,7.0156,1.0
+Geant2001.graphml,27,Simple Decomposition,24.3827,166.2274,0.8488,7.0156,1.0
+Geant2001.graphml,27,Super Trees,30.2458,159.8057,0.7247,8.2344,2.0
+Geant2009.graphml,34,Beacon Nodes,53.2624,252.2321,0.9522,11.8125,1.0
+Geant2009.graphml,34,Global Controller,53.6847,254.094,0.9303,11.8125,1.0
+Geant2009.graphml,34,PrioList,50.3688,243.4836,0.9491,11.8125,1.0
+Geant2009.graphml,34,Simple Decomposition,51.5199,239.2064,0.9525,11.8125,1.0
+Geant2009.graphml,34,Super Trees,50.8566,239.1691,0.8991,10.9375,2.0
+Geant2010.graphml,37,Beacon Nodes,48.8432,239.2647,0.8759,10.1719,1.0
+Geant2010.graphml,37,Global Controller,50.7887,233.2811,0.8619,10.1719,1.0
+Geant2010.graphml,37,PrioList,47.1108,228.0228,0.8734,10.1719,0.0
+Geant2010.graphml,37,Simple Decomposition,46.2078,230.0765,0.8788,10.1719,0.0
+Geant2010.graphml,37,Super Trees,48.3171,226.8995,0.8466,10.625,2.0
+Geant2012.graphml,37,Beacon Nodes,65.7427,275.5221,0.9344,11.0469,0.0
+Geant2012.graphml,37,Global Controller,65.9998,271.2444,0.9225,11.0469,1.0
+Geant2012.graphml,37,PrioList,66.5807,265.5071,0.9334,11.0469,0.0
+Geant2012.graphml,37,Simple Decomposition,60.3264,253.1208,0.9328,11.0469,0.0
+Geant2012.graphml,37,Super Trees,60.1603,252.5815,0.9066,11.25,1.0
+Getnet.graphml,7,Beacon Nodes,2.7571,85.8399,0.8928,2.7594,0.0
+Getnet.graphml,7,Global Controller,2.7615,84.6401,0.8797,2.7594,0.0
+Getnet.graphml,7,PrioList,2.6793,88.0857,0.8966,2.7594,0.0
+Getnet.graphml,7,Simple Decomposition,2.4739,91.1125,0.9072,2.7594,0.0
+Getnet.graphml,7,Super Trees,3.0247,63.8966,0.6919,2.8438,0.0
+Globalcenter.graphml,9,Beacon Nodes,13.3736,139.8765,0.9991,1.67,0.0
+Globalcenter.graphml,9,Global Controller,13.3481,141.7401,0.9984,1.67,0.0
+Globalcenter.graphml,9,PrioList,14.9126,137.2688,0.9991,1.67,0.0
+Globalcenter.graphml,9,Simple Decomposition,13.2821,131.676,0.9991,1.67,0.0
+Globalcenter.graphml,9,Super Trees,13.816,131.4356,0.9991,3.0781,1.0
+Goodnet.graphml,17,Beacon Nodes,19.1623,157.5512,0.9262,3.5575,0.0
+Goodnet.graphml,17,Global Controller,18.2758,153.3024,0.9275,3.5575,0.0
+Goodnet.graphml,17,PrioList,16.9398,147.0711,0.9216,3.5575,0.0
+Goodnet.graphml,17,Simple Decomposition,17.0104,146.6029,0.9294,3.5575,0.0
+Goodnet.graphml,17,Super Trees,16.8995,131.7842,0.8431,4.5781,2.0
+Grena.graphml,13,Beacon Nodes,2.3377,86.5198,0.71,5.9375,0.0
+Grena.graphml,13,Global Controller,2.6098,84.9094,0.7031,5.9375,0.0
+Grena.graphml,13,PrioList,2.1621,77.9955,0.7172,5.9375,0.0
+Grena.graphml,13,Simple Decomposition,2.1767,77.9109,0.7159,5.9375,0.0
+Grena.graphml,13,Super Trees,3.0572,79.1001,0.6991,5.9375,0.0
+Gridnet.graphml,9,Beacon Nodes,8.8319,125.7067,0.9953,2.8809,0.0
+Gridnet.graphml,9,Global Controller,9.2061,135.1758,0.9969,2.8809,0.0
+Gridnet.graphml,9,PrioList,8.4941,126.2644,0.9997,2.8809,0.0
+Gridnet.graphml,9,Simple Decomposition,8.7196,122.391,0.9997,2.8809,0.0
+Gridnet.graphml,9,Super Trees,8.217,129.9198,0.9956,4.1094,1.0
+Grnet.graphml,34,Beacon Nodes,10.7931,137.6754,0.7369,6.1094,0.0
+Grnet.graphml,34,Global Controller,14.4937,148.2053,0.7125,6.1094,0.0
+Grnet.graphml,34,PrioList,10.3748,130.7488,0.7338,6.1094,0.0
+Grnet.graphml,34,Simple Decomposition,11.379,142.3926,0.7488,6.1094,0.0
+Grnet.graphml,34,Super Trees,11.7985,125.7471,0.6538,7.4219,4.0
+GtsCzechRepublic.graphml,26,Beacon Nodes,3.7082,101.3665,0.5566,12.8125,0.0
+GtsCzechRepublic.graphml,26,Global Controller,5.0239,103.389,0.5531,12.8125,0.0
+GtsCzechRepublic.graphml,26,PrioList,3.6277,95.5284,0.5497,12.8125,0.0
+GtsCzechRepublic.graphml,26,Simple Decomposition,3.4854,95.3989,0.5538,12.8125,0.0
+GtsCzechRepublic.graphml,26,Super Trees,4.8199,95.6763,0.54,12.8125,0.0
+GtsHungary.graphml,25,Beacon Nodes,9.7165,122.1692,0.7772,6.25,0.0
+GtsHungary.graphml,25,Global Controller,10.1761,125.1365,0.7662,6.25,0.0
+GtsHungary.graphml,25,PrioList,9.6001,126.8742,0.8072,6.25,0.0
+GtsHungary.graphml,25,Simple Decomposition,9.1957,120.369,0.8031,6.25,0.0
+GtsHungary.graphml,25,Super Trees,10.2897,118.847,0.7594,7.4375,2.0
+GtsPoland.graphml,26,Beacon Nodes,12.9649,141.4732,0.7281,9.0781,0.0
+GtsPoland.graphml,26,Global Controller,14.5581,138.1849,0.7009,9.0781,0.0
+GtsPoland.graphml,26,PrioList,15.5517,136.0681,0.7712,9.0781,0.0
+GtsPoland.graphml,26,Simple Decomposition,12.6339,133.5423,0.7781,9.0781,0.0
+GtsPoland.graphml,26,Super Trees,13.1295,130.1802,0.7266,10.0156,0.5
+GtsRomania.graphml,19,Beacon Nodes,8.8436,119.313,0.8462,3.9428,0.0
+GtsRomania.graphml,19,Global Controller,9.5517,123.8516,0.8366,3.9428,0.0
+GtsRomania.graphml,19,PrioList,8.2315,119.77,0.8447,3.9428,0.0
+GtsRomania.graphml,19,Simple Decomposition,8.5345,113.9225,0.8566,3.9428,0.0
+GtsRomania.graphml,19,Super Trees,9.5153,104.3793,0.7131,4.5938,1.0
+GtsSlovakia.graphml,28,Beacon Nodes,10.9587,142.3354,0.7981,4.3438,0.0
+GtsSlovakia.graphml,28,Global Controller,12.4109,139.9805,0.8,4.3438,0.0
+GtsSlovakia.graphml,28,PrioList,10.5798,135.2678,0.8109,4.3438,0.0
+GtsSlovakia.graphml,28,Simple Decomposition,10.8008,131.3238,0.8094,4.3438,0.0
+GtsSlovakia.graphml,28,Super Trees,11.6867,139.0752,0.7966,6.0156,0.0
+Heanet.graphml,7,Beacon Nodes,4.5238,101.0857,0.9878,2.4062,0.0
+Heanet.graphml,7,Global Controller,4.3427,102.5424,0.9841,2.4062,0.0
+Heanet.graphml,7,PrioList,4.278,100.5712,0.9866,2.4062,0.0
+Heanet.graphml,7,Simple Decomposition,4.2584,103.9999,0.9866,2.4062,0.0
+Heanet.graphml,7,Super Trees,4.6669,94.6506,0.9131,2.88,1.0
+HiberniaCanada.graphml,10,Beacon Nodes,2.4818,79.6725,0.7619,4.7344,0.0
+HiberniaCanada.graphml,10,Global Controller,2.6111,80.255,0.7662,4.7344,0.0
+HiberniaCanada.graphml,10,PrioList,2.4847,81.3628,0.7712,4.7344,0.0
+HiberniaCanada.graphml,10,Simple Decomposition,2.1928,75.1741,0.7638,4.7344,0.0
+HiberniaCanada.graphml,10,Super Trees,2.7696,71.974,0.7038,4.9688,2.0
+HiberniaGlobal.graphml,53,Beacon Nodes,69.4405,283.3518,0.7309,17.2969,1.0
+HiberniaGlobal.graphml,53,Global Controller,77.7022,281.4137,0.6944,17.2969,1.0
+HiberniaGlobal.graphml,53,PrioList,67.6416,271.8789,0.7344,17.2969,1.0
+HiberniaGlobal.graphml,53,Simple Decomposition,71.7302,271.9651,0.7453,17.2969,1.0
+HiberniaGlobal.graphml,53,Super Trees,73.4067,229.848,0.6038,16.3125,6.0
+HiberniaIreland.graphml,6,Beacon Nodes,2.2507,75.9106,0.8934,2.6562,0.0
+HiberniaIreland.graphml,6,Global Controller,2.4848,75.8629,0.8897,2.6562,0.0
+HiberniaIreland.graphml,6,PrioList,2.1848,81.6897,0.9384,2.6562,0.0
+HiberniaIreland.graphml,6,Simple Decomposition,2.3258,81.1915,0.9347,2.6562,0.0
+HiberniaIreland.graphml,6,Super Trees,4.2128,74.4919,0.8775,2.9375,0.0
+HiberniaNireland.graphml,15,Beacon Nodes,4.9869,92.9674,0.7222,8.6562,0.0
+HiberniaNireland.graphml,15,Global Controller,5.1924,94.2201,0.7138,8.6562,0.0
+HiberniaNireland.graphml,15,PrioList,5.0176,87.026,0.7369,8.6562,0.0
+HiberniaNireland.graphml,15,Simple Decomposition,6.5621,93.9529,0.7441,8.6562,0.0
+HiberniaNireland.graphml,15,Super Trees,5.5704,78.4877,0.6503,8.3281,1.0
+HiberniaUk.graphml,13,Beacon Nodes,6.6413,89.509,0.7516,6.5,0.0
+HiberniaUk.graphml,13,Global Controller,8.055,90.4033,0.7303,6.5,0.0
+HiberniaUk.graphml,13,PrioList,7.2719,96.549,0.8222,6.5,0.0
+HiberniaUk.graphml,13,Simple Decomposition,6.1369,95.8745,0.825,6.5,0.0
+HiberniaUk.graphml,13,Super Trees,6.3642,94.7035,0.8231,6.5,0.0
+HiberniaUs.graphml,20,Beacon Nodes,16.8104,150.0497,0.8728,9.7656,0.0
+HiberniaUs.graphml,20,Global Controller,17.6945,140.1457,0.8503,9.7656,1.0
+HiberniaUs.graphml,20,PrioList,15.7703,138.2088,0.8566,9.7656,0.0
+HiberniaUs.graphml,20,Simple Decomposition,16.0311,143.2745,0.8684,9.7656,0.0
+HiberniaUs.graphml,20,Super Trees,16.1152,112.0339,0.7122,9.0781,1.0
+Highwinds.graphml,18,Beacon Nodes,18.5464,159.6751,0.95,5.0781,0.0
+Highwinds.graphml,18,Global Controller,17.5134,158.5008,0.9491,5.0781,0.0
+Highwinds.graphml,18,PrioList,16.3727,155.0333,0.9506,5.0781,0.0
+Highwinds.graphml,18,Simple Decomposition,16.5879,146.0678,0.9509,5.0781,0.0
+Highwinds.graphml,18,Super Trees,19.3369,135.1866,0.7978,6.3125,1.0
+HostwayInternational.graphml,16,Beacon Nodes,8.0492,115.1699,0.8431,6.25,1.0
+HostwayInternational.graphml,16,Global Controller,8.805,113.6638,0.8175,6.25,1.0
+HostwayInternational.graphml,16,PrioList,8.1355,110.6413,0.8556,6.25,1.0
+HostwayInternational.graphml,16,Simple Decomposition,8.007,111.0898,0.8484,6.25,1.0
+HostwayInternational.graphml,16,Super Trees,8.2276,95.9997,0.7075,6.625,1.0
+HurricaneElectric.graphml,24,Beacon Nodes,28.9774,176.6113,0.8975,5.2656,0.0
+HurricaneElectric.graphml,24,Global Controller,27.4058,173.9513,0.8991,5.2656,0.0
+HurricaneElectric.graphml,24,PrioList,26.2424,169.8063,0.9091,5.2656,0.0
+HurricaneElectric.graphml,24,Simple Decomposition,25.3459,164.6627,0.9134,5.2656,0.0
+HurricaneElectric.graphml,24,Super Trees,24.4495,156.35,0.8481,6.7916,4.0
+Ibm.graphml,18,Beacon Nodes,13.6307,138.7536,0.9522,6.7344,1.0
+Ibm.graphml,18,Global Controller,14.2795,140.5529,0.9284,6.7344,0.0
+Ibm.graphml,18,PrioList,13.695,137.9241,0.9519,6.7344,0.0
+Ibm.graphml,18,Simple Decomposition,13.9412,135.6119,0.9472,6.7344,0.0
+Ibm.graphml,18,Super Trees,14.4047,122.4873,0.82,7.9062,3.0
+Iij.graphml,28,Beacon Nodes,48.0154,236.9949,0.9597,4.4531,0.0
+Iij.graphml,28,Global Controller,52.9326,235.3588,0.9559,4.4531,0.0
+Iij.graphml,28,PrioList,49.8597,235.4128,0.9591,4.4531,0.0
+Iij.graphml,28,Simple Decomposition,48.4631,227.5047,0.9647,4.4531,0.0
+Iij.graphml,28,Super Trees,46.6684,218.2202,0.9359,5.9219,3.0
+Ilan.graphml,10,Beacon Nodes,2.8402,84.717,0.83,3.375,0.0
+Ilan.graphml,10,Global Controller,3.0499,83.8533,0.8362,3.375,0.0
+Ilan.graphml,10,PrioList,4.3415,79.6948,0.8419,3.375,0.0
+Ilan.graphml,10,Simple Decomposition,2.6516,83.2476,0.8519,3.375,0.0
+Ilan.graphml,10,Super Trees,3.1559,78.7285,0.8284,3.5,0.0
+Integra.graphml,27,Beacon Nodes,22.4303,167.1666,0.8759,6.6406,1.0
+Integra.graphml,27,Global Controller,22.4752,165.006,0.8522,6.6406,1.0
+Integra.graphml,27,PrioList,21.2194,157.7707,0.8816,6.6406,1.0
+Integra.graphml,27,Simple Decomposition,22.2446,159.6707,0.88,6.6406,1.0
+Integra.graphml,27,Super Trees,22.5808,136.3425,0.7081,8.5781,1.0
+Internetmci.graphml,19,Beacon Nodes,25.0108,172.103,0.9753,5.8906,1.0
+Internetmci.graphml,19,Global Controller,25.8475,175.6803,0.9753,5.8906,1.0
+Internetmci.graphml,19,PrioList,24.3472,169.6658,0.9884,5.8906,0.0
+Internetmci.graphml,19,Simple Decomposition,22.7618,167.4448,0.9825,5.8906,0.0
+Internetmci.graphml,19,Super Trees,22.4856,158.5732,0.9675,6.9219,1.0
+Internode.graphml,20,Beacon Nodes,25.2973,168.7974,0.9712,6.8906,0.0
+Internode.graphml,20,Global Controller,24.4559,163.856,0.9603,6.8906,0.0
+Internode.graphml,20,PrioList,23.208,162.5913,0.9706,6.8906,0.0
+Internode.graphml,20,Simple Decomposition,23.2087,158.7688,0.9681,6.8906,0.0
+Internode.graphml,20,Super Trees,26.1694,158.0999,0.9519,7.4062,2.0
+Iris.graphml,50,Beacon Nodes,59.3137,259.9854,0.8341,12.7344,1.0
+Iris.graphml,50,Global Controller,66.7663,264.6015,0.7966,12.7344,1.0
+Iris.graphml,50,PrioList,63.399,256.5227,0.8512,12.7344,1.0
+Iris.graphml,50,Simple Decomposition,60.3145,248.176,0.8441,12.7344,1.0
+Iris.graphml,50,Super Trees,60.6205,229.3057,0.6806,13.2188,4.0
+Janetlense.graphml,19,Beacon Nodes,13.211,143.1726,0.885,2.8125,0.0
+Janetlense.graphml,19,Global Controller,14.1284,140.0996,0.8928,2.8125,0.0
+Janetlense.graphml,19,PrioList,14.1404,140.4389,0.9084,2.8125,0.0
+Janetlense.graphml,19,Simple Decomposition,13.1153,135.0524,0.9191,2.8125,0.0
+Janetlense.graphml,19,Super Trees,14.2128,123.869,0.8069,4.3438,1.0
+Jgn2Plus.graphml,11,Beacon Nodes,2.1811,76.9457,0.7397,5.5625,0.0
+Jgn2Plus.graphml,11,Global Controller,2.3059,73.1468,0.74,5.5625,0.0
+Jgn2Plus.graphml,11,PrioList,1.9234,72.8089,0.7512,5.5625,0.0
+Jgn2Plus.graphml,11,Simple Decomposition,1.8127,74.8653,0.7328,5.5625,0.0
+Jgn2Plus.graphml,11,Super Trees,2.4765,71.7992,0.7291,5.5625,0.0
+Karen.graphml,23,Beacon Nodes,9.2578,120.7155,0.7634,6.3281,1.0
+Karen.graphml,23,Global Controller,10.5076,118.5044,0.7669,6.3281,1.0
+Karen.graphml,23,PrioList,9.3521,120.8076,0.7828,6.3281,1.0
+Karen.graphml,23,Simple Decomposition,8.9429,113.8181,0.7853,6.3281,1.0
+Karen.graphml,23,Super Trees,10.0069,94.5394,0.6384,6.9428,4.0
+KentmanFeb2008.graphml,25,Beacon Nodes,4.9403,107.9602,0.7512,4.625,0.0
+KentmanFeb2008.graphml,25,Global Controller,5.7215,107.2525,0.7428,4.625,0.0
+KentmanFeb2008.graphml,25,PrioList,4.5975,104.8403,0.7403,4.625,0.0
+KentmanFeb2008.graphml,25,Simple Decomposition,4.4279,107.2226,0.7381,4.625,0.0
+KentmanFeb2008.graphml,25,Super Trees,5.9341,96.0789,0.6644,5.0938,0.0
+KentmanJul2005.graphml,16,Beacon Nodes,7.0819,105.5977,0.8084,4.8281,1.0
+KentmanJul2005.graphml,16,Global Controller,7.5197,105.0278,0.7969,4.8281,0.0
+KentmanJul2005.graphml,16,PrioList,6.7232,102.3045,0.8316,4.8281,0.0
+KentmanJul2005.graphml,16,Simple Decomposition,6.728,101.4084,0.8403,4.8281,0.0
+KentmanJul2005.graphml,16,Super Trees,7.3175,86.5679,0.6494,5.0781,1.0
+Kreonet.graphml,13,Beacon Nodes,2.0261,79.6314,0.7891,3.2812,0.0
+Kreonet.graphml,13,Global Controller,2.4974,85.4787,0.78,3.2812,0.0
+Kreonet.graphml,13,PrioList,2.0285,77.6663,0.7959,3.2812,0.0
+Kreonet.graphml,13,Simple Decomposition,1.7751,77.407,0.7878,3.2812,0.0
+Kreonet.graphml,13,Super Trees,2.6734,79.9395,0.7912,3.2812,0.0
+Latnet.graphml,68,Beacon Nodes,15.6352,205.7931,0.6784,10.0834,0.0
+Latnet.graphml,68,Global Controller,22.4615,230.3553,0.6753,10.0834,0.0
+Latnet.graphml,68,PrioList,16.0422,196.5413,0.6731,10.0834,0.0
+Latnet.graphml,68,Simple Decomposition,15.0459,200.3779,0.6769,10.0834,0.0
+Latnet.graphml,68,Super Trees,19.737,194.666,0.6366,10.2188,1.0
+Layer42.graphml,6,Beacon Nodes,2.4358,79.0105,0.8978,2.3906,0.0
+Layer42.graphml,6,Global Controller,2.4978,81.5176,0.9044,2.3906,0.0
+Layer42.graphml,6,PrioList,2.1257,83.0516,0.9059,2.3906,0.0
+Layer42.graphml,6,Simple Decomposition,2.1896,79.6976,0.8912,2.3906,0.0
+Layer42.graphml,6,Super Trees,2.6246,57.1476,0.6544,2.4688,0.0
+Litnet.graphml,39,Beacon Nodes,8.3433,139.2922,0.7378,3.875,0.0
+Litnet.graphml,39,Global Controller,10.7061,150.1295,0.7503,3.875,0.0
+Litnet.graphml,39,PrioList,9.1201,134.0703,0.7378,3.875,0.0
+Litnet.graphml,39,Simple Decomposition,7.6897,145.578,0.7556,3.875,0.0
+Litnet.graphml,39,Super Trees,9.9295,133.5093,0.6928,4.9688,1.0
+Marnet.graphml,17,Beacon Nodes,10.1974,120.2329,0.8809,2.6978,0.0
+Marnet.graphml,17,Global Controller,8.8632,119.2594,0.8834,2.6978,0.0
+Marnet.graphml,17,PrioList,7.9341,118.4056,0.8984,2.6978,0.0
+Marnet.graphml,17,Simple Decomposition,7.6896,114.6663,0.8853,2.6978,0.0
+Marnet.graphml,17,Super Trees,10.6103,113.6327,0.8462,4.0053,1.0
+Marwan.graphml,6,Beacon Nodes,2.3777,82.3135,0.8938,3.0,0.0
+Marwan.graphml,6,Global Controller,2.4473,79.8839,0.8969,3.0,0.0
+Marwan.graphml,6,PrioList,2.1741,83.8926,0.9409,3.0,0.0
+Marwan.graphml,6,Simple Decomposition,2.1682,85.913,0.9469,3.0,0.0
+Marwan.graphml,6,Super Trees,2.44,88.623,0.9406,3.0,0.0
+Myren.graphml,20,Beacon Nodes,5.5494,112.1125,0.8006,3.0156,0.0
+Myren.graphml,20,Global Controller,7.3982,114.7589,0.7897,3.0156,0.0
+Myren.graphml,20,PrioList,5.2151,103.8724,0.8,3.0156,0.0
+Myren.graphml,20,Simple Decomposition,4.9868,103.2125,0.7959,3.0156,0.0
+Myren.graphml,20,Super Trees,6.6302,96.4652,0.6656,3.875,2.0
+Napnet.graphml,6,Beacon Nodes,2.5156,85.9355,0.9212,1.8556,0.0
+Napnet.graphml,6,Global Controller,2.6101,88.1592,0.9119,1.8556,0.0
+Napnet.graphml,6,PrioList,2.4563,81.9795,0.9231,1.8556,0.0
+Napnet.graphml,6,Simple Decomposition,2.2714,86.6188,0.9169,1.8556,0.0
+Napnet.graphml,6,Super Trees,2.6953,63.7521,0.7078,2.1463,0.0
+Navigata.graphml,13,Beacon Nodes,5.963,103.59,0.8653,3.375,0.0
+Navigata.graphml,13,Global Controller,6.5905,104.1874,0.8597,3.375,0.0
+Navigata.graphml,13,PrioList,5.7564,100.2637,0.8634,3.375,0.0
+Navigata.graphml,13,Simple Decomposition,5.5505,108.8882,0.8612,3.375,0.0
+Navigata.graphml,13,Super Trees,6.2271,88.0278,0.7678,4.0572,2.0
+Netrail.graphml,7,Beacon Nodes,3.9754,103.7662,0.9834,2.8119,0.0
+Netrail.graphml,7,Global Controller,5.5213,111.7016,0.9825,2.8119,0.0
+Netrail.graphml,7,PrioList,4.02,102.8264,0.9878,2.8119,0.0
+Netrail.graphml,7,Simple Decomposition,3.8751,101.16,0.9831,2.8119,0.0
+Netrail.graphml,7,Super Trees,4.3305,82.4731,0.7884,3.2344,0.0
+NetworkUsa.graphml,35,Beacon Nodes,32.1896,178.6886,0.7669,16.625,0.0
+NetworkUsa.graphml,35,Global Controller,32.9035,176.4047,0.6981,16.625,0.0
+NetworkUsa.graphml,35,PrioList,30.7697,172.4103,0.8103,16.625,1.0
+NetworkUsa.graphml,35,Simple Decomposition,31.0595,174.2366,0.7887,16.625,1.0
+NetworkUsa.graphml,35,Super Trees,30.9925,167.6357,0.7628,18.2031,1.0
+Nextgen.graphml,16,Beacon Nodes,2.8855,84.4751,0.6278,8.7969,0.0
+Nextgen.graphml,16,Global Controller,3.4939,88.1997,0.6303,8.7969,2.0
+Nextgen.graphml,16,PrioList,2.8307,85.4802,0.6412,8.7969,0.0
+Nextgen.graphml,16,Simple Decomposition,2.7338,82.803,0.6147,8.7969,0.0
+Nextgen.graphml,16,Super Trees,3.8786,83.8759,0.6209,8.8125,0.0
+Niif.graphml,35,Beacon Nodes,16.7825,155.223,0.7884,7.3281,0.0
+Niif.graphml,35,Global Controller,18.7375,160.4888,0.7678,7.3281,0.0
+Niif.graphml,35,PrioList,18.5299,149.4213,0.79,7.3281,0.0
+Niif.graphml,35,Simple Decomposition,16.9351,156.1392,0.7928,7.3281,0.0
+Niif.graphml,35,Super Trees,18.2406,140.4484,0.6919,8.0,3.0
+Noel.graphml,19,Beacon Nodes,11.9569,133.0823,0.8747,6.0053,0.0
+Noel.graphml,19,Global Controller,12.8937,129.6865,0.8503,6.0053,1.0
+Noel.graphml,19,PrioList,11.6001,128.2366,0.8734,6.0053,0.0
+Noel.graphml,19,Simple Decomposition,12.0744,122.977,0.8753,6.0053,0.0
+Noel.graphml,19,Super Trees,12.1397,118.1917,0.81,7.7656,1.0
+Nordu1997.graphml,12,Beacon Nodes,2.1574,81.2478,0.8038,2.75,0.0
+Nordu1997.graphml,12,Global Controller,2.3174,82.9865,0.8066,2.75,0.0
+Nordu1997.graphml,12,PrioList,1.9339,79.7697,0.7966,2.75,0.0
+Nordu1997.graphml,12,Simple Decomposition,2.0667,84.8218,0.8106,2.75,0.0
+Nordu1997.graphml,12,Super Trees,2.5766,83.0053,0.8,2.75,0.0
+Nordu2005.graphml,6,Beacon Nodes,1.7053,78.0499,0.8597,2.5625,0.0
+Nordu2005.graphml,6,Global Controller,1.8266,81.0602,0.8591,2.5625,0.0
+Nordu2005.graphml,6,PrioList,1.5873,81.5892,0.8512,2.5625,0.0
+Nordu2005.graphml,6,Simple Decomposition,1.5052,74.0226,0.8722,2.5625,0.0
+Nordu2005.graphml,6,Super Trees,1.9136,63.0161,0.7203,2.7969,1.0
+Nsfnet.graphml,13,Beacon Nodes,5.549,106.3115,0.8672,4.5312,0.0
+Nsfnet.graphml,13,Global Controller,6.0235,106.6589,0.8528,4.5312,0.0
+Nsfnet.graphml,13,PrioList,5.5384,105.5339,0.8734,4.5312,0.0
+Nsfnet.graphml,13,Simple Decomposition,5.8854,100.345,0.8825,4.5312,0.0
+Nsfnet.graphml,13,Super Trees,6.1003,87.5923,0.7475,6.3697,1.0
+Oxford.graphml,19,Beacon Nodes,14.723,144.1144,0.9056,8.3281,1.0
+Oxford.graphml,19,Global Controller,15.2053,141.0897,0.8562,8.3281,1.0
+Oxford.graphml,19,PrioList,13.9684,138.9829,0.9172,8.3281,1.0
+Oxford.graphml,19,Simple Decomposition,13.9934,142.3788,0.9169,8.3281,1.0
+Oxford.graphml,19,Super Trees,14.5645,118.0058,0.7441,8.7603,3.0
+Pacificwave.graphml,3,Beacon Nodes,1.2297,77.3884,0.9788,1.5,0.0
+Pacificwave.graphml,3,Global Controller,1.2782,80.2145,0.9784,1.5,0.0
+Pacificwave.graphml,3,PrioList,1.2047,76.9917,0.9822,1.5,0.0
+Pacificwave.graphml,3,Simple Decomposition,1.4075,75.2079,0.9788,1.5,0.0
+Pacificwave.graphml,3,Super Trees,1.4393,81.4645,0.9806,1.5,0.0
+Packetexchange.graphml,21,Beacon Nodes,11.1958,130.6151,0.7881,6.6203,0.0
+Packetexchange.graphml,21,Global Controller,12.5351,135.0268,0.7812,6.6203,0.5
+Packetexchange.graphml,21,PrioList,12.8071,124.4699,0.8159,6.6203,1.0
+Packetexchange.graphml,21,Simple Decomposition,10.7164,127.7099,0.8275,6.6203,1.0
+Packetexchange.graphml,21,Super Trees,11.7749,94.3488,0.5494,7.2656,2.0
+Palmetto.graphml,45,Beacon Nodes,69.3215,299.2085,0.8644,16.0,1.5
+Palmetto.graphml,45,Global Controller,71.6419,289.659,0.8388,16.0,2.0
+Palmetto.graphml,45,PrioList,73.188,273.0817,0.8747,16.0,1.0
+Palmetto.graphml,45,Simple Decomposition,66.5934,276.6587,0.8766,16.0,1.0
+Palmetto.graphml,45,Super Trees,66.6516,220.9159,0.6734,14.7656,5.0
+Peer1.graphml,16,Beacon Nodes,9.5985,118.6058,0.8938,6.0156,0.0
+Peer1.graphml,16,Global Controller,10.1032,120.3449,0.8844,6.0156,1.0
+Peer1.graphml,16,PrioList,9.3589,120.9487,0.9006,6.0156,0.0
+Peer1.graphml,16,Simple Decomposition,9.1643,120.3802,0.9081,6.0156,0.0
+Peer1.graphml,16,Super Trees,9.6313,101.6619,0.7597,6.4375,1.0
+PionierL3.graphml,27,Beacon Nodes,20.5769,151.834,0.8256,12.0,1.0
+PionierL3.graphml,27,Global Controller,22.7776,148.4751,0.7684,12.0,0.0
+PionierL3.graphml,27,PrioList,18.7283,154.4998,0.8462,12.0,1.0
+PionierL3.graphml,27,Simple Decomposition,19.2187,152.2964,0.8603,12.0,0.5
+PionierL3.graphml,27,Super Trees,18.9797,144.9707,0.8228,13.8125,2.0
+Psinet.graphml,24,Beacon Nodes,12.294,115.3526,0.6722,9.7556,0.0
+Psinet.graphml,24,Global Controller,11.2743,116.7944,0.6678,9.7556,0.0
+Psinet.graphml,24,PrioList,10.0634,113.5859,0.6872,9.7556,0.0
+Psinet.graphml,24,Simple Decomposition,10.0233,110.0823,0.7012,9.7556,0.0
+Psinet.graphml,24,Super Trees,10.9983,95.8058,0.5731,11.6094,1.0
+Quest.graphml,20,Beacon Nodes,21.1529,163.8944,0.9494,8.9688,0.0
+Quest.graphml,20,Global Controller,23.204,159.1612,0.9406,8.9688,0.0
+Quest.graphml,20,PrioList,22.2164,157.7495,0.9603,8.9688,0.0
+Quest.graphml,20,Simple Decomposition,21.4595,160.7513,0.9616,8.9688,0.0
+Quest.graphml,20,Super Trees,22.1583,149.874,0.9181,9.7031,2.0
+Rediris.graphml,19,Beacon Nodes,20.3668,158.131,0.9697,6.2812,0.0
+Rediris.graphml,19,Global Controller,21.1766,160.4777,0.9591,6.2812,1.0
+Rediris.graphml,19,PrioList,22.6489,156.2068,0.9688,6.2812,0.0
+Rediris.graphml,19,Simple Decomposition,19.7976,160.7994,0.9634,6.2812,0.0
+Rediris.graphml,19,Super Trees,22.1797,139.7019,0.8766,5.7344,1.0
+Renater1999.graphml,24,Beacon Nodes,3.6151,103.8964,0.7338,5.375,0.0
+Renater1999.graphml,24,Global Controller,4.5106,103.8823,0.7331,5.375,0.0
+Renater1999.graphml,24,PrioList,3.4064,98.4017,0.7388,5.375,0.0
+Renater1999.graphml,24,Simple Decomposition,3.323,105.8203,0.7422,5.375,0.0
+Renater1999.graphml,24,Super Trees,4.6291,101.5101,0.7453,5.375,0.0
+Renater2001.graphml,24,Beacon Nodes,12.9062,128.9303,0.8175,6.2031,0.0
+Renater2001.graphml,24,Global Controller,13.9785,130.7324,0.8,6.2031,0.0
+Renater2001.graphml,24,PrioList,12.6433,127.4501,0.8394,6.2031,0.0
+Renater2001.graphml,24,Simple Decomposition,12.9324,128.065,0.8309,6.2031,0.5
+Renater2001.graphml,24,Super Trees,14.8001,99.5358,0.6059,6.5938,2.0
+Renater2004.graphml,24,Beacon Nodes,18.7031,147.8719,0.9006,8.9219,0.0
+Renater2004.graphml,24,Global Controller,19.7093,147.4687,0.86,8.9219,1.0
+Renater2004.graphml,24,PrioList,20.7867,154.0604,0.9069,8.9219,1.0
+Renater2004.graphml,24,Simple Decomposition,18.6179,143.3117,0.9153,8.9219,0.0
+Renater2004.graphml,24,Super Trees,19.0569,119.6913,0.7453,7.7344,1.0
+Renater2006.graphml,26,Beacon Nodes,24.9405,179.7586,0.9316,9.2812,0.0
+Renater2006.graphml,26,Global Controller,25.4501,171.6291,0.8872,9.2812,1.0
+Renater2006.graphml,26,PrioList,25.5938,172.103,0.9491,9.2812,0.0
+Renater2006.graphml,26,Simple Decomposition,25.0061,164.6439,0.9447,9.2812,0.0
+Renater2006.graphml,26,Super Trees,23.0875,146.5502,0.8425,9.2188,1.0
+Renater2008.graphml,26,Beacon Nodes,25.2915,171.664,0.9297,9.6562,1.0
+Renater2008.graphml,26,Global Controller,29.4316,177.0616,0.8894,9.6562,1.0
+Renater2008.graphml,26,PrioList,25.2692,170.5645,0.9541,9.6562,0.0
+Renater2008.graphml,26,Simple Decomposition,24.5203,164.5139,0.9462,9.6562,0.0
+Renater2008.graphml,26,Super Trees,25.8439,149.3741,0.7906,8.2188,1.0
+Renater2010.graphml,37,Beacon Nodes,49.353,227.1711,0.9119,13.625,0.0
+Renater2010.graphml,37,Global Controller,52.3983,229.0739,0.8581,13.625,0.0
+Renater2010.graphml,37,PrioList,48.9645,225.4305,0.9234,13.625,0.0
+Renater2010.graphml,37,Simple Decomposition,51.3733,226.9223,0.9259,13.625,0.0
+Renater2010.graphml,37,Super Trees,50.8679,198.5994,0.79,13.875,4.0
+Restena.graphml,13,Beacon Nodes,7.3609,103.2949,0.8753,4.7188,1.0
+Restena.graphml,13,Global Controller,6.2781,102.892,0.8678,4.7188,0.0
+Restena.graphml,13,PrioList,5.91,104.3351,0.9188,4.7188,0.0
+Restena.graphml,13,Simple Decomposition,5.8162,100.7557,0.9081,4.7188,0.0
+Restena.graphml,13,Super Trees,7.1159,95.965,0.8566,6.3438,2.0
+Rhnet.graphml,13,Beacon Nodes,4.3835,87.863,0.7788,4.375,0.0
+Rhnet.graphml,13,Global Controller,4.6362,86.5323,0.7709,4.375,0.0
+Rhnet.graphml,13,PrioList,4.2285,88.9913,0.7869,4.375,0.0
+Rhnet.graphml,13,Simple Decomposition,4.3875,87.167,0.7928,4.375,0.0
+Rhnet.graphml,13,Super Trees,4.8391,75.0271,0.6438,5.125,1.0
+Rnp.graphml,28,Beacon Nodes,8.789,121.8805,0.6869,7.7812,0.0
+Rnp.graphml,28,Global Controller,10.2417,119.8059,0.6819,7.7812,0.5
+Rnp.graphml,28,PrioList,8.6969,117.0819,0.6912,7.7812,0.0
+Rnp.graphml,28,Simple Decomposition,10.3685,119.4606,0.7025,7.7812,0.0
+Rnp.graphml,28,Super Trees,9.7136,102.6679,0.5816,9.1719,2.0
+Roedunet.graphml,40,Beacon Nodes,18.0412,160.1266,0.755,3.7241,0.0
+Roedunet.graphml,40,Global Controller,20.3184,164.7698,0.7669,3.7241,0.0
+Roedunet.graphml,40,PrioList,17.1579,158.6081,0.7691,3.7241,0.0
+Roedunet.graphml,40,Simple Decomposition,21.0232,161.7392,0.7706,3.7241,0.0
+Roedunet.graphml,40,Super Trees,22.1821,138.0226,0.6366,4.875,1.0
+Sago.graphml,18,Beacon Nodes,2.8653,85.5316,0.5884,11.0312,0.0
+Sago.graphml,18,Global Controller,3.8889,85.5988,0.5847,11.0312,0.0
+Sago.graphml,18,PrioList,2.4973,80.3471,0.5897,11.0312,0.0
+Sago.graphml,18,Simple Decomposition,2.5036,85.8226,0.5781,11.0312,0.0
+Sago.graphml,18,Super Trees,3.721,82.4102,0.5866,11.0312,0.0
+Sanren.graphml,7,Beacon Nodes,2.9473,83.7562,0.8766,3.5,0.0
+Sanren.graphml,7,Global Controller,3.0194,84.1555,0.8638,3.5,0.0
+Sanren.graphml,7,PrioList,2.7563,81.6761,0.9303,3.5,0.0
+Sanren.graphml,7,Simple Decomposition,2.598,84.9225,0.9316,3.5,0.0
+Sanren.graphml,7,Super Trees,3.0356,87.6257,0.9234,3.5,0.0
+Savvis.graphml,19,Beacon Nodes,10.8371,116.3856,0.7675,10.5312,0.0
+Savvis.graphml,19,Global Controller,10.7518,114.3657,0.7163,10.5312,0.0
+Savvis.graphml,19,PrioList,10.1614,116.6008,0.8128,10.5312,0.0
+Savvis.graphml,19,Simple Decomposition,10.0855,118.1597,0.8125,10.5312,0.0
+Savvis.graphml,19,Super Trees,11.0485,109.4985,0.7406,11.2812,2.0
+Sinet.graphml,47,Beacon Nodes,14.1333,169.9895,0.6894,6.2812,0.0
+Sinet.graphml,47,Global Controller,17.8432,169.0666,0.6884,6.2812,0.0
+Sinet.graphml,47,PrioList,15.8041,166.6034,0.7,6.2812,0.0
+Sinet.graphml,47,Simple Decomposition,15.1074,160.6125,0.6966,6.2812,0.0
+Sinet.graphml,47,Super Trees,15.9506,149.7269,0.5816,7.6406,3.0
+Spiralight.graphml,15,Beacon Nodes,8.0624,112.953,0.8166,10.5625,2.0
+Spiralight.graphml,15,Global Controller,8.847,106.4264,0.7612,10.5625,2.0
+Spiralight.graphml,15,PrioList,7.9219,109.9452,0.8681,10.5625,0.0
+Spiralight.graphml,15,Simple Decomposition,8.1663,110.5676,0.8534,10.5625,0.0
+Spiralight.graphml,15,Super Trees,8.245,108.5132,0.8694,10.1875,0.0
+Sprint.graphml,11,Beacon Nodes,8.8889,124.2646,0.9659,3.3125,0.0
+Sprint.graphml,11,Global Controller,9.0766,131.8725,0.9662,3.3125,0.0
+Sprint.graphml,11,PrioList,8.5284,117.4156,0.9697,3.3125,0.0
+Sprint.graphml,11,Simple Decomposition,8.6396,116.8513,0.9662,3.3125,0.0
+Sprint.graphml,11,Super Trees,8.6581,106.5347,0.8897,4.8959,1.0
+Sunet.graphml,25,Beacon Nodes,16.3948,147.1823,0.7681,10.2656,1.0
+Sunet.graphml,25,Global Controller,16.49,138.8977,0.7331,10.2656,0.0
+Sunet.graphml,25,PrioList,15.9348,140.1409,0.8016,10.2656,0.0
+Sunet.graphml,25,Simple Decomposition,15.5294,137.803,0.8062,10.2656,0.0
+Sunet.graphml,25,Super Trees,15.4199,123.553,0.6816,11.6562,2.0
+Surfnet.graphml,50,Beacon Nodes,64.5092,292.0107,0.8662,14.6719,1.0
+Surfnet.graphml,50,Global Controller,72.4811,303.2091,0.8306,14.6719,1.0
+Surfnet.graphml,50,PrioList,67.8087,275.7331,0.8781,14.6719,1.0
+Surfnet.graphml,50,Simple Decomposition,69.1373,291.3711,0.8791,14.6719,1.0
+Surfnet.graphml,50,Super Trees,65.2751,249.441,0.7272,12.4219,3.0
+SwitchL3.graphml,30,Beacon Nodes,50.37,256.6269,0.9775,8.3906,1.0
+SwitchL3.graphml,30,Global Controller,50.3713,260.7655,0.9744,8.3906,1.0
+SwitchL3.graphml,30,PrioList,49.8001,252.3838,0.9825,8.3906,1.0
+SwitchL3.graphml,30,Simple Decomposition,50.7197,253.2506,0.9809,8.3906,1.0
+SwitchL3.graphml,30,Super Trees,46.9206,230.8021,0.9503,8.9531,2.0
+TataNld.graphml,143,Beacon Nodes,561.8907,1113.1568,0.84,42.8125,3.0
+TataNld.graphml,143,Global Controller,598.1381,1098.9185,0.6919,42.8125,3.0
+TataNld.graphml,143,PrioList,549.14,1092.1457,0.8725,42.8125,2.0
+TataNld.graphml,143,Simple Decomposition,544.2275,1096.3166,0.8656,42.8125,2.0
+TataNld.graphml,143,Super Trees,539.7911,966.9731,0.6884,33.9531,4.5
+Telecomserbia.graphml,6,Beacon Nodes,2.2543,92.3246,0.9091,3.0,0.0
+Telecomserbia.graphml,6,Global Controller,2.5764,90.7611,0.8978,3.0,0.0
+Telecomserbia.graphml,6,PrioList,2.1572,92.4646,0.9409,3.0,0.0
+Telecomserbia.graphml,6,Simple Decomposition,2.1402,89.5976,0.9462,3.0,0.0
+Telecomserbia.graphml,6,Super Trees,3.7611,94.9973,0.9469,3.0,0.0
+Ulaknet.graphml,76,Beacon Nodes,14.485,248.3099,0.7775,3.25,0.0
+Ulaknet.graphml,76,Global Controller,23.0054,253.6687,0.7775,3.25,0.0
+Ulaknet.graphml,76,PrioList,15.3565,237.5093,0.7738,3.25,0.0
+Ulaknet.graphml,76,Simple Decomposition,15.5787,229.5732,0.7772,3.25,0.0
+Ulaknet.graphml,76,Super Trees,17.6403,253.5943,0.775,3.7812,1.0
+UniC.graphml,15,Beacon Nodes,5.8404,109.2803,0.7994,6.1875,1.0
+UniC.graphml,15,Global Controller,6.5691,105.8351,0.7666,6.1875,0.0
+UniC.graphml,15,PrioList,5.7175,103.7889,0.8088,6.1875,1.0
+UniC.graphml,15,Simple Decomposition,5.6563,103.0405,0.8178,6.1875,1.0
+UniC.graphml,15,Super Trees,6.4868,79.1923,0.5944,6.5312,1.0
+Uran.graphml,19,Beacon Nodes,3.2866,99.8356,0.7166,6.2188,0.0
+Uran.graphml,19,Global Controller,3.7661,100.1361,0.7016,6.2188,0.0
+Uran.graphml,19,PrioList,3.0134,101.1073,0.7072,6.2188,0.0
+Uran.graphml,19,Simple Decomposition,2.9454,102.4242,0.6962,6.2188,0.0
+Uran.graphml,19,Super Trees,3.913,99.4376,0.6966,6.2188,0.0
+Uunet.graphml,42,Beacon Nodes,92.9059,337.0642,0.9197,9.4531,0.0
+Uunet.graphml,42,Global Controller,94.9751,335.4732,0.9059,9.4531,1.0
+Uunet.graphml,42,PrioList,87.6829,324.1761,0.9178,9.4531,1.0
+Uunet.graphml,42,Simple Decomposition,87.4356,316.5781,0.9144,9.4531,1.0
+Uunet.graphml,42,Super Trees,86.7058,309.3071,0.8806,9.8125,2.0
+Vinaren.graphml,21,Beacon Nodes,3.8923,110.2533,0.7334,4.7031,1.0
+Vinaren.graphml,21,Global Controller,4.8084,105.182,0.7231,4.7031,1.0
+Vinaren.graphml,21,PrioList,3.5685,100.7107,0.7378,4.7031,1.0
+Vinaren.graphml,21,Simple Decomposition,3.4457,101.3787,0.7312,4.7031,1.0
+Vinaren.graphml,21,Super Trees,4.7322,100.4379,0.6956,5.1875,1.0
+VisionNet.graphml,22,Beacon Nodes,3.4542,94.543,0.6053,9.0625,0.0
+VisionNet.graphml,22,Global Controller,5.099,98.033,0.6131,9.0625,0.0
+VisionNet.graphml,22,PrioList,2.9765,97.5445,0.5991,9.0625,0.0
+VisionNet.graphml,22,Simple Decomposition,2.9712,98.5996,0.6125,9.0625,0.0
+VisionNet.graphml,22,Super Trees,4.389,100.0076,0.61,9.0625,0.0
+VtlWavenet2008.graphml,87,Beacon Nodes,56.2084,266.0839,0.2825,37.7812,0.0
+VtlWavenet2008.graphml,87,Global Controller,68.7939,283.2082,0.2916,37.7812,0.0
+VtlWavenet2008.graphml,87,PrioList,52.5336,253.5396,0.3259,37.7812,0.0
+VtlWavenet2008.graphml,87,Simple Decomposition,53.3316,259.037,0.3144,37.7812,0.0
+VtlWavenet2008.graphml,87,Super Trees,56.2861,223.5723,0.2359,39.9062,0.0
+VtlWavenet2011.graphml,91,Beacon Nodes,61.1854,288.2669,0.2969,41.6875,0.0
+VtlWavenet2011.graphml,91,Global Controller,69.0281,284.4562,0.2838,41.6875,0.0
+VtlWavenet2011.graphml,91,PrioList,57.8978,263.4955,0.3131,41.6875,0.0
+VtlWavenet2011.graphml,91,Simple Decomposition,54.8799,256.1151,0.2972,41.6875,0.0
+VtlWavenet2011.graphml,91,Super Trees,65.5751,264.1104,0.2728,43.2812,1.0
+WideJpn.graphml,19,Beacon Nodes,6.1622,104.5652,0.7609,5.5156,0.0
+WideJpn.graphml,19,Global Controller,6.8421,102.6846,0.77,5.5156,0.0
+WideJpn.graphml,19,PrioList,5.7863,98.52,0.7838,5.5156,0.0
+WideJpn.graphml,19,Simple Decomposition,6.6281,103.2005,0.7856,5.5156,0.0
+WideJpn.graphml,19,Super Trees,6.6656,94.3345,0.7116,7.1719,1.0
+Xeex.graphml,24,Beacon Nodes,23.5892,163.483,0.9175,6.6875,2.0
+Xeex.graphml,24,Global Controller,23.363,161.0608,0.9097,6.6875,1.5
+Xeex.graphml,24,PrioList,24.1066,164.6711,0.9247,6.6875,0.0
+Xeex.graphml,24,Simple Decomposition,27.1101,167.1343,0.9291,6.6875,0.0
+Xeex.graphml,24,Super Trees,22.0567,143.4736,0.7906,8.4062,3.0
+Xspedius.graphml,34,Beacon Nodes,52.223,244.0549,0.9706,12.8438,1.0
+Xspedius.graphml,34,Global Controller,57.6575,243.7899,0.9447,12.8438,1.0
+Xspedius.graphml,34,PrioList,51.9212,239.3081,0.9709,12.8438,0.0
+Xspedius.graphml,34,Simple Decomposition,51.1018,227.4816,0.9744,12.8438,0.0
+Xspedius.graphml,34,Super Trees,50.9043,207.5816,0.8503,11.1719,2.0
+York.graphml,23,Beacon Nodes,13.6322,111.926,0.6716,15.9375,0.0
+York.graphml,23,Global Controller,13.8408,105.9439,0.6294,15.9375,0.0
+York.graphml,23,PrioList,12.7586,113.1786,0.6947,15.9375,0.0
+York.graphml,23,Simple Decomposition,12.8474,104.6968,0.6841,15.9375,0.0
+York.graphml,23,Super Trees,13.5155,114.2632,0.6716,15.5,0.0

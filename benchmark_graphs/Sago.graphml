@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Ft. Pierce"/>
+<node id="Melbourne"/>
+<node id="Lake Alfred"/>
+<node id="Orlando"/>
+<node id="West Palm Beach"/>
+<node id="Tampa"/>
+<node id="Miami"/>
+<node id="Ft. Lauderdale"/>
+<node id="Flovilla"/>
+<node id="Atlanta"/>
+<node id="Tarrytown"/>
+<node id="Gordon"/>
+<node id="Newell"/>
+<node id="Surrency"/>
+<node id="St. Augustine"/>
+<node id="Jacksonville"/>
+<node id="Titusville"/>
+<node id="Daytona Beach"/>
+<edge id="e1" source="Ft. Pierce" target="Melbourne">
+<data key="key_weight">76.1</data>
+</edge>
+<edge id="e2" source="Ft. Pierce" target="West Palm Beach">
+<data key="key_weight">85.7</data>
+</edge>
+<edge id="e3" source="Melbourne" target="Titusville">
+<data key="key_weight">61.95</data>
+</edge>
+<edge id="e4" source="Lake Alfred" target="Orlando">
+<data key="key_weight">60.01</data>
+</edge>
+<edge id="e5" source="Lake Alfred" target="Tampa">
+<data key="key_weight">73.94</data>
+</edge>
+<edge id="e6" source="Orlando" target="Daytona Beach">
+<data key="key_weight">82.46</data>
+</edge>
+<edge id="e7" source="West Palm Beach" target="Ft. Lauderdale">
+<data key="key_weight">66.57</data>
+</edge>
+<edge id="e8" source="Miami" target="Ft. Lauderdale">
+<data key="key_weight">39.04</data>
+</edge>
+<edge id="e9" source="Flovilla" target="Atlanta">
+<data key="key_weight">71.38</data>
+</edge>
+<edge id="e10" source="Flovilla" target="Gordon">
+<data key="key_weight">67.03</data>
+</edge>
+<edge id="e11" source="Tarrytown" target="Gordon">
+<data key="key_weight">95.78</data>
+</edge>
+<edge id="e12" source="Tarrytown" target="Surrency">
+<data key="key_weight">74.44</data>
+</edge>
+<edge id="e13" source="Newell" target="Surrency">
+<data key="key_weight">88.59</data>
+</edge>
+<edge id="e14" source="Newell" target="Jacksonville">
+<data key="key_weight">76.32</data>
+</edge>
+<edge id="e15" source="St. Augustine" target="Daytona Beach">
+<data key="key_weight">81.13</data>
+</edge>
+<edge id="e16" source="St. Augustine" target="Jacksonville">
+<data key="key_weight">58.69</data>
+</edge>
+<edge id="e17" source="Titusville" target="Daytona Beach">
+<data key="key_weight">69.8</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Herndon/Ashburn"/>
+<node id="Miami"/>
+<node id="Montreal"/>
+<node id="New York"/>
+<node id="London"/>
+<node id="Amsterdam"/>
+<node id="Chicago"/>
+<node id="Toronto"/>
+<node id="Vancouver"/>
+<node id="Seattle"/>
+<node id="Fremont"/>
+<node id="San Jose"/>
+<node id="Los Angeles"/>
+<node id="Dallas"/>
+<node id="San Antonio"/>
+<node id="Atlanta"/>
+<edge id="e1" source="Herndon/Ashburn" target="New York">
+<data key="key_weight">350.43</data>
+</edge>
+<edge id="e2" source="Herndon/Ashburn" target="Atlanta">
+<data key="key_weight">853.0</data>
+</edge>
+<edge id="e3" source="Miami" target="Atlanta">
+<data key="key_weight">974.8</data>
+</edge>
+<edge id="e4" source="Montreal" target="New York">
+<data key="key_weight">534.36</data>
+</edge>
+<edge id="e5" source="Montreal" target="Toronto">
+<data key="key_weight">503.34</data>
+</edge>
+<edge id="e6" source="New York" target="London">
+<data key="key_weight">5571.79</data>
+</edge>
+<edge id="e7" source="New York" target="Chicago">
+<data key="key_weight">1146.16</data>
+</edge>
+<edge id="e8" source="New York" target="Toronto">
+<data key="key_weight">555.66</data>
+</edge>
+<edge id="e9" source="London" target="Amsterdam">
+<data key="key_weight">357.03</data>
+</edge>
+<edge id="e10" source="Chicago" target="Seattle">
+<data key="key_weight">2789.45</data>
+</edge>
+<edge id="e11" source="Chicago" target="Dallas">
+<data key="key_weight">1291.83</data>
+</edge>
+<edge id="e12" source="Chicago" target="Toronto">
+<data key="key_weight">702.66</data>
+</edge>
+<edge id="e13" source="Toronto" target="Vancouver">
+<data key="key_weight">3355.46</data>
+</edge>
+<edge id="e14" source="Vancouver" target="Seattle">
+<data key="key_weight">191.8</data>
+</edge>
+<edge id="e15" source="Seattle" target="Fremont">
+<data key="key_weight">1119.06</data>
+</edge>
+<edge id="e16" source="Fremont" target="San Jose">
+<data key="key_weight">4875.74</data>
+</edge>
+<edge id="e17" source="San Jose" target="Los Angeles">
+<data key="key_weight">4390.72</data>
+</edge>
+<edge id="e18" source="Los Angeles" target="Dallas">
+<data key="key_weight">1991.54</data>
+</edge>
+<edge id="e19" source="Dallas" target="San Antonio">
+<data key="key_weight">406.66</data>
+</edge>
+<edge id="e20" source="Dallas" target="Atlanta">
+<data key="key_weight">1159.21</data>
+</edge>
+</graph></graphml>

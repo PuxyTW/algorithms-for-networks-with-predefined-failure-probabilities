@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Bor"/>
+<node id="Novi Pazar"/>
+<node id="Krustevac"/>
+<node id="Vranje"/>
+<node id="Nis"/>
+<node id="Pirot"/>
+<node id="Leskovac"/>
+<node id="Kragujevac"/>
+<node id="Novi Sad"/>
+<node id="Beograd"/>
+<node id="Pancevo"/>
+<node id="Kraljevo"/>
+<node id="Raska"/>
+<node id="Subotica"/>
+<node id="Sombor"/>
+<node id="Zrenjanin"/>
+<node id="Sabac"/>
+<node id="Valjevo"/>
+<node id="Uzice"/>
+<node id="Cacak"/>
+<node id="Velika Plana"/>
+<edge id="e1" source="Bor" target="Nis">
+<data key="key_weight">85.23</data>
+</edge>
+<edge id="e2" source="Novi Pazar" target="Raska">
+<data key="key_weight">18.71</data>
+</edge>
+<edge id="e3" source="Krustevac" target="Nis">
+<data key="key_weight">54.04</data>
+</edge>
+<edge id="e4" source="Krustevac" target="Kraljevo">
+<data key="key_weight">54.34</data>
+</edge>
+<edge id="e5" source="Vranje" target="Leskovac">
+<data key="key_weight">49.82</data>
+</edge>
+<edge id="e6" source="Nis" target="Pirot">
+<data key="key_weight">58.53</data>
+</edge>
+<edge id="e7" source="Nis" target="Leskovac">
+<data key="key_weight">36.5</data>
+</edge>
+<edge id="e8" source="Kragujevac" target="Velika Plana">
+<data key="key_weight">37.17</data>
+</edge>
+<edge id="e9" source="Kragujevac" target="Kraljevo">
+<data key="key_weight">37.13</data>
+</edge>
+<edge id="e10" source="Novi Sad" target="Subotica">
+<data key="key_weight">95.28</data>
+</edge>
+<edge id="e11" source="Novi Sad" target="Sombor">
+<data key="key_weight">81.04</data>
+</edge>
+<edge id="e12" source="Novi Sad" target="Zrenjanin">
+<data key="key_weight">45.08</data>
+</edge>
+<edge id="e13" source="Novi Sad" target="Beograd">
+<data key="key_weight">70.13</data>
+</edge>
+<edge id="e14" source="Beograd" target="Pancevo">
+<data key="key_weight">15.69</data>
+</edge>
+<edge id="e15" source="Beograd" target="Sabac">
+<data key="key_weight">61.53</data>
+</edge>
+<edge id="e16" source="Beograd" target="Valjevo">
+<data key="key_weight">74.03</data>
+</edge>
+<edge id="e17" source="Beograd" target="Velika Plana">
+<data key="key_weight">69.31</data>
+</edge>
+<edge id="e18" source="Kraljevo" target="Raska">
+<data key="key_weight">49.15</data>
+</edge>
+<edge id="e19" source="Valjevo" target="Uzice">
+<data key="key_weight">46.5</data>
+</edge>
+<edge id="e20" source="Uzice" target="Cacak">
+<data key="key_weight">40.33</data>
+</edge>
+</graph></graphml>

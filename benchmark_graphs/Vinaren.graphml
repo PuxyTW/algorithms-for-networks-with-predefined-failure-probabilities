@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Hue"/>
+<node id="VN HN"/>
+<node id="HCM"/>
+<node id="DN"/>
+<node id="KR"/>
+<node id="JP"/>
+<node id="HK"/>
+<node id="CN"/>
+<node id="PH"/>
+<node id="Nha Trang"/>
+<node id="Vinh"/>
+<node id="Thai Nguyen"/>
+<node id="An Giang"/>
+<node id="Da Lat"/>
+<node id="Hai Phong"/>
+<node id="AU"/>
+<node id="CT"/>
+<node id="TH"/>
+<node id="MY"/>
+<node id="ID"/>
+<node id="SG"/>
+<edge id="e1" source="Hue" target="DN">
+<data key="key_weight">79.77</data>
+</edge>
+<edge id="e2" source="VN HN" target="HCM">
+<data key="key_weight">1146.19</data>
+</edge>
+<edge id="e3" source="VN HN" target="DN">
+<data key="key_weight">605.7</data>
+</edge>
+<edge id="e4" source="VN HN" target="HK">
+<data key="key_weight">871.37</data>
+</edge>
+<edge id="e5" source="VN HN" target="Vinh">
+<data key="key_weight">1198.48</data>
+</edge>
+<edge id="e6" source="VN HN" target="Thai Nguyen">
+<data key="key_weight">63.21</data>
+</edge>
+<edge id="e7" source="VN HN" target="Hai Phong">
+<data key="key_weight">89.35</data>
+</edge>
+<edge id="e8" source="HCM" target="CT">
+<data key="key_weight">125.27</data>
+</edge>
+<edge id="e9" source="HCM" target="DN">
+<data key="key_weight">614.9</data>
+</edge>
+<edge id="e10" source="HCM" target="Da Lat">
+<data key="key_weight">234.92</data>
+</edge>
+<edge id="e11" source="DN" target="Nha Trang">
+<data key="key_weight">437.14</data>
+</edge>
+<edge id="e12" source="KR" target="SG">
+<data key="key_weight">4649.74</data>
+</edge>
+<edge id="e13" source="JP" target="PH">
+<data key="key_weight">3087.06</data>
+</edge>
+<edge id="e14" source="JP" target="SG">
+<data key="key_weight">5320.87</data>
+</edge>
+<edge id="e15" source="JP" target="HK">
+<data key="key_weight">2890.17</data>
+</edge>
+<edge id="e16" source="HK" target="SG">
+<data key="key_weight">2579.34</data>
+</edge>
+<edge id="e17" source="HK" target="CN">
+<data key="key_weight">1674.93</data>
+</edge>
+<edge id="e18" source="An Giang" target="CT">
+<data key="key_weight">55.91</data>
+</edge>
+<edge id="e19" source="AU" target="SG">
+<data key="key_weight">4460.16</data>
+</edge>
+<edge id="e20" source="TH" target="SG">
+<data key="key_weight">1572.76</data>
+</edge>
+<edge id="e21" source="MY" target="SG">
+<data key="key_weight">975.28</data>
+</edge>
+<edge id="e22" source="ID" target="SG">
+<data key="key_weight">1934.31</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Marrkech"/>
+<node id="Fes"/>
+<node id="Rabat"/>
+<node id="Agadir"/>
+<node id="Tanger"/>
+<node id="Casa"/>
+<edge id="e1" source="Marrkech" target="Fes">
+<data key="key_weight">388.09</data>
+</edge>
+<edge id="e2" source="Marrkech" target="Agadir">
+<data key="key_weight">202.76</data>
+</edge>
+<edge id="e3" source="Fes" target="Tanger">
+<data key="key_weight">207.64</data>
+</edge>
+<edge id="e4" source="Rabat" target="Agadir">
+<data key="key_weight">476.86</data>
+</edge>
+<edge id="e5" source="Rabat" target="Casa">
+<data key="key_weight">86.44</data>
+</edge>
+<edge id="e6" source="Tanger" target="Casa">
+<data key="key_weight">294.06</data>
+</edge>
+</graph></graphml>

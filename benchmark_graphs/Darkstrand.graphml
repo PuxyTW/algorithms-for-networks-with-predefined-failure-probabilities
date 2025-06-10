@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Tulsa"/>
+<node id="Kansas City"/>
+<node id="San Antonio"/>
+<node id="Dallas"/>
+<node id="Pensacola"/>
+<node id="Jacksonville"/>
+<node id="Houston"/>
+<node id="Baton Rouge"/>
+<node id="Atlanta"/>
+<node id="Raleigh"/>
+<node id="New York"/>
+<node id="Syracuse"/>
+<node id="Cleveland"/>
+<node id="Chicago"/>
+<node id="Raton"/>
+<node id="Pittsburgh"/>
+<node id="Washington DC"/>
+<node id="Philadelphia"/>
+<node id="Los Angeles"/>
+<node id="El Paso/Las Cruces"/>
+<node id="Seattle"/>
+<node id="Portland"/>
+<node id="Sunny Vale"/>
+<node id="Boise"/>
+<node id="Salt Lake City"/>
+<node id="Denver"/>
+<node id="Albuquerque"/>
+<node id="Phoenix"/>
+<edge id="e1" source="Tulsa" target="Kansas City">
+<data key="key_weight">350.51</data>
+</edge>
+<edge id="e2" source="Tulsa" target="Dallas">
+<data key="key_weight">382.29</data>
+</edge>
+<edge id="e3" source="Kansas City" target="Denver">
+<data key="key_weight">892.06</data>
+</edge>
+<edge id="e4" source="Kansas City" target="Chicago">
+<data key="key_weight">663.81</data>
+</edge>
+<edge id="e5" source="San Antonio" target="El Paso/Las Cruces">
+<data key="key_weight">807.92</data>
+</edge>
+<edge id="e6" source="San Antonio" target="Houston">
+<data key="key_weight">305.09</data>
+</edge>
+<edge id="e7" source="Dallas" target="Houston">
+<data key="key_weight">362.81</data>
+</edge>
+<edge id="e8" source="Pensacola" target="Jacksonville">
+<data key="key_weight">533.68</data>
+</edge>
+<edge id="e9" source="Pensacola" target="Baton Rouge">
+<data key="key_weight">377.61</data>
+</edge>
+<edge id="e10" source="Jacksonville" target="Atlanta">
+<data key="key_weight">459.07</data>
+</edge>
+<edge id="e11" source="Houston" target="Baton Rouge">
+<data key="key_weight">412.09</data>
+</edge>
+<edge id="e12" source="Atlanta" target="Raleigh">
+<data key="key_weight">571.4</data>
+</edge>
+<edge id="e13" source="Raleigh" target="Washington DC">
+<data key="key_weight">375.13</data>
+</edge>
+<edge id="e14" source="New York" target="Philadelphia">
+<data key="key_weight">129.69</data>
+</edge>
+<edge id="e15" source="New York" target="Syracuse">
+<data key="key_weight">314.35</data>
+</edge>
+<edge id="e16" source="Syracuse" target="Cleveland">
+<data key="key_weight">487.89</data>
+</edge>
+<edge id="e17" source="Cleveland" target="Chicago">
+<data key="key_weight">496.14</data>
+</edge>
+<edge id="e18" source="Cleveland" target="Pittsburgh">
+<data key="key_weight">185.04</data>
+</edge>
+<edge id="e19" source="Raton" target="Denver">
+<data key="key_weight">318.98</data>
+</edge>
+<edge id="e20" source="Raton" target="Albuquerque">
+<data key="key_weight">283.8</data>
+</edge>
+<edge id="e21" source="Pittsburgh" target="Washington DC">
+<data key="key_weight">306.16</data>
+</edge>
+<edge id="e22" source="Washington DC" target="Philadelphia">
+<data key="key_weight">199.27</data>
+</edge>
+<edge id="e23" source="Los Angeles" target="Phoenix">
+<data key="key_weight">574.42</data>
+</edge>
+<edge id="e24" source="Los Angeles" target="Sunny Vale">
+<data key="key_weight">503.3</data>
+</edge>
+<edge id="e25" source="El Paso/Las Cruces" target="Phoenix">
+<data key="key_weight">556.12</data>
+</edge>
+<edge id="e26" source="El Paso/Las Cruces" target="Albuquerque">
+<data key="key_weight">370.23</data>
+</edge>
+<edge id="e27" source="Seattle" target="Portland">
+<data key="key_weight">233.15</data>
+</edge>
+<edge id="e28" source="Seattle" target="Boise">
+<data key="key_weight">651.24</data>
+</edge>
+<edge id="e29" source="Portland" target="Sunny Vale">
+<data key="key_weight">908.57</data>
+</edge>
+<edge id="e30" source="Boise" target="Salt Lake City">
+<data key="key_weight">476.31</data>
+</edge>
+<edge id="e31" source="Salt Lake City" target="Denver">
+<data key="key_weight">597.03</data>
+</edge>
+</graph></graphml>

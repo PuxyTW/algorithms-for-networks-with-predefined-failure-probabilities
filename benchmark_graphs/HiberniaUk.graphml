@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="London"/>
+<node id="Southport"/>
+<node id="Manchester"/>
+<node id="Peterborough"/>
+<node id="Cambridge"/>
+<node id="Sheffield"/>
+<node id="Leicester"/>
+<node id="Bracewell"/>
+<node id="Leeds"/>
+<node id="Birmingham"/>
+<node id="Liverpool"/>
+<node id="Reading"/>
+<node id="Bristol"/>
+<edge id="e1" source="London" target="Reading">
+<data key="key_weight">58.85</data>
+</edge>
+<edge id="e2" source="London" target="Cambridge">
+<data key="key_weight">78.69</data>
+</edge>
+<edge id="e3" source="Southport" target="Bracewell">
+<data key="key_weight">61.18</data>
+</edge>
+<edge id="e4" source="Southport" target="Liverpool">
+<data key="key_weight">26.45</data>
+</edge>
+<edge id="e5" source="Manchester" target="Birmingham">
+<data key="key_weight">114.84</data>
+</edge>
+<edge id="e6" source="Manchester" target="Liverpool">
+<data key="key_weight">49.68</data>
+</edge>
+<edge id="e7" source="Peterborough" target="Leicester">
+<data key="key_weight">60.19</data>
+</edge>
+<edge id="e8" source="Peterborough" target="Cambridge">
+<data key="key_weight">48.36</data>
+</edge>
+<edge id="e9" source="Sheffield" target="Leicester">
+<data key="key_weight">86.3</data>
+</edge>
+<edge id="e10" source="Sheffield" target="Leeds">
+<data key="key_weight">46.31</data>
+</edge>
+<edge id="e11" source="Bracewell" target="Leeds">
+<data key="key_weight">45.95</data>
+</edge>
+<edge id="e12" source="Birmingham" target="Bristol">
+<data key="key_weight">121.96</data>
+</edge>
+<edge id="e13" source="Reading" target="Bristol">
+<data key="key_weight">111.74</data>
+</edge>
+</graph></graphml>

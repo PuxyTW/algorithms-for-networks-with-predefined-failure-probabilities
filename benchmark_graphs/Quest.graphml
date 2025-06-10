@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Auckland 2"/>
+<node id="Fiji"/>
+<node id="Sydney 1"/>
+<node id="Auckland 1"/>
+<node id="Sacramento"/>
+<node id="Los Angeles"/>
+<node id="Hawaii 1"/>
+<node id="Hawaii 2"/>
+<node id="Taiwan"/>
+<node id="Philippines 2"/>
+<node id="Melbourne"/>
+<node id="Sydney 2"/>
+<node id="Korea"/>
+<node id="Japan"/>
+<node id="Guam"/>
+<node id="Philippines 1"/>
+<node id="Hong Kong"/>
+<node id="Singapore/Malaysia"/>
+<node id="Thailand"/>
+<node id="Perth"/>
+<edge id="e1" source="Auckland 2" target="Sydney 2">
+<data key="key_weight">2157.08</data>
+</edge>
+<edge id="e2" source="Auckland 2" target="Auckland 1">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e3" source="Fiji" target="Sydney 1">
+<data key="key_weight">3192.58</data>
+</edge>
+<edge id="e4" source="Fiji" target="Hawaii 1">
+<data key="key_weight">5102.15</data>
+</edge>
+<edge id="e5" source="Sydney 1" target="Melbourne">
+<data key="key_weight">713.57</data>
+</edge>
+<edge id="e6" source="Sydney 1" target="Sydney 2">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e7" source="Sydney 1" target="Guam">
+<data key="key_weight">5306.83</data>
+</edge>
+<edge id="e8" source="Auckland 1" target="Hawaii 2">
+<data key="key_weight">7079.37</data>
+</edge>
+<edge id="e9" source="Sacramento" target="Japan">
+<data key="key_weight">8286.84</data>
+</edge>
+<edge id="e10" source="Sacramento" target="Hawaii 1">
+<data key="key_weight">3959.99</data>
+</edge>
+<edge id="e11" source="Sacramento" target="Los Angeles">
+<data key="key_weight">581.85</data>
+</edge>
+<edge id="e12" source="Los Angeles" target="Hawaii 2">
+<data key="key_weight">4121.1</data>
+</edge>
+<edge id="e13" source="Hawaii 1" target="Japan">
+<data key="key_weight">6201.84</data>
+</edge>
+<edge id="e14" source="Hawaii 1" target="Guam">
+<data key="key_weight">6125.0</data>
+</edge>
+<edge id="e15" source="Hawaii 1" target="Hawaii 2">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e16" source="Taiwan" target="Hong Kong">
+<data key="key_weight">725.47</data>
+</edge>
+<edge id="e17" source="Taiwan" target="Korea">
+<data key="key_weight">1573.3</data>
+</edge>
+<edge id="e18" source="Taiwan" target="Philippines 1">
+<data key="key_weight">1228.01</data>
+</edge>
+<edge id="e19" source="Philippines 2" target="Hong Kong">
+<data key="key_weight">1321.36</data>
+</edge>
+<edge id="e20" source="Philippines 2" target="Guam">
+<data key="key_weight">2461.51</data>
+</edge>
+<edge id="e21" source="Philippines 2" target="Philippines 1">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e22" source="Melbourne" target="Perth">
+<data key="key_weight">2725.41</data>
+</edge>
+<edge id="e23" source="Korea" target="Japan">
+<data key="key_weight">1106.67</data>
+</edge>
+<edge id="e24" source="Japan" target="Hong Kong">
+<data key="key_weight">2890.17</data>
+</edge>
+<edge id="e25" source="Japan" target="Guam">
+<data key="key_weight">2523.58</data>
+</edge>
+<edge id="e26" source="Guam" target="Philippines 1">
+<data key="key_weight">2461.51</data>
+</edge>
+<edge id="e27" source="Guam" target="Singapore/Malaysia">
+<data key="key_weight">4700.73</data>
+</edge>
+<edge id="e28" source="Philippines 1" target="Hong Kong">
+<data key="key_weight">1321.36</data>
+</edge>
+<edge id="e29" source="Hong Kong" target="Singapore/Malaysia">
+<data key="key_weight">2579.34</data>
+</edge>
+<edge id="e30" source="Singapore/Malaysia" target="Thailand">
+<data key="key_weight">1572.76</data>
+</edge>
+<edge id="e31" source="Singapore/Malaysia" target="Perth">
+<data key="key_weight">3914.95</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Drogheda"/>
+<node id="Southport"/>
+<node id="Portadown"/>
+<node id="Castleblayney"/>
+<node id="Monaghan"/>
+<node id="Dundalk"/>
+<node id="Dublin"/>
+<node id="Armagh"/>
+<node id="Ballymena"/>
+<node id="Belfast"/>
+<node id="Omagh"/>
+<node id="Strabane"/>
+<node id="Letterkenny"/>
+<node id="Londonderry"/>
+<node id="Coleraine"/>
+<edge id="e1" source="Drogheda" target="Dundalk">
+<data key="key_weight">31.59</data>
+</edge>
+<edge id="e2" source="Drogheda" target="Dublin">
+<data key="key_weight">42.04</data>
+</edge>
+<edge id="e3" source="Southport" target="Dublin">
+<data key="key_weight">218.36</data>
+</edge>
+<edge id="e4" source="Portadown" target="Belfast">
+<data key="key_weight">38.21</data>
+</edge>
+<edge id="e5" source="Portadown" target="Armagh">
+<data key="key_weight">15.86</data>
+</edge>
+<edge id="e6" source="Castleblayney" target="Monaghan">
+<data key="key_weight">21.23</data>
+</edge>
+<edge id="e7" source="Castleblayney" target="Dundalk">
+<data key="key_weight">24.41</data>
+</edge>
+<edge id="e8" source="Monaghan" target="Armagh">
+<data key="key_weight">22.42</data>
+</edge>
+<edge id="e9" source="Armagh" target="Omagh">
+<data key="key_weight">49.48</data>
+</edge>
+<edge id="e10" source="Ballymena" target="Belfast">
+<data key="key_weight">38.17</data>
+</edge>
+<edge id="e11" source="Ballymena" target="Coleraine">
+<data key="key_weight">38.99</data>
+</edge>
+<edge id="e12" source="Omagh" target="Strabane">
+<data key="key_weight">27.15</data>
+</edge>
+<edge id="e13" source="Strabane" target="Londonderry">
+<data key="key_weight">21.92</data>
+</edge>
+<edge id="e14" source="Strabane" target="Letterkenny">
+<data key="key_weight">21.97</data>
+</edge>
+<edge id="e15" source="Letterkenny" target="Londonderry">
+<data key="key_weight">27.59</data>
+</edge>
+<edge id="e16" source="Londonderry" target="Coleraine">
+<data key="key_weight">43.61</data>
+</edge>
+</graph></graphml>

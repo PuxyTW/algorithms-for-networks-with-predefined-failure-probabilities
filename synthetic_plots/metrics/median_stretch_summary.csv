@@ -1,0 +1,26 @@
+nodes,algorithm,median_stretch_mean,median_stretch_std
+10,Beacon Nodes,0.0,0.0
+10,Global Controller,0.0,0.0
+10,PrioList,0.0,0.0
+10,Simple Decomposition,0.0,0.0
+10,Super Trees,0.075,0.26505313534640934
+24,Beacon Nodes,0.025,0.15710997518871128
+24,Global Controller,0.025,0.15710997518871128
+24,PrioList,0.0125,0.11180339887498947
+24,Simple Decomposition,0.0125,0.11180339887498947
+24,Super Trees,0.0125,0.11180339887498947
+50,Beacon Nodes,0.0125,0.1118033988749895
+50,Global Controller,0.0,0.0
+50,PrioList,0.0,0.0
+50,Simple Decomposition,0.0,0.0
+50,Super Trees,0.075,0.26505313534640934
+80,Beacon Nodes,0.00625,0.055901699437494734
+80,Global Controller,0.025,0.15710997518871125
+80,PrioList,0.0125,0.11180339887498948
+80,Simple Decomposition,0.0,0.0
+80,Super Trees,0.09375,0.2878746870480938
+100,Beacon Nodes,0.01875,0.12436547813560939
+100,Global Controller,0.0125,0.11180339887498951
+100,PrioList,0.0,0.0
+100,Simple Decomposition,0.0,0.0
+100,Super Trees,0.175,0.4291587295976552

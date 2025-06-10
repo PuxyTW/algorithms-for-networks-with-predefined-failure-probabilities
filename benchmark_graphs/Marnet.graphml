@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="F. of Mining and Geology Stip"/>
+<node id="NOC and CampusSocial Sciences"/>
+<node id="I. of Economy"/>
+<node id="NationalBroadcastingcompany Comm. Tower"/>
+<node id="I of Political and Juridical Res"/>
+<node id="Campus Natural Sciences and Mathematics"/>
+<node id="F. of Pedagogy"/>
+<node id="National and Univ Library"/>
+<node id="I. of Earthquake Engineering"/>
+<node id="I. of National History"/>
+<node id="I. of Macedonian Literature"/>
+<node id="St Clement of Ohrid University in Bitola"/>
+<node id="Several Ministries of the Government"/>
+<node id="Campus Arch and Civil Eng"/>
+<node id="CampusTechnical"/>
+<node id="Campus Medicine"/>
+<node id="CampusBiotech. Sciences"/>
+<edge id="e1" source="F. of Mining and Geology Stip" target="NOC and CampusSocial Sciences">
+<data key="key_weight">69.19</data>
+</edge>
+<edge id="e2" source="NOC and CampusSocial Sciences" target="I. of Economy">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e3" source="NOC and CampusSocial Sciences" target="NationalBroadcastingcompany Comm. Tower">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e4" source="NOC and CampusSocial Sciences" target="I of Political and Juridical Res">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e5" source="NOC and CampusSocial Sciences" target="Campus Natural Sciences and Mathematics">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e6" source="NOC and CampusSocial Sciences" target="National and Univ Library">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e7" source="NOC and CampusSocial Sciences" target="I. of Earthquake Engineering">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e8" source="NOC and CampusSocial Sciences" target="I. of National History">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e9" source="NOC and CampusSocial Sciences" target="I. of Macedonian Literature">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e10" source="NOC and CampusSocial Sciences" target="St Clement of Ohrid University in Bitola">
+<data key="key_weight">108.04</data>
+</edge>
+<edge id="e11" source="NOC and CampusSocial Sciences" target="Several Ministries of the Government">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e12" source="NOC and CampusSocial Sciences" target="Campus Arch and Civil Eng">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e13" source="NOC and CampusSocial Sciences" target="CampusTechnical">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e14" source="NOC and CampusSocial Sciences" target="Campus Medicine">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e15" source="NOC and CampusSocial Sciences" target="CampusBiotech. Sciences">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e16" source="NationalBroadcastingcompany Comm. Tower" target="Campus Natural Sciences and Mathematics">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e17" source="NationalBroadcastingcompany Comm. Tower" target="National and Univ Library">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e18" source="NationalBroadcastingcompany Comm. Tower" target="I. of Earthquake Engineering">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e19" source="NationalBroadcastingcompany Comm. Tower" target="Campus Arch and Civil Eng">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e20" source="NationalBroadcastingcompany Comm. Tower" target="CampusTechnical">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e21" source="NationalBroadcastingcompany Comm. Tower" target="Campus Medicine">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e22" source="NationalBroadcastingcompany Comm. Tower" target="CampusBiotech. Sciences">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e23" source="I of Political and Juridical Res" target="CampusTechnical">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e24" source="F. of Pedagogy" target="CampusTechnical">
+<data key="key_weight">0.0</data>
+</edge>
+</graph></graphml>

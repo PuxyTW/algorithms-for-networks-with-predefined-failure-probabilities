@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Navarra"/>
+<node id="Rioja"/>
+<node id="Cantabria"/>
+<node id="Pais Vasco"/>
+<node id="Baleares"/>
+<node id="Valencia"/>
+<node id="Aragon"/>
+<node id="Cataluna"/>
+<node id="Murcia"/>
+<node id="Galacia"/>
+<node id="Asturias"/>
+<node id="Extremadura"/>
+<node id="Andalucia"/>
+<node id="Canarias (las palmas)"/>
+<node id="Canarias (tenerife)"/>
+<node id="Castilla La Mancha"/>
+<node id="Nacional"/>
+<node id="Madrid"/>
+<node id="Castilla Y Leon"/>
+<edge id="e1" source="Navarra" target="Pais Vasco">
+<data key="key_weight">92.44</data>
+</edge>
+<edge id="e2" source="Navarra" target="Aragon">
+<data key="key_weight">143.69</data>
+</edge>
+<edge id="e3" source="Rioja" target="Castilla Y Leon">
+<data key="key_weight">208.05</data>
+</edge>
+<edge id="e4" source="Rioja" target="Aragon">
+<data key="key_weight">158.09</data>
+</edge>
+<edge id="e5" source="Cantabria" target="Asturias">
+<data key="key_weight">165.26</data>
+</edge>
+<edge id="e6" source="Cantabria" target="Pais Vasco">
+<data key="key_weight">99.87</data>
+</edge>
+<edge id="e7" source="Pais Vasco" target="Galacia">
+<data key="key_weight">472.01</data>
+</edge>
+<edge id="e8" source="Pais Vasco" target="Nacional">
+<data key="key_weight">298.03</data>
+</edge>
+<edge id="e9" source="Baleares" target="Valencia">
+<data key="key_weight">260.0</data>
+</edge>
+<edge id="e10" source="Baleares" target="Cataluna">
+<data key="key_weight">206.59</data>
+</edge>
+<edge id="e11" source="Valencia" target="Murcia">
+<data key="key_weight">177.34</data>
+</edge>
+<edge id="e12" source="Valencia" target="Andalucia">
+<data key="key_weight">541.25</data>
+</edge>
+<edge id="e13" source="Valencia" target="Nacional">
+<data key="key_weight">302.45</data>
+</edge>
+<edge id="e14" source="Valencia" target="Cataluna">
+<data key="key_weight">302.75</data>
+</edge>
+<edge id="e15" source="Aragon" target="Nacional">
+<data key="key_weight">274.19</data>
+</edge>
+<edge id="e16" source="Aragon" target="Cataluna">
+<data key="key_weight">254.58</data>
+</edge>
+<edge id="e17" source="Cataluna" target="Nacional">
+<data key="key_weight">504.38</data>
+</edge>
+<edge id="e18" source="Murcia" target="Andalucia">
+<data key="key_weight">433.94</data>
+</edge>
+<edge id="e19" source="Galacia" target="Nacional">
+<data key="key_weight">486.84</data>
+</edge>
+<edge id="e20" source="Galacia" target="Asturias">
+<data key="key_weight">225.67</data>
+</edge>
+<edge id="e21" source="Galacia" target="Castilla Y Leon">
+<data key="key_weight">343.56</data>
+</edge>
+<edge id="e22" source="Extremadura" target="Nacional">
+<data key="key_weight">327.41</data>
+</edge>
+<edge id="e23" source="Extremadura" target="Andalucia">
+<data key="key_weight">188.17</data>
+</edge>
+<edge id="e24" source="Andalucia" target="Canarias (las palmas)">
+<data key="key_weight">1356.0</data>
+</edge>
+<edge id="e25" source="Andalucia" target="Castilla La Mancha">
+<data key="key_weight">253.27</data>
+</edge>
+<edge id="e26" source="Andalucia" target="Nacional">
+<data key="key_weight">391.6</data>
+</edge>
+<edge id="e27" source="Canarias (las palmas)" target="Canarias (tenerife)">
+<data key="key_weight">97.92</data>
+</edge>
+<edge id="e28" source="Canarias (tenerife)" target="Nacional">
+<data key="key_weight">1756.93</data>
+</edge>
+<edge id="e29" source="Castilla La Mancha" target="Nacional">
+<data key="key_weight">160.62</data>
+</edge>
+<edge id="e30" source="Nacional" target="Madrid">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e31" source="Nacional" target="Castilla Y Leon">
+<data key="key_weight">161.44</data>
+</edge>
+</graph></graphml>

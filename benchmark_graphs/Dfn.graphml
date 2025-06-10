@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="CHE"/>
+<node id="LEI"/>
+<node id="ADH"/>
+<node id="DRE"/>
+<node id="GSI"/>
+<node id="HEI"/>
+<node id="JEN"/>
+<node id="ILM"/>
+<node id="FZK"/>
+<node id="STU"/>
+<node id="BIE"/>
+<node id="GOE"/>
+<node id="BRE"/>
+<node id="WUP"/>
+<node id="BIR"/>
+<node id="BON"/>
+<node id="MAR"/>
+<node id="GIE"/>
+<node id="KAS"/>
+<node id="PAD"/>
+<node id="EWE"/>
+<node id="MUE"/>
+<node id="SAA"/>
+<node id="DES"/>
+<node id="HAM"/>
+<node id="KIE"/>
+<node id="ROS"/>
+<node id="MAG"/>
+<node id="BRA"/>
+<node id="KAI"/>
+<node id="GRE"/>
+<node id="DOR"/>
+<node id="BOC"/>
+<node id="FHM"/>
+<node id="REG"/>
+<node id="AUG"/>
+<node id="GAR"/>
+<node id="DUI"/>
+<node id="FZJ"/>
+<node id="AAC"/>
+<node id="WUE"/>
+<node id="TUB"/>
+<node id="HUB"/>
+<node id="HAN"/>
+<node id="FRA"/>
+<node id="POT"/>
+<node id="ERL"/>
+<node id="BAY"/>
+<node id="FFO"/>
+<node id="ZIB"/>
+<node id="ZEU"/>
+<edge id="e1" source="CHE" target="LEI">
+<data key="key_weight">67.99</data>
+</edge>
+<edge id="e2" source="CHE" target="DRE">
+<data key="key_weight">62.46</data>
+</edge>
+<edge id="e3" source="LEI" target="ERL">
+<data key="key_weight">217.37</data>
+</edge>
+<edge id="e4" source="LEI" target="JEN">
+<data key="key_weight">71.18</data>
+</edge>
+<edge id="e5" source="ADH" target="ZIB">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e6" source="ADH" target="HUB">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e7" source="DRE" target="POT">
+<data key="key_weight">156.93</data>
+</edge>
+<edge id="e8" source="DRE" target="ERL">
+<data key="key_weight">253.2</data>
+</edge>
+<edge id="e9" source="GSI" target="FRA">
+<data key="key_weight">27.48</data>
+</edge>
+<edge id="e10" source="GSI" target="HEI">
+<data key="key_weight">51.57</data>
+</edge>
+<edge id="e11" source="HEI" target="FZK">
+<data key="key_weight">50.0</data>
+</edge>
+<edge id="e12" source="JEN" target="ILM">
+<data key="key_weight">55.5</data>
+</edge>
+<edge id="e13" source="ILM" target="ERL">
+<data key="key_weight">121.86</data>
+</edge>
+<edge id="e14" source="FZK" target="FRA">
+<data key="key_weight">125.53</data>
+</edge>
+<edge id="e15" source="FZK" target="STU">
+<data key="key_weight">62.92</data>
+</edge>
+<edge id="e16" source="FZK" target="KAI">
+<data key="key_weight">67.72</data>
+</edge>
+<edge id="e17" source="STU" target="GAR">
+<data key="key_weight">191.57</data>
+</edge>
+<edge id="e18" source="BIE" target="PAD">
+<data key="key_weight">38.11</data>
+</edge>
+<edge id="e19" source="BIE" target="HAN">
+<data key="key_weight">89.98</data>
+</edge>
+<edge id="e20" source="BIE" target="MUE">
+<data key="key_weight">62.65</data>
+</edge>
+<edge id="e21" source="GOE" target="HAN">
+<data key="key_weight">94.12</data>
+</edge>
+<edge id="e22" source="GOE" target="KAS">
+<data key="key_weight">38.52</data>
+</edge>
+<edge id="e23" source="BRE" target="EWE">
+<data key="key_weight">41.83</data>
+</edge>
+<edge id="e24" source="BRE" target="HAN">
+<data key="key_weight">100.15</data>
+</edge>
+<edge id="e25" source="BRE" target="HAM">
+<data key="key_weight">95.21</data>
+</edge>
+<edge id="e26" source="WUP" target="BIR">
+<data key="key_weight">40.5</data>
+</edge>
+<edge id="e27" source="WUP" target="DOR">
+<data key="key_weight">33.4</data>
+</edge>
+<edge id="e28" source="BIR" target="FRA">
+<data key="key_weight">152.55</data>
+</edge>
+<edge id="e29" source="BIR" target="BON">
+<data key="key_weight">24.61</data>
+</edge>
+<edge id="e30" source="BON" target="AAC">
+<data key="key_weight">71.69</data>
+</edge>
+<edge id="e31" source="MAR" target="GIE">
+<data key="key_weight">27.22</data>
+</edge>
+<edge id="e32" source="MAR" target="KAS">
+<data key="key_weight">75.63</data>
+</edge>
+<edge id="e33" source="GIE" target="FRA">
+<data key="key_weight">51.96</data>
+</edge>
+<edge id="e34" source="KAS" target="PAD">
+<data key="key_weight">68.31</data>
+</edge>
+<edge id="e35" source="EWE" target="MUE">
+<data key="key_weight">139.46</data>
+</edge>
+<edge id="e36" source="MUE" target="DUI">
+<data key="key_weight">70.78</data>
+</edge>
+<edge id="e37" source="SAA" target="FRA">
+<data key="key_weight">155.98</data>
+</edge>
+<edge id="e38" source="SAA" target="KAI">
+<data key="key_weight">59.45</data>
+</edge>
+<edge id="e39" source="DES" target="TUB">
+<data key="key_weight">255.0</data>
+</edge>
+<edge id="e40" source="DES" target="HAM">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e41" source="KIE" target="ROS">
+<data key="key_weight">133.01</data>
+</edge>
+<edge id="e42" source="KIE" target="HAN">
+<data key="key_weight">218.61</data>
+</edge>
+<edge id="e43" source="ROS" target="HAN">
+<data key="key_weight">249.39</data>
+</edge>
+<edge id="e44" source="ROS" target="GRE">
+<data key="key_weight">81.08</data>
+</edge>
+<edge id="e45" source="MAG" target="BRA">
+<data key="key_weight">78.03</data>
+</edge>
+<edge id="e46" source="MAG" target="POT">
+<data key="key_weight">98.63</data>
+</edge>
+<edge id="e47" source="BRA" target="HAN">
+<data key="key_weight">55.61</data>
+</edge>
+<edge id="e48" source="KAI" target="FRA">
+<data key="key_weight">99.95</data>
+</edge>
+<edge id="e49" source="GRE" target="POT">
+<data key="key_weight">190.39</data>
+</edge>
+<edge id="e50" source="DOR" target="BOC">
+<data key="key_weight">16.58</data>
+</edge>
+<edge id="e51" source="BOC" target="DUI">
+<data key="key_weight">14.35</data>
+</edge>
+<edge id="e52" source="FHM" target="REG">
+<data key="key_weight">104.84</data>
+</edge>
+<edge id="e53" source="FHM" target="GAR">
+<data key="key_weight">13.69</data>
+</edge>
+<edge id="e54" source="REG" target="ERL">
+<data key="key_weight">101.76</data>
+</edge>
+<edge id="e55" source="AUG" target="GAR">
+<data key="key_weight">58.18</data>
+</edge>
+<edge id="e56" source="AUG" target="ERL">
+<data key="key_weight">136.32</data>
+</edge>
+<edge id="e57" source="GAR" target="FRA">
+<data key="key_weight">299.33</data>
+</edge>
+<edge id="e58" source="DUI" target="HAN">
+<data key="key_weight">212.65</data>
+</edge>
+<edge id="e59" source="DUI" target="FZJ">
+<data key="key_weight">73.18</data>
+</edge>
+<edge id="e60" source="FZJ" target="AAC">
+<data key="key_weight">26.44</data>
+</edge>
+<edge id="e61" source="AAC" target="FRA">
+<data key="key_weight">198.23</data>
+</edge>
+<edge id="e62" source="WUE" target="FRA">
+<data key="key_weight">96.83</data>
+</edge>
+<edge id="e63" source="WUE" target="ERL">
+<data key="key_weight">79.93</data>
+</edge>
+<edge id="e64" source="TUB" target="ZIB">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e65" source="TUB" target="HUB">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e66" source="TUB" target="POT">
+<data key="key_weight">27.22</data>
+</edge>
+<edge id="e67" source="TUB" target="ZEU">
+<data key="key_weight">22.43</data>
+</edge>
+<edge id="e68" source="HAN" target="FRA">
+<data key="key_weight">261.12</data>
+</edge>
+<edge id="e69" source="HAN" target="POT">
+<data key="key_weight">226.23</data>
+</edge>
+<edge id="e70" source="HAN" target="ERL">
+<data key="key_weight">321.83</data>
+</edge>
+<edge id="e71" source="HAN" target="FFO">
+<data key="key_weight">327.18</data>
+</edge>
+<edge id="e72" source="FRA" target="POT">
+<data key="key_weight">396.72</data>
+</edge>
+<edge id="e73" source="FRA" target="ERL">
+<data key="key_weight">176.42</data>
+</edge>
+<edge id="e74" source="POT" target="ERL">
+<data key="key_weight">344.14</data>
+</edge>
+<edge id="e75" source="POT" target="BAY">
+<data key="key_weight">291.64</data>
+</edge>
+<edge id="e76" source="POT" target="FFO">
+<data key="key_weight">101.0</data>
+</edge>
+<edge id="e77" source="POT" target="ZIB">
+<data key="key_weight">27.22</data>
+</edge>
+<edge id="e78" source="ERL" target="BAY">
+<data key="key_weight">57.37</data>
+</edge>
+<edge id="e79" source="FFO" target="ZIB">
+<data key="key_weight">79.78</data>
+</edge>
+<edge id="e80" source="ZIB" target="ZEU">
+<data key="key_weight">22.43</data>
+</edge>
+</graph></graphml>

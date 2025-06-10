@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Westerbork"/>
+<node id="Dwingeloo"/>
+<node id="Groningen"/>
+<node id="Assen"/>
+<node id="Alkmaar"/>
+<node id="Lelystad"/>
+<node id="Leeuwarden"/>
+<node id="Den Helder"/>
+<node id="Amsterdam"/>
+<node id="Haarlem"/>
+<node id="Oss"/>
+<node id="Den Bosch"/>
+<node id="Houten"/>
+<node id="Wageningen"/>
+<node id="Nijmegen"/>
+<node id="Venlo"/>
+<node id="Heerlen"/>
+<node id="Maastricht"/>
+<node id="Maasbracht"/>
+<node id="Eindhoven"/>
+<node id="Yerseke"/>
+<node id="Vlissingen"/>
+<node id="Gouda"/>
+<node id="Nieuwegen"/>
+<node id="Tilburg"/>
+<node id="Dordrecht"/>
+<node id="Bergen op Zoom"/>
+<node id="Breda"/>
+<node id="Middelburg"/>
+<node id="Zierikzee"/>
+<node id="Utrecht"/>
+<node id="Breukelen"/>
+<node id="Leiden"/>
+<node id="Oegstgeest"/>
+<node id="Lisse"/>
+<node id="Schiphol-Rijk"/>
+<node id="Hilversum"/>
+<node id="Rotterdam"/>
+<node id="Delft"/>
+<node id="Den Haag"/>
+<node id="Emmen"/>
+<node id="Winschoten"/>
+<node id="Arnhem"/>
+<node id="Apeldoorn"/>
+<node id="Zutphen"/>
+<node id="Enschede"/>
+<node id="Deventer"/>
+<node id="Zwolle"/>
+<node id="Meppel"/>
+<node id="Hoogeveen"/>
+<edge id="e1" source="Westerbork" target="Dwingeloo">
+<data key="key_weight">16.15</data>
+</edge>
+<edge id="e2" source="Dwingeloo" target="Amsterdam">
+<data key="key_weight">112.29</data>
+</edge>
+<edge id="e3" source="Dwingeloo" target="Assen">
+<data key="key_weight">22.23</data>
+</edge>
+<edge id="e4" source="Groningen" target="Winschoten">
+<data key="key_weight">32.29</data>
+</edge>
+<edge id="e5" source="Groningen" target="Assen">
+<data key="key_weight">24.75</data>
+</edge>
+<edge id="e6" source="Groningen" target="Leeuwarden">
+<data key="key_weight">50.54</data>
+</edge>
+<edge id="e7" source="Assen" target="Hoogeveen">
+<data key="key_weight">31.04</data>
+</edge>
+<edge id="e8" source="Alkmaar" target="Amsterdam">
+<data key="key_weight">30.21</data>
+</edge>
+<edge id="e9" source="Alkmaar" target="Haarlem">
+<data key="key_weight">28.91</data>
+</edge>
+<edge id="e10" source="Alkmaar" target="Den Helder">
+<data key="key_weight">36.51</data>
+</edge>
+<edge id="e11" source="Lelystad" target="Amsterdam">
+<data key="key_weight">42.4</data>
+</edge>
+<edge id="e12" source="Lelystad" target="Zwolle">
+<data key="key_weight">41.93</data>
+</edge>
+<edge id="e13" source="Leeuwarden" target="Den Helder">
+<data key="key_weight">75.07</data>
+</edge>
+<edge id="e14" source="Amsterdam" target="Leiden">
+<data key="key_weight">36.12</data>
+</edge>
+<edge id="e15" source="Amsterdam" target="Schiphol-Rijk">
+<data key="key_weight">12.57</data>
+</edge>
+<edge id="e16" source="Amsterdam" target="Delft">
+<data key="key_weight">54.74</data>
+</edge>
+<edge id="e17" source="Amsterdam" target="Zwolle">
+<data key="key_weight">83.12</data>
+</edge>
+<edge id="e18" source="Amsterdam" target="Hilversum">
+<data key="key_weight">25.71</data>
+</edge>
+<edge id="e19" source="Amsterdam" target="Utrecht">
+<data key="key_weight">35.26</data>
+</edge>
+<edge id="e20" source="Amsterdam" target="Breukelen">
+<data key="key_weight">23.49</data>
+</edge>
+<edge id="e21" source="Haarlem" target="Leiden">
+<data key="key_weight">26.61</data>
+</edge>
+<edge id="e22" source="Oss" target="Den Bosch">
+<data key="key_weight">16.45</data>
+</edge>
+<edge id="e23" source="Den Bosch" target="Eindhoven">
+<data key="key_weight">31.14</data>
+</edge>
+<edge id="e24" source="Den Bosch" target="Nieuwegen">
+<data key="key_weight">39.79</data>
+</edge>
+<edge id="e25" source="Houten" target="Utrecht">
+<data key="key_weight">7.63</data>
+</edge>
+<edge id="e26" source="Wageningen" target="Utrecht">
+<data key="key_weight">39.61</data>
+</edge>
+<edge id="e27" source="Wageningen" target="Nijmegen">
+<data key="key_weight">19.08</data>
+</edge>
+<edge id="e28" source="Nijmegen" target="Arnhem">
+<data key="key_weight">15.81</data>
+</edge>
+<edge id="e29" source="Nijmegen" target="Enschede">
+<data key="key_weight">82.72</data>
+</edge>
+<edge id="e30" source="Nijmegen" target="Venlo">
+<data key="key_weight">56.89</data>
+</edge>
+<edge id="e31" source="Venlo" target="Heerlen">
+<data key="key_weight">55.64</data>
+</edge>
+<edge id="e32" source="Heerlen" target="Maastricht">
+<data key="key_weight">20.92</data>
+</edge>
+<edge id="e33" source="Maastricht" target="Maasbracht">
+<data key="key_weight">35.19</data>
+</edge>
+<edge id="e34" source="Maasbracht" target="Eindhoven">
+<data key="key_weight">43.96</data>
+</edge>
+<edge id="e35" source="Eindhoven" target="Tilburg">
+<data key="key_weight">29.65</data>
+</edge>
+<edge id="e36" source="Eindhoven" target="Utrecht">
+<data key="key_weight">76.33</data>
+</edge>
+<edge id="e37" source="Yerseke" target="Bergen op Zoom">
+<data key="key_weight">16.74</data>
+</edge>
+<edge id="e38" source="Yerseke" target="Vlissingen">
+<data key="key_weight">33.47</data>
+</edge>
+<edge id="e39" source="Vlissingen" target="Middelburg">
+<data key="key_weight">6.98</data>
+</edge>
+<edge id="e40" source="Gouda" target="Rotterdam">
+<data key="key_weight">18.88</data>
+</edge>
+<edge id="e41" source="Gouda" target="Utrecht">
+<data key="key_weight">29.49</data>
+</edge>
+<edge id="e42" source="Nieuwegen" target="Utrecht">
+<data key="key_weight">7.43</data>
+</edge>
+<edge id="e43" source="Tilburg" target="Breda">
+<data key="key_weight">22.07</data>
+</edge>
+<edge id="e44" source="Dordrecht" target="Breda">
+<data key="key_weight">25.83</data>
+</edge>
+<edge id="e45" source="Dordrecht" target="Rotterdam">
+<data key="key_weight">18.3</data>
+</edge>
+<edge id="e46" source="Bergen op Zoom" target="Breda">
+<data key="key_weight">35.02</data>
+</edge>
+<edge id="e47" source="Bergen op Zoom" target="Zierikzee">
+<data key="key_weight">30.97</data>
+</edge>
+<edge id="e48" source="Middelburg" target="Zierikzee">
+<data key="key_weight">26.92</data>
+</edge>
+<edge id="e49" source="Utrecht" target="Hilversum">
+<data key="key_weight">15.19</data>
+</edge>
+<edge id="e50" source="Utrecht" target="Delft">
+<data key="key_weight">53.27</data>
+</edge>
+<edge id="e51" source="Utrecht" target="Breukelen">
+<data key="key_weight">12.41</data>
+</edge>
+<edge id="e52" source="Leiden" target="Den Haag">
+<data key="key_weight">16.09</data>
+</edge>
+<edge id="e53" source="Leiden" target="Delft">
+<data key="key_weight">19.31</data>
+</edge>
+<edge id="e54" source="Leiden" target="Oegstgeest">
+<data key="key_weight">2.9</data>
+</edge>
+<edge id="e55" source="Oegstgeest" target="Lisse">
+<data key="key_weight">10.71</data>
+</edge>
+<edge id="e56" source="Lisse" target="Schiphol-Rijk">
+<data key="key_weight">13.87</data>
+</edge>
+<edge id="e57" source="Rotterdam" target="Delft">
+<data key="key_weight">12.63</data>
+</edge>
+<edge id="e58" source="Delft" target="Den Haag">
+<data key="key_weight">8.71</data>
+</edge>
+<edge id="e59" source="Emmen" target="Winschoten">
+<data key="key_weight">41.49</data>
+</edge>
+<edge id="e60" source="Emmen" target="Hoogeveen">
+<data key="key_weight">29.66</data>
+</edge>
+<edge id="e61" source="Arnhem" target="Zutphen">
+<data key="key_weight">26.54</data>
+</edge>
+<edge id="e62" source="Arnhem" target="Deventer">
+<data key="key_weight">35.12</data>
+</edge>
+<edge id="e63" source="Apeldoorn" target="Zutphen">
+<data key="key_weight">17.72</data>
+</edge>
+<edge id="e64" source="Apeldoorn" target="Deventer">
+<data key="key_weight">14.16</data>
+</edge>
+<edge id="e65" source="Enschede" target="Zwolle">
+<data key="key_weight">63.51</data>
+</edge>
+<edge id="e66" source="Deventer" target="Zwolle">
+<data key="key_weight">29.03</data>
+</edge>
+<edge id="e67" source="Zwolle" target="Meppel">
+<data key="key_weight">21.48</data>
+</edge>
+<edge id="e68" source="Meppel" target="Hoogeveen">
+<data key="key_weight">19.23</data>
+</edge>
+</graph></graphml>

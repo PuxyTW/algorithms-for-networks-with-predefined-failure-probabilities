@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Bordeaux"/>
+<node id="Toulouse"/>
+<node id="Orleans"/>
+<node id="Limoges"/>
+<node id="Dijon"/>
+<node id="Besancon"/>
+<node id="Montpellier"/>
+<node id="Clermont-Ferrand"/>
+<node id="Grenoble"/>
+<node id="Nice"/>
+<node id="Lyon"/>
+<node id="Paris"/>
+<node id="Corte"/>
+<node id="Marseille"/>
+<node id="Nantes"/>
+<node id="Poiters"/>
+<node id="Strasbourg"/>
+<node id="Nancy"/>
+<node id="Reims"/>
+<node id="Compiegne"/>
+<node id="Lille"/>
+<node id="Rouen"/>
+<node id="Caen"/>
+<node id="Rennes"/>
+<edge id="e1" source="Bordeaux" target="Toulouse">
+<data key="key_weight">210.63</data>
+</edge>
+<edge id="e2" source="Bordeaux" target="Poiters">
+<data key="key_weight">206.81</data>
+</edge>
+<edge id="e3" source="Toulouse" target="Montpellier">
+<data key="key_weight">196.49</data>
+</edge>
+<edge id="e4" source="Orleans" target="Paris">
+<data key="key_weight">109.34</data>
+</edge>
+<edge id="e5" source="Limoges" target="Poiters">
+<data key="key_weight">109.8</data>
+</edge>
+<edge id="e6" source="Limoges" target="Clermont-Ferrand">
+<data key="key_weight">141.64</data>
+</edge>
+<edge id="e7" source="Dijon" target="Paris">
+<data key="key_weight">261.72</data>
+</edge>
+<edge id="e8" source="Besancon" target="Lyon">
+<data key="key_weight">189.85</data>
+</edge>
+<edge id="e9" source="Besancon" target="Strasbourg">
+<data key="key_weight">195.87</data>
+</edge>
+<edge id="e10" source="Montpellier" target="Lyon">
+<data key="key_weight">251.06</data>
+</edge>
+<edge id="e11" source="Montpellier" target="Marseille">
+<data key="key_weight">126.93</data>
+</edge>
+<edge id="e12" source="Clermont-Ferrand" target="Lyon">
+<data key="key_weight">137.12</data>
+</edge>
+<edge id="e13" source="Grenoble" target="Nice">
+<data key="key_weight">204.05</data>
+</edge>
+<edge id="e14" source="Grenoble" target="Lyon">
+<data key="key_weight">93.71</data>
+</edge>
+<edge id="e15" source="Nice" target="Corte">
+<data key="key_weight">218.71</data>
+</edge>
+<edge id="e16" source="Nice" target="Marseille">
+<data key="key_weight">157.08</data>
+</edge>
+<edge id="e17" source="Lyon" target="Paris">
+<data key="key_weight">393.32</data>
+</edge>
+<edge id="e18" source="Lyon" target="Marseille">
+<data key="key_weight">275.97</data>
+</edge>
+<edge id="e19" source="Paris" target="Poiters">
+<data key="key_weight">294.08</data>
+</edge>
+<edge id="e20" source="Paris" target="Nancy">
+<data key="key_weight">282.93</data>
+</edge>
+<edge id="e21" source="Paris" target="Reims">
+<data key="key_weight">130.47</data>
+</edge>
+<edge id="e22" source="Paris" target="Compiegne">
+<data key="key_weight">71.76</data>
+</edge>
+<edge id="e23" source="Paris" target="Lille">
+<data key="key_weight">204.58</data>
+</edge>
+<edge id="e24" source="Paris" target="Rouen">
+<data key="key_weight">112.1</data>
+</edge>
+<edge id="e25" source="Nantes" target="Poiters">
+<data key="key_weight">159.78</data>
+</edge>
+<edge id="e26" source="Nantes" target="Rennes">
+<data key="key_weight">96.82</data>
+</edge>
+<edge id="e27" source="Strasbourg" target="Nancy">
+<data key="key_weight">114.48</data>
+</edge>
+<edge id="e28" source="Rouen" target="Caen">
+<data key="key_weight">109.55</data>
+</edge>
+<edge id="e29" source="Caen" target="Rennes">
+<data key="key_weight">156.56</data>
+</edge>
+</graph></graphml>

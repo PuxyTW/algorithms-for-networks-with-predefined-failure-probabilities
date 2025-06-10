@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Lhasa"/>
+<node id="Lanzhou"/>
+<node id="Kashi"/>
+<node id="Shiquanhe"/>
+<node id="Jinan"/>
+<node id="Qingdao"/>
+<node id="Taiyuan"/>
+<node id="Shilazhuang"/>
+<node id="Shanghai"/>
+<node id="Suzhou"/>
+<node id="Nanning"/>
+<node id="Changsha"/>
+<node id="Guiyang"/>
+<node id="Chongqing"/>
+<node id="Chengdu"/>
+<node id="Kunming"/>
+<node id="Xi'an"/>
+<node id="Zhengzhou"/>
+<node id="Haikou"/>
+<node id="Hong Kong"/>
+<node id="Hangzhou"/>
+<node id="Wuhan"/>
+<node id="Hefei"/>
+<node id="Nanjing"/>
+<node id="Guangzhou"/>
+<node id="Xiamen"/>
+<node id="Fuzhou"/>
+<node id="Nandhang"/>
+<node id="Xining"/>
+<node id="Urumqi"/>
+<node id="Harbin"/>
+<node id="Changchun"/>
+<node id="Shenyang"/>
+<node id="Dalian"/>
+<node id="Tianjin"/>
+<node id="Beijing"/>
+<node id="Hohhot"/>
+<node id="Yinchuan"/>
+<edge id="e1" source="Lhasa" target="Chengdu">
+<data key="key_weight">1251.43</data>
+</edge>
+<edge id="e2" source="Lhasa" target="Shiquanhe">
+<data key="key_weight">1097.66</data>
+</edge>
+<edge id="e3" source="Lhasa" target="Beijing">
+<data key="key_weight">2564.99</data>
+</edge>
+<edge id="e4" source="Lanzhou" target="Xi'an">
+<data key="key_weight">508.0</data>
+</edge>
+<edge id="e5" source="Lanzhou" target="Beijing">
+<data key="key_weight">1183.84</data>
+</edge>
+<edge id="e6" source="Kashi" target="Urumqi">
+<data key="key_weight">1077.66</data>
+</edge>
+<edge id="e7" source="Jinan" target="Shanghai">
+<data key="key_weight">732.14</data>
+</edge>
+<edge id="e8" source="Qingdao" target="Tianjin">
+<data key="key_weight">440.21</data>
+</edge>
+<edge id="e9" source="Taiyuan" target="Xi'an">
+<data key="key_weight">517.53</data>
+</edge>
+<edge id="e10" source="Taiyuan" target="Beijing">
+<data key="key_weight">402.1</data>
+</edge>
+<edge id="e11" source="Shilazhuang" target="Beijing">
+<data key="key_weight">265.7</data>
+</edge>
+<edge id="e12" source="Shanghai" target="Tianjin">
+<data key="key_weight">962.74</data>
+</edge>
+<edge id="e13" source="Shanghai" target="Beijing">
+<data key="key_weight">1068.56</data>
+</edge>
+<edge id="e14" source="Shanghai" target="Suzhou">
+<data key="key_weight">80.47</data>
+</edge>
+<edge id="e15" source="Shanghai" target="Chengdu">
+<data key="key_weight">1658.5</data>
+</edge>
+<edge id="e16" source="Shanghai" target="Xi'an">
+<data key="key_weight">1218.92</data>
+</edge>
+<edge id="e17" source="Shanghai" target="Hong Kong">
+<data key="key_weight">2003.85</data>
+</edge>
+<edge id="e18" source="Shanghai" target="Hangzhou">
+<data key="key_weight">163.57</data>
+</edge>
+<edge id="e19" source="Shanghai" target="Wuhan">
+<data key="key_weight">689.87</data>
+</edge>
+<edge id="e20" source="Shanghai" target="Hefei">
+<data key="key_weight">402.32</data>
+</edge>
+<edge id="e21" source="Shanghai" target="Nanjing">
+<data key="key_weight">270.42</data>
+</edge>
+<edge id="e22" source="Shanghai" target="Guangzhou">
+<data key="key_weight">1212.55</data>
+</edge>
+<edge id="e23" source="Shanghai" target="Nandhang">
+<data key="key_weight">606.81</data>
+</edge>
+<edge id="e24" source="Suzhou" target="Nanjing">
+<data key="key_weight">193.13</data>
+</edge>
+<edge id="e25" source="Nanning" target="Guangzhou">
+<data key="key_weight">506.3</data>
+</edge>
+<edge id="e26" source="Changsha" target="Wuhan">
+<data key="key_weight">293.49</data>
+</edge>
+<edge id="e27" source="Guiyang" target="Chengdu">
+<data key="key_weight">522.64</data>
+</edge>
+<edge id="e28" source="Guiyang" target="Guangzhou">
+<data key="key_weight">763.66</data>
+</edge>
+<edge id="e29" source="Chongqing" target="Chengdu">
+<data key="key_weight">268.86</data>
+</edge>
+<edge id="e30" source="Chongqing" target="Guangzhou">
+<data key="key_weight">979.18</data>
+</edge>
+<edge id="e31" source="Chengdu" target="Nanjing">
+<data key="key_weight">1404.64</data>
+</edge>
+<edge id="e32" source="Chengdu" target="Guangzhou">
+<data key="key_weight">1237.97</data>
+</edge>
+<edge id="e33" source="Kunming" target="Guangzhou">
+<data key="key_weight">1090.31</data>
+</edge>
+<edge id="e34" source="Xi'an" target="Xining">
+<data key="key_weight">699.79</data>
+</edge>
+<edge id="e35" source="Xi'an" target="Urumqi">
+<data key="key_weight">2118.65</data>
+</edge>
+<edge id="e36" source="Xi'an" target="Yinchuan">
+<data key="key_weight">525.11</data>
+</edge>
+<edge id="e37" source="Xi'an" target="Beijing">
+<data key="key_weight">912.58</data>
+</edge>
+<edge id="e38" source="Xi'an" target="Hohhot">
+<data key="key_weight">767.24</data>
+</edge>
+<edge id="e39" source="Xi'an" target="Wuhan">
+<data key="key_weight">646.55</data>
+</edge>
+<edge id="e40" source="Xi'an" target="Nanjing">
+<data key="key_weight">948.62</data>
+</edge>
+<edge id="e41" source="Xi'an" target="Guangzhou">
+<data key="key_weight">1308.6</data>
+</edge>
+<edge id="e42" source="Zhengzhou" target="Beijing">
+<data key="key_weight">622.14</data>
+</edge>
+<edge id="e43" source="Haikou" target="Wuhan">
+<data key="key_weight">1236.4</data>
+</edge>
+<edge id="e44" source="Haikou" target="Guangzhou">
+<data key="key_weight">455.1</data>
+</edge>
+<edge id="e45" source="Hong Kong" target="Guangzhou">
+<data key="key_weight">1485.42</data>
+</edge>
+<edge id="e46" source="Hong Kong" target="Beijing">
+<data key="key_weight">1804.91</data>
+</edge>
+<edge id="e47" source="Wuhan" target="Beijing">
+<data key="key_weight">1054.9</data>
+</edge>
+<edge id="e48" source="Wuhan" target="Nanjing">
+<data key="key_weight">459.03</data>
+</edge>
+<edge id="e49" source="Nanjing" target="Beijing">
+<data key="key_weight">898.48</data>
+</edge>
+<edge id="e50" source="Nanjing" target="Fuzhou">
+<data key="key_weight">669.36</data>
+</edge>
+<edge id="e51" source="Guangzhou" target="Tianjin">
+<data key="key_weight">1820.72</data>
+</edge>
+<edge id="e52" source="Guangzhou" target="Beijing">
+<data key="key_weight">1890.91</data>
+</edge>
+<edge id="e53" source="Guangzhou" target="Xiamen">
+<data key="key_weight">514.54</data>
+</edge>
+<edge id="e54" source="Xining" target="Beijing">
+<data key="key_weight">1327.36</data>
+</edge>
+<edge id="e55" source="Urumqi" target="Beijing">
+<data key="key_weight">2413.38</data>
+</edge>
+<edge id="e56" source="Harbin" target="Beijing">
+<data key="key_weight">1057.7</data>
+</edge>
+<edge id="e57" source="Changchun" target="Beijing">
+<data key="key_weight">860.29</data>
+</edge>
+<edge id="e58" source="Shenyang" target="Beijing">
+<data key="key_weight">627.72</data>
+</edge>
+<edge id="e59" source="Dalian" target="Tianjin">
+<data key="key_weight">383.21</data>
+</edge>
+<edge id="e60" source="Tianjin" target="Beijing">
+<data key="key_weight">108.24</data>
+</edge>
+<edge id="e61" source="Beijing" target="Yinchuan">
+<data key="key_weight">886.85</data>
+</edge>
+<edge id="e62" source="Beijing" target="Hohhot">
+<data key="key_weight">414.46</data>
+</edge>
+</graph></graphml>

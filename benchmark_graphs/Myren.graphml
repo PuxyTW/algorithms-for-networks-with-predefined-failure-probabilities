@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="UTP"/>
+<node id="UUM"/>
+<node id="UM"/>
+<node id="UNIMAS"/>
+<node id="UMS"/>
+<node id="UPM"/>
+<node id="UTM"/>
+<node id="UMK"/>
+<node id="UMP"/>
+<node id="UKM"/>
+<node id="MMU"/>
+<node id="USIM"/>
+<node id="UNITEN"/>
+<node id="Monash Malaysia"/>
+<node id="USM"/>
+<node id="Cyberjaya PoP (NOC)"/>
+<node id="South PoP (UTM)"/>
+<node id="East Coast PoP (UMP)"/>
+<node id="North PoP (USM)"/>
+<node id="KL PoP (UM)"/>
+<edge id="e1" source="UTP" target="KL PoP (UM)">
+<data key="key_weight">173.91</data>
+</edge>
+<edge id="e2" source="UUM" target="North PoP (USM)">
+<data key="key_weight">25.49</data>
+</edge>
+<edge id="e3" source="UM" target="KL PoP (UM)">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e4" source="UNIMAS" target="KL PoP (UM)">
+<data key="key_weight">977.08</data>
+</edge>
+<edge id="e5" source="UMS" target="KL PoP (UM)">
+<data key="key_weight">1625.23</data>
+</edge>
+<edge id="e6" source="UPM" target="Cyberjaya PoP (NOC)">
+<data key="key_weight">278.35</data>
+</edge>
+<edge id="e7" source="UTM" target="South PoP (UTM)">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e8" source="UMK" target="East Coast PoP (UMP)">
+<data key="key_weight">285.35</data>
+</edge>
+<edge id="e9" source="UMP" target="East Coast PoP (UMP)">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e10" source="UKM" target="Cyberjaya PoP (NOC)">
+<data key="key_weight">17.62</data>
+</edge>
+<edge id="e11" source="MMU" target="Cyberjaya PoP (NOC)">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e12" source="USIM" target="Cyberjaya PoP (NOC)">
+<data key="key_weight">38.3</data>
+</edge>
+<edge id="e13" source="UNITEN" target="Cyberjaya PoP (NOC)">
+<data key="key_weight">209.81</data>
+</edge>
+<edge id="e14" source="Monash Malaysia" target="Cyberjaya PoP (NOC)">
+<data key="key_weight">21.27</data>
+</edge>
+<edge id="e15" source="USM" target="North PoP (USM)">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e16" source="Cyberjaya PoP (NOC)" target="East Coast PoP (UMP)">
+<data key="key_weight">209.81</data>
+</edge>
+<edge id="e17" source="Cyberjaya PoP (NOC)" target="North PoP (USM)">
+<data key="key_weight">313.21</data>
+</edge>
+<edge id="e18" source="Cyberjaya PoP (NOC)" target="KL PoP (UM)">
+<data key="key_weight">24.51</data>
+</edge>
+<edge id="e19" source="Cyberjaya PoP (NOC)" target="South PoP (UTM)">
+<data key="key_weight">284.22</data>
+</edge>
+<edge id="e20" source="South PoP (UTM)" target="KL PoP (UM)">
+<data key="key_weight">296.18</data>
+</edge>
+<edge id="e21" source="East Coast PoP (UMP)" target="KL PoP (UM)">
+<data key="key_weight">196.53</data>
+</edge>
+<edge id="e22" source="North PoP (USM)" target="KL PoP (UM)">
+<data key="key_weight">293.61</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Craiova"/>
+<node id="Plaiesti"/>
+<node id="Brasov"/>
+<node id="Targoviste"/>
+<node id="Constanta"/>
+<node id="Bucarest"/>
+<node id="Galati"/>
+<node id="Focsani"/>
+<node id="Targu Mures"/>
+<node id="Timisoara"/>
+<node id="Sibiu"/>
+<node id="Iasi"/>
+<node id="Piatra Neamt"/>
+<node id="Bacau"/>
+<node id="Deva"/>
+<node id="Cluj"/>
+<node id="Oradea"/>
+<node id="Bors"/>
+<node id="Arad"/>
+<edge id="e1" source="Craiova" target="Timisoara">
+<data key="key_weight">257.45</data>
+</edge>
+<edge id="e2" source="Craiova" target="Bucarest">
+<data key="key_weight">183.8</data>
+</edge>
+<edge id="e3" source="Plaiesti" target="Bucarest">
+<data key="key_weight">58.02</data>
+</edge>
+<edge id="e4" source="Brasov" target="Cluj">
+<data key="key_weight">198.26</data>
+</edge>
+<edge id="e5" source="Brasov" target="Bucarest">
+<data key="key_weight">140.88</data>
+</edge>
+<edge id="e6" source="Targoviste" target="Bucarest">
+<data key="key_weight">76.16</data>
+</edge>
+<edge id="e7" source="Constanta" target="Bucarest">
+<data key="key_weight">204.34</data>
+</edge>
+<edge id="e8" source="Bucarest" target="Galati">
+<data key="key_weight">190.34</data>
+</edge>
+<edge id="e9" source="Bucarest" target="Focsani">
+<data key="key_weight">164.44</data>
+</edge>
+<edge id="e10" source="Bucarest" target="Targu Mures">
+<data key="key_weight">263.94</data>
+</edge>
+<edge id="e11" source="Bucarest" target="Iasi">
+<data key="key_weight">325.43</data>
+</edge>
+<edge id="e12" source="Bucarest" target="Bacau">
+<data key="key_weight">245.33</data>
+</edge>
+<edge id="e13" source="Bucarest" target="Oradea">
+<data key="key_weight">436.64</data>
+</edge>
+<edge id="e14" source="Focsani" target="Piatra Neamt">
+<data key="key_weight">150.26</data>
+</edge>
+<edge id="e15" source="Timisoara" target="Deva">
+<data key="key_weight">130.52</data>
+</edge>
+<edge id="e16" source="Timisoara" target="Arad">
+<data key="key_weight">48.75</data>
+</edge>
+<edge id="e17" source="Sibiu" target="Oradea">
+<data key="key_weight">220.72</data>
+</edge>
+<edge id="e18" source="Iasi" target="Oradea">
+<data key="key_weight">428.96</data>
+</edge>
+<edge id="e19" source="Bacau" target="Oradea">
+<data key="key_weight">382.04</data>
+</edge>
+<edge id="e20" source="Cluj" target="Oradea">
+<data key="key_weight">130.94</data>
+</edge>
+<edge id="e21" source="Oradea" target="Bors">
+<data key="key_weight">10.44</data>
+</edge>
+<edge id="e22" source="Oradea" target="Arad">
+<data key="key_weight">108.96</data>
+</edge>
+</graph></graphml>

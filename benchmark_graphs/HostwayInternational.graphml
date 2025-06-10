@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Seattle"/>
+<node id="Tampa"/>
+<node id="Chicago"/>
+<node id="Vancouver"/>
+<node id="Miami"/>
+<node id="Austin"/>
+<node id="New York"/>
+<node id="Atlanta"/>
+<node id="Bucharest"/>
+<node id="Seoul"/>
+<node id="Sydney"/>
+<node id="Hannover"/>
+<node id="Amsterdam"/>
+<node id="Antwerp"/>
+<node id="Frankfurt"/>
+<node id="London"/>
+<edge id="e1" source="Seattle" target="Chicago">
+<data key="key_weight">2789.45</data>
+</edge>
+<edge id="e2" source="Seattle" target="Vancouver">
+<data key="key_weight">191.8</data>
+</edge>
+<edge id="e3" source="Seattle" target="Austin">
+<data key="key_weight">2848.59</data>
+</edge>
+<edge id="e4" source="Tampa" target="Miami">
+<data key="key_weight">330.03</data>
+</edge>
+<edge id="e5" source="Tampa" target="Atlanta">
+<data key="key_weight">671.02</data>
+</edge>
+<edge id="e6" source="Chicago" target="Austin">
+<data key="key_weight">1573.33</data>
+</edge>
+<edge id="e7" source="Chicago" target="Atlanta">
+<data key="key_weight">945.35</data>
+</edge>
+<edge id="e8" source="Miami" target="Sydney">
+<data key="key_weight">15030.81</data>
+</edge>
+<edge id="e9" source="Miami" target="New York">
+<data key="key_weight">1757.33</data>
+</edge>
+<edge id="e10" source="Miami" target="Atlanta">
+<data key="key_weight">974.8</data>
+</edge>
+<edge id="e11" source="New York" target="Sydney">
+<data key="key_weight">15993.41</data>
+</edge>
+<edge id="e12" source="New York" target="Atlanta">
+<data key="key_weight">1200.75</data>
+</edge>
+<edge id="e13" source="New York" target="London">
+<data key="key_weight">5571.79</data>
+</edge>
+<edge id="e14" source="Bucharest" target="Seoul">
+<data key="key_weight">7934.01</data>
+</edge>
+<edge id="e15" source="Bucharest" target="Frankfurt">
+<data key="key_weight">1454.28</data>
+</edge>
+<edge id="e16" source="Seoul" target="Sydney">
+<data key="key_weight">8331.64</data>
+</edge>
+<edge id="e17" source="Hannover" target="Amsterdam">
+<data key="key_weight">328.85</data>
+</edge>
+<edge id="e18" source="Hannover" target="Frankfurt">
+<data key="key_weight">261.12</data>
+</edge>
+<edge id="e19" source="Amsterdam" target="Antwerp">
+<data key="key_weight">132.78</data>
+</edge>
+<edge id="e20" source="Amsterdam" target="London">
+<data key="key_weight">357.03</data>
+</edge>
+<edge id="e21" source="Antwerp" target="Frankfurt">
+<data key="key_weight">324.66</data>
+</edge>
+</graph></graphml>

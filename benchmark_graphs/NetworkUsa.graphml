@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="New Orleans"/>
+<node id="Thi'bodaux"/>
+<node id="Covington"/>
+<node id="Gulfport"/>
+<node id="Baton Rouge"/>
+<node id="Lafayette"/>
+<node id="Morgan City"/>
+<node id="Hammond"/>
+<node id="Alexandria"/>
+<node id="Derry"/>
+<node id="San Antonio"/>
+<node id="Austin"/>
+<node id="College Station"/>
+<node id="Waco"/>
+<node id="Natchitoches"/>
+<node id="Houston"/>
+<node id="Liberty"/>
+<node id="Opelousas"/>
+<node id="St Landry"/>
+<node id="Fort Polk"/>
+<node id="Coushatta"/>
+<node id="Nome"/>
+<node id="Beaumont"/>
+<node id="Lake Charles"/>
+<node id="Deridder"/>
+<node id="Jackson"/>
+<node id="Slidell"/>
+<node id="Dallas"/>
+<node id="Tyler"/>
+<node id="Longview"/>
+<node id="Shreveport"/>
+<node id="Bossier City"/>
+<node id="Minden"/>
+<node id="Ruston"/>
+<node id="Monroe"/>
+<edge id="e1" source="New Orleans" target="Thi'bodaux">
+<data key="key_weight">74.26</data>
+</edge>
+<edge id="e2" source="New Orleans" target="Gulfport">
+<data key="key_weight">105.03</data>
+</edge>
+<edge id="e3" source="New Orleans" target="Hammond">
+<data key="key_weight">71.52</data>
+</edge>
+<edge id="e4" source="Thi'bodaux" target="Morgan City">
+<data key="key_weight">38.59</data>
+</edge>
+<edge id="e5" source="Covington" target="Slidell">
+<data key="key_weight">37.92</data>
+</edge>
+<edge id="e6" source="Covington" target="Hammond">
+<data key="key_weight">34.68</data>
+</edge>
+<edge id="e7" source="Gulfport" target="Slidell">
+<data key="key_weight">66.88</data>
+</edge>
+<edge id="e8" source="Baton Rouge" target="Lafayette">
+<data key="key_weight">86.81</data>
+</edge>
+<edge id="e9" source="Baton Rouge" target="Hammond">
+<data key="key_weight">66.73</data>
+</edge>
+<edge id="e10" source="Lafayette" target="Opelousas">
+<data key="key_weight">34.92</data>
+</edge>
+<edge id="e11" source="Lafayette" target="Morgan City">
+<data key="key_weight">97.7</data>
+</edge>
+<edge id="e12" source="Lafayette" target="Lake Charles">
+<data key="key_weight">113.86</data>
+</edge>
+<edge id="e13" source="Hammond" target="Jackson">
+<data key="key_weight">201.3</data>
+</edge>
+<edge id="e14" source="Alexandria" target="Derry">
+<data key="key_weight">53.75</data>
+</edge>
+<edge id="e15" source="Alexandria" target="St Landry">
+<data key="key_weight">54.91</data>
+</edge>
+<edge id="e16" source="Derry" target="Natchitoches">
+<data key="key_weight">28.42</data>
+</edge>
+<edge id="e17" source="San Antonio" target="Austin">
+<data key="key_weight">118.47</data>
+</edge>
+<edge id="e18" source="San Antonio" target="Houston">
+<data key="key_weight">305.09</data>
+</edge>
+<edge id="e19" source="Austin" target="College Station">
+<data key="key_weight">140.91</data>
+</edge>
+<edge id="e20" source="College Station" target="Waco">
+<data key="key_weight">128.4</data>
+</edge>
+<edge id="e21" source="Waco" target="Dallas">
+<data key="key_weight">140.91</data>
+</edge>
+<edge id="e22" source="Natchitoches" target="Coushatta">
+<data key="key_weight">37.19</data>
+</edge>
+<edge id="e23" source="Houston" target="Liberty">
+<data key="key_weight">63.81</data>
+</edge>
+<edge id="e24" source="Liberty" target="Nome">
+<data key="key_weight">35.82</data>
+</edge>
+<edge id="e25" source="Opelousas" target="St Landry">
+<data key="key_weight">38.47</data>
+</edge>
+<edge id="e26" source="Fort Polk" target="Deridder">
+<data key="key_weight">23.66</data>
+</edge>
+<edge id="e27" source="Coushatta" target="Shreveport">
+<data key="key_weight">68.51</data>
+</edge>
+<edge id="e28" source="Nome" target="Beaumont">
+<data key="key_weight">31.55</data>
+</edge>
+<edge id="e29" source="Beaumont" target="Lake Charles">
+<data key="key_weight">87.46</data>
+</edge>
+<edge id="e30" source="Lake Charles" target="Deridder">
+<data key="key_weight">70.9</data>
+</edge>
+<edge id="e31" source="Jackson" target="Shreveport">
+<data key="key_weight">335.71</data>
+</edge>
+<edge id="e32" source="Dallas" target="Tyler">
+<data key="key_weight">149.08</data>
+</edge>
+<edge id="e33" source="Tyler" target="Longview">
+<data key="key_weight">55.19</data>
+</edge>
+<edge id="e34" source="Longview" target="Shreveport">
+<data key="key_weight">92.92</data>
+</edge>
+<edge id="e35" source="Shreveport" target="Monroe">
+<data key="key_weight">152.97</data>
+</edge>
+<edge id="e36" source="Shreveport" target="Bossier City">
+<data key="key_weight">1.98</data>
+</edge>
+<edge id="e37" source="Bossier City" target="Minden">
+<data key="key_weight">43.18</data>
+</edge>
+<edge id="e38" source="Minden" target="Ruston">
+<data key="key_weight">61.68</data>
+</edge>
+<edge id="e39" source="Ruston" target="Monroe">
+<data key="key_weight">48.67</data>
+</edge>
+</graph></graphml>

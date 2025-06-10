@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Chicago"/>
+<node id="Dallas"/>
+<node id="St Cloud"/>
+<node id="Minneapolis/St Paul"/>
+<node id="Los Angeles"/>
+<node id="Santa Clara"/>
+<node id="Las Vegas"/>
+<node id="Phoenix"/>
+<node id="Sacramento"/>
+<node id="Santa Rose"/>
+<node id="Salem"/>
+<node id="Bend"/>
+<node id="Eugene"/>
+<node id="Reno"/>
+<node id="Rancho Cordova"/>
+<node id="New York"/>
+<node id="Ashburn"/>
+<node id="Spokane"/>
+<node id="Fargo?"/>
+<node id="Billings"/>
+<node id="Denver"/>
+<node id="Ogden"/>
+<node id="Orem"/>
+<node id="Salt Lake City"/>
+<node id="Boise"/>
+<node id="Portland"/>
+<node id="Seattle"/>
+<edge id="e1" source="Chicago" target="Ashburn">
+<data key="key_weight">914.38</data>
+</edge>
+<edge id="e2" source="Chicago" target="Minneapolis/St Paul">
+<data key="key_weight">571.53</data>
+</edge>
+<edge id="e3" source="Chicago" target="Denver">
+<data key="key_weight">1475.8</data>
+</edge>
+<edge id="e4" source="Dallas" target="Denver">
+<data key="key_weight">1065.13</data>
+</edge>
+<edge id="e5" source="Dallas" target="Phoenix">
+<data key="key_weight">1422.95</data>
+</edge>
+<edge id="e6" source="St Cloud" target="Fargo?">
+<data key="key_weight">249.62</data>
+</edge>
+<edge id="e7" source="St Cloud" target="Minneapolis/St Paul">
+<data key="key_weight">95.51</data>
+</edge>
+<edge id="e8" source="Minneapolis/St Paul" target="Fargo?">
+<data key="key_weight">344.82</data>
+</edge>
+<edge id="e9" source="Minneapolis/St Paul" target="Seattle">
+<data key="key_weight">2239.65</data>
+</edge>
+<edge id="e10" source="Minneapolis/St Paul" target="New York">
+<data key="key_weight">1636.01</data>
+</edge>
+<edge id="e11" source="Los Angeles" target="Santa Clara">
+<data key="key_weight">497.16</data>
+</edge>
+<edge id="e12" source="Los Angeles" target="Las Vegas">
+<data key="key_weight">368.24</data>
+</edge>
+<edge id="e13" source="Los Angeles" target="Phoenix">
+<data key="key_weight">574.42</data>
+</edge>
+<edge id="e14" source="Santa Clara" target="Sacramento">
+<data key="key_weight">142.38</data>
+</edge>
+<edge id="e15" source="Las Vegas" target="Salt Lake City">
+<data key="key_weight">583.05</data>
+</edge>
+<edge id="e16" source="Las Vegas" target="Phoenix">
+<data key="key_weight">412.53</data>
+</edge>
+<edge id="e17" source="Sacramento" target="Santa Rose">
+<data key="key_weight">107.34</data>
+</edge>
+<edge id="e18" source="Sacramento" target="Reno">
+<data key="key_weight">179.41</data>
+</edge>
+<edge id="e19" source="Sacramento" target="Rancho Cordova">
+<data key="key_weight">16.69</data>
+</edge>
+<edge id="e20" source="Sacramento" target="Portland">
+<data key="key_weight">778.24</data>
+</edge>
+<edge id="e21" source="Salem" target="Portland">
+<data key="key_weight">70.43</data>
+</edge>
+<edge id="e22" source="Salem" target="Eugene">
+<data key="key_weight">99.17</data>
+</edge>
+<edge id="e23" source="Bend" target="Portland">
+<data key="key_weight">195.19</data>
+</edge>
+<edge id="e24" source="Bend" target="Seattle">
+<data key="key_weight">402.41</data>
+</edge>
+<edge id="e25" source="Reno" target="Salt Lake City">
+<data key="key_weight">687.13</data>
+</edge>
+<edge id="e26" source="New York" target="Ashburn">
+<data key="key_weight">350.43</data>
+</edge>
+<edge id="e27" source="Spokane" target="Seattle">
+<data key="key_weight">367.71</data>
+</edge>
+<edge id="e28" source="Spokane" target="Billings">
+<data key="key_weight">711.35</data>
+</edge>
+<edge id="e29" source="Billings" target="Denver">
+<data key="key_weight">730.82</data>
+</edge>
+<edge id="e30" source="Denver" target="Ogden">
+<data key="key_weight">613.69</data>
+</edge>
+<edge id="e31" source="Ogden" target="Orem">
+<data key="key_weight">105.66</data>
+</edge>
+<edge id="e32" source="Ogden" target="Salt Lake City">
+<data key="key_weight">51.88</data>
+</edge>
+<edge id="e33" source="Orem" target="Salt Lake City">
+<data key="key_weight">54.2</data>
+</edge>
+<edge id="e34" source="Salt Lake City" target="Boise">
+<data key="key_weight">476.31</data>
+</edge>
+<edge id="e35" source="Boise" target="Portland">
+<data key="key_weight">554.94</data>
+</edge>
+<edge id="e36" source="Portland" target="Seattle">
+<data key="key_weight">233.15</data>
+</edge>
+</graph></graphml>

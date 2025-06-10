@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="KDDI Otemachi"/>
+<node id="Nezu"/>
+<node id="Yagami"/>
+<node id="ShinKawasaki"/>
+<node id="Hachioji"/>
+<node id="Bangkok"/>
+<node id="NTT Otemachi"/>
+<node id="Tsukuba"/>
+<node id="Dojima"/>
+<node id="Los Angeles"/>
+<node id="Fujisawa"/>
+<node id="Nara"/>
+<node id="Fukuoka"/>
+<node id="Hiroshima"/>
+<node id="Kurashiki"/>
+<node id="Sakyo"/>
+<node id="Komatsu"/>
+<node id="Sendai"/>
+<node id="San Francisco"/>
+<edge id="e1" source="KDDI Otemachi" target="Nezu">
+<data key="key_weight">3.78</data>
+</edge>
+<edge id="e2" source="KDDI Otemachi" target="Hachioji">
+<data key="key_weight">40.13</data>
+</edge>
+<edge id="e3" source="KDDI Otemachi" target="NTT Otemachi">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e4" source="KDDI Otemachi" target="Los Angeles">
+<data key="key_weight">8812.77</data>
+</edge>
+<edge id="e5" source="Nezu" target="Yagami">
+<data key="key_weight">959.8</data>
+</edge>
+<edge id="e6" source="Nezu" target="Sendai">
+<data key="key_weight">300.33</data>
+</edge>
+<edge id="e7" source="Yagami" target="ShinKawasaki">
+<data key="key_weight">946.34</data>
+</edge>
+<edge id="e8" source="Yagami" target="Fujisawa">
+<data key="key_weight">922.4</data>
+</edge>
+<edge id="e9" source="Bangkok" target="NTT Otemachi">
+<data key="key_weight">4609.5</data>
+</edge>
+<edge id="e10" source="NTT Otemachi" target="Tsukuba">
+<data key="key_weight">64.83</data>
+</edge>
+<edge id="e11" source="NTT Otemachi" target="Dojima">
+<data key="key_weight">404.92</data>
+</edge>
+<edge id="e12" source="NTT Otemachi" target="Komatsu">
+<data key="key_weight">308.73</data>
+</edge>
+<edge id="e13" source="Dojima" target="Nara">
+<data key="key_weight">29.41</data>
+</edge>
+<edge id="e14" source="Dojima" target="Fukuoka">
+<data key="key_weight">481.35</data>
+</edge>
+<edge id="e15" source="Dojima" target="Hiroshima">
+<data key="key_weight">278.88</data>
+</edge>
+<edge id="e16" source="Dojima" target="Kurashiki">
+<data key="key_weight">157.5</data>
+</edge>
+<edge id="e17" source="Dojima" target="Sakyo">
+<data key="key_weight">532.04</data>
+</edge>
+<edge id="e18" source="Los Angeles" target="San Francisco">
+<data key="key_weight">559.28</data>
+</edge>
+<edge id="e19" source="Fujisawa" target="Nara">
+<data key="key_weight">341.76</data>
+</edge>
+<edge id="e20" source="Nara" target="Sakyo">
+<data key="key_weight">561.12</data>
+</edge>
+<edge id="e21" source="Fukuoka" target="Hiroshima">
+<data key="key_weight">207.72</data>
+</edge>
+<edge id="e22" source="Fukuoka" target="Kurashiki">
+<data key="key_weight">326.99</data>
+</edge>
+</graph></graphml>

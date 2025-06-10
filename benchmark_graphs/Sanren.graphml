@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Johannesburg"/>
+<node id="Pretoria"/>
+<node id="Durban"/>
+<node id="Bloemfontein"/>
+<node id="East London"/>
+<node id="Port Elizabeth"/>
+<node id="Cape Town"/>
+<edge id="e1" source="Johannesburg" target="Pretoria">
+<data key="key_weight">52.88</data>
+</edge>
+<edge id="e2" source="Johannesburg" target="Bloemfontein">
+<data key="key_weight">373.17</data>
+</edge>
+<edge id="e3" source="Pretoria" target="Durban">
+<data key="key_weight">534.69</data>
+</edge>
+<edge id="e4" source="Durban" target="East London">
+<data key="key_weight">459.06</data>
+</edge>
+<edge id="e5" source="Bloemfontein" target="Cape Town">
+<data key="key_weight">909.24</data>
+</edge>
+<edge id="e6" source="East London" target="Port Elizabeth">
+<data key="key_weight">240.49</data>
+</edge>
+<edge id="e7" source="Port Elizabeth" target="Cape Town">
+<data key="key_weight">661.19</data>
+</edge>
+</graph></graphml>

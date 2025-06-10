@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Thunder Bay"/>
+<node id="Chicago"/>
+<node id="Regina"/>
+<node id="Winnipeg"/>
+<node id="Ottawa"/>
+<node id="Montreal"/>
+<node id="Windsor/Detroit"/>
+<node id="Toronto"/>
+<node id="Fredericton"/>
+<node id="Charlottetown"/>
+<node id="Boston"/>
+<node id="New York"/>
+<node id="St John's"/>
+<node id="Halifax"/>
+<node id="Calgary"/>
+<node id="Saskatoon"/>
+<node id="Whitehorse"/>
+<node id="Yellowknife"/>
+<node id="Edmonton"/>
+<node id="Kamloops"/>
+<node id="Kelowna"/>
+<node id="Vancouver"/>
+<node id="Victoria"/>
+<node id="Seattle"/>
+<edge id="e1" source="Thunder Bay" target="Winnipeg">
+<data key="key_weight">592.86</data>
+</edge>
+<edge id="e2" source="Thunder Bay" target="Toronto">
+<data key="key_weight">924.79</data>
+</edge>
+<edge id="e3" source="Chicago" target="Winnipeg">
+<data key="key_weight">1155.53</data>
+</edge>
+<edge id="e4" source="Chicago" target="Windsor/Detroit">
+<data key="key_weight">383.74</data>
+</edge>
+<edge id="e5" source="Chicago" target="Calgary">
+<data key="key_weight">2252.67</data>
+</edge>
+<edge id="e6" source="Chicago" target="Seattle">
+<data key="key_weight">2789.45</data>
+</edge>
+<edge id="e7" source="Regina" target="Winnipeg">
+<data key="key_weight">535.73</data>
+</edge>
+<edge id="e8" source="Regina" target="Calgary">
+<data key="key_weight">669.12</data>
+</edge>
+<edge id="e9" source="Winnipeg" target="Toronto">
+<data key="key_weight">1510.19</data>
+</edge>
+<edge id="e10" source="Winnipeg" target="Calgary">
+<data key="key_weight">1203.48</data>
+</edge>
+<edge id="e11" source="Winnipeg" target="Saskatoon">
+<data key="key_weight">708.34</data>
+</edge>
+<edge id="e12" source="Ottawa" target="Montreal">
+<data key="key_weight">164.99</data>
+</edge>
+<edge id="e13" source="Ottawa" target="Toronto">
+<data key="key_weight">350.74</data>
+</edge>
+<edge id="e14" source="Montreal" target="Fredericton">
+<data key="key_weight">539.49</data>
+</edge>
+<edge id="e15" source="Montreal" target="Halifax">
+<data key="key_weight">791.87</data>
+</edge>
+<edge id="e16" source="Montreal" target="Boston">
+<data key="key_weight">404.66</data>
+</edge>
+<edge id="e17" source="Windsor/Detroit" target="Toronto">
+<data key="key_weight">332.07</data>
+</edge>
+<edge id="e18" source="Toronto" target="New York">
+<data key="key_weight">555.66</data>
+</edge>
+<edge id="e19" source="Fredericton" target="Charlottetown">
+<data key="key_weight">274.86</data>
+</edge>
+<edge id="e20" source="Charlottetown" target="Halifax">
+<data key="key_weight">180.17</data>
+</edge>
+<edge id="e21" source="Boston" target="New York">
+<data key="key_weight">305.93</data>
+</edge>
+<edge id="e22" source="New York" target="Halifax">
+<data key="key_weight">957.6</data>
+</edge>
+<edge id="e23" source="St John's" target="Halifax">
+<data key="key_weight">897.54</data>
+</edge>
+<edge id="e24" source="Calgary" target="Kamloops">
+<data key="key_weight">439.63</data>
+</edge>
+<edge id="e25" source="Calgary" target="Edmonton">
+<data key="key_weight">281.21</data>
+</edge>
+<edge id="e26" source="Saskatoon" target="Edmonton">
+<data key="key_weight">485.88</data>
+</edge>
+<edge id="e27" source="Whitehorse" target="Edmonton">
+<data key="key_weight">1516.78</data>
+</edge>
+<edge id="e28" source="Yellowknife" target="Edmonton">
+<data key="key_weight">991.91</data>
+</edge>
+<edge id="e29" source="Kamloops" target="Kelowna">
+<data key="key_weight">105.37</data>
+</edge>
+<edge id="e30" source="Kamloops" target="Vancouver">
+<data key="key_weight">254.89</data>
+</edge>
+<edge id="e31" source="Vancouver" target="Victoria">
+<data key="key_weight">92.67</data>
+</edge>
+<edge id="e32" source="Vancouver" target="Seattle">
+<data key="key_weight">191.8</data>
+</edge>
+<edge id="e33" source="Victoria" target="Seattle">
+<data key="key_weight">120.04</data>
+</edge>
+</graph></graphml>

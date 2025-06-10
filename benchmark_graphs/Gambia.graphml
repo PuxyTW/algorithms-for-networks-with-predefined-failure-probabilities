@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Kerewan"/>
+<node id="Banjul"/>
+<node id="Basse"/>
+<node id="Bansang"/>
+<node id="Abuko"/>
+<node id="Serekunda"/>
+<node id="Kotu"/>
+<node id="Bakau"/>
+<node id="Brikama"/>
+<node id="Yundum"/>
+<node id="Soma"/>
+<node id="Farafenni"/>
+<edge id="e1" source="Kerewan" target="Banjul">
+<data key="key_weight">52.83</data>
+</edge>
+<edge id="e2" source="Kerewan" target="Farafenni">
+<data key="key_weight">53.8</data>
+</edge>
+<edge id="e3" source="Banjul" target="Serekunda">
+<data key="key_weight">10.94</data>
+</edge>
+<edge id="e4" source="Basse" target="Soma">
+<data key="key_weight">143.06</data>
+</edge>
+<edge id="e5" source="Basse" target="Bansang">
+<data key="key_weight">48.65</data>
+</edge>
+<edge id="e6" source="Abuko" target="Serekunda">
+<data key="key_weight">4.5</data>
+</edge>
+<edge id="e7" source="Serekunda" target="Kotu">
+<data key="key_weight">3.77</data>
+</edge>
+<edge id="e8" source="Serekunda" target="Bakau">
+<data key="key_weight">4.44</data>
+</edge>
+<edge id="e9" source="Serekunda" target="Brikama">
+<data key="key_weight">19.31</data>
+</edge>
+<edge id="e10" source="Serekunda" target="Yundum">
+<data key="key_weight">8.48</data>
+</edge>
+<edge id="e11" source="Yundum" target="Soma">
+<data key="key_weight">124.98</data>
+</edge>
+<edge id="e12" source="Soma" target="Farafenni">
+<data key="key_weight">16.49</data>
+</edge>
+</graph></graphml>

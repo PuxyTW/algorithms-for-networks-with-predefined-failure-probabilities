@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Cold Lake"/>
+<node id="Grande Prairie"/>
+<node id="Edmonton"/>
+<node id="Fort McMurray"/>
+<node id="Kamloops"/>
+<node id="Vernon"/>
+<node id="Dawson Creek"/>
+<node id="Prince George"/>
+<node id="Kelowna"/>
+<node id="Penticton?"/>
+<node id="Sept -Iles"/>
+<node id="Charlottetown"/>
+<node id="New York"/>
+<node id="Ottawa"/>
+<node id="Montreal"/>
+<node id="Sherbrooke"/>
+<node id="Quebec City"/>
+<node id="Chicoutimi"/>
+<node id="Rimouski"/>
+<node id="Baie-Comeau"/>
+<node id="Saint John"/>
+<node id="Moncton"/>
+<node id="Halifax"/>
+<node id="Fredericton"/>
+<node id="St John's"/>
+<node id="Onslow"/>
+<node id="Lethbridge"/>
+<node id="Calgary"/>
+<node id="Buffalo"/>
+<node id="Toronto"/>
+<node id="Victoria"/>
+<node id="Seattle"/>
+<node id="Courtenay"/>
+<node id="Vancouver"/>
+<node id="Chicago"/>
+<node id="Los Angeles"/>
+<node id="Palo Alto"/>
+<node id="San Francisco"/>
+<node id="Medicine Hat"/>
+<node id="Red Deer"/>
+<node id="Washington"/>
+<node id="Atlanta"/>
+<node id="Dallas"/>
+<node id="Sudbury"/>
+<node id="Thunder Bay"/>
+<node id="Winnipeg"/>
+<node id="Saskatoon"/>
+<node id="Regina"/>
+<edge id="e1" source="Cold Lake" target="Edmonton">
+<data key="key_weight">235.85</data>
+</edge>
+<edge id="e2" source="Grande Prairie" target="Edmonton">
+<data key="key_weight">389.53</data>
+</edge>
+<edge id="e3" source="Grande Prairie" target="Dawson Creek">
+<data key="key_weight">112.34</data>
+</edge>
+<edge id="e4" source="Edmonton" target="Fort McMurray">
+<data key="key_weight">377.99</data>
+</edge>
+<edge id="e5" source="Edmonton" target="Kamloops">
+<data key="key_weight">566.95</data>
+</edge>
+<edge id="e6" source="Edmonton" target="Red Deer">
+<data key="key_weight">144.48</data>
+</edge>
+<edge id="e7" source="Edmonton" target="Saskatoon">
+<data key="key_weight">485.88</data>
+</edge>
+<edge id="e8" source="Kamloops" target="Vancouver">
+<data key="key_weight">254.89</data>
+</edge>
+<edge id="e9" source="Kamloops" target="Vernon">
+<data key="key_weight">3697.22</data>
+</edge>
+<edge id="e10" source="Kamloops" target="Prince George">
+<data key="key_weight">397.55</data>
+</edge>
+<edge id="e11" source="Vernon" target="Kelowna">
+<data key="key_weight">3640.44</data>
+</edge>
+<edge id="e12" source="Dawson Creek" target="Prince George">
+<data key="key_weight">261.36</data>
+</edge>
+<edge id="e13" source="Kelowna" target="Penticton?">
+<data key="key_weight">45.34</data>
+</edge>
+<edge id="e14" source="Kelowna" target="Calgary">
+<data key="key_weight">403.66</data>
+</edge>
+<edge id="e15" source="Kelowna" target="Vancouver">
+<data key="key_weight">271.4</data>
+</edge>
+<edge id="e16" source="Sept -Iles" target="Baie-Comeau">
+<data key="key_weight">167.66</data>
+</edge>
+<edge id="e17" source="Charlottetown" target="Onslow">
+<data key="key_weight">97.34</data>
+</edge>
+<edge id="e18" source="Charlottetown" target="Moncton">
+<data key="key_weight">129.7</data>
+</edge>
+<edge id="e19" source="New York" target="Washington">
+<data key="key_weight">328.58</data>
+</edge>
+<edge id="e20" source="New York" target="Buffalo">
+<data key="key_weight">470.62</data>
+</edge>
+<edge id="e21" source="New York" target="Montreal">
+<data key="key_weight">534.36</data>
+</edge>
+<edge id="e22" source="Ottawa" target="Toronto">
+<data key="key_weight">350.74</data>
+</edge>
+<edge id="e23" source="Ottawa" target="Montreal">
+<data key="key_weight">164.99</data>
+</edge>
+<edge id="e24" source="Montreal" target="Quebec City">
+<data key="key_weight">233.32</data>
+</edge>
+<edge id="e25" source="Montreal" target="Sherbrooke">
+<data key="key_weight">132.31</data>
+</edge>
+<edge id="e26" source="Sherbrooke" target="Quebec City">
+<data key="key_weight">165.71</data>
+</edge>
+<edge id="e27" source="Quebec City" target="Chicoutimi">
+<data key="key_weight">180.01</data>
+</edge>
+<edge id="e28" source="Quebec City" target="Moncton">
+<data key="key_weight">497.22</data>
+</edge>
+<edge id="e29" source="Quebec City" target="Fredericton">
+<data key="key_weight">362.07</data>
+</edge>
+<edge id="e30" source="Chicoutimi" target="Rimouski">
+<data key="key_weight">187.4</data>
+</edge>
+<edge id="e31" source="Rimouski" target="Baie-Comeau">
+<data key="key_weight">89.73</data>
+</edge>
+<edge id="e32" source="Saint John" target="Moncton">
+<data key="key_weight">135.89</data>
+</edge>
+<edge id="e33" source="Saint John" target="Halifax">
+<data key="key_weight">208.31</data>
+</edge>
+<edge id="e34" source="Saint John" target="Fredericton">
+<data key="key_weight">88.11</data>
+</edge>
+<edge id="e35" source="Moncton" target="Onslow">
+<data key="key_weight">144.43</data>
+</edge>
+<edge id="e36" source="Halifax" target="St John's">
+<data key="key_weight">897.54</data>
+</edge>
+<edge id="e37" source="Halifax" target="Onslow">
+<data key="key_weight">83.39</data>
+</edge>
+<edge id="e38" source="St John's" target="Onslow">
+<data key="key_weight">845.29</data>
+</edge>
+<edge id="e39" source="Lethbridge" target="Calgary">
+<data key="key_weight">174.99</data>
+</edge>
+<edge id="e40" source="Calgary" target="Vancouver">
+<data key="key_weight">673.79</data>
+</edge>
+<edge id="e41" source="Calgary" target="Medicine Hat">
+<data key="key_weight">265.84</data>
+</edge>
+<edge id="e42" source="Calgary" target="Red Deer">
+<data key="key_weight">136.73</data>
+</edge>
+<edge id="e43" source="Buffalo" target="Toronto">
+<data key="key_weight">100.43</data>
+</edge>
+<edge id="e44" source="Toronto" target="Chicago">
+<data key="key_weight">702.66</data>
+</edge>
+<edge id="e45" source="Toronto" target="Sudbury">
+<data key="key_weight">333.99</data>
+</edge>
+<edge id="e46" source="Victoria" target="Courtenay">
+<data key="key_weight">182.9</data>
+</edge>
+<edge id="e47" source="Victoria" target="Vancouver">
+<data key="key_weight">92.67</data>
+</edge>
+<edge id="e48" source="Victoria" target="Seattle">
+<data key="key_weight">120.04</data>
+</edge>
+<edge id="e49" source="Seattle" target="Vancouver">
+<data key="key_weight">191.8</data>
+</edge>
+<edge id="e50" source="Seattle" target="Los Angeles">
+<data key="key_weight">1545.74</data>
+</edge>
+<edge id="e51" source="Seattle" target="Palo Alto">
+<data key="key_weight">1130.65</data>
+</edge>
+<edge id="e52" source="Seattle" target="San Francisco">
+<data key="key_weight">1093.52</data>
+</edge>
+<edge id="e53" source="Chicago" target="Dallas">
+<data key="key_weight">1291.83</data>
+</edge>
+<edge id="e54" source="Chicago" target="Winnipeg">
+<data key="key_weight">1155.53</data>
+</edge>
+<edge id="e55" source="Los Angeles" target="Washington">
+<data key="key_weight">3693.2</data>
+</edge>
+<edge id="e56" source="Los Angeles" target="Palo Alto">
+<data key="key_weight">515.69</data>
+</edge>
+<edge id="e57" source="Palo Alto" target="San Francisco">
+<data key="key_weight">44.33</data>
+</edge>
+<edge id="e58" source="Medicine Hat" target="Regina">
+<data key="key_weight">432.5</data>
+</edge>
+<edge id="e59" source="Washington" target="Atlanta">
+<data key="key_weight">872.17</data>
+</edge>
+<edge id="e60" source="Atlanta" target="Dallas">
+<data key="key_weight">1159.21</data>
+</edge>
+<edge id="e61" source="Sudbury" target="Thunder Bay">
+<data key="key_weight">661.0</data>
+</edge>
+<edge id="e62" source="Thunder Bay" target="Winnipeg">
+<data key="key_weight">592.86</data>
+</edge>
+<edge id="e63" source="Winnipeg" target="Saskatoon">
+<data key="key_weight">708.34</data>
+</edge>
+<edge id="e64" source="Winnipeg" target="Regina">
+<data key="key_weight">535.73</data>
+</edge>
+</graph></graphml>

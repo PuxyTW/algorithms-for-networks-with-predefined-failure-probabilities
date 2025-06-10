@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Dublin"/>
+<node id="Galway"/>
+<node id="Limerick"/>
+<node id="Cork"/>
+<node id="Waterford"/>
+<node id="Portlaioise"/>
+<edge id="e1" source="Dublin" target="Waterford">
+<data key="key_weight">133.45</data>
+</edge>
+<edge id="e2" source="Dublin" target="Portlaioise">
+<data key="key_weight">76.95</data>
+</edge>
+<edge id="e3" source="Galway" target="Limerick">
+<data key="key_weight">73.32</data>
+</edge>
+<edge id="e4" source="Limerick" target="Cork">
+<data key="key_weight">85.65</data>
+</edge>
+<edge id="e5" source="Limerick" target="Portlaioise">
+<data key="key_weight">97.93</data>
+</edge>
+<edge id="e6" source="Cork" target="Waterford">
+<data key="key_weight">102.71</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="HARVARD"/>
+<node id="SRI"/>
+<node id="UCSB"/>
+<node id="UCLA"/>
+<node id="RAND"/>
+<node id="SDC"/>
+<node id="UTAH"/>
+<node id="MIT"/>
+<node id="BBN"/>
+<edge id="e1" source="HARVARD" target="BBN">
+<data key="key_weight">0.96</data>
+</edge>
+<edge id="e2" source="SRI" target="UCSB">
+<data key="key_weight">404.74</data>
+</edge>
+<edge id="e3" source="SRI" target="UCLA">
+<data key="key_weight">519.06</data>
+</edge>
+<edge id="e4" source="UCSB" target="UCLA">
+<data key="key_weight">139.89</data>
+</edge>
+<edge id="e5" source="UCLA" target="RAND">
+<data key="key_weight">23.1</data>
+</edge>
+<edge id="e6" source="RAND" target="BBN">
+<data key="key_weight">4188.82</data>
+</edge>
+<edge id="e7" source="RAND" target="SDC">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e8" source="SDC" target="UTAH">
+<data key="key_weight">949.31</data>
+</edge>
+<edge id="e9" source="UTAH" target="MIT">
+<data key="key_weight">3367.5</data>
+</edge>
+<edge id="e10" source="MIT" target="BBN">
+<data key="key_weight">2.07</data>
+</edge>
+</graph></graphml>

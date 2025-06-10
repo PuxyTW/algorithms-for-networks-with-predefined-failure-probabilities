@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="San Francisco"/>
+<node id="Los Angeles"/>
+<node id="Chicago"/>
+<node id="McLean"/>
+<node id="Washington, DC"/>
+<node id="Atlanta"/>
+<edge id="e1" source="San Francisco" target="Los Angeles">
+<data key="key_weight">559.28</data>
+</edge>
+<edge id="e2" source="San Francisco" target="Chicago">
+<data key="key_weight">2984.23</data>
+</edge>
+<edge id="e3" source="San Francisco" target="Washington, DC">
+<data key="key_weight">3920.0</data>
+</edge>
+<edge id="e4" source="San Francisco" target="Atlanta">
+<data key="key_weight">3437.87</data>
+</edge>
+<edge id="e5" source="Los Angeles" target="Chicago">
+<data key="key_weight">2802.67</data>
+</edge>
+<edge id="e6" source="Los Angeles" target="Washington, DC">
+<data key="key_weight">3693.2</data>
+</edge>
+<edge id="e7" source="Los Angeles" target="Atlanta">
+<data key="key_weight">3111.21</data>
+</edge>
+<edge id="e8" source="Chicago" target="Washington, DC">
+<data key="key_weight">956.75</data>
+</edge>
+<edge id="e9" source="Chicago" target="Atlanta">
+<data key="key_weight">945.35</data>
+</edge>
+<edge id="e10" source="McLean" target="Washington, DC">
+<data key="key_weight">12.97</data>
+</edge>
+<edge id="e11" source="Washington, DC" target="Atlanta">
+<data key="key_weight">872.17</data>
+</edge>
+</graph></graphml>

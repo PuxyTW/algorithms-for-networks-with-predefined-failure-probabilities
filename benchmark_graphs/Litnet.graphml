@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Zarasai"/>
+<node id="Panevezys"/>
+<node id="Rokiskis"/>
+<node id="Kupiskis"/>
+<node id="Kelme"/>
+<node id="Radviliskis"/>
+<node id="Plunge"/>
+<node id="Taurage"/>
+<node id="Zemaiciu Naumiestis"/>
+<node id="Prienai"/>
+<node id="Trakar"/>
+<node id="Ignalina"/>
+<node id="Ukmerge"/>
+<node id="Sirvintos"/>
+<node id="Jurbarkas"/>
+<node id="Sakiai"/>
+<node id="Vilkaviskis"/>
+<node id="Marijampole"/>
+<node id="Alytus"/>
+<node id="Druskininkai"/>
+<node id="Salcininkai"/>
+<node id="Moletai"/>
+<node id="Visaginas"/>
+<node id="Pasvalys"/>
+<node id="Kaunas"/>
+<node id="Kedainiai"/>
+<node id="Raseiniai"/>
+<node id="Utena"/>
+<node id="Anyksciai"/>
+<node id="Jonava"/>
+<node id="Vilnius"/>
+<node id="Klaipeda"/>
+<node id="Telsiai"/>
+<node id="Mazeikiai"/>
+<node id="Joniskis"/>
+<node id="Birzai"/>
+<node id="Siauliai"/>
+<node id="Palanga"/>
+<node id="Kretinga"/>
+<edge id="e1" source="Zarasai" target="Panevezys">
+<data key="key_weight">118.98</data>
+</edge>
+<edge id="e2" source="Panevezys" target="Vilnius">
+<data key="key_weight">130.27</data>
+</edge>
+<edge id="e3" source="Panevezys" target="Birzai">
+<data key="key_weight">57.57</data>
+</edge>
+<edge id="e4" source="Panevezys" target="Siauliai">
+<data key="key_weight">68.27</data>
+</edge>
+<edge id="e5" source="Panevezys" target="Visaginas">
+<data key="key_weight">130.49</data>
+</edge>
+<edge id="e6" source="Panevezys" target="Anyksciai">
+<data key="key_weight">52.61</data>
+</edge>
+<edge id="e7" source="Rokiskis" target="Siauliai">
+<data key="key_weight">141.2</data>
+</edge>
+<edge id="e8" source="Kupiskis" target="Siauliai">
+<data key="key_weight">103.53</data>
+</edge>
+<edge id="e9" source="Kelme" target="Siauliai">
+<data key="key_weight">41.01</data>
+</edge>
+<edge id="e10" source="Radviliskis" target="Siauliai">
+<data key="key_weight">18.74</data>
+</edge>
+<edge id="e11" source="Plunge" target="Siauliai">
+<data key="key_weight">91.8</data>
+</edge>
+<edge id="e12" source="Taurage" target="Klaipeda">
+<data key="key_weight">90.18</data>
+</edge>
+<edge id="e13" source="Zemaiciu Naumiestis" target="Klaipeda">
+<data key="key_weight">54.22</data>
+</edge>
+<edge id="e14" source="Prienai" target="Kaunas">
+<data key="key_weight">29.83</data>
+</edge>
+<edge id="e15" source="Trakar" target="Vilnius">
+<data key="key_weight">23.14</data>
+</edge>
+<edge id="e16" source="Ignalina" target="Vilnius">
+<data key="key_weight">92.74</data>
+</edge>
+<edge id="e17" source="Ukmerge" target="Vilnius">
+<data key="key_weight">70.96</data>
+</edge>
+<edge id="e18" source="Sirvintos" target="Vilnius">
+<data key="key_weight">45.35</data>
+</edge>
+<edge id="e19" source="Jurbarkas" target="Kaunas">
+<data key="key_weight">74.99</data>
+</edge>
+<edge id="e20" source="Sakiai" target="Kaunas">
+<data key="key_weight">55.57</data>
+</edge>
+<edge id="e21" source="Vilkaviskis" target="Kaunas">
+<data key="key_weight">62.15</data>
+</edge>
+<edge id="e22" source="Marijampole" target="Kaunas">
+<data key="key_weight">51.21</data>
+</edge>
+<edge id="e23" source="Alytus" target="Kaunas">
+<data key="key_weight">56.44</data>
+</edge>
+<edge id="e24" source="Druskininkai" target="Vilnius">
+<data key="key_weight">113.31</data>
+</edge>
+<edge id="e25" source="Salcininkai" target="Kaunas">
+<data key="key_weight">116.56</data>
+</edge>
+<edge id="e26" source="Moletai" target="Vilnius">
+<data key="key_weight">61.15</data>
+</edge>
+<edge id="e27" source="Pasvalys" target="Vilnius">
+<data key="key_weight">162.16</data>
+</edge>
+<edge id="e28" source="Kaunas" target="Vilnius">
+<data key="key_weight">91.53</data>
+</edge>
+<edge id="e29" source="Kaunas" target="Klaipeda">
+<data key="key_weight">198.2</data>
+</edge>
+<edge id="e30" source="Kaunas" target="Kedainiai">
+<data key="key_weight">43.45</data>
+</edge>
+<edge id="e31" source="Kaunas" target="Raseiniai">
+<data key="key_weight">72.27</data>
+</edge>
+<edge id="e32" source="Kaunas" target="Jonava">
+<data key="key_weight">31.84</data>
+</edge>
+<edge id="e33" source="Utena" target="Vilnius">
+<data key="key_weight">92.46</data>
+</edge>
+<edge id="e34" source="Klaipeda" target="Telsiai">
+<data key="key_weight">76.41</data>
+</edge>
+<edge id="e35" source="Klaipeda" target="Siauliai">
+<data key="key_weight">139.48</data>
+</edge>
+<edge id="e36" source="Klaipeda" target="Kretinga">
+<data key="key_weight">19.51</data>
+</edge>
+<edge id="e37" source="Klaipeda" target="Palanga">
+<data key="key_weight">22.48</data>
+</edge>
+<edge id="e38" source="Mazeikiai" target="Siauliai">
+<data key="key_weight">74.39</data>
+</edge>
+<edge id="e39" source="Joniskis" target="Siauliai">
+<data key="key_weight">38.85</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Djelfa"/>
+<node id="Medea"/>
+<node id="Blida"/>
+<node id="ElOued"/>
+<node id="Msila"/>
+<node id="Laghouat"/>
+<node id="Ouargla"/>
+<node id="Constantine"/>
+<node id="Biskra"/>
+<node id="Batna"/>
+<node id="Tizi Ouzou"/>
+<node id="Annaba"/>
+<node id="Guelma"/>
+<node id="Tebessa"/>
+<node id="Oum el Bouaghi"/>
+<node id="Bejaia"/>
+<node id="Setif"/>
+<node id="Skikda"/>
+<node id="Jijel"/>
+<node id="Tiaret"/>
+<node id="Alger"/>
+<node id="Chlef"/>
+<node id="Oran"/>
+<node id="Mostaganem"/>
+<node id="Tlemcen"/>
+<node id="Sidi Bel Abbes"/>
+<node id="Saida"/>
+<node id="Mascara"/>
+<edge id="e1" source="Djelfa" target="Alger">
+<data key="key_weight">232.18</data>
+</edge>
+<edge id="e2" source="Medea" target="Alger">
+<data key="key_weight">60.11</data>
+</edge>
+<edge id="e3" source="Blida" target="Alger">
+<data key="key_weight">36.78</data>
+</edge>
+<edge id="e4" source="ElOued" target="Ouargla">
+<data key="key_weight">212.67</data>
+</edge>
+<edge id="e5" source="Msila" target="Constantine">
+<data key="key_weight">90.43</data>
+</edge>
+<edge id="e6" source="Laghouat" target="Ouargla">
+<data key="key_weight">308.48</data>
+</edge>
+<edge id="e7" source="Ouargla" target="Alger">
+<data key="key_weight">573.85</data>
+</edge>
+<edge id="e8" source="Constantine" target="Biskra">
+<data key="key_weight">186.57</data>
+</edge>
+<edge id="e9" source="Constantine" target="Batna">
+<data key="key_weight">98.34</data>
+</edge>
+<edge id="e10" source="Constantine" target="Annaba">
+<data key="key_weight">118.8</data>
+</edge>
+<edge id="e11" source="Constantine" target="Guelma">
+<data key="key_weight">73.42</data>
+</edge>
+<edge id="e12" source="Constantine" target="Tebessa">
+<data key="key_weight">172.98</data>
+</edge>
+<edge id="e13" source="Constantine" target="Oum el Bouaghi">
+<data key="key_weight">70.53</data>
+</edge>
+<edge id="e14" source="Constantine" target="Skikda">
+<data key="key_weight">62.64</data>
+</edge>
+<edge id="e15" source="Constantine" target="Jijel">
+<data key="key_weight">91.12</data>
+</edge>
+<edge id="e16" source="Constantine" target="Alger">
+<data key="key_weight">322.07</data>
+</edge>
+<edge id="e17" source="Tizi Ouzou" target="Alger">
+<data key="key_weight">89.61</data>
+</edge>
+<edge id="e18" source="Bejaia" target="Alger">
+<data key="key_weight">182.0</data>
+</edge>
+<edge id="e19" source="Setif" target="Alger">
+<data key="key_weight">221.13</data>
+</edge>
+<edge id="e20" source="Tiaret" target="Oran">
+<data key="key_weight">180.83</data>
+</edge>
+<edge id="e21" source="Alger" target="Chlef">
+<data key="key_weight">171.36</data>
+</edge>
+<edge id="e22" source="Alger" target="Oran">
+<data key="key_weight">350.95</data>
+</edge>
+<edge id="e23" source="Oran" target="Mostaganem">
+<data key="key_weight">71.12</data>
+</edge>
+<edge id="e24" source="Oran" target="Tlemcen">
+<data key="key_weight">109.13</data>
+</edge>
+<edge id="e25" source="Oran" target="Sidi Bel Abbes">
+<data key="key_weight">55.75</data>
+</edge>
+<edge id="e26" source="Oran" target="Saida">
+<data key="key_weight">119.82</data>
+</edge>
+<edge id="e27" source="Oran" target="Mascara">
+<data key="key_weight">67.96</data>
+</edge>
+</graph></graphml>

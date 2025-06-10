@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Galway"/>
+<node id="Limerick"/>
+<node id="Cork"/>
+<node id="CityWest"/>
+<node id="DCU (Dublin City University"/>
+<node id="TDC (Trinity College Dublin)"/>
+<node id="Kilcarbery"/>
+<edge id="e1" source="Galway" target="CityWest">
+<data key="key_weight">185.03</data>
+</edge>
+<edge id="e2" source="Galway" target="Kilcarbery">
+<data key="key_weight">185.03</data>
+</edge>
+<edge id="e3" source="Limerick" target="Cork">
+<data key="key_weight">85.65</data>
+</edge>
+<edge id="e4" source="Limerick" target="CityWest">
+<data key="key_weight">174.84</data>
+</edge>
+<edge id="e5" source="Limerick" target="Kilcarbery">
+<data key="key_weight">174.84</data>
+</edge>
+<edge id="e6" source="Cork" target="CityWest">
+<data key="key_weight">220.19</data>
+</edge>
+<edge id="e7" source="CityWest" target="DCU (Dublin City University">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e8" source="CityWest" target="TDC (Trinity College Dublin)">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e9" source="CityWest" target="Kilcarbery">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e10" source="DCU (Dublin City University" target="Kilcarbery">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e11" source="TDC (Trinity College Dublin)" target="Kilcarbery">
+<data key="key_weight">0.0</data>
+</edge>
+</graph></graphml>

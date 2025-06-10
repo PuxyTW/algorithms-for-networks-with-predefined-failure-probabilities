@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Los Angeles"/>
+<node id="Chennai"/>
+<node id="New York"/>
+<node id="London"/>
+<node id="Mumbai"/>
+<node id="Palermo"/>
+<node id="Marseille"/>
+<node id="Hong Kong"/>
+<node id="Singapore"/>
+<edge id="e1" source="Los Angeles" target="Chennai">
+<data key="key_weight">14423.06</data>
+</edge>
+<edge id="e2" source="Los Angeles" target="Hong Kong">
+<data key="key_weight">11656.24</data>
+</edge>
+<edge id="e3" source="Los Angeles" target="Singapore">
+<data key="key_weight">14127.62</data>
+</edge>
+<edge id="e4" source="Los Angeles" target="New York">
+<data key="key_weight">3936.85</data>
+</edge>
+<edge id="e5" source="Chennai" target="New York">
+<data key="key_weight">13476.38</data>
+</edge>
+<edge id="e6" source="Chennai" target="London">
+<data key="key_weight">8213.12</data>
+</edge>
+<edge id="e7" source="Chennai" target="Mumbai">
+<data key="key_weight">1031.79</data>
+</edge>
+<edge id="e8" source="Chennai" target="Palermo">
+<data key="key_weight">7105.5</data>
+</edge>
+<edge id="e9" source="Chennai" target="Marseille">
+<data key="key_weight">7798.05</data>
+</edge>
+<edge id="e10" source="Chennai" target="Hong Kong">
+<data key="key_weight">3723.38</data>
+</edge>
+<edge id="e11" source="Chennai" target="Singapore">
+<data key="key_weight">2908.86</data>
+</edge>
+<edge id="e12" source="New York" target="London">
+<data key="key_weight">5571.79</data>
+</edge>
+<edge id="e13" source="New York" target="Mumbai">
+<data key="key_weight">12546.14</data>
+</edge>
+<edge id="e14" source="New York" target="Marseille">
+<data key="key_weight">6308.48</data>
+</edge>
+<edge id="e15" source="New York" target="Singapore">
+<data key="key_weight">15343.75</data>
+</edge>
+<edge id="e16" source="London" target="Mumbai">
+<data key="key_weight">7196.68</data>
+</edge>
+<edge id="e17" source="London" target="Marseille">
+<data key="key_weight">1002.59</data>
+</edge>
+<edge id="e18" source="London" target="Singapore">
+<data key="key_weight">10858.3</data>
+</edge>
+<edge id="e19" source="Hong Kong" target="Singapore">
+<data key="key_weight">2587.86</data>
+</edge>
+</graph></graphml>

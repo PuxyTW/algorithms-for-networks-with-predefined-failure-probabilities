@@ -1,0 +1,41 @@
+graph,algorithm,runtime,avg_stretch,success_rate,functional,avg_depth,errors
+Aarnet.graphml,PrioList,7.3912,0.0375,0.95,True,0.5,0
+Aarnet.graphml,Super Trees,6.4843,0.0944,0.89,True,0.5,0
+Aarnet.graphml,Beacon Nodes,5.76,0.1964,0.79,True,0.5,0
+Aarnet.graphml,Global Controller,7.5552,0.0509,0.78,True,0.5,0
+Abilene.graphml,PrioList,2.6126,0.1084,0.93,True,2.0,0
+Abilene.graphml,Super Trees,2.9905,0.1733,0.95,True,1.5,0
+Abilene.graphml,Beacon Nodes,2.644,0.195,0.93,True,2.0,0
+Abilene.graphml,Global Controller,3.911,0.0892,0.91,True,2.0,0
+Abvt.graphml,PrioList,8.4969,0.3039,0.95,True,1.33,0
+Abvt.graphml,Super Trees,9.1086,0.2216,0.91,True,1.33,0
+Abvt.graphml,Beacon Nodes,10.089,0.1784,0.87,True,1.33,0
+Abvt.graphml,Global Controller,9.3791,0.1453,0.82,True,1.33,0
+Aconet.graphml,PrioList,5.6121,0.1498,0.99,True,0.67,0
+Aconet.graphml,Super Trees,6.0081,0.0,0.05,True,1.0,0
+Aconet.graphml,Beacon Nodes,5.2817,0.2262,0.98,True,0.67,0
+Aconet.graphml,Global Controller,5.4948,0.0517,0.87,True,0.67,0
+Agis.graphml,PrioList,10.7251,0.1189,0.91,True,0.0,0
+Agis.graphml,Super Trees,8.7612,0.1734,0.91,True,0.0,0
+Agis.graphml,Beacon Nodes,8.8241,0.0912,0.91,True,0.0,0
+Agis.graphml,Global Controller,9.7232,0.0483,0.88,True,0.0,0
+Airtel.graphml,PrioList,3.5648,0.1173,0.98,True,0.0,0
+Airtel.graphml,Super Trees,4.6551,0.3554,0.83,True,0.0,0
+Airtel.graphml,Beacon Nodes,4.9853,0.0567,0.97,True,0.0,0
+Airtel.graphml,Global Controller,3.792,0.0707,0.99,True,0.0,0
+Amres.graphml,PrioList,0.9534,0.0,0.62,True,0.0,0
+Amres.graphml,Super Trees,2.5676,0.0,0.58,True,0.0,0
+Amres.graphml,Beacon Nodes,2.0295,0.0,0.54,True,0.0,0
+Amres.graphml,Global Controller,2.1615,0.0,0.5,True,0.0,0
+Ans.graphml,PrioList,10.1668,0.2163,0.95,True,0.67,0
+Ans.graphml,Super Trees,11.2865,0.2573,0.91,True,1.5,0
+Ans.graphml,Beacon Nodes,10.7167,0.1837,0.98,True,0.67,0
+Ans.graphml,Global Controller,10.4287,0.1007,0.89,True,0.67,0
+Arn.graphml,PrioList,1.1702,0.0,0.7,True,0.0,0
+Arn.graphml,Super Trees,2.9365,0.0,0.75,True,0.0,0
+Arn.graphml,Beacon Nodes,1.3831,0.0,0.73,True,0.0,0
+Arn.graphml,Global Controller,2.891,0.0,0.78,True,0.0,0
+Arnes.graphml,PrioList,26.17,0.1706,0.94,True,0.33,0
+Arnes.graphml,Super Trees,27.3248,0.2393,0.95,True,0.33,0
+Arnes.graphml,Beacon Nodes,26.1832,0.5889,0.96,True,0.33,0
+Arnes.graphml,Global Controller,26.4487,0.2698,0.84,True,0.33,0

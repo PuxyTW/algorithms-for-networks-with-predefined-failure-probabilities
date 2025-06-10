@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Hradec Kralove"/>
+<node id="Ceska Trebova"/>
+<node id="Jindrichuv Hradec"/>
+<node id="Pardubice"/>
+<node id="Vyskov"/>
+<node id="Zlin"/>
+<node id="Olomouc"/>
+<node id="Brno"/>
+<node id="Breclav,Lednice"/>
+<node id="Ostrava"/>
+<node id="Kostelec n C.L"/>
+<node id="Trebon"/>
+<node id="Opava"/>
+<node id="Karvina"/>
+<node id="Kutna Hora"/>
+<node id="Rez"/>
+<node id="Tabor"/>
+<node id="Pisek"/>
+<node id="Cheb"/>
+<node id="Plzen"/>
+<node id="Decin"/>
+<node id="Usti nad Labem"/>
+<node id="Praha"/>
+<node id="Liberec"/>
+<node id="Podebrady"/>
+<node id="Ceske Budejovice"/>
+<edge id="e1" source="Hradec Kralove" target="Ceska Trebova">
+<data key="key_weight">55.28</data>
+</edge>
+<edge id="e2" source="Hradec Kralove" target="Liberec">
+<data key="key_weight">82.89</data>
+</edge>
+<edge id="e3" source="Hradec Kralove" target="Pardubice">
+<data key="key_weight">19.16</data>
+</edge>
+<edge id="e4" source="Hradec Kralove" target="Ostrava">
+<data key="key_weight">179.91</data>
+</edge>
+<edge id="e5" source="Jindrichuv Hradec" target="Ceske Budejovice">
+<data key="key_weight">42.9</data>
+</edge>
+<edge id="e6" source="Pardubice" target="Praha">
+<data key="key_weight">96.95</data>
+</edge>
+<edge id="e7" source="Pardubice" target="Kutna Hora">
+<data key="key_weight">37.78</data>
+</edge>
+<edge id="e8" source="Vyskov" target="Brno">
+<data key="key_weight">29.83</data>
+</edge>
+<edge id="e9" source="Zlin" target="Olomouc">
+<data key="key_weight">51.74</data>
+</edge>
+<edge id="e10" source="Zlin" target="Brno">
+<data key="key_weight">76.97</data>
+</edge>
+<edge id="e11" source="Olomouc" target="Ostrava">
+<data key="key_weight">78.72</data>
+</edge>
+<edge id="e12" source="Olomouc" target="Brno">
+<data key="key_weight">64.45</data>
+</edge>
+<edge id="e13" source="Brno" target="Breclav,Lednice">
+<data key="key_weight">52.49</data>
+</edge>
+<edge id="e14" source="Brno" target="Praha">
+<data key="key_weight">186.21</data>
+</edge>
+<edge id="e15" source="Brno" target="Ceske Budejovice">
+<data key="key_weight">157.35</data>
+</edge>
+<edge id="e16" source="Ostrava" target="Karvina">
+<data key="key_weight">15.08</data>
+</edge>
+<edge id="e17" source="Ostrava" target="Opava">
+<data key="key_weight">29.55</data>
+</edge>
+<edge id="e18" source="Kostelec n C.L" target="Podebrady">
+<data key="key_weight">24.82</data>
+</edge>
+<edge id="e19" source="Trebon" target="Ceske Budejovice">
+<data key="key_weight">21.87</data>
+</edge>
+<edge id="e20" source="Rez" target="Praha">
+<data key="key_weight">10.91</data>
+</edge>
+<edge id="e21" source="Tabor" target="Praha">
+<data key="key_weight">76.84</data>
+</edge>
+<edge id="e22" source="Pisek" target="Ceske Budejovice">
+<data key="key_weight">44.14</data>
+</edge>
+<edge id="e23" source="Cheb" target="Plzen">
+<data key="key_weight">80.82</data>
+</edge>
+<edge id="e24" source="Plzen" target="Usti nad Labem">
+<data key="key_weight">111.76</data>
+</edge>
+<edge id="e25" source="Plzen" target="Praha">
+<data key="key_weight">83.76</data>
+</edge>
+<edge id="e26" source="Decin" target="Usti nad Labem">
+<data key="key_weight">18.65</data>
+</edge>
+<edge id="e27" source="Usti nad Labem" target="Praha">
+<data key="key_weight">69.4</data>
+</edge>
+<edge id="e28" source="Praha" target="Liberec">
+<data key="key_weight">87.93</data>
+</edge>
+<edge id="e29" source="Praha" target="Podebrady">
+<data key="key_weight">50.15</data>
+</edge>
+<edge id="e30" source="Praha" target="Ceske Budejovice">
+<data key="key_weight">123.92</data>
+</edge>
+</graph></graphml>

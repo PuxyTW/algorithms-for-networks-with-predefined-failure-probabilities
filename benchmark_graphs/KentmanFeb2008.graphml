@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="UCCA-C"/>
+<node id="Canterbury College"/>
+<node id="Medway ACL"/>
+<node id="Mid Kent College"/>
+<node id="South Kent College - Ashford"/>
+<node id="KIAD-O"/>
+<node id="Thanet College"/>
+<node id="Hilderstone College"/>
+<node id="Kent ACL"/>
+<node id="Hadlow College"/>
+<node id="University College Folkestone"/>
+<node id="UoK-C"/>
+<node id="West Kent College"/>
+<node id="Hadlow College Mottingham"/>
+<node id="IFS School of Finance"/>
+<node id="NW Kent College - Dartford"/>
+<node id="KIAD-R"/>
+<node id="UoG-AH"/>
+<node id="University of Greenwich"/>
+<node id="CCCU-C"/>
+<node id="IC-Wye"/>
+<node id="EIS-Maidstone"/>
+<node id="CCCU-S"/>
+<node id="CCCU-T"/>
+<node id="Dorton College"/>
+<edge id="e1" source="UCCA-C" target="UoK-C">
+<data key="key_weight">3.22</data>
+</edge>
+<edge id="e2" source="Canterbury College" target="UoK-C">
+<data key="key_weight">3.21</data>
+</edge>
+<edge id="e3" source="Medway ACL" target="University of Greenwich">
+<data key="key_weight">33.23</data>
+</edge>
+<edge id="e4" source="Mid Kent College" target="University of Greenwich">
+<data key="key_weight">33.03</data>
+</edge>
+<edge id="e5" source="South Kent College - Ashford" target="IC-Wye">
+<data key="key_weight">7.12</data>
+</edge>
+<edge id="e6" source="KIAD-O" target="EIS-Maidstone">
+<data key="key_weight">3.93</data>
+</edge>
+<edge id="e7" source="Thanet College" target="CCCU-T">
+<data key="key_weight">2.06</data>
+</edge>
+<edge id="e8" source="Hilderstone College" target="CCCU-T">
+<data key="key_weight">1.68</data>
+</edge>
+<edge id="e9" source="Kent ACL" target="University of Greenwich">
+<data key="key_weight">36.22</data>
+</edge>
+<edge id="e10" source="Hadlow College" target="CCCU-S">
+<data key="key_weight">9.54</data>
+</edge>
+<edge id="e11" source="University College Folkestone" target="IC-Wye">
+<data key="key_weight">20.48</data>
+</edge>
+<edge id="e12" source="UoK-C" target="IFS School of Finance">
+<data key="key_weight">2.72</data>
+</edge>
+<edge id="e13" source="UoK-C" target="University of Greenwich">
+<data key="key_weight">70.31</data>
+</edge>
+<edge id="e14" source="UoK-C" target="CCCU-C">
+<data key="key_weight">2.82</data>
+</edge>
+<edge id="e15" source="UoK-C" target="IC-Wye">
+<data key="key_weight">15.46</data>
+</edge>
+<edge id="e16" source="UoK-C" target="CCCU-T">
+<data key="key_weight">24.93</data>
+</edge>
+<edge id="e17" source="West Kent College" target="CCCU-S">
+<data key="key_weight">4.24</data>
+</edge>
+<edge id="e18" source="Hadlow College Mottingham" target="UoG-AH">
+<data key="key_weight">3.31</data>
+</edge>
+<edge id="e19" source="NW Kent College - Dartford" target="UoG-AH">
+<data key="key_weight">9.69</data>
+</edge>
+<edge id="e20" source="KIAD-R" target="University of Greenwich">
+<data key="key_weight">31.22</data>
+</edge>
+<edge id="e21" source="UoG-AH" target="University of Greenwich">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e22" source="University of Greenwich" target="EIS-Maidstone">
+<data key="key_weight">39.01</data>
+</edge>
+<edge id="e23" source="University of Greenwich" target="Dorton College">
+<data key="key_weight">20.43</data>
+</edge>
+<edge id="e24" source="IC-Wye" target="EIS-Maidstone">
+<data key="key_weight">28.21</data>
+</edge>
+<edge id="e25" source="EIS-Maidstone" target="CCCU-S">
+<data key="key_weight">24.31</data>
+</edge>
+</graph></graphml>

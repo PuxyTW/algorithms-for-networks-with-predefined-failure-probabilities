@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Cheyenne"/>
+<node id="Salt Lake"/>
+<node id="Denver"/>
+<node id="Portland"/>
+<node id="Eugene"/>
+<node id="Spokane"/>
+<node id="Seattle"/>
+<node id="Burbank"/>
+<node id="Los Angeles"/>
+<node id="Newark"/>
+<node id="New York"/>
+<node id="Boston"/>
+<node id="Eckington"/>
+<node id="Tukwita"/>
+<node id="Washington"/>
+<node id="Chicago"/>
+<node id="Dallas"/>
+<node id="Albuquerque"/>
+<node id="Tucson"/>
+<node id="Phoenix"/>
+<node id="Cermak"/>
+<node id="Atlanta"/>
+<node id="Tampa"/>
+<node id="Houston"/>
+<node id="Kansas"/>
+<node id="Sunnyvale"/>
+<node id="Boise"/>
+<node id="Helena"/>
+<node id="Billings"/>
+<node id="Fargo"/>
+<node id="Minneapolis"/>
+<node id="Sioux City"/>
+<node id="Omaha"/>
+<edge id="e1" source="Cheyenne" target="Salt Lake">
+<data key="key_weight">595.33</data>
+</edge>
+<edge id="e2" source="Cheyenne" target="Denver">
+<data key="key_weight">156.43</data>
+</edge>
+<edge id="e3" source="Salt Lake" target="Denver">
+<data key="key_weight">597.03</data>
+</edge>
+<edge id="e4" source="Salt Lake" target="Spokane">
+<data key="key_weight">884.54</data>
+</edge>
+<edge id="e5" source="Salt Lake" target="Burbank">
+<data key="key_weight">924.93</data>
+</edge>
+<edge id="e6" source="Salt Lake" target="Cermak">
+<data key="key_weight">2022.31</data>
+</edge>
+<edge id="e7" source="Salt Lake" target="Sunnyvale">
+<data key="key_weight">953.15</data>
+</edge>
+<edge id="e8" source="Salt Lake" target="Boise">
+<data key="key_weight">476.31</data>
+</edge>
+<edge id="e9" source="Salt Lake" target="Billings">
+<data key="key_weight">622.31</data>
+</edge>
+<edge id="e10" source="Denver" target="Albuquerque">
+<data key="key_weight">538.22</data>
+</edge>
+<edge id="e11" source="Denver" target="Phoenix">
+<data key="key_weight">942.94</data>
+</edge>
+<edge id="e12" source="Denver" target="Kansas">
+<data key="key_weight">892.06</data>
+</edge>
+<edge id="e13" source="Denver" target="Sunnyvale">
+<data key="key_weight">1504.02</data>
+</edge>
+<edge id="e14" source="Portland" target="Burbank">
+<data key="key_weight">1315.01</data>
+</edge>
+<edge id="e15" source="Portland" target="Eugene">
+<data key="key_weight">166.83</data>
+</edge>
+<edge id="e16" source="Portland" target="Tukwita">
+<data key="key_weight">219.27</data>
+</edge>
+<edge id="e17" source="Eugene" target="Tukwita">
+<data key="key_weight">385.96</data>
+</edge>
+<edge id="e18" source="Spokane" target="Seattle">
+<data key="key_weight">367.71</data>
+</edge>
+<edge id="e19" source="Seattle" target="Chicago">
+<data key="key_weight">2789.45</data>
+</edge>
+<edge id="e20" source="Seattle" target="Phoenix">
+<data key="key_weight">1794.09</data>
+</edge>
+<edge id="e21" source="Seattle" target="Helena">
+<data key="key_weight">787.06</data>
+</edge>
+<edge id="e22" source="Seattle" target="Tukwita">
+<data key="key_weight">15.65</data>
+</edge>
+<edge id="e23" source="Burbank" target="Los Angeles">
+<data key="key_weight">15.52</data>
+</edge>
+<edge id="e24" source="Burbank" target="Phoenix">
+<data key="key_weight">581.81</data>
+</edge>
+<edge id="e25" source="Burbank" target="Houston">
+<data key="key_weight">2214.94</data>
+</edge>
+<edge id="e26" source="Burbank" target="Sunnyvale">
+<data key="key_weight">488.65</data>
+</edge>
+<edge id="e27" source="Los Angeles" target="Houston">
+<data key="key_weight">2207.38</data>
+</edge>
+<edge id="e28" source="Los Angeles" target="Sunnyvale">
+<data key="key_weight">503.3</data>
+</edge>
+<edge id="e29" source="Newark" target="New York">
+<data key="key_weight">14.23</data>
+</edge>
+<edge id="e30" source="Newark" target="Boston">
+<data key="key_weight">315.74</data>
+</edge>
+<edge id="e31" source="Newark" target="Eckington">
+<data key="key_weight">315.94</data>
+</edge>
+<edge id="e32" source="Newark" target="Chicago">
+<data key="key_weight">1131.94</data>
+</edge>
+<edge id="e33" source="Newark" target="Houston">
+<data key="key_weight">2269.76</data>
+</edge>
+<edge id="e34" source="Newark" target="Kansas">
+<data key="key_weight">1750.07</data>
+</edge>
+<edge id="e35" source="New York" target="Washington">
+<data key="key_weight">328.58</data>
+</edge>
+<edge id="e36" source="New York" target="Chicago">
+<data key="key_weight">1146.16</data>
+</edge>
+<edge id="e37" source="New York" target="Boston">
+<data key="key_weight">305.93</data>
+</edge>
+<edge id="e38" source="New York" target="Eckington">
+<data key="key_weight">325.53</data>
+</edge>
+<edge id="e39" source="Eckington" target="Washington">
+<data key="key_weight">3.06</data>
+</edge>
+<edge id="e40" source="Eckington" target="Cermak">
+<data key="key_weight">958.14</data>
+</edge>
+<edge id="e41" source="Eckington" target="Atlanta">
+<data key="key_weight">875.23</data>
+</edge>
+<edge id="e42" source="Eckington" target="Tampa">
+<data key="key_weight">1319.64</data>
+</edge>
+<edge id="e43" source="Eckington" target="Houston">
+<data key="key_weight">1963.37</data>
+</edge>
+<edge id="e44" source="Eckington" target="Kansas">
+<data key="key_weight">1520.4</data>
+</edge>
+<edge id="e45" source="Eckington" target="Sunnyvale">
+<data key="key_weight">3902.32</data>
+</edge>
+<edge id="e46" source="Tukwita" target="Sunnyvale">
+<data key="key_weight">1124.11</data>
+</edge>
+<edge id="e47" source="Tukwita" target="Boise">
+<data key="key_weight">637.64</data>
+</edge>
+<edge id="e48" source="Washington" target="Chicago">
+<data key="key_weight">956.75</data>
+</edge>
+<edge id="e49" source="Washington" target="Atlanta">
+<data key="key_weight">872.17</data>
+</edge>
+<edge id="e50" source="Chicago" target="Cermak">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e51" source="Chicago" target="Kansas">
+<data key="key_weight">663.81</data>
+</edge>
+<edge id="e52" source="Chicago" target="Sunnyvale">
+<data key="key_weight">2968.06</data>
+</edge>
+<edge id="e53" source="Dallas" target="Houston">
+<data key="key_weight">362.81</data>
+</edge>
+<edge id="e54" source="Dallas" target="Kansas">
+<data key="key_weight">730.94</data>
+</edge>
+<edge id="e55" source="Dallas" target="Tucson">
+<data key="key_weight">1324.99</data>
+</edge>
+<edge id="e56" source="Albuquerque" target="Tucson">
+<data key="key_weight">507.91</data>
+</edge>
+<edge id="e57" source="Tucson" target="Phoenix">
+<data key="key_weight">173.54</data>
+</edge>
+<edge id="e58" source="Cermak" target="Minneapolis">
+<data key="key_weight">571.53</data>
+</edge>
+<edge id="e59" source="Cermak" target="Atlanta">
+<data key="key_weight">945.35</data>
+</edge>
+<edge id="e60" source="Cermak" target="Kansas">
+<data key="key_weight">663.81</data>
+</edge>
+<edge id="e61" source="Atlanta" target="Tampa">
+<data key="key_weight">671.02</data>
+</edge>
+<edge id="e62" source="Atlanta" target="Houston">
+<data key="key_weight">1127.88</data>
+</edge>
+<edge id="e63" source="Tampa" target="Houston">
+<data key="key_weight">1272.55</data>
+</edge>
+<edge id="e64" source="Houston" target="Sunnyvale">
+<data key="key_weight">2602.21</data>
+</edge>
+<edge id="e65" source="Kansas" target="Minneapolis">
+<data key="key_weight">662.05</data>
+</edge>
+<edge id="e66" source="Kansas" target="Omaha">
+<data key="key_weight">263.22</data>
+</edge>
+<edge id="e67" source="Helena" target="Billings">
+<data key="key_weight">286.7</data>
+</edge>
+<edge id="e68" source="Fargo" target="Minneapolis">
+<data key="key_weight">344.82</data>
+</edge>
+<edge id="e69" source="Fargo" target="Sioux City">
+<data key="key_weight">487.83</data>
+</edge>
+<edge id="e70" source="Sioux City" target="Omaha">
+<data key="key_weight">143.29</data>
+</edge>
+</graph></graphml>

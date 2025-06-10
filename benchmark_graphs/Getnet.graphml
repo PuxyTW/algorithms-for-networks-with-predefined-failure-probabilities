@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Seattle"/>
+<node id="Santa Clara"/>
+<node id="Phoenix"/>
+<node id="Tucson"/>
+<node id="Washington, DC"/>
+<node id="Baltimore"/>
+<node id="Pittsburgh"/>
+<edge id="e1" source="Seattle" target="Santa Clara">
+<data key="key_weight">1140.72</data>
+</edge>
+<edge id="e2" source="Santa Clara" target="Phoenix">
+<data key="key_weight">994.9</data>
+</edge>
+<edge id="e3" source="Santa Clara" target="Washington, DC">
+<data key="key_weight">3894.02</data>
+</edge>
+<edge id="e4" source="Santa Clara" target="Pittsburgh">
+<data key="key_weight">3614.24</data>
+</edge>
+<edge id="e5" source="Phoenix" target="Tucson">
+<data key="key_weight">173.54</data>
+</edge>
+<edge id="e6" source="Phoenix" target="Washington, DC">
+<data key="key_weight">3183.54</data>
+</edge>
+<edge id="e7" source="Washington, DC" target="Baltimore">
+<data key="key_weight">57.22</data>
+</edge>
+<edge id="e8" source="Baltimore" target="Pittsburgh">
+<data key="key_weight">315.91</data>
+</edge>
+</graph></graphml>

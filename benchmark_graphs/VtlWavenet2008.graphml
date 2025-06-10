@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Ependes"/>
+<node id="Olten"/>
+<node id="Souppes"/>
+<node id="Briare"/>
+<node id="Nevers"/>
+<node id="Bourbon"/>
+<node id="Charolles"/>
+<node id="Belleville"/>
+<node id="Sault Brenaz"/>
+<node id="Lavours"/>
+<node id="Lyon"/>
+<node id="Montfaucon"/>
+<node id="Antwerp (NMBS)"/>
+<node id="Toulouse"/>
+<node id="Brussels MIDI (NMBS)"/>
+<node id="Marseille"/>
+<node id="Bordeaux"/>
+<node id="Azy-sur-Marne"/>
+<node id="Meaux"/>
+<node id="Revigny"/>
+<node id="Conde-sur-Marne"/>
+<node id="Leers-Nord Estampuis"/>
+<node id="Antoing (NMBS)"/>
+<node id="Thourotte"/>
+<node id="Courrieres"/>
+<node id="Gent"/>
+<node id="Antwerp"/>
+<node id="Bern"/>
+<node id="Zurich"/>
+<node id="Basel"/>
+<node id="Nancy"/>
+<node id="Strasbourg"/>
+<node id="Mannheim"/>
+<node id="Frankfurt"/>
+<node id="Internexion"/>
+<node id="Paris La Defense"/>
+<node id="Geneva"/>
+<node id="Egham"/>
+<node id="London Telehouse North"/>
+<node id="Lowestoft"/>
+<node id="Amsterdam (Schipluidlaan/Deflandlaan)"/>
+<node id="Paris (35Rdj)"/>
+<node id="Biaches"/>
+<node id="Amiens"/>
+<node id="Crawley"/>
+<node id="Rotterdam"/>
+<node id="Brussels Tollaan"/>
+<node id="Grisolles"/>
+<node id="Bon-Encontre"/>
+<node id="Blois"/>
+<node id="Nambsheim"/>
+<node id="Availles (Poiters)"/>
+<node id="Veretz (Tours)"/>
+<node id="Nersac"/>
+<node id="Blanzay"/>
+<node id="Meilhan"/>
+<node id="St-Christophe"/>
+<node id="Andancette"/>
+<node id="Dusseldorf"/>
+<node id="Cazan"/>
+<node id="Montelimar"/>
+<node id="Pichegu"/>
+<node id="Fos"/>
+<node id="Poilhes"/>
+<node id="Sete (Montpellier)"/>
+<node id="Avignonet"/>
+<node id="Marseillette"/>
+<node id="Artenay (Orleans)"/>
+<node id="St-Martin"/>
+<node id="Snow Hill"/>
+<node id="Pakenham"/>
+<node id="Zandvoort"/>
+<node id="Essen"/>
+<node id="Corbeil"/>
+<node id="L'Isle Adam"/>
+<node id="Cayeux-sur-Mer"/>
+<node id="Polegate"/>
+<node id="Xouxange"/>
+<node id="Troussey"/>
+<node id="Elten"/>
+<node id="Leersum/Doorn??"/>
+<node id="Kapella"/>
+<node id="Porz"/>
+<node id="Linz"/>
+<node id="Dernbach"/>
+<node id="Naurod"/>
+<node id="Berg"/>
+<edge id="e1" source="Ependes" target="Bern">
+<data key="key_weight">31.51</data>
+</edge>
+<edge id="e2" source="Ependes" target="Geneva">
+<data key="key_weight">98.15</data>
+</edge>
+<edge id="e3" source="Olten" target="Bern">
+<data key="key_weight">56.46</data>
+</edge>
+<edge id="e4" source="Olten" target="Zurich">
+<data key="key_weight">48.76</data>
+</edge>
+<edge id="e5" source="Souppes" target="Corbeil">
+<data key="key_weight">49.89</data>
+</edge>
+<edge id="e6" source="Souppes" target="Briare">
+<data key="key_weight">61.17</data>
+</edge>
+<edge id="e7" source="Briare" target="Nevers">
+<data key="key_weight">78.16</data>
+</edge>
+<edge id="e8" source="Nevers" target="Bourbon">
+<data key="key_weight">61.89</data>
+</edge>
+<edge id="e9" source="Bourbon" target="Charolles">
+<data key="key_weight">44.57</data>
+</edge>
+<edge id="e10" source="Charolles" target="Belleville">
+<data key="key_weight">51.6</data>
+</edge>
+<edge id="e11" source="Sault Brenaz" target="Lavours">
+<data key="key_weight">27.69</data>
+</edge>
+<edge id="e12" source="Lavours" target="Geneva">
+<data key="key_weight">53.47</data>
+</edge>
+<edge id="e13" source="Lyon" target="Andancette">
+<data key="key_weight">57.6</data>
+</edge>
+<edge id="e14" source="Montfaucon" target="Cazan">
+<data key="key_weight">56.99</data>
+</edge>
+<edge id="e15" source="Montfaucon" target="Montelimar">
+<data key="key_weight">53.76</data>
+</edge>
+<edge id="e16" source="Antwerp (NMBS)" target="Essen">
+<data key="key_weight">27.49</data>
+</edge>
+<edge id="e17" source="Antwerp (NMBS)" target="Antwerp">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e18" source="Toulouse" target="Grisolles">
+<data key="key_weight">27.67</data>
+</edge>
+<edge id="e19" source="Toulouse" target="Avignonet">
+<data key="key_weight">39.05</data>
+</edge>
+<edge id="e20" source="Brussels MIDI (NMBS)" target="Antoing (NMBS)">
+<data key="key_weight">70.74</data>
+</edge>
+<edge id="e21" source="Brussels MIDI (NMBS)" target="Brussels Tollaan">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e22" source="Marseille" target="Cazan">
+<data key="key_weight">46.01</data>
+</edge>
+<edge id="e23" source="Marseille" target="Fos">
+<data key="key_weight">38.61</data>
+</edge>
+<edge id="e24" source="Bordeaux" target="Meilhan">
+<data key="key_weight">59.1</data>
+</edge>
+<edge id="e25" source="Bordeaux" target="St-Christophe">
+<data key="key_weight">37.21</data>
+</edge>
+<edge id="e26" source="Azy-sur-Marne" target="Meaux">
+<data key="key_weight">37.04</data>
+</edge>
+<edge id="e27" source="Azy-sur-Marne" target="Conde-sur-Marne">
+<data key="key_weight">59.71</data>
+</edge>
+<edge id="e28" source="Meaux" target="Paris (35Rdj)">
+<data key="key_weight">39.36</data>
+</edge>
+<edge id="e29" source="Revigny" target="Conde-sur-Marne">
+<data key="key_weight">63.22</data>
+</edge>
+<edge id="e30" source="Revigny" target="Troussey">
+<data key="key_weight">54.59</data>
+</edge>
+<edge id="e31" source="Leers-Nord Estampuis" target="Courrieres">
+<data key="key_weight">34.26</data>
+</edge>
+<edge id="e32" source="Leers-Nord Estampuis" target="Gent">
+<data key="key_weight">52.31</data>
+</edge>
+<edge id="e33" source="Leers-Nord Estampuis" target="Antoing (NMBS)">
+<data key="key_weight">19.06</data>
+</edge>
+<edge id="e34" source="Thourotte" target="L'Isle Adam">
+<data key="key_weight">62.69</data>
+</edge>
+<edge id="e35" source="Thourotte" target="Biaches">
+<data key="key_weight">49.09</data>
+</edge>
+<edge id="e36" source="Courrieres" target="Biaches">
+<data key="key_weight">59.33</data>
+</edge>
+<edge id="e37" source="Gent" target="Brussels Tollaan">
+<data key="key_weight">49.54</data>
+</edge>
+<edge id="e38" source="Antwerp" target="Brussels Tollaan">
+<data key="key_weight">41.01</data>
+</edge>
+<edge id="e39" source="Zurich" target="Basel">
+<data key="key_weight">74.81</data>
+</edge>
+<edge id="e40" source="Basel" target="Nambsheim">
+<data key="key_weight">39.11</data>
+</edge>
+<edge id="e41" source="Nancy" target="Xouxange">
+<data key="key_weight">58.77</data>
+</edge>
+<edge id="e42" source="Nancy" target="Troussey">
+<data key="key_weight">36.76</data>
+</edge>
+<edge id="e43" source="Strasbourg" target="Nambsheim">
+<data key="key_weight">75.62</data>
+</edge>
+<edge id="e44" source="Strasbourg" target="Xouxange">
+<data key="key_weight">56.63</data>
+</edge>
+<edge id="e45" source="Strasbourg" target="Berg">
+<data key="key_weight">55.42</data>
+</edge>
+<edge id="e46" source="Mannheim" target="Internexion">
+<data key="key_weight">71.63</data>
+</edge>
+<edge id="e47" source="Mannheim" target="Berg">
+<data key="key_weight">114.82</data>
+</edge>
+<edge id="e48" source="Frankfurt" target="Internexion">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e49" source="Frankfurt" target="Naurod">
+<data key="key_weight">27.4</data>
+</edge>
+<edge id="e50" source="Paris La Defense" target="Paris (35Rdj)">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e51" source="Paris La Defense" target="L'Isle Adam">
+<data key="key_weight">29.6</data>
+</edge>
+<edge id="e52" source="Egham" target="Crawley">
+<data key="key_weight">43.05</data>
+</edge>
+<edge id="e53" source="Egham" target="London Telehouse North">
+<data key="key_weight">32.22</data>
+</edge>
+<edge id="e54" source="London Telehouse North" target="Snow Hill">
+<data key="key_weight">79.93</data>
+</edge>
+<edge id="e55" source="Lowestoft" target="Zandvoort">
+<data key="key_weight">189.19</data>
+</edge>
+<edge id="e56" source="Lowestoft" target="Pakenham">
+<data key="key_weight">67.37</data>
+</edge>
+<edge id="e57" source="Amsterdam (Schipluidlaan/Deflandlaan)" target="Zandvoort">
+<data key="key_weight">24.15</data>
+</edge>
+<edge id="e58" source="Amsterdam (Schipluidlaan/Deflandlaan)" target="Leersum/Doorn??">
+<data key="key_weight">54.5</data>
+</edge>
+<edge id="e59" source="Amsterdam (Schipluidlaan/Deflandlaan)" target="Rotterdam">
+<data key="key_weight">57.51</data>
+</edge>
+<edge id="e60" source="Paris (35Rdj)" target="Corbeil">
+<data key="key_weight">29.86</data>
+</edge>
+<edge id="e61" source="Paris (35Rdj)" target="St-Martin">
+<data key="key_weight">49.39</data>
+</edge>
+<edge id="e62" source="Biaches" target="Amiens">
+<data key="key_weight">44.21</data>
+</edge>
+<edge id="e63" source="Amiens" target="Cayeux-sur-Mer">
+<data key="key_weight">65.56</data>
+</edge>
+<edge id="e64" source="Crawley" target="Polegate">
+<data key="key_weight">45.43</data>
+</edge>
+<edge id="e65" source="Rotterdam" target="Essen">
+<data key="key_weight">51.17</data>
+</edge>
+<edge id="e66" source="Grisolles" target="Bon-Encontre">
+<data key="key_weight">62.92</data>
+</edge>
+<edge id="e67" source="Bon-Encontre" target="Meilhan">
+<data key="key_weight">63.62</data>
+</edge>
+<edge id="e68" source="Blois" target="Artenay (Orleans)">
+<data key="key_weight">56.31</data>
+</edge>
+<edge id="e69" source="Blois" target="Veretz (Tours)">
+<data key="key_weight">53.68</data>
+</edge>
+<edge id="e70" source="Availles (Poiters)" target="Veretz (Tours)">
+<data key="key_weight">92.86</data>
+</edge>
+<edge id="e71" source="Availles (Poiters)" target="Blanzay">
+<data key="key_weight">83.59</data>
+</edge>
+<edge id="e72" source="Nersac" target="St-Christophe">
+<data key="key_weight">84.24</data>
+</edge>
+<edge id="e73" source="Nersac" target="Blanzay">
+<data key="key_weight">59.58</data>
+</edge>
+<edge id="e74" source="Andancette" target="Montelimar">
+<data key="key_weight">74.25</data>
+</edge>
+<edge id="e75" source="Dusseldorf" target="Kapella">
+<data key="key_weight">47.75</data>
+</edge>
+<edge id="e76" source="Dusseldorf" target="Porz">
+<data key="key_weight">42.23</data>
+</edge>
+<edge id="e77" source="Pichegu" target="Sete (Montpellier)">
+<data key="key_weight">53.61</data>
+</edge>
+<edge id="e78" source="Pichegu" target="Fos">
+<data key="key_weight">48.93</data>
+</edge>
+<edge id="e79" source="Poilhes" target="Sete (Montpellier)">
+<data key="key_weight">71.87</data>
+</edge>
+<edge id="e80" source="Poilhes" target="Marseillette">
+<data key="key_weight">45.11</data>
+</edge>
+<edge id="e81" source="Avignonet" target="Marseillette">
+<data key="key_weight">63.49</data>
+</edge>
+<edge id="e82" source="Artenay (Orleans)" target="St-Martin">
+<data key="key_weight">75.81</data>
+</edge>
+<edge id="e83" source="Snow Hill" target="Pakenham">
+<data key="key_weight">26.87</data>
+</edge>
+<edge id="e84" source="Cayeux-sur-Mer" target="Polegate">
+<data key="key_weight">112.62</data>
+</edge>
+<edge id="e85" source="Elten" target="Leersum/Doorn??">
+<data key="key_weight">52.08</data>
+</edge>
+<edge id="e86" source="Elten" target="Kapella">
+<data key="key_weight">36.56</data>
+</edge>
+<edge id="e87" source="Porz" target="Linz">
+<data key="key_weight">38.86</data>
+</edge>
+<edge id="e88" source="Linz" target="Dernbach">
+<data key="key_weight">22.45</data>
+</edge>
+<edge id="e89" source="Dernbach" target="Naurod">
+<data key="key_weight">67.95</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Blue Bell Hill"/>
+<node id="Wye"/>
+<node id="Dunkirk"/>
+<node id="Beacon Hill"/>
+<node id="Kent"/>
+<node id="Horsted"/>
+<node id="Cranbrook"/>
+<node id="NTL-Wye"/>
+<node id="University of Greenwich"/>
+<node id="CCCU-C"/>
+<node id="CCCU-S"/>
+<node id="CCCU-T"/>
+<node id="KIAD-R"/>
+<node id="KIAD-C"/>
+<node id="KIAD-M"/>
+<node id="Tonbridge"/>
+<edge id="e1" source="Blue Bell Hill" target="Beacon Hill">
+<data key="key_weight">8.98</data>
+</edge>
+<edge id="e2" source="Blue Bell Hill" target="Horsted">
+<data key="key_weight">5.39</data>
+</edge>
+<edge id="e3" source="Blue Bell Hill" target="Cranbrook">
+<data key="key_weight">27.8</data>
+</edge>
+<edge id="e4" source="Blue Bell Hill" target="University of Greenwich">
+<data key="key_weight">32.26</data>
+</edge>
+<edge id="e5" source="Blue Bell Hill" target="KIAD-M">
+<data key="key_weight">6.86</data>
+</edge>
+<edge id="e6" source="Blue Bell Hill" target="Tonbridge">
+<data key="key_weight">22.65</data>
+</edge>
+<edge id="e7" source="Wye" target="Kent">
+<data key="key_weight">14.65</data>
+</edge>
+<edge id="e8" source="Wye" target="NTL-Wye">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e9" source="Dunkirk" target="Beacon Hill">
+<data key="key_weight">39.8</data>
+</edge>
+<edge id="e10" source="Dunkirk" target="Kent">
+<data key="key_weight">7.14</data>
+</edge>
+<edge id="e11" source="Beacon Hill" target="University of Greenwich">
+<data key="key_weight">25.24</data>
+</edge>
+<edge id="e12" source="Beacon Hill" target="KIAD-R">
+<data key="key_weight">6.05</data>
+</edge>
+<edge id="e13" source="Kent" target="CCCU-T">
+<data key="key_weight">24.36</data>
+</edge>
+<edge id="e14" source="Kent" target="KIAD-C">
+<data key="key_weight">0.86</data>
+</edge>
+<edge id="e15" source="Kent" target="CCCU-C">
+<data key="key_weight">0.66</data>
+</edge>
+<edge id="e16" source="Cranbrook" target="NTL-Wye">
+<data key="key_weight">30.24</data>
+</edge>
+<edge id="e17" source="CCCU-S" target="Tonbridge">
+<data key="key_weight">4.46</data>
+</edge>
+</graph></graphml>

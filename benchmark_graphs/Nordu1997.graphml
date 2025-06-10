@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Lviv"/>
+<node id="Oslo"/>
+<node id="Kaunas"/>
+<node id="Warsaw"/>
+<node id="Tallinn"/>
+<node id="Riga"/>
+<node id="Stockholm"/>
+<node id="Helsinki"/>
+<node id="Copenhagen"/>
+<node id="Reykjavik"/>
+<node id="Petrozavodsk"/>
+<node id="St Petersburg"/>
+<edge id="e1" source="Lviv" target="Stockholm">
+<data key="key_weight">1122.6</data>
+</edge>
+<edge id="e2" source="Oslo" target="Stockholm">
+<data key="key_weight">416.46</data>
+</edge>
+<edge id="e3" source="Kaunas" target="Stockholm">
+<data key="key_weight">605.52</data>
+</edge>
+<edge id="e4" source="Warsaw" target="Stockholm">
+<data key="key_weight">811.03</data>
+</edge>
+<edge id="e5" source="Tallinn" target="Helsinki">
+<data key="key_weight">82.11</data>
+</edge>
+<edge id="e6" source="Riga" target="Stockholm">
+<data key="key_weight">442.74</data>
+</edge>
+<edge id="e7" source="Stockholm" target="Helsinki">
+<data key="key_weight">395.86</data>
+</edge>
+<edge id="e8" source="Stockholm" target="Copenhagen">
+<data key="key_weight">522.53</data>
+</edge>
+<edge id="e9" source="Stockholm" target="Reykjavik">
+<data key="key_weight">2132.55</data>
+</edge>
+<edge id="e10" source="Helsinki" target="Petrozavodsk">
+<data key="key_weight">538.13</data>
+</edge>
+<edge id="e11" source="Helsinki" target="St Petersburg">
+<data key="key_weight">297.55</data>
+</edge>
+</graph></graphml>

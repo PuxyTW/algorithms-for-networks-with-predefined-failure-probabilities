@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Cilacap"/>
+<node id="Purwokerto"/>
+<node id="Sukabumi"/>
+<node id="Tasikmalaya"/>
+<node id="Pekalongan"/>
+<node id="Semarang"/>
+<node id="Magelang"/>
+<node id="Yogyakarta"/>
+<node id="Kudus"/>
+<node id="Surakarta"/>
+<node id="Nusa Dua"/>
+<node id="Surabaya"/>
+<node id="Kediri"/>
+<node id="Madium"/>
+<node id="Tuban"/>
+<node id="Banyunwangi"/>
+<node id="Jember"/>
+<node id="Probolinggo"/>
+<node id="Malang"/>
+<node id="Cibaliung"/>
+<node id="Tegal"/>
+<node id="Cirebon"/>
+<node id="Bandung"/>
+<node id="Karawang"/>
+<node id="Jakarta"/>
+<node id="Bogor"/>
+<node id="Serang"/>
+<node id="Anyer"/>
+<edge id="e1" source="Cilacap" target="Purwokerto">
+<data key="key_weight">42.03</data>
+</edge>
+<edge id="e2" source="Cilacap" target="Tasikmalaya">
+<data key="key_weight">99.39</data>
+</edge>
+<edge id="e3" source="Purwokerto" target="Magelang">
+<data key="key_weight">108.59</data>
+</edge>
+<edge id="e4" source="Sukabumi" target="Bogor">
+<data key="key_weight">39.07</data>
+</edge>
+<edge id="e5" source="Sukabumi" target="Bandung">
+<data key="key_weight">76.42</data>
+</edge>
+<edge id="e6" source="Tasikmalaya" target="Bandung">
+<data key="key_weight">79.99</data>
+</edge>
+<edge id="e7" source="Pekalongan" target="Tegal">
+<data key="key_weight">59.13</data>
+</edge>
+<edge id="e8" source="Pekalongan" target="Semarang">
+<data key="key_weight">83.08</data>
+</edge>
+<edge id="e9" source="Semarang" target="Kudus">
+<data key="key_weight">50.91</data>
+</edge>
+<edge id="e10" source="Semarang" target="Surakarta">
+<data key="key_weight">77.33</data>
+</edge>
+<edge id="e11" source="Magelang" target="Yogyakarta">
+<data key="key_weight">38.14</data>
+</edge>
+<edge id="e12" source="Yogyakarta" target="Surakarta">
+<data key="key_weight">57.7</data>
+</edge>
+<edge id="e13" source="Kudus" target="Tuban">
+<data key="key_weight">133.99</data>
+</edge>
+<edge id="e14" source="Surakarta" target="Madium">
+<data key="key_weight">76.76</data>
+</edge>
+<edge id="e15" source="Nusa Dua" target="Banyunwangi">
+<data key="key_weight">1044.76</data>
+</edge>
+<edge id="e16" source="Surabaya" target="Probolinggo">
+<data key="key_weight">76.07</data>
+</edge>
+<edge id="e17" source="Surabaya" target="Kediri">
+<data key="key_weight">102.65</data>
+</edge>
+<edge id="e18" source="Surabaya" target="Tuban">
+<data key="key_weight">86.56</data>
+</edge>
+<edge id="e19" source="Kediri" target="Malang">
+<data key="key_weight">70.0</data>
+</edge>
+<edge id="e20" source="Kediri" target="Madium">
+<data key="key_weight">58.15</data>
+</edge>
+<edge id="e21" source="Banyunwangi" target="Jember">
+<data key="key_weight">73.08</data>
+</edge>
+<edge id="e22" source="Jember" target="Probolinggo">
+<data key="key_weight">70.56</data>
+</edge>
+<edge id="e23" source="Jember" target="Malang">
+<data key="key_weight">119.94</data>
+</edge>
+<edge id="e24" source="Cibaliung" target="Bogor">
+<data key="key_weight">105.5</data>
+</edge>
+<edge id="e25" source="Cibaliung" target="Anyer">
+<data key="key_weight">77.95</data>
+</edge>
+<edge id="e26" source="Tegal" target="Cirebon">
+<data key="key_weight">66.92</data>
+</edge>
+<edge id="e27" source="Cirebon" target="Bandung">
+<data key="key_weight">105.94</data>
+</edge>
+<edge id="e28" source="Bandung" target="Karawang">
+<data key="key_weight">75.22</data>
+</edge>
+<edge id="e29" source="Karawang" target="Jakarta">
+<data key="key_weight">51.85</data>
+</edge>
+<edge id="e30" source="Jakarta" target="Bogor">
+<data key="key_weight">42.7</data>
+</edge>
+<edge id="e31" source="Jakarta" target="Serang">
+<data key="key_weight">77.64</data>
+</edge>
+<edge id="e32" source="Serang" target="Anyer">
+<data key="key_weight">30.0</data>
+</edge>
+</graph></graphml>

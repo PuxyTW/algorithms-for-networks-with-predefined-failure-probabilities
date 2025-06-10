@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Iecava"/>
+<node id="Vircava"/>
+<node id="Kraslava"/>
+<node id="Baldone"/>
+<node id="Auce"/>
+<node id="Broceni"/>
+<node id="Platone"/>
+<node id="Dobele"/>
+<node id="Krimulda"/>
+<node id="Vijkene"/>
+<node id="Saldus"/>
+<node id="Kapsede"/>
+<node id="Viesite"/>
+<node id="Aizkroukle"/>
+<node id="Vilani"/>
+<node id="Gulbene"/>
+<node id="Rujiena"/>
+<node id="Salagriva"/>
+<node id="Aloja"/>
+<node id="Mazsalaca"/>
+<node id="Strenci"/>
+<node id="Pociems"/>
+<node id="Limbazi"/>
+<node id="Liepupe"/>
+<node id="Skriveri"/>
+<node id="Valmiera"/>
+<node id="Rezekne"/>
+<node id="Carnikava"/>
+<node id="Jumprava"/>
+<node id="Kegums"/>
+<node id="Riga"/>
+<node id="Daugapils"/>
+<node id="Ventspits"/>
+<node id="Grobina"/>
+<node id="Liepaja"/>
+<node id="Ulbroka"/>
+<node id="Olaine"/>
+<node id="Lielvarde"/>
+<node id="Ikskile"/>
+<node id="Salaspils"/>
+<node id="Bauska"/>
+<node id="Jekabpils"/>
+<node id="Jelgava"/>
+<node id="Kalnciems"/>
+<node id="Kekava"/>
+<node id="Livberze"/>
+<node id="Ledurga"/>
+<node id="Sigulda"/>
+<node id="Jurmala"/>
+<node id="Tukums"/>
+<node id="Talsi"/>
+<node id="Aizpute"/>
+<node id="Ragona"/>
+<node id="Vangazi"/>
+<node id="Adazi"/>
+<node id="Ozolnieki"/>
+<node id="Eleja"/>
+<node id="Ogre"/>
+<node id="Preili"/>
+<node id="Livani"/>
+<node id="Balvi"/>
+<node id="Karsava"/>
+<node id="Malnava"/>
+<node id="Pusmucova"/>
+<node id="Zvigzdene"/>
+<node id="Ludza"/>
+<node id="Cibla"/>
+<node id="Zilupe"/>
+<edge id="e1" source="Iecava" target="Riga">
+<data key="key_weight">39.08</data>
+</edge>
+<edge id="e2" source="Vircava" target="Platone">
+<data key="key_weight">5.26</data>
+</edge>
+<edge id="e3" source="Kraslava" target="Riga">
+<data key="key_weight">221.66</data>
+</edge>
+<edge id="e4" source="Baldone" target="Riga">
+<data key="key_weight">30.52</data>
+</edge>
+<edge id="e5" source="Auce" target="Dobele">
+<data key="key_weight">29.53</data>
+</edge>
+<edge id="e6" source="Broceni" target="Saldus">
+<data key="key_weight">4.9</data>
+</edge>
+<edge id="e7" source="Platone" target="Jelgava">
+<data key="key_weight">12.58</data>
+</edge>
+<edge id="e8" source="Platone" target="Eleja">
+<data key="key_weight">13.52</data>
+</edge>
+<edge id="e9" source="Dobele" target="Jelgava">
+<data key="key_weight">26.7</data>
+</edge>
+<edge id="e10" source="Krimulda" target="Sigulda">
+<data key="key_weight">9.8</data>
+</edge>
+<edge id="e11" source="Vijkene" target="Limbazi">
+<data key="key_weight">12.58</data>
+</edge>
+<edge id="e12" source="Saldus" target="Riga">
+<data key="key_weight">103.4</data>
+</edge>
+<edge id="e13" source="Kapsede" target="Liepaja">
+<data key="key_weight">11.06</data>
+</edge>
+<edge id="e14" source="Viesite" target="Jekabpils">
+<data key="key_weight">25.09</data>
+</edge>
+<edge id="e15" source="Viesite" target="Aizkroukle">
+<data key="key_weight">34.03</data>
+</edge>
+<edge id="e16" source="Aizkroukle" target="Jumprava">
+<data key="key_weight">20.91</data>
+</edge>
+<edge id="e17" source="Vilani" target="Riga">
+<data key="key_weight">177.36</data>
+</edge>
+<edge id="e18" source="Gulbene" target="Riga">
+<data key="key_weight">162.13</data>
+</edge>
+<edge id="e19" source="Rujiena" target="Mazsalaca">
+<data key="key_weight">16.81</data>
+</edge>
+<edge id="e20" source="Rujiena" target="Riga">
+<data key="key_weight">128.79</data>
+</edge>
+<edge id="e21" source="Salagriva" target="Liepupe">
+<data key="key_weight">32.88</data>
+</edge>
+<edge id="e22" source="Aloja" target="Mazsalaca">
+<data key="key_weight">14.8</data>
+</edge>
+<edge id="e23" source="Aloja" target="Pociems">
+<data key="key_weight">19.06</data>
+</edge>
+<edge id="e24" source="Aloja" target="Limbazi">
+<data key="key_weight">29.88</data>
+</edge>
+<edge id="e25" source="Strenci" target="Valmiera">
+<data key="key_weight">18.03</data>
+</edge>
+<edge id="e26" source="Limbazi" target="Riga">
+<data key="key_weight">73.07</data>
+</edge>
+<edge id="e27" source="Limbazi" target="Liepupe">
+<data key="key_weight">16.0</data>
+</edge>
+<edge id="e28" source="Liepupe" target="Sigulda">
+<data key="key_weight">42.1</data>
+</edge>
+<edge id="e29" source="Skriveri" target="Riga">
+<data key="key_weight">70.29</data>
+</edge>
+<edge id="e30" source="Valmiera" target="Riga">
+<data key="key_weight">103.47</data>
+</edge>
+<edge id="e31" source="Rezekne" target="Ludza">
+<data key="key_weight">25.16</data>
+</edge>
+<edge id="e32" source="Rezekne" target="Riga">
+<data key="key_weight">202.11</data>
+</edge>
+<edge id="e33" source="Rezekne" target="Daugapils">
+<data key="key_weight">83.99</data>
+</edge>
+<edge id="e34" source="Carnikava" target="Riga">
+<data key="key_weight">22.81</data>
+</edge>
+<edge id="e35" source="Carnikava" target="Adazi">
+<data key="key_weight">6.6</data>
+</edge>
+<edge id="e36" source="Jumprava" target="Lielvarde">
+<data key="key_weight">11.11</data>
+</edge>
+<edge id="e37" source="Kegums" target="Lielvarde">
+<data key="key_weight">5.75</data>
+</edge>
+<edge id="e38" source="Kegums" target="Ikskile">
+<data key="key_weight">16.83</data>
+</edge>
+<edge id="e39" source="Riga" target="Daugapils">
+<data key="key_weight">190.45</data>
+</edge>
+<edge id="e40" source="Riga" target="Liepaja">
+<data key="key_weight">194.42</data>
+</edge>
+<edge id="e41" source="Riga" target="Ulbroka">
+<data key="key_weight">11.17</data>
+</edge>
+<edge id="e42" source="Riga" target="Olaine">
+<data key="key_weight">20.58</data>
+</edge>
+<edge id="e43" source="Riga" target="Salaspils">
+<data key="key_weight">18.43</data>
+</edge>
+<edge id="e44" source="Riga" target="Bauska">
+<data key="key_weight">60.12</data>
+</edge>
+<edge id="e45" source="Riga" target="Jelgava">
+<data key="key_weight">40.71</data>
+</edge>
+<edge id="e46" source="Riga" target="Kekava">
+<data key="key_weight">15.27</data>
+</edge>
+<edge id="e47" source="Riga" target="Sigulda">
+<data key="key_weight">51.3</data>
+</edge>
+<edge id="e48" source="Riga" target="Jurmala">
+<data key="key_weight">20.49</data>
+</edge>
+<edge id="e49" source="Riga" target="Tukums">
+<data key="key_weight">57.7</data>
+</edge>
+<edge id="e50" source="Riga" target="Talsi">
+<data key="key_weight">97.96</data>
+</edge>
+<edge id="e51" source="Riga" target="Aizpute">
+<data key="key_weight">154.6</data>
+</edge>
+<edge id="e52" source="Riga" target="Adazi">
+<data key="key_weight">19.46</data>
+</edge>
+<edge id="e53" source="Riga" target="Preili">
+<data key="key_weight">175.86</data>
+</edge>
+<edge id="e54" source="Riga" target="Balvi">
+<data key="key_weight">192.31</data>
+</edge>
+<edge id="e55" source="Riga" target="Karsava">
+<data key="key_weight">218.52</data>
+</edge>
+<edge id="e56" source="Daugapils" target="Preili">
+<data key="key_weight">47.24</data>
+</edge>
+<edge id="e57" source="Ventspits" target="Tukums">
+<data key="key_weight">107.01</data>
+</edge>
+<edge id="e58" source="Grobina" target="Liepaja">
+<data key="key_weight">9.5</data>
+</edge>
+<edge id="e59" source="Olaine" target="Ozolnieki">
+<data key="key_weight">14.32</data>
+</edge>
+<edge id="e60" source="Ikskile" target="Ogre">
+<data key="key_weight">7.2</data>
+</edge>
+<edge id="e61" source="Ikskile" target="Salaspils">
+<data key="key_weight">8.71</data>
+</edge>
+<edge id="e62" source="Jekabpils" target="Livani">
+<data key="key_weight">25.35</data>
+</edge>
+<edge id="e63" source="Jelgava" target="Kalnciems">
+<data key="key_weight">22.43</data>
+</edge>
+<edge id="e64" source="Jelgava" target="Livberze">
+<data key="key_weight">13.69</data>
+</edge>
+<edge id="e65" source="Jelgava" target="Ozolnieki">
+<data key="key_weight">6.12</data>
+</edge>
+<edge id="e66" source="Ledurga" target="Sigulda">
+<data key="key_weight">20.33</data>
+</edge>
+<edge id="e67" source="Sigulda" target="Ragona">
+<data key="key_weight">10.02</data>
+</edge>
+<edge id="e68" source="Sigulda" target="Vangazi">
+<data key="key_weight">20.16</data>
+</edge>
+<edge id="e69" source="Karsava" target="Malnava">
+<data key="key_weight">2.11</data>
+</edge>
+<edge id="e70" source="Malnava" target="Pusmucova">
+<data key="key_weight">15.8</data>
+</edge>
+<edge id="e71" source="Zvigzdene" target="Ludza">
+<data key="key_weight">3.58</data>
+</edge>
+<edge id="e72" source="Ludza" target="Cibla">
+<data key="key_weight">10.22</data>
+</edge>
+<edge id="e73" source="Ludza" target="Zilupe">
+<data key="key_weight">30.84</data>
+</edge>
+</graph></graphml>

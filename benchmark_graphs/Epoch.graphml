@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Palo Alto"/>
+<node id="Los Angeles"/>
+<node id="Denver"/>
+<node id="Chicago"/>
+<node id="Vienna"/>
+<node id="Atlanta"/>
+<edge id="e1" source="Palo Alto" target="Los Angeles">
+<data key="key_weight">515.69</data>
+</edge>
+<edge id="e2" source="Palo Alto" target="Denver">
+<data key="key_weight">1510.99</data>
+</edge>
+<edge id="e3" source="Palo Alto" target="Vienna">
+<data key="key_weight">3887.6</data>
+</edge>
+<edge id="e4" source="Los Angeles" target="Atlanta">
+<data key="key_weight">3111.21</data>
+</edge>
+<edge id="e5" source="Denver" target="Chicago">
+<data key="key_weight">1475.8</data>
+</edge>
+<edge id="e6" source="Chicago" target="Vienna">
+<data key="key_weight">938.32</data>
+</edge>
+<edge id="e7" source="Vienna" target="Atlanta">
+<data key="key_weight">857.26</data>
+</edge>
+</graph></graphml>

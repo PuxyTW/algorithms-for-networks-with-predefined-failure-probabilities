@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Chugoku"/>
+<node id="Kinki"/>
+<node id="Kyushu"/>
+<node id="Shikoku"/>
+<node id="Shinetsu"/>
+<node id="Tokai"/>
+<node id="Hokuriku"/>
+<node id="Okinawa"/>
+<node id="Hokkaido"/>
+<node id="Tohoku"/>
+<node id="Tokyo"/>
+<edge id="e1" source="Chugoku" target="Kinki">
+<data key="key_weight">235.14</data>
+</edge>
+<edge id="e2" source="Chugoku" target="Kyushu">
+<data key="key_weight">249.08</data>
+</edge>
+<edge id="e3" source="Kinki" target="Shikoku">
+<data key="key_weight">230.3</data>
+</edge>
+<edge id="e4" source="Kinki" target="Tokai">
+<data key="key_weight">127.43</data>
+</edge>
+<edge id="e5" source="Kyushu" target="Okinawa">
+<data key="key_weight">802.97</data>
+</edge>
+<edge id="e6" source="Shinetsu" target="Tokyo">
+<data key="key_weight">1012.6</data>
+</edge>
+<edge id="e7" source="Tokai" target="Tokyo">
+<data key="key_weight">252.1</data>
+</edge>
+<edge id="e8" source="Hokuriku" target="Tokyo">
+<data key="key_weight">241.93</data>
+</edge>
+<edge id="e9" source="Hokkaido" target="Tohoku">
+<data key="key_weight">534.86</data>
+</edge>
+<edge id="e10" source="Tohoku" target="Tokyo">
+<data key="key_weight">316.7</data>
+</edge>
+</graph></graphml>

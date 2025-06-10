@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Revife"/>
+<node id="Maceio"/>
+<node id="Campina Grande"/>
+<node id="Jobo Passoa"/>
+<node id="Brasilia"/>
+<node id="Belo Horizonte"/>
+<node id="Aracaju"/>
+<node id="Salvador"/>
+<node id="Vitoria"/>
+<node id="Rio de Janeiro"/>
+<node id="Manaus"/>
+<node id="Goiania"/>
+<node id="Cuiaba"/>
+<node id="Curitiba"/>
+<node id="Porto Alegro"/>
+<node id="Florianopolis"/>
+<node id="Sao Paulo"/>
+<node id="Porto Velho"/>
+<node id="Rio Branco"/>
+<node id="Palmas"/>
+<node id="Campo Grande"/>
+<node id="Teresina"/>
+<node id="Natal"/>
+<node id="Boa Vista"/>
+<node id="Macapa"/>
+<node id="Belem"/>
+<node id="Sao Luis"/>
+<node id="Fortaleza"/>
+<edge id="e1" source="Revife" target="Campina Grande">
+<data key="key_weight">143.31</data>
+</edge>
+<edge id="e2" source="Revife" target="Teresina">
+<data key="key_weight">935.17</data>
+</edge>
+<edge id="e3" source="Maceio" target="Aracaju">
+<data key="key_weight">201.43</data>
+</edge>
+<edge id="e4" source="Campina Grande" target="Jobo Passoa">
+<data key="key_weight">113.08</data>
+</edge>
+<edge id="e5" source="Jobo Passoa" target="Natal">
+<data key="key_weight">151.73</data>
+</edge>
+<edge id="e6" source="Brasilia" target="Rio de Janeiro">
+<data key="key_weight">934.27</data>
+</edge>
+<edge id="e7" source="Brasilia" target="Boa Vista">
+<data key="key_weight">2498.99</data>
+</edge>
+<edge id="e8" source="Brasilia" target="Macapa">
+<data key="key_weight">1792.84</data>
+</edge>
+<edge id="e9" source="Brasilia" target="Manaus">
+<data key="key_weight">1934.32</data>
+</edge>
+<edge id="e10" source="Brasilia" target="Belo Horizonte">
+<data key="key_weight">625.03</data>
+</edge>
+<edge id="e11" source="Belo Horizonte" target="Sao Paulo">
+<data key="key_weight">490.31</data>
+</edge>
+<edge id="e12" source="Belo Horizonte" target="Fortaleza">
+<data key="key_weight">1894.86</data>
+</edge>
+<edge id="e13" source="Belo Horizonte" target="Salvador">
+<data key="key_weight">965.47</data>
+</edge>
+<edge id="e14" source="Aracaju" target="Salvador">
+<data key="key_weight">277.53</data>
+</edge>
+<edge id="e15" source="Salvador" target="Vitoria">
+<data key="key_weight">840.16</data>
+</edge>
+<edge id="e16" source="Vitoria" target="Rio de Janeiro">
+<data key="key_weight">413.04</data>
+</edge>
+<edge id="e17" source="Rio de Janeiro" target="Sao Paulo">
+<data key="key_weight">357.7</data>
+</edge>
+<edge id="e18" source="Goiania" target="Palmas">
+<data key="key_weight">725.63</data>
+</edge>
+<edge id="e19" source="Goiania" target="Cuiaba">
+<data key="key_weight">740.91</data>
+</edge>
+<edge id="e20" source="Cuiaba" target="Porto Velho">
+<data key="key_weight">1138.99</data>
+</edge>
+<edge id="e21" source="Cuiaba" target="Campo Grande">
+<data key="key_weight">560.46</data>
+</edge>
+<edge id="e22" source="Curitiba" target="Sao Paulo">
+<data key="key_weight">339.07</data>
+</edge>
+<edge id="e23" source="Curitiba" target="Campo Grande">
+<data key="key_weight">781.06</data>
+</edge>
+<edge id="e24" source="Curitiba" target="Porto Alegro">
+<data key="key_weight">547.23</data>
+</edge>
+<edge id="e25" source="Porto Alegro" target="Florianopolis">
+<data key="key_weight">376.39</data>
+</edge>
+<edge id="e26" source="Florianopolis" target="Sao Paulo">
+<data key="key_weight">489.54</data>
+</edge>
+<edge id="e27" source="Porto Velho" target="Rio Branco">
+<data key="key_weight">449.38</data>
+</edge>
+<edge id="e28" source="Teresina" target="Belem">
+<data key="key_weight">751.11</data>
+</edge>
+<edge id="e29" source="Natal" target="Fortaleza">
+<data key="key_weight">435.81</data>
+</edge>
+<edge id="e30" source="Belem" target="Sao Luis">
+<data key="key_weight">482.08</data>
+</edge>
+<edge id="e31" source="Sao Luis" target="Fortaleza">
+<data key="key_weight">653.16</data>
+</edge>
+</graph></graphml>

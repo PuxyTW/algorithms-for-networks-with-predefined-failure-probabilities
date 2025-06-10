@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Ostrava"/>
+<node id="Plzen"/>
+<node id="Praha"/>
+<node id="Liberec"/>
+<node id="Ceske Budejovice"/>
+<node id="Pardubice"/>
+<node id="Hradec Kralove"/>
+<node id="Olomouc"/>
+<node id="Brno"/>
+<edge id="e1" source="Ostrava" target="Brno">
+<data key="key_weight">140.26</data>
+</edge>
+<edge id="e2" source="Plzen" target="Praha">
+<data key="key_weight">83.76</data>
+</edge>
+<edge id="e3" source="Praha" target="Liberec">
+<data key="key_weight">87.93</data>
+</edge>
+<edge id="e4" source="Praha" target="Ceske Budejovice">
+<data key="key_weight">123.92</data>
+</edge>
+<edge id="e5" source="Praha" target="Pardubice">
+<data key="key_weight">96.95</data>
+</edge>
+<edge id="e6" source="Praha" target="Hradec Kralove">
+<data key="key_weight">101.54</data>
+</edge>
+<edge id="e7" source="Praha" target="Brno">
+<data key="key_weight">186.21</data>
+</edge>
+<edge id="e8" source="Olomouc" target="Brno">
+<data key="key_weight">64.45</data>
+</edge>
+</graph></graphml>

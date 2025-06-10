@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Karditsa"/>
+<node id="Volos"/>
+<node id="Larissa"/>
+<node id="Trikala"/>
+<node id="Mytilini"/>
+<node id="Chios"/>
+<node id="Igoumenitsa"/>
+<node id="Kerkira"/>
+<node id="Ermoupoli"/>
+<node id="Mykonos"/>
+<node id="Mesologgi"/>
+<node id="Chania"/>
+<node id="Heraklio"/>
+<node id="Rethymno"/>
+<node id="Pylos"/>
+<node id="Kalamata"/>
+<node id="Halkida"/>
+<node id="Athens"/>
+<node id="Rhodos"/>
+<node id="Karlovassi"/>
+<node id="Tripoli"/>
+<node id="Patra"/>
+<node id="Kalavrita"/>
+<node id="Korinthos"/>
+<node id="Limnos"/>
+<node id="Ioannina"/>
+<node id="Serres"/>
+<node id="Thessaloniki"/>
+<node id="Edessa"/>
+<node id="Kastoria"/>
+<node id="Kavala"/>
+<node id="Xanthi"/>
+<node id="Komotini"/>
+<node id="Alexandroupoli"/>
+<edge id="e1" source="Karditsa" target="Larissa">
+<data key="key_weight">52.38</data>
+</edge>
+<edge id="e2" source="Volos" target="Larissa">
+<data key="key_weight">54.22</data>
+</edge>
+<edge id="e3" source="Larissa" target="Trikala">
+<data key="key_weight">56.68</data>
+</edge>
+<edge id="e4" source="Larissa" target="Athens">
+<data key="key_weight">215.9</data>
+</edge>
+<edge id="e5" source="Larissa" target="Thessaloniki">
+<data key="key_weight">120.12</data>
+</edge>
+<edge id="e6" source="Mytilini" target="Limnos">
+<data key="key_weight">90.09</data>
+</edge>
+<edge id="e7" source="Mytilini" target="Chios">
+<data key="key_weight">90.2</data>
+</edge>
+<edge id="e8" source="Chios" target="Ermoupoli">
+<data key="key_weight">146.85</data>
+</edge>
+<edge id="e9" source="Igoumenitsa" target="Ioannina">
+<data key="key_weight">53.37</data>
+</edge>
+<edge id="e10" source="Igoumenitsa" target="Kerkira">
+<data key="key_weight">32.35</data>
+</edge>
+<edge id="e11" source="Ermoupoli" target="Mykonos">
+<data key="key_weight">34.11</data>
+</edge>
+<edge id="e12" source="Ermoupoli" target="Xanthi">
+<data key="key_weight">411.47</data>
+</edge>
+<edge id="e13" source="Ermoupoli" target="Athens">
+<data key="key_weight">123.34</data>
+</edge>
+<edge id="e14" source="Ermoupoli" target="Heraklio">
+<data key="key_weight">235.86</data>
+</edge>
+<edge id="e15" source="Mykonos" target="Karlovassi">
+<data key="key_weight">127.13</data>
+</edge>
+<edge id="e16" source="Mesologgi" target="Patra">
+<data key="key_weight">30.06</data>
+</edge>
+<edge id="e17" source="Chania" target="Athens">
+<data key="key_weight">275.71</data>
+</edge>
+<edge id="e18" source="Chania" target="Heraklio">
+<data key="key_weight">104.27</data>
+</edge>
+<edge id="e19" source="Heraklio" target="Rethymno">
+<data key="key_weight">61.11</data>
+</edge>
+<edge id="e20" source="Heraklio" target="Athens">
+<data key="key_weight">321.23</data>
+</edge>
+<edge id="e21" source="Heraklio" target="Rhodos">
+<data key="key_weight">303.82</data>
+</edge>
+<edge id="e22" source="Pylos" target="Kalamata">
+<data key="key_weight">39.66</data>
+</edge>
+<edge id="e23" source="Kalamata" target="Patra">
+<data key="key_weight">138.2</data>
+</edge>
+<edge id="e24" source="Halkida" target="Athens">
+<data key="key_weight">54.81</data>
+</edge>
+<edge id="e25" source="Athens" target="Patra">
+<data key="key_weight">175.92</data>
+</edge>
+<edge id="e26" source="Athens" target="Korinthos">
+<data key="key_weight">73.39</data>
+</edge>
+<edge id="e27" source="Athens" target="Thessaloniki">
+<data key="key_weight">303.32</data>
+</edge>
+<edge id="e28" source="Rhodos" target="Karlovassi">
+<data key="key_weight">201.63</data>
+</edge>
+<edge id="e29" source="Tripoli" target="Korinthos">
+<data key="key_weight">63.43</data>
+</edge>
+<edge id="e30" source="Patra" target="Kalavrita">
+<data key="key_weight">40.63</data>
+</edge>
+<edge id="e31" source="Patra" target="Ioannina">
+<data key="key_weight">175.76</data>
+</edge>
+<edge id="e32" source="Ioannina" target="Thessaloniki">
+<data key="key_weight">208.24</data>
+</edge>
+<edge id="e33" source="Serres" target="Thessaloniki">
+<data key="key_weight">71.06</data>
+</edge>
+<edge id="e34" source="Thessaloniki" target="Xanthi">
+<data key="key_weight">172.35</data>
+</edge>
+<edge id="e35" source="Thessaloniki" target="Edessa">
+<data key="key_weight">77.66</data>
+</edge>
+<edge id="e36" source="Edessa" target="Kastoria">
+<data key="key_weight">73.04</data>
+</edge>
+<edge id="e37" source="Kavala" target="Xanthi">
+<data key="key_weight">46.22</data>
+</edge>
+<edge id="e38" source="Xanthi" target="Komotini">
+<data key="key_weight">43.01</data>
+</edge>
+<edge id="e39" source="Komotini" target="Alexandroupoli">
+<data key="key_weight">50.48</data>
+</edge>
+</graph></graphml>

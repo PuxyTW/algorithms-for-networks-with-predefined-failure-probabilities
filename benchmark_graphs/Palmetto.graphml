@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Rock Hill"/>
+<node id="Charlotte"/>
+<node id="Bethune"/>
+<node id="Lancaster"/>
+<node id="Courtney"/>
+<node id="Lexington"/>
+<node id="Concord"/>
+<node id="Salisbury"/>
+<node id="High Point"/>
+<node id="Asheboro"/>
+<node id="Orangeburg"/>
+<node id="Aiken"/>
+<node id="Chester"/>
+<node id="Columbia"/>
+<node id="Sumter"/>
+<node id="Georgetown"/>
+<node id="Moncks Corner"/>
+<node id="Charleston"/>
+<node id="St George"/>
+<node id="Walterboro"/>
+<node id="Yemassee"/>
+<node id="Augusta"/>
+<node id="Hilton Head"/>
+<node id="Beaufort"/>
+<node id="Savannah"/>
+<node id="Greenwood"/>
+<node id="Due West"/>
+<node id="Spartanburg"/>
+<node id="Asheville"/>
+<node id="Boone"/>
+<node id="Hickory"/>
+<node id="Anderson"/>
+<node id="Clemson"/>
+<node id="Toccoa"/>
+<node id="Greenville"/>
+<node id="Myrtle Beach"/>
+<node id="Florence"/>
+<node id="Baldwin"/>
+<node id="Sparta"/>
+<node id="Level Cross"/>
+<node id="Greensboro"/>
+<node id="Raleigh"/>
+<node id="Rocky Mount"/>
+<node id="Fayetteville"/>
+<node id="Wilmington"/>
+<edge id="e1" source="Rock Hill" target="Charlotte">
+<data key="key_weight">37.47</data>
+</edge>
+<edge id="e2" source="Rock Hill" target="Lancaster">
+<data key="key_weight">32.49</data>
+</edge>
+<edge id="e3" source="Rock Hill" target="Chester">
+<data key="key_weight">29.95</data>
+</edge>
+<edge id="e4" source="Charlotte" target="Spartanburg">
+<data key="key_weight">103.8</data>
+</edge>
+<edge id="e5" source="Charlotte" target="Concord">
+<data key="key_weight">31.32</data>
+</edge>
+<edge id="e6" source="Bethune" target="Lancaster">
+<data key="key_weight">51.48</data>
+</edge>
+<edge id="e7" source="Bethune" target="Florence">
+<data key="key_weight">59.13</data>
+</edge>
+<edge id="e8" source="Bethune" target="Sumter">
+<data key="key_weight">55.0</data>
+</edge>
+<edge id="e9" source="Courtney" target="Lexington">
+<data key="key_weight">42.23</data>
+</edge>
+<edge id="e10" source="Courtney" target="Baldwin">
+<data key="key_weight">87.9</data>
+</edge>
+<edge id="e11" source="Courtney" target="Level Cross">
+<data key="key_weight">48.86</data>
+</edge>
+<edge id="e12" source="Lexington" target="High Point">
+<data key="key_weight">26.72</data>
+</edge>
+<edge id="e13" source="Lexington" target="Asheboro">
+<data key="key_weight">41.74</data>
+</edge>
+<edge id="e14" source="Lexington" target="Concord">
+<data key="key_weight">54.8</data>
+</edge>
+<edge id="e15" source="Lexington" target="Salisbury">
+<data key="key_weight">27.55</data>
+</edge>
+<edge id="e16" source="Concord" target="Salisbury">
+<data key="key_weight">28.2</data>
+</edge>
+<edge id="e17" source="High Point" target="Greensboro">
+<data key="key_weight">23.19</data>
+</edge>
+<edge id="e18" source="High Point" target="Asheboro">
+<data key="key_weight">32.53</data>
+</edge>
+<edge id="e19" source="Orangeburg" target="St George">
+<data key="key_weight">42.83</data>
+</edge>
+<edge id="e20" source="Orangeburg" target="Columbia">
+<data key="key_weight">58.98</data>
+</edge>
+<edge id="e21" source="Aiken" target="Augusta">
+<data key="key_weight">23.68</data>
+</edge>
+<edge id="e22" source="Aiken" target="Columbia">
+<data key="key_weight">80.03</data>
+</edge>
+<edge id="e23" source="Chester" target="Due West">
+<data key="key_weight">115.22</data>
+</edge>
+<edge id="e24" source="Chester" target="Columbia">
+<data key="key_weight">80.03</data>
+</edge>
+<edge id="e25" source="Columbia" target="Augusta">
+<data key="key_weight">102.38</data>
+</edge>
+<edge id="e26" source="Columbia" target="Sumter">
+<data key="key_weight">64.58</data>
+</edge>
+<edge id="e27" source="Sumter" target="Moncks Corner">
+<data key="key_weight">86.13</data>
+</edge>
+<edge id="e28" source="Sumter" target="Florence">
+<data key="key_weight">61.49</data>
+</edge>
+<edge id="e29" source="Sumter" target="Georgetown">
+<data key="key_weight">114.25</data>
+</edge>
+<edge id="e30" source="Georgetown" target="Myrtle Beach">
+<data key="key_weight">51.34</data>
+</edge>
+<edge id="e31" source="Moncks Corner" target="Charleston">
+<data key="key_weight">47.28</data>
+</edge>
+<edge id="e32" source="Charleston" target="Savannah">
+<data key="key_weight">134.1</data>
+</edge>
+<edge id="e33" source="Charleston" target="St George">
+<data key="key_weight">75.45</data>
+</edge>
+<edge id="e34" source="Charleston" target="Myrtle Beach">
+<data key="key_weight">140.49</data>
+</edge>
+<edge id="e35" source="St George" target="Walterboro">
+<data key="key_weight">32.37</data>
+</edge>
+<edge id="e36" source="Walterboro" target="Yemassee">
+<data key="key_weight">29.45</data>
+</edge>
+<edge id="e37" source="Yemassee" target="Savannah">
+<data key="key_weight">71.42</data>
+</edge>
+<edge id="e38" source="Yemassee" target="Hilton Head">
+<data key="key_weight">53.5</data>
+</edge>
+<edge id="e39" source="Yemassee" target="Beaufort">
+<data key="key_weight">33.39</data>
+</edge>
+<edge id="e40" source="Augusta" target="Savannah">
+<data key="key_weight">177.28</data>
+</edge>
+<edge id="e41" source="Augusta" target="Anderson">
+<data key="key_weight">128.07</data>
+</edge>
+<edge id="e42" source="Hilton Head" target="Savannah">
+<data key="key_weight">35.88</data>
+</edge>
+<edge id="e43" source="Greenwood" target="Due West">
+<data key="key_weight">25.84</data>
+</edge>
+<edge id="e44" source="Due West" target="Anderson">
+<data key="key_weight">30.6</data>
+</edge>
+<edge id="e45" source="Spartanburg" target="Greenville">
+<data key="key_weight">43.5</data>
+</edge>
+<edge id="e46" source="Spartanburg" target="Hickory">
+<data key="key_weight">102.32</data>
+</edge>
+<edge id="e47" source="Asheville" target="Greenville">
+<data key="key_weight">84.49</data>
+</edge>
+<edge id="e48" source="Asheville" target="Hickory">
+<data key="key_weight">110.58</data>
+</edge>
+<edge id="e49" source="Boone" target="Baldwin">
+<data key="key_weight">19.32</data>
+</edge>
+<edge id="e50" source="Anderson" target="Clemson">
+<data key="key_weight">26.36</data>
+</edge>
+<edge id="e51" source="Anderson" target="Toccoa">
+<data key="key_weight">63.05</data>
+</edge>
+<edge id="e52" source="Clemson" target="Toccoa">
+<data key="key_weight">46.82</data>
+</edge>
+<edge id="e53" source="Clemson" target="Greenville">
+<data key="key_weight">44.67</data>
+</edge>
+<edge id="e54" source="Toccoa" target="Greenville">
+<data key="key_weight">91.09</data>
+</edge>
+<edge id="e55" source="Myrtle Beach" target="Florence">
+<data key="key_weight">98.51</data>
+</edge>
+<edge id="e56" source="Myrtle Beach" target="Wilmington">
+<data key="key_weight">105.43</data>
+</edge>
+<edge id="e57" source="Florence" target="Fayetteville">
+<data key="key_weight">125.06</data>
+</edge>
+<edge id="e58" source="Baldwin" target="Sparta">
+<data key="key_weight">40.83</data>
+</edge>
+<edge id="e59" source="Sparta" target="Level Cross">
+<data key="key_weight">45.93</data>
+</edge>
+<edge id="e60" source="Greensboro" target="Raleigh">
+<data key="key_weight">109.13</data>
+</edge>
+<edge id="e61" source="Raleigh" target="Rocky Mount">
+<data key="key_weight">77.78</data>
+</edge>
+<edge id="e62" source="Raleigh" target="Fayetteville">
+<data key="key_weight">82.92</data>
+</edge>
+<edge id="e63" source="Rocky Mount" target="Fayetteville">
+<data key="key_weight">137.85</data>
+</edge>
+<edge id="e64" source="Fayetteville" target="Wilmington">
+<data key="key_weight">125.54</data>
+</edge>
+</graph></graphml>

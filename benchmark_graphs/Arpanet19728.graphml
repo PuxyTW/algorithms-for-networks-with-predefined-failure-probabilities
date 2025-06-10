@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="ILLINOIS"/>
+<node id="MITRE"/>
+<node id="CARNEGIE"/>
+<node id="CASE"/>
+<node id="ETAC"/>
+<node id="AFGWC"/>
+<node id="BBN"/>
+<node id="NBS"/>
+<node id="Tinker"/>
+<node id="AMES"/>
+<node id="ARPA"/>
+<node id="RADC"/>
+<node id="McClellan"/>
+<node id="RAND"/>
+<node id="AMES"/>
+<node id="NOAA {[Boulder, Colorado}}"/>
+<node id="SAAC"/>
+<node id="BELVOIR"/>
+<node id="SDC"/>
+<node id="BBN"/>
+<node id="HARVARD"/>
+<node id="SRI"/>
+<node id="UCSB"/>
+<node id="UCLA"/>
+<node id="Stanford"/>
+<node id="USC"/>
+<node id="UTAH"/>
+<node id="Lincoln"/>
+<node id="MIT"/>
+<edge id="e1" source="ILLINOIS" target="UTAH">
+<data key="key_weight">1885.69</data>
+</edge>
+<edge id="e2" source="ILLINOIS" target="MIT">
+<data key="key_weight">1577.9</data>
+</edge>
+<edge id="e3" source="MITRE" target="SAAC">
+<data key="key_weight">606.97</data>
+</edge>
+<edge id="e4" source="MITRE" target="ARPA">
+<data key="key_weight">606.56</data>
+</edge>
+<edge id="e5" source="CARNEGIE" target="BELVOIR">
+<data key="key_weight">307.36</data>
+</edge>
+<edge id="e6" source="CARNEGIE" target="CASE">
+<data key="key_weight">182.44</data>
+</edge>
+<edge id="e7" source="CASE" target="RADC">
+<data key="key_weight">539.17</data>
+</edge>
+<edge id="e8" source="CASE" target="AFGWC">
+<data key="key_weight">775.88</data>
+</edge>
+<edge id="e9" source="ETAC" target="Tinker">
+<data key="key_weight">1840.93</data>
+</edge>
+<edge id="e10" source="ETAC" target="ARPA">
+<data key="key_weight">6.08</data>
+</edge>
+<edge id="e11" source="ETAC" target="NBS">
+<data key="key_weight">31.08</data>
+</edge>
+<edge id="e12" source="AFGWC" target="NOAA {[Boulder, Colorado}}">
+<data key="key_weight">1354.51</data>
+</edge>
+<edge id="e13" source="BBN" target="BBN">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e14" source="BBN" target="MIT">
+<data key="key_weight">2.07</data>
+</edge>
+<edge id="e15" source="NBS" target="HARVARD">
+<data key="key_weight">626.05</data>
+</edge>
+<edge id="e16" source="Tinker" target="RAND">
+<data key="key_weight">1932.05</data>
+</edge>
+<edge id="e17" source="AMES" target="SRI">
+<data key="key_weight">11.5</data>
+</edge>
+<edge id="e18" source="AMES" target="AMES">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e19" source="RADC" target="Lincoln">
+<data key="key_weight">355.45</data>
+</edge>
+<edge id="e20" source="McClellan" target="UTAH">
+<data key="key_weight">842.8</data>
+</edge>
+<edge id="e21" source="McClellan" target="SRI">
+<data key="key_weight">154.29</data>
+</edge>
+<edge id="e22" source="RAND" target="Stanford">
+<data key="key_weight">503.52</data>
+</edge>
+<edge id="e23" source="RAND" target="UCLA">
+<data key="key_weight">23.1</data>
+</edge>
+<edge id="e24" source="AMES" target="Stanford">
+<data key="key_weight">8.12</data>
+</edge>
+<edge id="e25" source="NOAA {[Boulder, Colorado}}" target="USC">
+<data key="key_weight">1304.96</data>
+</edge>
+<edge id="e26" source="SAAC" target="BELVOIR">
+<data key="key_weight">13.44</data>
+</edge>
+<edge id="e27" source="SDC" target="USC">
+<data key="key_weight">23.1</data>
+</edge>
+<edge id="e28" source="SDC" target="UCLA">
+<data key="key_weight">23.1</data>
+</edge>
+<edge id="e29" source="BBN" target="HARVARD">
+<data key="key_weight">0.96</data>
+</edge>
+<edge id="e30" source="SRI" target="UCSB">
+<data key="key_weight">404.74</data>
+</edge>
+<edge id="e31" source="UCSB" target="UCLA">
+<data key="key_weight">139.89</data>
+</edge>
+<edge id="e32" source="Lincoln" target="MIT">
+<data key="key_weight">14.64</data>
+</edge>
+</graph></graphml>

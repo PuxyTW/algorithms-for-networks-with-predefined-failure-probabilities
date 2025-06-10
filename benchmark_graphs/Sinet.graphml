@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Fukuoka DC"/>
+<node id="Oita U"/>
+<node id="Kyushu U"/>
+<node id="Hiroshima U"/>
+<node id="Hiroshima DC"/>
+<node id="Ehime U"/>
+<node id="Yamaguchi U"/>
+<node id="Matsuyama DC"/>
+<node id="Kagawa U"/>
+<node id="Chiba U"/>
+<node id="Shinshu U"/>
+<node id="Kanazawa U"/>
+<node id="Doshisha U"/>
+<node id="Nagoya DC"/>
+<node id="Shizuoka U"/>
+<node id="Nagoya U"/>
+<node id="Kanazawa DC"/>
+<node id="Toyama U"/>
+<node id="Yamanashi U"/>
+<node id="U Tokushima"/>
+<node id="Tokyo DC3"/>
+<node id="Tokyo DC1"/>
+<node id="Tokyo DC2"/>
+<node id="Keio U"/>
+<node id="Niigata U"/>
+<node id="Fukui U"/>
+<node id="Tsukuba DC"/>
+<node id="U Tsukuba"/>
+<node id="Gunma U"/>
+<node id="U Tokyo"/>
+<node id="Kyoto DC"/>
+<node id="Kyoto U"/>
+<node id="Waseda U"/>
+<node id="Kansai U"/>
+<node id="Osaka U"/>
+<node id="Kobe U"/>
+<node id="Tottori U"/>
+<node id="Okayama U"/>
+<node id="Osaka DC"/>
+<node id="Saitama U"/>
+<node id="Nagasaki U"/>
+<node id="Sapporo DC"/>
+<node id="Hokkaido U"/>
+<node id="Hirosaki U"/>
+<node id="Sendai DC"/>
+<node id="Tohoku U"/>
+<node id="Kagoshima U"/>
+<edge id="e1" source="Fukuoka DC" target="Nagasaki U">
+<data key="key_weight">108.42</data>
+</edge>
+<edge id="e2" source="Fukuoka DC" target="Oita U">
+<data key="key_weight">118.21</data>
+</edge>
+<edge id="e3" source="Fukuoka DC" target="Kyushu U">
+<data key="key_weight">86.46</data>
+</edge>
+<edge id="e4" source="Fukuoka DC" target="Hiroshima DC">
+<data key="key_weight">207.72</data>
+</edge>
+<edge id="e5" source="Fukuoka DC" target="Kagoshima U">
+<data key="key_weight">227.97</data>
+</edge>
+<edge id="e6" source="Fukuoka DC" target="Matsuyama DC">
+<data key="key_weight">218.72</data>
+</edge>
+<edge id="e7" source="Hiroshima U" target="Hiroshima DC">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e8" source="Hiroshima DC" target="Yamaguchi U">
+<data key="key_weight">93.76</data>
+</edge>
+<edge id="e9" source="Hiroshima DC" target="Kyoto DC">
+<data key="key_weight">309.12</data>
+</edge>
+<edge id="e10" source="Hiroshima DC" target="Tottori U">
+<data key="key_weight">203.04</data>
+</edge>
+<edge id="e11" source="Hiroshima DC" target="Okayama U">
+<data key="key_weight">138.4</data>
+</edge>
+<edge id="e12" source="Ehime U" target="Matsuyama DC">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e13" source="Matsuyama DC" target="U Tokushima">
+<data key="key_weight">167.4</data>
+</edge>
+<edge id="e14" source="Matsuyama DC" target="Kagawa U">
+<data key="key_weight">130.21</data>
+</edge>
+<edge id="e15" source="Matsuyama DC" target="Osaka DC">
+<data key="key_weight">268.88</data>
+</edge>
+<edge id="e16" source="Chiba U" target="Tokyo DC2">
+<data key="key_weight">49.03</data>
+</edge>
+<edge id="e17" source="Shinshu U" target="Tokyo DC2">
+<data key="key_weight">547.56</data>
+</edge>
+<edge id="e18" source="Kanazawa U" target="Kanazawa DC">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e19" source="Doshisha U" target="Kyoto DC">
+<data key="key_weight">24.07</data>
+</edge>
+<edge id="e20" source="Nagoya DC" target="Tokyo DC1">
+<data key="key_weight">247.26</data>
+</edge>
+<edge id="e21" source="Nagoya DC" target="Shizuoka U">
+<data key="key_weight">136.32</data>
+</edge>
+<edge id="e22" source="Nagoya DC" target="Nagoya U">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e23" source="Nagoya DC" target="Osaka DC">
+<data key="key_weight">139.05</data>
+</edge>
+<edge id="e24" source="Kanazawa DC" target="Sapporo DC">
+<data key="key_weight">824.56</data>
+</edge>
+<edge id="e25" source="Kanazawa DC" target="Tokyo DC2">
+<data key="key_weight">287.08</data>
+</edge>
+<edge id="e26" source="Kanazawa DC" target="Niigata U">
+<data key="key_weight">257.35</data>
+</edge>
+<edge id="e27" source="Kanazawa DC" target="Fukui U">
+<data key="key_weight">69.13</data>
+</edge>
+<edge id="e28" source="Kanazawa DC" target="Kyoto DC">
+<data key="key_weight">191.85</data>
+</edge>
+<edge id="e29" source="Kanazawa DC" target="Toyama U">
+<data key="key_weight">53.47</data>
+</edge>
+<edge id="e30" source="Yamanashi U" target="Tokyo DC2">
+<data key="key_weight">91.73</data>
+</edge>
+<edge id="e31" source="Tokyo DC3" target="Tokyo DC2">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e32" source="Tokyo DC1" target="Tokyo DC2">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e33" source="Tokyo DC1" target="Keio U">
+<data key="key_weight">14.25</data>
+</edge>
+<edge id="e34" source="Tokyo DC1" target="Tsukuba DC">
+<data key="key_weight">80.12</data>
+</edge>
+<edge id="e35" source="Tokyo DC1" target="U Tokyo">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e36" source="Tokyo DC1" target="Waseda U">
+<data key="key_weight">298.67</data>
+</edge>
+<edge id="e37" source="Tokyo DC2" target="Gunma U">
+<data key="key_weight">98.22</data>
+</edge>
+<edge id="e38" source="Tokyo DC2" target="Saitama U">
+<data key="key_weight">33.31</data>
+</edge>
+<edge id="e39" source="Tsukuba DC" target="Sendai DC">
+<data key="key_weight">240.05</data>
+</edge>
+<edge id="e40" source="Tsukuba DC" target="U Tsukuba">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e41" source="Kyoto DC" target="Kyoto U">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e42" source="Kyoto DC" target="Osaka DC">
+<data key="key_weight">43.05</data>
+</edge>
+<edge id="e43" source="Kansai U" target="Osaka DC">
+<data key="key_weight">103.27</data>
+</edge>
+<edge id="e44" source="Osaka U" target="Osaka DC">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e45" source="Kobe U" target="Osaka DC">
+<data key="key_weight">29.19</data>
+</edge>
+<edge id="e46" source="Sapporo DC" target="Hokkaido U">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e47" source="Sapporo DC" target="Sendai DC">
+<data key="key_weight">534.86</data>
+</edge>
+<edge id="e48" source="Hirosaki U" target="Sendai DC">
+<data key="key_weight">260.78</data>
+</edge>
+<edge id="e49" source="Sendai DC" target="Tohoku U">
+<data key="key_weight">1055.0</data>
+</edge>
+</graph></graphml>

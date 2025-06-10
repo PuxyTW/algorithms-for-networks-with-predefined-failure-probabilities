@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Miskolc"/>
+<node id="Sarospatak"/>
+<node id="Gyongyos"/>
+<node id="Eger"/>
+<node id="Godollo"/>
+<node id="Jaszbereny"/>
+<node id="Nyiregyhaza"/>
+<node id="Debrecen"/>
+<node id="Szolnok"/>
+<node id="Kecskemet"/>
+<node id="Szekesfahervar"/>
+<node id="Veszprem"/>
+<node id="Keszthely"/>
+<node id="Nagykanizsa"/>
+<node id="Zalaegerszeg"/>
+<node id="Szombathely"/>
+<node id="Kaposvar"/>
+<node id="Szekszard"/>
+<node id="Hodmazovasarhely"/>
+<node id="Bekescsaba"/>
+<node id="Szavas"/>
+<node id="Dunaujvaros"/>
+<node id="Baja"/>
+<node id="Pecs"/>
+<node id="Szabadka"/>
+<node id="Szeged"/>
+<node id="Mosonmagyarovar"/>
+<node id="Sopron"/>
+<node id="Salgotarjan"/>
+<node id="Vac"/>
+<node id="Esztergom"/>
+<node id="Budapest"/>
+<node id="Revkomarom"/>
+<node id="Piliscsaba"/>
+<node id="Gyor"/>
+<edge id="e1" source="Miskolc" target="Budapest">
+<data key="key_weight">146.46</data>
+</edge>
+<edge id="e2" source="Miskolc" target="Sarospatak">
+<data key="key_weight">64.01</data>
+</edge>
+<edge id="e3" source="Miskolc" target="Eger">
+<data key="key_weight">37.59</data>
+</edge>
+<edge id="e4" source="Miskolc" target="Debrecen">
+<data key="key_weight">89.46</data>
+</edge>
+<edge id="e5" source="Gyongyos" target="Godollo">
+<data key="key_weight">47.07</data>
+</edge>
+<edge id="e6" source="Godollo" target="Budapest">
+<data key="key_weight">27.03</data>
+</edge>
+<edge id="e7" source="Godollo" target="Jaszbereny">
+<data key="key_weight">42.76</data>
+</edge>
+<edge id="e8" source="Jaszbereny" target="Szolnok">
+<data key="key_weight">41.19</data>
+</edge>
+<edge id="e9" source="Nyiregyhaza" target="Debrecen">
+<data key="key_weight">47.36</data>
+</edge>
+<edge id="e10" source="Debrecen" target="Budapest">
+<data key="key_weight">194.85</data>
+</edge>
+<edge id="e11" source="Debrecen" target="Bekescsaba">
+<data key="key_weight">102.8</data>
+</edge>
+<edge id="e12" source="Szolnok" target="Kecskemet">
+<data key="key_weight">49.37</data>
+</edge>
+<edge id="e13" source="Kecskemet" target="Dunaujvaros">
+<data key="key_weight">58.19</data>
+</edge>
+<edge id="e14" source="Szekesfahervar" target="Veszprem">
+<data key="key_weight">39.24</data>
+</edge>
+<edge id="e15" source="Veszprem" target="Budapest">
+<data key="key_weight">96.29</data>
+</edge>
+<edge id="e16" source="Veszprem" target="Sopron">
+<data key="key_weight">118.58</data>
+</edge>
+<edge id="e17" source="Veszprem" target="Keszthely">
+<data key="key_weight">62.0</data>
+</edge>
+<edge id="e18" source="Nagykanizsa" target="Kaposvar">
+<data key="key_weight">62.79</data>
+</edge>
+<edge id="e19" source="Nagykanizsa" target="Zalaegerszeg">
+<data key="key_weight">44.44</data>
+</edge>
+<edge id="e20" source="Zalaegerszeg" target="Szombathely">
+<data key="key_weight">46.63</data>
+</edge>
+<edge id="e21" source="Szombathely" target="Sopron">
+<data key="key_weight">50.35</data>
+</edge>
+<edge id="e22" source="Kaposvar" target="Pecs">
+<data key="key_weight">45.88</data>
+</edge>
+<edge id="e23" source="Szekszard" target="Pecs">
+<data key="key_weight">47.58</data>
+</edge>
+<edge id="e24" source="Hodmazovasarhely" target="Szeged">
+<data key="key_weight">23.1</data>
+</edge>
+<edge id="e25" source="Hodmazovasarhely" target="Bekescsaba">
+<data key="key_weight">65.72</data>
+</edge>
+<edge id="e26" source="Bekescsaba" target="Szavas">
+<data key="key_weight">46.6</data>
+</edge>
+<edge id="e27" source="Dunaujvaros" target="Budapest">
+<data key="key_weight">57.81</data>
+</edge>
+<edge id="e28" source="Baja" target="Pecs">
+<data key="key_weight">57.61</data>
+</edge>
+<edge id="e29" source="Pecs" target="Budapest">
+<data key="key_weight">168.91</data>
+</edge>
+<edge id="e30" source="Pecs" target="Szeged">
+<data key="key_weight">148.7</data>
+</edge>
+<edge id="e31" source="Szabadka" target="Szeged">
+<data key="key_weight">87.46</data>
+</edge>
+<edge id="e32" source="Szeged" target="Budapest">
+<data key="key_weight">162.1</data>
+</edge>
+<edge id="e33" source="Mosonmagyarovar" target="Gyor">
+<data key="key_weight">33.28</data>
+</edge>
+<edge id="e34" source="Sopron" target="Gyor">
+<data key="key_weight">77.51</data>
+</edge>
+<edge id="e35" source="Salgotarjan" target="Budapest">
+<data key="key_weight">87.83</data>
+</edge>
+<edge id="e36" source="Vac" target="Budapest">
+<data key="key_weight">32.5</data>
+</edge>
+<edge id="e37" source="Esztergom" target="Budapest">
+<data key="key_weight">40.0</data>
+</edge>
+<edge id="e38" source="Budapest" target="Revkomarom">
+<data key="key_weight">74.0</data>
+</edge>
+<edge id="e39" source="Budapest" target="Piliscsaba">
+<data key="key_weight">20.36</data>
+</edge>
+<edge id="e40" source="Budapest" target="Gyor">
+<data key="key_weight">107.37</data>
+</edge>
+</graph></graphml>

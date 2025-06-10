@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Sydney1"/>
+<node id="Brisbane2"/>
+<node id="Canberra1"/>
+<node id="Sydney2"/>
+<node id="Townsville"/>
+<node id="Cairns"/>
+<node id="Brisbane1"/>
+<node id="Rockhampton"/>
+<node id="Armidale"/>
+<node id="Hobart"/>
+<node id="Canberra2"/>
+<node id="Perth1"/>
+<node id="Perth2"/>
+<node id="Adelaide1"/>
+<node id="Adelaide2"/>
+<node id="Melbourne1"/>
+<node id="Melbourne2"/>
+<node id="Alice Springs"/>
+<node id="Darwin"/>
+<edge id="e1" source="Sydney1" target="Canberra2">
+<data key="key_weight">247.07</data>
+</edge>
+<edge id="e2" source="Sydney1" target="Sydney2">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e3" source="Sydney1" target="Brisbane1">
+<data key="key_weight">732.8</data>
+</edge>
+<edge id="e4" source="Brisbane2" target="Sydney2">
+<data key="key_weight">732.8</data>
+</edge>
+<edge id="e5" source="Brisbane2" target="Brisbane1">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e6" source="Canberra1" target="Canberra2">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e7" source="Canberra1" target="Melbourne1">
+<data key="key_weight">466.5</data>
+</edge>
+<edge id="e8" source="Sydney2" target="Armidale">
+<data key="key_weight">375.06</data>
+</edge>
+<edge id="e9" source="Sydney2" target="Melbourne2">
+<data key="key_weight">713.57</data>
+</edge>
+<edge id="e10" source="Townsville" target="Cairns">
+<data key="key_weight">281.58</data>
+</edge>
+<edge id="e11" source="Townsville" target="Rockhampton">
+<data key="key_weight">598.53</data>
+</edge>
+<edge id="e12" source="Brisbane1" target="Rockhampton">
+<data key="key_weight">520.43</data>
+</edge>
+<edge id="e13" source="Hobart" target="Melbourne2">
+<data key="key_weight">597.97</data>
+</edge>
+<edge id="e14" source="Hobart" target="Melbourne1">
+<data key="key_weight">597.97</data>
+</edge>
+<edge id="e15" source="Perth1" target="Perth2">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e16" source="Perth1" target="Adelaide1">
+<data key="key_weight">2134.65</data>
+</edge>
+<edge id="e17" source="Perth2" target="Adelaide2">
+<data key="key_weight">2134.65</data>
+</edge>
+<edge id="e18" source="Adelaide1" target="Darwin">
+<data key="key_weight">2618.96</data>
+</edge>
+<edge id="e19" source="Adelaide1" target="Adelaide2">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e20" source="Adelaide1" target="Melbourne1">
+<data key="key_weight">653.54</data>
+</edge>
+<edge id="e21" source="Adelaide2" target="Melbourne2">
+<data key="key_weight">653.54</data>
+</edge>
+<edge id="e22" source="Adelaide2" target="Alice Springs">
+<data key="key_weight">1330.04</data>
+</edge>
+<edge id="e23" source="Melbourne1" target="Melbourne2">
+<data key="key_weight">0.0</data>
+</edge>
+<edge id="e24" source="Alice Springs" target="Darwin">
+<data key="key_weight">1290.59</data>
+</edge>
+</graph></graphml>

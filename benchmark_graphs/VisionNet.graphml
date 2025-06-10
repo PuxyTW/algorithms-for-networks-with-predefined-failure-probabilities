@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Glasgow"/>
+<node id="Bainville"/>
+<node id="Glendive"/>
+<node id="Culbertson"/>
+<node id="Lincoln"/>
+<node id="Helena"/>
+<node id="Dillion"/>
+<node id="Missoula"/>
+<node id="Bozeman"/>
+<node id="Sheridan"/>
+<node id="Fort Benton"/>
+<node id="Havre"/>
+<node id="Forsyth"/>
+<node id="Miles City"/>
+<node id="Noxon"/>
+<node id="Kalispell"/>
+<node id="N Cutbank"/>
+<node id="Fairfield"/>
+<node id="Great Falls"/>
+<node id="Moore"/>
+<node id="Big Timber"/>
+<node id="Billings"/>
+<edge id="e1" source="Glasgow" target="Culbertson">
+<data key="key_weight">157.35</data>
+</edge>
+<edge id="e2" source="Glasgow" target="Havre">
+<data key="key_weight">228.54</data>
+</edge>
+<edge id="e3" source="Bainville" target="Culbertson">
+<data key="key_weight">21.84</data>
+</edge>
+<edge id="e4" source="Glendive" target="Miles City">
+<data key="key_weight">115.75</data>
+</edge>
+<edge id="e5" source="Lincoln" target="Fairfield">
+<data key="key_weight">90.47</data>
+</edge>
+<edge id="e6" source="Lincoln" target="Helena">
+<data key="key_weight">63.58</data>
+</edge>
+<edge id="e7" source="Lincoln" target="Missoula">
+<data key="key_weight">100.13</data>
+</edge>
+<edge id="e8" source="Helena" target="Bozeman">
+<data key="key_weight">127.38</data>
+</edge>
+<edge id="e9" source="Helena" target="Dillion">
+<data key="key_weight">160.01</data>
+</edge>
+<edge id="e10" source="Missoula" target="Noxon">
+<data key="key_weight">183.61</data>
+</edge>
+<edge id="e11" source="Sheridan" target="Forsyth">
+<data key="key_weight">321.04</data>
+</edge>
+<edge id="e12" source="Fort Benton" target="Great Falls">
+<data key="key_weight">59.19</data>
+</edge>
+<edge id="e13" source="Fort Benton" target="Havre">
+<data key="key_weight">109.27</data>
+</edge>
+<edge id="e14" source="Fort Benton" target="Moore">
+<data key="key_weight">118.86</data>
+</edge>
+<edge id="e15" source="Havre" target="N Cutbank">
+<data key="key_weight">194.58</data>
+</edge>
+<edge id="e16" source="Forsyth" target="Miles City">
+<data key="key_weight">66.2</data>
+</edge>
+<edge id="e17" source="Forsyth" target="Billings">
+<data key="key_weight">150.68</data>
+</edge>
+<edge id="e18" source="Noxon" target="Kalispell">
+<data key="key_weight">111.34</data>
+</edge>
+<edge id="e19" source="Fairfield" target="Great Falls">
+<data key="key_weight">52.57</data>
+</edge>
+<edge id="e20" source="Moore" target="Big Timber">
+<data key="key_weight">128.4</data>
+</edge>
+<edge id="e21" source="Big Timber" target="Billings">
+<data key="key_weight">112.93</data>
+</edge>
+</graph></graphml>

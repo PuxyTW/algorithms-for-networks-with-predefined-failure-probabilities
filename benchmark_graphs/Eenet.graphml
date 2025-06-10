@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+        http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+        <key id="key_weight" for="edge" attr.name="weight" attr.type="double"/>
+        <graph id="GraphML_Output" edgedefault="directed">
+        <node id="Parnu"/>
+<node id="Haapsald"/>
+<node id="Kuressaare"/>
+<node id="Rakvere"/>
+<node id="Narva"/>
+<node id="Tallinn"/>
+<node id="Paide"/>
+<node id="Turi"/>
+<node id="Viljandi"/>
+<node id="Jogeva"/>
+<node id="Tartu"/>
+<node id="Voru"/>
+<edge id="e1" source="Parnu" target="Tallinn">
+<data key="key_weight">117.83</data>
+</edge>
+<edge id="e2" source="Haapsald" target="Tallinn">
+<data key="key_weight">88.24</data>
+</edge>
+<edge id="e3" source="Kuressaare" target="Tallinn">
+<data key="key_weight">185.04</data>
+</edge>
+<edge id="e4" source="Rakvere" target="Tallinn">
+<data key="key_weight">91.3</data>
+</edge>
+<edge id="e5" source="Narva" target="Tallinn">
+<data key="key_weight">194.64</data>
+</edge>
+<edge id="e6" source="Tallinn" target="Paide">
+<data key="key_weight">76.56</data>
+</edge>
+<edge id="e7" source="Tallinn" target="Viljandi">
+<data key="key_weight">128.66</data>
+</edge>
+<edge id="e8" source="Paide" target="Turi">
+<data key="key_weight">11.17</data>
+</edge>
+<edge id="e9" source="Paide" target="Viljandi">
+<data key="key_weight">58.05</data>
+</edge>
+<edge id="e10" source="Paide" target="Jogeva">
+<data key="key_weight">50.6</data>
+</edge>
+<edge id="e11" source="Jogeva" target="Tartu">
+<data key="key_weight">45.02</data>
+</edge>
+<edge id="e12" source="Tartu" target="Voru">
+<data key="key_weight">63.22</data>
+</edge>
+</graph></graphml>
